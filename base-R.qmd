@@ -1,0 +1,83 @@
+# A field guide to base R {#sec-base-r}
+
+
+## Introduction
+
+To finish off the programming section, we're going to give you a quick tour of the most important base R functions that we don't otherwise discuss in the book. These tools are particularly useful as you do more programming and will help you read code you'll encounter in the wild.
+
+This is a good place to remind you that the tidyverse is not the only way to solve data science problems. We teach the tidyverse in this book because tidyverse packages share a common design philosophy, increasing the consistency across functions, and making each new function or package a little easier to learn and use. It's not possible to use the tidyverse without using base R, so we've actually already taught you a **lot** of base R functions: from `library()` to load packages, to `sum()` and `mean()` for numeric summaries, to the factor, date, and POSIXct data types, and of course all the basic operators like `+`, `-`, `/`, `*`, `|`, `&`, and `!`. What we haven't focused on so far is base R workflows, so we will highlight a few of those in this chapter.
+
+After you read this book, you'll learn other approaches to the same problems using base R, data.table, and other packages. You'll undoubtedly encounter these other approaches when you start reading R code written by others, particularly if you're using StackOverflow. It's 100% okay to write code that uses a mix of approaches, and don't let anyone tell you otherwise!
+
+In this chapter, we'll focus on four big topics: subsetting with `[`, subsetting with `[[` and `$`, the apply family of functions, and `for` loops. To finish off, we'll briefly discuss two essential plotting functions.
+
+### Prerequisites
+
+This package focuses on base R so doesn't have any real prerequisites, but we'll load the tidyverse in order to explain some of the differences.
+
+```{r}
+#| label: setup
+#| message: false
+
+library(tidyverse)
+```
+
+## Selecting multiple elements with `[` {#sec-subset-many}
+
+`[` is used to extract sub-components from vectors and data frames, and is called like `x[i]` or `x[i, j]`. In this section, we'll introduce you to the power of `[`, first showing you how you can use it with vectors, then how the same principles extend in a straightforward way to two-dimensional (2d) structures like data frames. We'll then help you cement that knowledge by showing how various dplyr verbs are special cases of `[`.
+
+### Subsetting vectors
+
+There are five main types of things that you can subset a vector with, i.e., that can be the `i` in `x[i]`:
+
+1.  **A vector of positive integers**. Subsetting with positive integers keeps the elements at those positions:
+
+    ```{r}
+    x <- c("one", "two", "three", "four", "five")
+    x[c(3, 2, 5)]
+    ```
+
+    By repeating a position, you can actually make a longer output than input, making the term "subsetting" a bit of a misnomer.
+
+    ```{r}
+    x[c(1, 1, 5, 5, 5, 2)]
+    ```
+
+2.  **A vector of negative integers**. Negative values drop the elements at the specified positions:
+
+    ```{r}
+    x[c(-1, -3, -5)]
+    ```
+
+3.  **A logical vector**. Subsetting with a logical vector keeps all values corresponding to a `TRUE` value. This is most often useful in conjunction with the comparison functions.
+
+    ```{r}
+    x <- c(10, 3, NA, 5, 8, 1, NA)
+
+    # All non-missing values of x
+    x[!is.na(x)]
+
+    # All even (or missing!) values of x
+    x[x %% 2 == 0]
+    ```
+
+    Unlike `filter()`, `NA` indices will be included in the output as `NA`s.
+
+4.  **A character vector**. If you have a named vector, you can subset it with a character vector:
+
+    ```{r}
+    x <- c(abc = 1, def = 2, xyz = 5)
+    x[c("xyz", "def")]
+    ```
+
+    As with subsetting with positive integers, you can use a character vector to duplicate individual entries.
+
+5.  **Nothing**. The final type of subsetting is nothing, `x[]`, which returns the complete `x`. This is not useful for subsetting vectors, but as we'll see shortly, it is useful when subsetting 2d structures like tibbles.
+
+
+
+## Summary
+
+In this chapter, we've shown you a selection of base R functions useful for subsetting and iteration. Compared to approaches discussed elsewhere in the book, these functions tend to have more of a "vector" flavor than a "data frame" flavor because base R functions tend to take individual vectors, rather than a data frame and some column specification. This often makes life easier for programming and so becomes more important as you write more functions and begin to write your own packages.
+
+This chapter concludes the programming section of the book. You've made a solid start on your journey to becoming not just a data scientist who uses R, but a data scientist who can *program* in R. We hope these chapters have sparked your interest in programming and that you're looking forward to learning more outside of this book.

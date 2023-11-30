@@ -4,13 +4,31 @@ project:
 
 book:
   title: "Ceret_trial"
-  author: "Norah Jones"
+  reader-mode: true
+  page-footer:
+    left: |
+      Everything you need to know to be successful in the Cresko Laboratory
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  
+  cover-image: cover.png
+  author: "William A. Cresko"
   date: "11/30/2023"
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
+    
+    - part: part_one.qmd
+      chapters:
+        - Humbug.qmd
+        - base-R.qmd
+    - part: part_two.qmd
+      chapters:
+        - summary.qmd
+        - references.qmd
+  appendices:
+    - appendix_1.qmd
+    - appendix_2.qmd
 
 bibliography: references.bib
 

@@ -1,0 +1,29 @@
+# Humbug {#sec-humbug}
+
+## Introduction
+
+Working with data provided by R packages is a great way to learn data science tools, but you want to apply what you've learned to your own data at some point.
+In this chapter, you'll learn the basics of reading data files into R.
+
+Specifically, this chapter will focus on reading plain-text rectangular files.
+We'll start with practical advice for handling features like column names, types, and missing data.
+You will then learn about reading data from multiple files at once and writing data from R to a file.
+Finally, you'll learn how to handcraft data frames in R.
+
+### Prerequisites
+
+In this chapter, you'll learn how to load flat files in R with the **readr** package, which is part of the core tidyverse.
+adfaosdoasdfo
+
+
+
+
+This chapter focuses on ggplot2, one of the core packages in the tidyverse.
+To access the datasets, help pages, and functions used in this chapter, load the tidyverse by running:
+
+```{r}
+#| label: setup
+
+library(tidyverse)
+```
+

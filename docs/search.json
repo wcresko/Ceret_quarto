@@ -16,7 +16,7 @@
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "4  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
@@ -26,5 +26,68 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "appendix_1.html",
+    "href": "appendix_1.html",
+    "title": "Ceret_trial",
+    "section": "",
+    "text": "BLAH BLAH"
+  },
+  {
+    "objectID": "appendix_2.html",
+    "href": "appendix_2.html",
+    "title": "Ceret_trial",
+    "section": "",
+    "text": "Hah Hah"
+  },
+  {
+    "objectID": "Humbug.html",
+    "href": "Humbug.html",
+    "title": "2  Data import",
+    "section": "",
+    "text": "3 HUMBUG"
+  },
+  {
+    "objectID": "Humbug.html#introduction",
+    "href": "Humbug.html#introduction",
+    "title": "2  Humbug",
+    "section": "2.1 Introduction",
+    "text": "2.1 Introduction\nWorking with data provided by R packages is a great way to learn data science tools, but you want to apply what you’ve learned to your own data at some point. In this chapter, you’ll learn the basics of reading data files into R.\nSpecifically, this chapter will focus on reading plain-text rectangular files. We’ll start with practical advice for handling features like column names, types, and missing data. You will then learn about reading data from multiple files at once and writing data from R to a file. Finally, you’ll learn how to handcraft data frames in R.\n\n2.1.1 Prerequisites\nIn this chapter, you’ll learn how to load flat files in R with the readr package, which is part of the core tidyverse. adfaosdoasdfo\nThis chapter focuses on ggplot2, one of the core packages in the tidyverse. To access the datasets, help pages, and functions used in this chapter, load the tidyverse by running:\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.4.4     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.0\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
+  },
+  {
+    "objectID": "base-R.html#introduction",
+    "href": "base-R.html#introduction",
+    "title": "3  A field guide to base R",
+    "section": "3.1 Introduction",
+    "text": "3.1 Introduction\nTo finish off the programming section, we’re going to give you a quick tour of the most important base R functions that we don’t otherwise discuss in the book. These tools are particularly useful as you do more programming and will help you read code you’ll encounter in the wild.\nThis is a good place to remind you that the tidyverse is not the only way to solve data science problems. We teach the tidyverse in this book because tidyverse packages share a common design philosophy, increasing the consistency across functions, and making each new function or package a little easier to learn and use. It’s not possible to use the tidyverse without using base R, so we’ve actually already taught you a lot of base R functions: from library() to load packages, to sum() and mean() for numeric summaries, to the factor, date, and POSIXct data types, and of course all the basic operators like +, -, /, *, |, &, and !. What we haven’t focused on so far is base R workflows, so we will highlight a few of those in this chapter.\nAfter you read this book, you’ll learn other approaches to the same problems using base R, data.table, and other packages. You’ll undoubtedly encounter these other approaches when you start reading R code written by others, particularly if you’re using StackOverflow. It’s 100% okay to write code that uses a mix of approaches, and don’t let anyone tell you otherwise!\nIn this chapter, we’ll focus on four big topics: subsetting with [, subsetting with [[ and $, the apply family of functions, and for loops. To finish off, we’ll briefly discuss two essential plotting functions.\n\n3.1.1 Prerequisites\nThis package focuses on base R so doesn’t have any real prerequisites, but we’ll load the tidyverse in order to explain some of the differences.\n\nlibrary(tidyverse)"
+  },
+  {
+    "objectID": "base-R.html#sec-subset-many",
+    "href": "base-R.html#sec-subset-many",
+    "title": "3  A field guide to base R",
+    "section": "3.2 Selecting multiple elements with [",
+    "text": "3.2 Selecting multiple elements with [\n[ is used to extract sub-components from vectors and data frames, and is called like x[i] or x[i, j]. In this section, we’ll introduce you to the power of [, first showing you how you can use it with vectors, then how the same principles extend in a straightforward way to two-dimensional (2d) structures like data frames. We’ll then help you cement that knowledge by showing how various dplyr verbs are special cases of [.\n\n3.2.1 Subsetting vectors\nThere are five main types of things that you can subset a vector with, i.e., that can be the i in x[i]:\n\nA vector of positive integers. Subsetting with positive integers keeps the elements at those positions:\n\nx &lt;- c(\"one\", \"two\", \"three\", \"four\", \"five\")\nx[c(3, 2, 5)]\n\n[1] \"three\" \"two\"   \"five\" \n\n\nBy repeating a position, you can actually make a longer output than input, making the term “subsetting” a bit of a misnomer.\n\nx[c(1, 1, 5, 5, 5, 2)]\n\n[1] \"one\"  \"one\"  \"five\" \"five\" \"five\" \"two\" \n\n\nA vector of negative integers. Negative values drop the elements at the specified positions:\n\nx[c(-1, -3, -5)]\n\n[1] \"two\"  \"four\"\n\n\nA logical vector. Subsetting with a logical vector keeps all values corresponding to a TRUE value. This is most often useful in conjunction with the comparison functions.\n\nx &lt;- c(10, 3, NA, 5, 8, 1, NA)\n\n# All non-missing values of x\nx[!is.na(x)]\n\n[1] 10  3  5  8  1\n\n# All even (or missing!) values of x\nx[x %% 2 == 0]\n\n[1] 10 NA  8 NA\n\n\nUnlike filter(), NA indices will be included in the output as NAs.\nA character vector. If you have a named vector, you can subset it with a character vector:\n\nx &lt;- c(abc = 1, def = 2, xyz = 5)\nx[c(\"xyz\", \"def\")]\n\nxyz def \n  5   2 \n\n\nAs with subsetting with positive integers, you can use a character vector to duplicate individual entries.\nNothing. The final type of subsetting is nothing, x[], which returns the complete x. This is not useful for subsetting vectors, but as we’ll see shortly, it is useful when subsetting 2d structures like tibbles."
+  },
+  {
+    "objectID": "base-R.html#summary",
+    "href": "base-R.html#summary",
+    "title": "3  A field guide to base R",
+    "section": "3.3 Summary",
+    "text": "3.3 Summary\nIn this chapter, we’ve shown you a selection of base R functions useful for subsetting and iteration. Compared to approaches discussed elsewhere in the book, these functions tend to have more of a “vector” flavor than a “data frame” flavor because base R functions tend to take individual vectors, rather than a data frame and some column specification. This often makes life easier for programming and so becomes more important as you write more functions and begin to write your own packages.\nThis chapter concludes the programming section of the book. You’ve made a solid start on your journey to becoming not just a data scientist who uses R, but a data scientist who can program in R. We hope these chapters have sparked your interest in programming and that you’re looking forward to learning more outside of this book."
+  },
+  {
+    "objectID": "part_one.html",
+    "href": "part_one.html",
+    "title": "Ceret_trial",
+    "section": "",
+    "text": "PART ONE"
+  },
+  {
+    "objectID": "part_two.html",
+    "href": "part_two.html",
+    "title": "Ceret_trial",
+    "section": "",
+    "text": "PART TWO"
   }
 ]
