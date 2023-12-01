@@ -1,6 +1,21 @@
-# Preface {.unnumbered}
+# How to use this book {.unnumbered}
 
-This is a Quarto book that contains all of the Procedures and Protocols for the Cresko Laboratory in the Institute of Ecology and Evolution at the University of Oregon
+This is a Quarto book that contains all of the Procedures and Protocols for the Cresko Laboratory in the Institute of Ecology and Evolution at the University of Oregon.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+The book is organized into major section that contain
 
+-   General Laboratory Protocols or the lab
+
+-   More detailed Laboratory Protocols
+
+-   Husbandry protocols for vertebrate animals primarily stickleback and pipefish, but also zebrafish
+
+-   Husbandry protocols for *Daphnia*
+
+-   Bioinformatic protocols including how to get on to **Talapas**
+
+You can scroll through the book using the index on the left, but also use the search field to find all relevant protocols.
+
+There are also useful appendices at the end, as well as a section for the references cited throughout the book.
+
+This book was written in Markdown using Quarto. To learn more about Quarto books visit <https://quarto.org/docs/books>.

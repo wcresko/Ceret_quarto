@@ -11,23 +11,36 @@ book:
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   
-  cover-image: cover.png
+  cover-image: images/CreskoLabLogo.png
   author: "William A. Cresko"
   date: "11/30/2023"
   chapters:
     - index.qmd
+    - intro.qmd
     
-    - part: part_one.qmd
+    - part: Part1_General.qmd
       chapters:
         - Husbandry_20gallon.qmd
-        - Humbug.qmd
-        - base-R.qmd
         
-    - part: part_two.qmd
+    - part: Part2_Molecular.qmd
       chapters:
-        - summary.qmd
-        - references.qmd
+        - Placeholder_Molecular.qmd
         
+    - part: Part3_Vertebrate_Husbandry.qmd
+      chapters:
+        - Husbandry_20gallon.qmd
+        
+    - part: Part4_Daphnia_Husbandry.qmd
+      chapters:
+        - Placeholder_Daphnia.qmd
+   
+    - part: Part5_Bioinformatic.qmd
+      chapters:
+        - base-R.qmd
+
+    - summary.qmd
+    - references.qmd  
+    
   appendices:
     - appendix_1.qmd
     - appendix_2.qmd
