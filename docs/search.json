@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ceret_trial",
+    "title": "Cresko Laboratory Procedures and Protocols",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Preface\nThis is a Quarto book that contains all of the Procedures and Protocols for the Cresko Laboratory in the Institute of Ecology and Evolution at the University of Oregon\nTo learn more about Quarto books visit https://quarto.org/docs/books."
   },
   {
     "objectID": "intro.html",
@@ -30,14 +30,14 @@
   {
     "objectID": "appendix_1.html",
     "href": "appendix_1.html",
-    "title": "Ceret_trial",
+    "title": "Appendix A — Appendix 1",
     "section": "",
-    "text": "BLAH BLAH"
+    "text": "B"
   },
   {
     "objectID": "appendix_2.html",
     "href": "appendix_2.html",
-    "title": "Ceret_trial",
+    "title": "Appendix B — Appendix 2",
     "section": "",
     "text": "Hah Hah"
   },
@@ -89,5 +89,61 @@
     "title": "Ceret_trial",
     "section": "",
     "text": "PART TWO"
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#purpose",
+    "href": "Husbandry_20gallon.html#purpose",
+    "title": "2  20 Gallon Aquarium Cleaning",
+    "section": "2.1 Purpose",
+    "text": "2.1 Purpose\nThis procedure describes how to clean 20 gallon glass tanks."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#procedure-type",
+    "href": "Husbandry_20gallon.html#procedure-type",
+    "title": "2  20 Gallon Aquarium Cleaning",
+    "section": "2.2 Procedure Type:",
+    "text": "2.2 Procedure Type:\nHusbandry"
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#species",
+    "href": "Husbandry_20gallon.html#species",
+    "title": "2  20 Gallon Aquarium Cleaning",
+    "section": "2.3 Species:",
+    "text": "2.3 Species:\n\nThreespine stickleback, (Gasterosteus aculeatus),\ngulf pipefish (Syngnathus scovelli)\n\nTank cleaning is to be done ONLY Monday - Friday ## Materials: - Scrub pad or sponge - Cart (you may or may not want to use) - Old clothes (this can be messy) - Personal protection equipment (Splash proof glasses or face shield)."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#solutions",
+    "href": "Husbandry_20gallon.html#solutions",
+    "title": "1  Twenty Gallon Aquarium Cleaning",
+    "section": "1.3 Solutions:",
+    "text": "1.3 Solutions:\n\nBleach solution: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.\nSodium thiosulfate: Make a 3% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 150g (marked on dispenser) of sodium thiosulfate. Mix\n\nNote: When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#procedure",
+    "href": "Husbandry_20gallon.html#procedure",
+    "title": "1  Twenty Gallon Aquarium Cleaning",
+    "section": "1.4 Procedure:",
+    "text": "1.4 Procedure:\n\nComplete bleaching and cleaning of tank. This needs to be done to each tank every 2 months.\nRemove fish from tank and put them into a clean tank. Tanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced.\nDrain the tank and remove it from the rack. Clean air diffuser as instructed below. Clean the tank and all parts thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside (algae should be left if very gentle rubbing will not remove it. o Squirt about 10 – 20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand using a pad or sponge exposing all inside portions of the tank to bleach. o Rinse the tank thoroughly with hot tap water. Rinse the tank with sodium thiosulfate, and then rinse it again with hot water. Put a few thiosulfate crystals into the tank and leave it. o Reassemble the tank and put it back on the rack. Fill with system water and allow water to recirculate for about 30 minutes before adding fish. Watch fish for 15min to look for any signs of distress. o Using a dry erase marker record date/time on the front of the tank when system water is turned back on.\nInitial check list"
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#air-diffuser-cleaning",
+    "href": "Husbandry_20gallon.html#air-diffuser-cleaning",
+    "title": "1  Twenty Gallon Aquarium Cleaning",
+    "section": "1.5 Air diffuser cleaning:",
+    "text": "1.5 Air diffuser cleaning:\n\nRemove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.\nPlace in 10% bleach solution for 15-30 minutes.\nRinse the corner filters with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.\nRinse with hot water for 5 minutes.\nWhen cleaned air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#introduction",
+    "href": "Husbandry_20gallon.html#introduction",
+    "title": "1  Twenty Gallon Aquarium Cleaning",
+    "section": "1.1 Introduction",
+    "text": "1.1 Introduction\n\n1.1.1 Purpose\nThis procedure describes how to clean 20 gallon glass tanks.\n\n\n1.1.2 Procedure Type:\nHusbandry\n\n\n1.1.3 Species:\n\nThreespine stickleback, (Gasterosteus aculeatus),\ngulf pipefish (Syngnathus scovelli)\n\nTank cleaning is to be done ONLY Monday - Friday"
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#materials",
+    "href": "Husbandry_20gallon.html#materials",
+    "title": "1  Twenty Gallon Aquarium Cleaning",
+    "section": "1.2 Materials:",
+    "text": "1.2 Materials:\n\nScrub pad or sponge\nCart (you may or may not want to use)\nOld clothes (this can be messy)\nPersonal protection equipment (Splash proof glasses or face shield)."
   }
 ]

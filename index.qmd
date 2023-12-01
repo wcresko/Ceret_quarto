@@ -1,9 +1,6 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+This is a Quarto book that contains all of the Procedures and Protocols for the Cresko Laboratory in the Institute of Ecology and Evolution at the University of Oregon
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-```{r}
-1 + 1
-```

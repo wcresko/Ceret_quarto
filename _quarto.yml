@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 book:
-  title: "Ceret_trial"
+  title: "Cresko Laboratory Procedures and Protocols"
   reader-mode: true
   page-footer:
     left: |
-      Everything you need to know to be successful in the Cresko Laboratory
+      The complete compendium of SOPs for the Cresko Laboratory
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   
@@ -16,16 +16,18 @@ book:
   date: "11/30/2023"
   chapters:
     - index.qmd
-    - intro.qmd
     
     - part: part_one.qmd
       chapters:
+        - Husbandry_20gallon.qmd
         - Humbug.qmd
         - base-R.qmd
+        
     - part: part_two.qmd
       chapters:
         - summary.qmd
         - references.qmd
+        
   appendices:
     - appendix_1.qmd
     - appendix_2.qmd
