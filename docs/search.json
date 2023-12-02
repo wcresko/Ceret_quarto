@@ -7,114 +7,142 @@
     "text": "How to use this book\nThis is a Quarto book that contains all of the Procedures and Protocols for the Cresko Laboratory in the Institute of Ecology and Evolution at the University of Oregon.\nThe book is organized into major section that contain\n\nGeneral Laboratory Protocols or the lab\nMore detailed Laboratory Protocols\nHusbandry protocols for vertebrate animals primarily stickleback and pipefish, but also zebrafish\nHusbandry protocols for Daphnia\nBioinformatic protocols including how to get on to Talapas\n\nYou can scroll through the book using the index on the left, but also use the search field to find all relevant protocols.\nThere are also useful appendices at the end, as well as a section for the references cited throughout the book.\nThis book was written in Markdown using Quarto. To learn more about Quarto books visit https://quarto.org/docs/books."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "General_Contact.html",
+    "href": "General_Contact.html",
+    "title": "1  Contact Information",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#introduction",
-    "href": "Husbandry_20gallon.html#introduction",
-    "title": "2  Twenty Gallon Aquarium Cleaning",
-    "section": "2.1 Introduction",
-    "text": "2.1 Introduction\n\nPurpose: This procedure describes how to clean 20 gallon glass tanks.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus),\nGulf pipefish (Syngnathus scovelli)\n\n\n\n\n\n\n\n\nSchedule for Cleaning\n\n\n\nTank cleaning is to be done ONLY Monday - Friday"
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#materials",
-    "href": "Husbandry_20gallon.html#materials",
-    "title": "2  Twenty Gallon Aquarium Cleaning",
-    "section": "2.2 Materials:",
-    "text": "2.2 Materials:\n\nScrub pad or sponge\nCart (you may or may not want to use)\nOld clothes (this can be messy)\nPersonal protection equipment (Splash proof glasses or face shield)."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#solutions",
-    "href": "Husbandry_20gallon.html#solutions",
-    "title": "2  Twenty Gallon Aquarium Cleaning",
-    "section": "2.3 Solutions:",
-    "text": "2.3 Solutions:\n\nBleach solution: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.\nSodium thiosulfate: Make a 3% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 150g (marked on dispenser) of sodium thiosulfate. Mix\n\nNote: When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#procedure",
-    "href": "Husbandry_20gallon.html#procedure",
-    "title": "2  Twenty Gallon Aquarium Cleaning",
-    "section": "2.4 Procedure:",
-    "text": "2.4 Procedure:\n\nComplete bleaching and cleaning of tank. This needs to be done to each tank every 2 months.\nRemove fish from tank and put them into a clean tank. Tanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced.\nDrain the tank and remove it from the rack. Clean air diffuser as instructed below.\n\nClean the tank and all parts thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside (algae should be left if very gentle rubbing will not remove it.\nSquirt about 10 – 20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand using a pad or sponge exposing all inside portions of the tank to bleach.\nRinse the tank thoroughly with hot tap water. Rinse the tank with sodium thiosulfate, and then rinse it again with hot water. Put a few thiosulfate crystals into the tank and leave it.\nReassemble the tank and put it back on the rack. Fill with system water and allow water to recirculate for about 30 minutes before adding fish. Watch fish for 15min to look for any signs of distress.\nUsing a dry erase marker record date/time on the front of the tank when system water is turned back on.\n\nInitial the check list that you have completed the tank cleaning."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#air-difuser-cleaning",
-    "href": "Husbandry_20gallon.html#air-difuser-cleaning",
-    "title": "2  Twenty Gallon Aquarium Cleaning",
-    "section": "2.5 Air difuser cleaning:",
-    "text": "2.5 Air difuser cleaning:\n\nRemove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.\nPlace in 10% bleach solution for 15-30 minutes.\nRinse the corner filters with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.\nRinse with hot water for 5 minutes.\nWhen cleaned air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress."
+    "text": "Col1\nCol2\nCol3\n\n\n\n\nCresko Laboratory\n541-346-5189\nPhone\n\n\nBill Cresko\n541-285-5446\nCell\n\n\nMark Currey\n541-505-0006\nCell\n\n\nSusie Bassham\nxxxx\nCell"
   },
   {
     "objectID": "Molecular_cDNA.html#introduction",
     "href": "Molecular_cDNA.html#introduction",
-    "title": "3  cDNA basic",
-    "section": "3.1 Introduction",
-    "text": "3.1 Introduction\n\nPurpose: This procedure describes how to synthesis cDNA for use with PCR.\nProcedure Type: Molecular\nSpecies: N/A"
+    "title": "2  cDNA basic",
+    "section": "2.1 Introduction",
+    "text": "2.1 Introduction\n\nPurpose: This procedure describes how to synthesis cDNA for use with PCR.\nProcedure Type: Molecular\nSpecies: N/A"
   },
   {
     "objectID": "Molecular_cDNA.html#materials",
     "href": "Molecular_cDNA.html#materials",
-    "title": "3  cDNA basic",
-    "section": "3.2 Materials:",
-    "text": "3.2 Materials:\n\n2 µl Oligo d(T)23 VN (50 µM, NEB; anchored-dT primer)*\nX µl up to 5 µg total RNA\n1 µl 10 mM dNTP\nwater\n2 µl 10x RT buffer (Invitrogen)\n4 µl 25 mM MgCl2\n2 µl 0.1 mM DTT – Invitrogen\n1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)\n1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)"
+    "title": "2  cDNA basic",
+    "section": "2.2 Materials:",
+    "text": "2.2 Materials:\n\n2 µl Oligo d(T)23 VN (50 µM, NEB; anchored-dT primer)*\nX µl up to 5 µg total RNA\n1 µl 10 mM dNTP\nwater\n2 µl 10x RT buffer (Invitrogen)\n4 µl 25 mM MgCl2\n2 µl 0.1 mM DTT – Invitrogen\n1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)\n1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)"
   },
   {
     "objectID": "Molecular_cDNA.html#solutions",
     "href": "Molecular_cDNA.html#solutions",
-    "title": "3  cDNA basic",
-    "section": "3.3 Solutions:",
-    "text": "3.3 Solutions:\nNONE"
+    "title": "2  cDNA basic",
+    "section": "2.3 Solutions:",
+    "text": "2.3 Solutions:\nNONE"
   },
   {
     "objectID": "Molecular_cDNA.html#procedure",
     "href": "Molecular_cDNA.html#procedure",
-    "title": "3  cDNA basic",
-    "section": "3.4 Procedure:",
-    "text": "3.4 Procedure:\n\n3.4.1 First strand synthesis\nCombine:\n\n2 µl Oligo d(T)23 VN (50 µM, NEB; anchored-dT primer)*\nX µl up to 5 µg total RNA\n1 µl 10 mM dNTP mix\nWater (if necessary) to bring total to 10 µl\n\nHeat to 65°C for 5 min., then ice\nCollect contents at bottom of tube by brief centrifugation.\nAdd:\n\n2 µl 10x RT buffer (Invitrogen)\n4 µl 25 mM MgCl2\n2 µl 0.1 mM DTT – Invitrogen\n1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)\n1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)\n\nMix by gentle aspiration\n\n25°C for 5 min.\n\n\n\n3.4.2 Reaction can be scaled up to accommodate more starting RNA\nSynthesis: Incubate at 50°C for 50 min.\nInactivation: 85°C for 5 min. Chill on ice, collect contents to bottom by short spin.\nDestroy RNA template: 1 µl RNase H (2 u/µl), incubate at 37°C for 20 min.\nProceed to PCR. Depending on expression level, may be able to use a dilution of cDNA as template – try 1:50 dilution in EB, use 2 µl as template in a 20 µl reaction. Don’t dilute your entire amount of cDNA, as some products may require a higher concentration of template."
+    "title": "2  cDNA basic",
+    "section": "2.4 Procedure:",
+    "text": "2.4 Procedure:\n\nFirst strand synthesis\nCombine:\n\n2 µl Oligo d(T)23 VN (50 µM, NEB; anchored-dT primer)*\nX µl up to 5 µg total RNA\n1 µl 10 mM dNTP mix\nWater (if necessary) to bring total to 10 µl\n\nHeat to 65°C for 5 min., then ice\nCollect contents at bottom of tube by brief centrifugation.\nAdd:\n\n2 µl 10x RT buffer (Invitrogen)\n4 µl 25 mM MgCl2\n2 µl 0.1 mM DTT – Invitrogen\n1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)\n1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)\n\nMix by gentle aspiration\n\n25°C for 5 min.\n\n\n\nReaction can be scaled up to accommodate more starting RNA\nSynthesis: Incubate at 50°C for 50 min.\nInactivation: 85°C for 5 min. Chill on ice, collect contents to bottom by short spin.\nDestroy RNA template: 1 µl RNase H (2 u/µl), incubate at 37°C for 20 min.\nProceed to PCR. Depending on expression level, may be able to use a dilution of cDNA as template – try 1:50 dilution in EB, use 2 µl as template in a 20 µl reaction. Don’t dilute your entire amount of cDNA, as some products may require a higher concentration of template."
   },
   {
-    "objectID": "Placeholder_Molecular.html#xxx",
-    "href": "Placeholder_Molecular.html#xxx",
-    "title": "4  Placeholder_Molecular",
-    "section": "4.1 xxx",
-    "text": "4.1 xxx\nxxxx\n\n4.1.1 xxx\nxxxxx"
+    "objectID": "Molecular_2xTurbo.html#introduction",
+    "href": "Molecular_2xTurbo.html#introduction",
+    "title": "3  2x Turbo",
+    "section": "3.1 Introduction",
+    "text": "3.1 Introduction\n\nPurpose: This procedure describes how to create 2x Turbo PCR mix.\nProcedure Type: Molecular\nSpecies: N/A"
+  },
+  {
+    "objectID": "Molecular_2xTurbo.html#materials",
+    "href": "Molecular_2xTurbo.html#materials",
+    "title": "3  2x Turbo",
+    "section": "3.2 Materials:",
+    "text": "3.2 Materials:\n\n33,000 µl npH2O\n2000 µl MgSO4 (100mM)\n1600 µl 1M Tris-HCl (pH 8.6)\n800 µl 1M KCl\n800 µl 1M (NH4)2SO4\n800 µl Triton-X 100 (10%)\n400 µl DMSO (100 %)\n120 µl dATP (100mM)\n120 µl dGTP (100mM)\n120 µl dTTP (100mM)\n120 µl dCTP (100mM)\n80 µl 100mg/ml BSA\n\nTotal = 40 ml of buffer"
+  },
+  {
+    "objectID": "Molecular_2xTurbo.html#solutions",
+    "href": "Molecular_2xTurbo.html#solutions",
+    "title": "3  2x Turbo",
+    "section": "3.3 Solutions:",
+    "text": "3.3 Solutions:\nNONE"
+  },
+  {
+    "objectID": "Molecular_2xTurbo.html#procedure",
+    "href": "Molecular_2xTurbo.html#procedure",
+    "title": "3  2x Turbo",
+    "section": "3.4 Procedure:",
+    "text": "3.4 Procedure:\n\nMix above reagents together\nPlace in 1.5 ml ependorph tubes\nStore at -20C"
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#introduction",
+    "href": "Husbandry_20gallon.html#introduction",
+    "title": "5  Twenty Gallon Aquarium Cleaning",
+    "section": "5.1 Introduction",
+    "text": "5.1 Introduction\n\nPurpose: This procedure describes how to clean 20 gallon glass tanks.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus),\nGulf pipefish (Syngnathus scovelli)\n\n\n\n\n\n\n\n\nSchedule for Cleaning\n\n\n\nTank cleaning is to be done ONLY Monday - Friday"
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#materials",
+    "href": "Husbandry_20gallon.html#materials",
+    "title": "5  Twenty Gallon Aquarium Cleaning",
+    "section": "5.2 Materials:",
+    "text": "5.2 Materials:\n\nScrub pad or sponge\nCart (you may or may not want to use)\nOld clothes (this can be messy)\nPersonal protection equipment (Splash proof glasses or face shield)."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#solutions",
+    "href": "Husbandry_20gallon.html#solutions",
+    "title": "5  Twenty Gallon Aquarium Cleaning",
+    "section": "5.3 Solutions:",
+    "text": "5.3 Solutions:\n\nBleach solution: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.\nSodium thiosulfate: Make a 3% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 150g (marked on dispenser) of sodium thiosulfate. Mix\n\nNote: When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#procedure",
+    "href": "Husbandry_20gallon.html#procedure",
+    "title": "5  Twenty Gallon Aquarium Cleaning",
+    "section": "5.4 Procedure:",
+    "text": "5.4 Procedure:\n\nComplete bleaching and cleaning of tank. This needs to be done to each tank every 2 months.\nRemove fish from tank and put them into a clean tank. Tanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced.\nDrain the tank and remove it from the rack. Clean air diffuser as instructed below.\n\nClean the tank and all parts thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside (algae should be left if very gentle rubbing will not remove it.\nSquirt about 10 – 20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand using a pad or sponge exposing all inside portions of the tank to bleach.\nRinse the tank thoroughly with hot tap water. Rinse the tank with sodium thiosulfate, and then rinse it again with hot water. Put a few thiosulfate crystals into the tank and leave it.\nReassemble the tank and put it back on the rack. Fill with system water and allow water to recirculate for about 30 minutes before adding fish. Watch fish for 15min to look for any signs of distress.\nUsing a dry erase marker record date/time on the front of the tank when system water is turned back on.\n\nInitial the check list that you have completed the tank cleaning."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#air-difuser-cleaning",
+    "href": "Husbandry_20gallon.html#air-difuser-cleaning",
+    "title": "5  Twenty Gallon Aquarium Cleaning",
+    "section": "5.5 Air difuser cleaning:",
+    "text": "5.5 Air difuser cleaning:\n\nRemove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.\nPlace in 10% bleach solution for 15-30 minutes.\nRinse the corner filters with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.\nRinse with hot water for 5 minutes.\nWhen cleaned air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress."
   },
   {
     "objectID": "Placeholder_Daphnia.html#xxx",
     "href": "Placeholder_Daphnia.html#xxx",
-    "title": "6  Placeholder_Daphnia",
-    "section": "6.1 xxx",
-    "text": "6.1 xxx\nxxxx\n\n6.1.1 xxx\nxxxxx"
+    "title": "5  Placeholder_Daphnia",
+    "section": "5.1 xxx",
+    "text": "5.1 xxx\nxxxx\n\nxxx\nxxxxx"
+  },
+  {
+    "objectID": "Part5_Bioinformatic.html",
+    "href": "Part5_Bioinformatic.html",
+    "title": "Bioinformatic",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "base-R.html#introduction",
     "href": "base-R.html#introduction",
-    "title": "7  A field guide to base R",
-    "section": "7.1 Introduction",
-    "text": "7.1 Introduction\nTo finish off the programming section, we’re going to give you a quick tour of the most important base R functions that we don’t otherwise discuss in the book. These tools are particularly useful as you do more programming and will help you read code you’ll encounter in the wild.\nThis is a good place to remind you that the tidyverse is not the only way to solve data science problems. We teach the tidyverse in this book because tidyverse packages share a common design philosophy, increasing the consistency across functions, and making each new function or package a little easier to learn and use. It’s not possible to use the tidyverse without using base R, so we’ve actually already taught you a lot of base R functions: from library() to load packages, to sum() and mean() for numeric summaries, to the factor, date, and POSIXct data types, and of course all the basic operators like +, -, /, *, |, &, and !. What we haven’t focused on so far is base R workflows, so we will highlight a few of those in this chapter.\nAfter you read this book, you’ll learn other approaches to the same problems using base R, data.table, and other packages. You’ll undoubtedly encounter these other approaches when you start reading R code written by others, particularly if you’re using StackOverflow. It’s 100% okay to write code that uses a mix of approaches, and don’t let anyone tell you otherwise!\nIn this chapter, we’ll focus on four big topics: subsetting with [, subsetting with [[ and $, the apply family of functions, and for loops. To finish off, we’ll briefly discuss two essential plotting functions.\n\n7.1.1 Prerequisites\nThis package focuses on base R so doesn’t have any real prerequisites, but we’ll load the tidyverse in order to explain some of the differences.\n\nlibrary(tidyverse)"
+    "title": "6  A field guide to base R",
+    "section": "6.1 Introduction",
+    "text": "6.1 Introduction\nTo finish off the programming section, we’re going to give you a quick tour of the most important base R functions that we don’t otherwise discuss in the book. These tools are particularly useful as you do more programming and will help you read code you’ll encounter in the wild.\nThis is a good place to remind you that the tidyverse is not the only way to solve data science problems. We teach the tidyverse in this book because tidyverse packages share a common design philosophy, increasing the consistency across functions, and making each new function or package a little easier to learn and use. It’s not possible to use the tidyverse without using base R, so we’ve actually already taught you a lot of base R functions: from library() to load packages, to sum() and mean() for numeric summaries, to the factor, date, and POSIXct data types, and of course all the basic operators like +, -, /, *, |, &, and !. What we haven’t focused on so far is base R workflows, so we will highlight a few of those in this chapter.\nAfter you read this book, you’ll learn other approaches to the same problems using base R, data.table, and other packages. You’ll undoubtedly encounter these other approaches when you start reading R code written by others, particularly if you’re using StackOverflow. It’s 100% okay to write code that uses a mix of approaches, and don’t let anyone tell you otherwise!\nIn this chapter, we’ll focus on four big topics: subsetting with [, subsetting with [[ and $, the apply family of functions, and for loops. To finish off, we’ll briefly discuss two essential plotting functions.\n\nPrerequisites\nThis package focuses on base R so doesn’t have any real prerequisites, but we’ll load the tidyverse in order to explain some of the differences.\n\nlibrary(tidyverse)"
   },
   {
     "objectID": "base-R.html#sec-subset-many",
     "href": "base-R.html#sec-subset-many",
-    "title": "7  A field guide to base R",
-    "section": "7.2 Selecting multiple elements with [",
-    "text": "7.2 Selecting multiple elements with [\n[ is used to extract sub-components from vectors and data frames, and is called like x[i] or x[i, j]. In this section, we’ll introduce you to the power of [, first showing you how you can use it with vectors, then how the same principles extend in a straightforward way to two-dimensional (2d) structures like data frames. We’ll then help you cement that knowledge by showing how various dplyr verbs are special cases of [.\n\n7.2.1 Subsetting vectors\nThere are five main types of things that you can subset a vector with, i.e., that can be the i in x[i]:\n\nA vector of positive integers. Subsetting with positive integers keeps the elements at those positions:\n\nx &lt;- c(\"one\", \"two\", \"three\", \"four\", \"five\")\nx[c(3, 2, 5)]\n\n[1] \"three\" \"two\"   \"five\" \n\n\nBy repeating a position, you can actually make a longer output than input, making the term “subsetting” a bit of a misnomer.\n\nx[c(1, 1, 5, 5, 5, 2)]\n\n[1] \"one\"  \"one\"  \"five\" \"five\" \"five\" \"two\" \n\n\nA vector of negative integers. Negative values drop the elements at the specified positions:\n\nx[c(-1, -3, -5)]\n\n[1] \"two\"  \"four\"\n\n\nA logical vector. Subsetting with a logical vector keeps all values corresponding to a TRUE value. This is most often useful in conjunction with the comparison functions.\n\nx &lt;- c(10, 3, NA, 5, 8, 1, NA)\n\n# All non-missing values of x\nx[!is.na(x)]\n\n[1] 10  3  5  8  1\n\n# All even (or missing!) values of x\nx[x %% 2 == 0]\n\n[1] 10 NA  8 NA\n\n\nUnlike filter(), NA indices will be included in the output as NAs.\nA character vector. If you have a named vector, you can subset it with a character vector:\n\nx &lt;- c(abc = 1, def = 2, xyz = 5)\nx[c(\"xyz\", \"def\")]\n\nxyz def \n  5   2 \n\n\nAs with subsetting with positive integers, you can use a character vector to duplicate individual entries.\nNothing. The final type of subsetting is nothing, x[], which returns the complete x. This is not useful for subsetting vectors, but as we’ll see shortly, it is useful when subsetting 2d structures like tibbles."
+    "title": "6  A field guide to base R",
+    "section": "6.2 Selecting multiple elements with [",
+    "text": "6.2 Selecting multiple elements with [\n[ is used to extract sub-components from vectors and data frames, and is called like x[i] or x[i, j]. In this section, we’ll introduce you to the power of [, first showing you how you can use it with vectors, then how the same principles extend in a straightforward way to two-dimensional (2d) structures like data frames. We’ll then help you cement that knowledge by showing how various dplyr verbs are special cases of [.\n\nSubsetting vectors\nThere are five main types of things that you can subset a vector with, i.e., that can be the i in x[i]:\n\nA vector of positive integers. Subsetting with positive integers keeps the elements at those positions:\n\nx &lt;- c(\"one\", \"two\", \"three\", \"four\", \"five\")\nx[c(3, 2, 5)]\n\n[1] \"three\" \"two\"   \"five\" \n\n\nBy repeating a position, you can actually make a longer output than input, making the term “subsetting” a bit of a misnomer.\n\nx[c(1, 1, 5, 5, 5, 2)]\n\n[1] \"one\"  \"one\"  \"five\" \"five\" \"five\" \"two\" \n\n\nA vector of negative integers. Negative values drop the elements at the specified positions:\n\nx[c(-1, -3, -5)]\n\n[1] \"two\"  \"four\"\n\n\nA logical vector. Subsetting with a logical vector keeps all values corresponding to a TRUE value. This is most often useful in conjunction with the comparison functions.\n\nx &lt;- c(10, 3, NA, 5, 8, 1, NA)\n\n# All non-missing values of x\nx[!is.na(x)]\n\n[1] 10  3  5  8  1\n\n# All even (or missing!) values of x\nx[x %% 2 == 0]\n\n[1] 10 NA  8 NA\n\n\nUnlike filter(), NA indices will be included in the output as NAs.\nA character vector. If you have a named vector, you can subset it with a character vector:\n\nx &lt;- c(abc = 1, def = 2, xyz = 5)\nx[c(\"xyz\", \"def\")]\n\nxyz def \n  5   2 \n\n\nAs with subsetting with positive integers, you can use a character vector to duplicate individual entries.\nNothing. The final type of subsetting is nothing, x[], which returns the complete x. This is not useful for subsetting vectors, but as we’ll see shortly, it is useful when subsetting 2d structures like tibbles."
   },
   {
     "objectID": "base-R.html#summary",
     "href": "base-R.html#summary",
-    "title": "7  A field guide to base R",
-    "section": "7.3 Summary",
-    "text": "7.3 Summary\nIn this chapter, we’ve shown you a selection of base R functions useful for subsetting and iteration. Compared to approaches discussed elsewhere in the book, these functions tend to have more of a “vector” flavor than a “data frame” flavor because base R functions tend to take individual vectors, rather than a data frame and some column specification. This often makes life easier for programming and so becomes more important as you write more functions and begin to write your own packages.\nThis chapter concludes the programming section of the book. You’ve made a solid start on your journey to becoming not just a data scientist who uses R, but a data scientist who can program in R. We hope these chapters have sparked your interest in programming and that you’re looking forward to learning more outside of this book."
+    "title": "6  A field guide to base R",
+    "section": "6.3 Summary",
+    "text": "6.3 Summary\nIn this chapter, we’ve shown you a selection of base R functions useful for subsetting and iteration. Compared to approaches discussed elsewhere in the book, these functions tend to have more of a “vector” flavor than a “data frame” flavor because base R functions tend to take individual vectors, rather than a data frame and some column specification. This often makes life easier for programming and so becomes more important as you write more functions and begin to write your own packages.\nThis chapter concludes the programming section of the book. You’ve made a solid start on your journey to becoming not just a data scientist who uses R, but a data scientist who can program in R. We hope these chapters have sparked your interest in programming and that you’re looking forward to learning more outside of this book."
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "8  Summary",
+    "title": "7  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
@@ -128,9 +156,9 @@
   {
     "objectID": "appendix_1.html",
     "href": "appendix_1.html",
-    "title": "Appendix A — Appendix 1",
+    "title": "Appendix A — Appendix 1 - Sbf1 Barcodes in 96 Well Plate",
     "section": "",
-    "text": "B"
+    "text": "well\nBarcode\nName (top)\nFinal top sequence\nwell\nName (bottom)\nFinal bottom sequence\n\n\n\n\nA1\nAAACGG\nSbfI-AAACGG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAAACGGTGC*A\nA1\nSbfI-AAACGG-bot\n/5Phos/CCGTTTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA2\nAACGTT\nSbfI-AACGTT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAACGTTTGC*A\nA2\nSbfI-AACGTT-bot\n/5Phos/AACGTTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA3\nAACTGA\nSbfI-AACTGA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAACTGATGC*A\nA3\nSbfI-AACTGA-bot\n/5Phos/TCAGTTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA4\nAAGACG\nSbfI-AAGACG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAAGACGTGC*A\nA4\nSbfI-AAGACG-bot\n/5Phos/CGTCTTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA5\nAAGCTA\nSbfI-AAGCTA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAAGCTATGC*A\nA5\nSbfI-AAGCTA-bot\n/5Phos/TAGCTTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA6\nAATATC\nSbfI-AATATC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAATATCTGC*A\nA6\nSbfI-AATATC-bot\n/5Phos/GATATTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA7\nAATGAG\nSbfI-AATGAG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAATGAGTGC*A\nA7\nSbfI-AATGAG-bot\n/5Phos/CTCATTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA8\nACAAGA\nSbfI-ACAAGA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTACAAGATGC*A\nA8\nSbfI-ACAAGA-bot\n/5Phos/TCTTGTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA9\nACAGCG\nSbfI-ACAGCG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTACAGCGTGC*A\nA9\nSbfI-ACAGCG-bot\n/5Phos/CGCTGTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA10\nACATAC\nSbfI-ACATAC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTACATACTGC*A\nA10\nSbfI-ACATAC-bot\n/5Phos/GTATGTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA11\nACCATG\nSbfI-ACCATG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTACCATGTGC*A\nA11\nSbfI-ACCATG-bot\n/5Phos/CATGGTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nA12\nACCCCC\nSbfI-ACCCCC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTACCCCCTGC*A\nA12\nSbfI-ACCCCC-bot\n/5Phos/GGGGGTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB1\nACTCTT\nSbfI-ACTCTT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTACTCTTTGC*A\nB1\nSbfI-ACTCTT-bot\n/5Phos/AAGAGTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB2\nACTGGC\nSbfI-ACTGGC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTACTGGCTGC*A\nB2\nSbfI-ACTGGC-bot\n/5Phos/GCCAGTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB3\nAGCCAT\nSbfI-AGCCAT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAGCCATTGC*A\nB3\nSbfI-AGCCAT-bot\n/5Phos/ATGGCTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB4\nAGCGCA\nSbfI-AGCGCA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAGCGCATGC*A\nB4\nSbfI-AGCGCA-bot\n/5Phos/TGCGCTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB5\nAGGGTC\nSbfI-AGGGTC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAGGGTCTGC*A\nB5\nSbfI-AGGGTC-bot\n/5Phos/GACCCTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB6\nAGGTGT\nSbfI-AGGTGT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAGGTGTTGC*A\nB6\nSbfI-AGGTGT-bot\n/5Phos/ACACCTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB7\nAGTAGG\nSbfI-AGTAGG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAGTAGGTGC*A\nB7\nSbfI-AGTAGG-bot\n/5Phos/CCTACTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB8\nAGTTAA\nSbfI-AGTTAA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTAGTTAATGC*A\nB8\nSbfI-AGTTAA-bot\n/5Phos/TTAACTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB9\nATAGTA\nSbfI-ATAGTA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTATAGTATGC*A\nB9\nSbfI-ATAGTA-bot\n/5Phos/TACTATAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB10\nATCAAA\nSbfI-ATCAAA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTATCAAATGC*A\nB10\nSbfI-ATCAAA-bot\n/5Phos/TTTGATAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB11\nATGCAC\nSbfI-ATGCAC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTATGCACTGC*A\nB11\nSbfI-ATGCAC-bot\n/5Phos/GTGCATAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nB12\nATGTTG\nSbfI-ATGTTG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTATGTTGTGC*A\nB12\nSbfI-ATGTTG-bot\n/5Phos/CAACATAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC1\nATTCCG\nSbfI-ATTCCG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTATTCCGTGC*A\nC1\nSbfI-ATTCCG-bot\n/5Phos/CGGAATAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC2\nCAAAAA\nSbfI-CAAAAA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCAAAAATGC*A\nC2\nSbfI-CAAAAA-bot\n/5Phos/TTTTTGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC3\nCAATCG\nSbfI-CAATCG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCAATCGTGC*A\nC3\nSbfI-CAATCG-bot\n/5Phos/CGATTGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC4\nCACCTC\nSbfI-CACCTC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCACCTCTGC*A\nC4\nSbfI-CACCTC-bot\n/5Phos/GAGGTGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC5\nCAGGCA\nSbfI-CAGGCA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCAGGCATGC*A\nC5\nSbfI-CAGGCA-bot\n/5Phos/TGCCTGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC6\nCATACT\nSbfI-CATACT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCATACTTGC*A\nC6\nSbfI-CATACT-bot\n/5Phos/AGTATGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC7\nCCATTT\nSbfI-CCATTT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCCATTTTGC*A\nC7\nSbfI-CCATTT-bot\n/5Phos/AAATGGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC8\nCCCGGT\nSbfI-CCCGGT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCCCGGTTGC*A\nC8\nSbfI-CCCGGT-bot\n/5Phos/ACCGGGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC9\nCCCTAA\nSbfI-CCCTAA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCCCTAATGC*A\nC9\nSbfI-CCCTAA-bot\n/5Phos/TTAGGGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC10\nCCGAGG\nSbfI-CCGAGG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCCGAGGTGC*A\nC10\nSbfI-CCGAGG-bot\n/5Phos/CCTCGGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC11\nCCGCAT\nSbfI-CCGCAT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCCGCATTGC*A\nC11\nSbfI-CCGCAT-bot\n/5Phos/ATGCGGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nC12\nCCTAAC\nSbfI-CCTAAC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCCTAACTGC*A\nC12\nSbfI-CCTAAC-bot\n/5Phos/GTTAGGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD1\nCGAGGC\nSbfI-CGAGGC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCGAGGCTGC*A\nD1\nSbfI-CGAGGC-bot\n/5Phos/GCCTCGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD2\nCGCAGA\nSbfI-CGCAGA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCGCAGATGC*A\nD2\nSbfI-CGCAGA-bot\n/5Phos/TCTGCGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD3\nCGCGTG\nSbfI-CGCGTG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCGCGTGTGC*A\nD3\nSbfI-CGCGTG-bot\n/5Phos/CACGCGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD4\nCGGTCC\nSbfI-CGGTCC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCGGTCCTGC*A\nD4\nSbfI-CGGTCC-bot\n/5Phos/GGACCGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD5\nCGTCTA\nSbfI-CGTCTA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCGTCTATGC*A\nD5\nSbfI-CGTCTA-bot\n/5Phos/TAGACGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD6\nCGTGAT\nSbfI-CGTGAT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCGTGATTGC*A\nD6\nSbfI-CGTGAT-bot\n/5Phos/ATCACGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD7\nCTACAG\nSbfI-CTACAG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCTACAGTGC*A\nD7\nSbfI-CTACAG-bot\n/5Phos/CTGTAGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD8\nCTCGCC\nSbfI-CTCGCC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCTCGCCTGC*A\nD8\nSbfI-CTCGCC-bot\n/5Phos/GGCGAGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD9\nCTGCGA\nSbfI-CTGCGA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCTGCGATGC*A\nD9\nSbfI-CTGCGA-bot\n/5Phos/TCGCAGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD10\nCTGGTT\nSbfI-CTGGTT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCTGGTTTGC*A\nD10\nSbfI-CTGGTT-bot\n/5Phos/AACCAGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD11\nCTTATG\nSbfI-CTTATG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCTTATGTGC*A\nD11\nSbfI-CTTATG-bot\n/5Phos/CATAAGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nD12\nCTTTGC\nSbfI-CTTTGC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTCTTTGCTGC*A\nD12\nSbfI-CTTTGC-bot\n/5Phos/GCAAAGAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE1\nGAAATG\nSbfI-GAAATG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGAAATGTGC*A\nE1\nSbfI-GAAATG-bot\n/5Phos/CATTTCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE2\nGAACCA\nSbfI-GAACCA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGAACCATGC*A\nE2\nSbfI-GAACCA-bot\n/5Phos/TGGTTCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE3\nGACGAC\nSbfI-GACGAC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGACGACTGC*A\nE3\nSbfI-GACGAC-bot\n/5Phos/GTCGTCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE4\nGACTCT\nSbfI-GACTCT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGACTCTTGC*A\nE4\nSbfI-GACTCT-bot\n/5Phos/AGAGTCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE5\nGAGAGA\nSbfI-GAGAGA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGAGAGATGC*A\nE5\nSbfI-GAGAGA-bot\n/5Phos/TCTCTCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE6\nGATCGT\nSbfI-GATCGT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGATCGTTGC*A\nE6\nSbfI-GATCGT-bot\n/5Phos/ACGATCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE7\nGCAGAT\nSbfI-GCAGAT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGCAGATTGC*A\nE7\nSbfI-GCAGAT-bot\n/5Phos/ATCTGCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE8\nGCATGG\nSbfI-GCATGG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGCATGGTGC*A\nE8\nSbfI-GCATGG-bot\n/5Phos/CCATGCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE9\nGCCGTA\nSbfI-GCCGTA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGCCGTATGC*A\nE9\nSbfI-GCCGTA-bot\n/5Phos/TACGGCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE10\nGCGACC\nSbfI-GCGACC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGCGACCTGC*A\nE10\nSbfI-GCGACC-bot\n/5Phos/GGTCGCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE11\nGCGCTG\nSbfI-GCGCTG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGCGCTGTGC*A\nE11\nSbfI-GCGCTG-bot\n/5Phos/CAGCGCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nE12\nGCTCAA\nSbfI-GCTCAA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGCTCAATGC*A\nE12\nSbfI-GCTCAA-bot\n/5Phos/TTGAGCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF1\nGGACTT\nSbfI-GGACTT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGGACTTTGC*A\nF1\nSbfI-GGACTT-bot\n/5Phos/AAGTCCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF2\nGGCAAG\nSbfI-GGCAAG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGGCAAGTGC*A\nF2\nSbfI-GGCAAG-bot\n/5Phos/CTTGCCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF3\nGGGCGC\nSbfI-GGGCGC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGGGCGCTGC*A\nF3\nSbfI-GGGCGC-bot\n/5Phos/GCGCCCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF4\nGGGGCG\nSbfI-GGGGCG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGGGGCGTGC*A\nF4\nSbfI-GGGGCG-bot\n/5Phos/CGCCCCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF5\nGGTACA\nSbfI-GGTACA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGGTACATGC*A\nF5\nSbfI-GGTACA-bot\n/5Phos/TGTACCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF6\nGGTTTG\nSbfI-GGTTTG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGGTTTGTGC*A\nF6\nSbfI-GGTTTG-bot\n/5Phos/CAAACCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF7\nGTAAGT\nSbfI-GTAAGT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGTAAGTTGC*A\nF7\nSbfI-GTAAGT-bot\n/5Phos/ACTTACAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF8\nGTATCC\nSbfI-GTATCC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGTATCCTGC*A\nF8\nSbfI-GTATCC-bot\n/5Phos/GGATACAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF9\nGTCATC\nSbfI-GTCATC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGTCATCTGC*A\nF9\nSbfI-GTCATC-bot\n/5Phos/GATGACAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF10\nGTGCCT\nSbfI-GTGCCT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGTGCCTTGC*A\nF10\nSbfI-GTGCCT-bot\n/5Phos/AGGCACAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF11\nGTGTAA\nSbfI-GTGTAA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGTGTAATGC*A\nF11\nSbfI-GTGTAA-bot\n/5Phos/TTACACAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nF12\nGTTGGA\nSbfI-GTTGGA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTGTTGGATGC*A\nF12\nSbfI-GTTGGA-bot\n/5Phos/TCCAACAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG1\nTAAGCT\nSbfI-TAAGCT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTAAGCTTGC*A\nG1\nSbfI-TAAGCT-bot\n/5Phos/AGCTTAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG2\nTAATTC\nSbfI-TAATTC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTAATTCTGC*A\nG2\nSbfI-TAATTC-bot\n/5Phos/GAATTAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG3\nTACACA\nSbfI-TACACA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTACACATGC*A\nG3\nSbfI-TACACA-bot\n/5Phos/TGTGTAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG4\nTACGGG\nSbfI-TACGGG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTACGGGTGC*A\nG4\nSbfI-TACGGG-bot\n/5Phos/CCCGTAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG5\nTAGTAT\nSbfI-TAGTAT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTAGTATTGC*A\nG5\nSbfI-TAGTAT-bot\n/5Phos/ATACTAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG6\nTATCAC\nSbfI-TATCAC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTATCACTGC*A\nG6\nSbfI-TATCAC-bot\n/5Phos/GTGATAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG7\nTCAAAG\nSbfI-TCAAAG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTCAAAGTGC*A\nG7\nSbfI-TCAAAG-bot\n/5Phos/CTTTGAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG8\nTCCTGC\nSbfI-TCCTGC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTCCTGCTGC*A\nG8\nSbfI-TCCTGC-bot\n/5Phos/GCAGGAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG9\nTCGATT\nSbfI-TCGATT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTCGATTTGC*A\nG9\nSbfI-TCGATT-bot\n/5Phos/AATCGAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG10\nTCGCCA\nSbfI-TCGCCA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTCGCCATGC*A\nG10\nSbfI-TCGCCA-bot\n/5Phos/TGGCGAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG11\nTCGGAC\nSbfI-TCGGAC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTCGGACTGC*A\nG11\nSbfI-TCGGAC-bot\n/5Phos/GTCCGAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nG12\nTCTCGG\nSbfI-TCTCGG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTCTCGGTGC*A\nG12\nSbfI-TCTCGG-bot\n/5Phos/CCGAGAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH1\nTCTTCT\nSbfI-TCTTCT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTCTTCTTGC*A\nH1\nSbfI-TCTTCT-bot\n/5Phos/AGAAGAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH2\nTGAACC\nSbfI-TGAACC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTGAACCTGC*A\nH2\nSbfI-TGAACC-bot\n/5Phos/GGTTCAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH3\nTGACAA\nSbfI-TGACAA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTGACAATGC*A\nH3\nSbfI-TGACAA-bot\n/5Phos/TTGTCAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH4\nTGCCCG\nSbfI-TGCCCG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTGCCCGTGC*A\nH4\nSbfI-TGCCCG-bot\n/5Phos/CGGGCAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH5\nTGCTTA\nSbfI-TGCTTA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTGCTTATGC*A\nH5\nSbfI-TGCTTA-bot\n/5Phos/TAAGCAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH6\nTGGGGA\nSbfI-TGGGGA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTGGGGATGC*A\nH6\nSbfI-TGGGGA-bot\n/5Phos/TCCCCAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH7\nTTATGA\nSbfI-TTATGA-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTTATGATGC*A\nH7\nSbfI-TTATGA-bot\n/5Phos/TCATAAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH8\nTTCCGT\nSbfI-TTCCGT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTTCCGTTGC*A\nH8\nSbfI-TTCCGT-bot\n/5Phos/ACGGAAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH9\nTTCTAG\nSbfI-TTCTAG-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTTCTAGTGC*A\nH9\nSbfI-TTCTAG-bot\n/5Phos/CTAGAAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH10\nTTGAGC\nSbfI-TTGAGC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTTGAGCTGC*A\nH10\nSbfI-TTGAGC-bot\n/5Phos/GCTCAAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH11\nTTTAAT\nSbfI-TTTAAT-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTTTAATTGC*A\nH11\nSbfI-TTTAAT-bot\n/5Phos/ATTAAAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT\n\n\nH12\nTTTGTC\nSbfI-TTTGTC-top\nACACTCTTTCCCTACACGACGCTCTTCCGATCTTTTGTCTGC*A\nH12\nSbfI-TTTGTC-bot\n/5Phos/GACAAAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT"
   },
   {
     "objectID": "appendix_2.html",
@@ -138,5 +166,33 @@
     "title": "Appendix B — Appendix 2",
     "section": "",
     "text": "Hah Hah"
+  },
+  {
+    "objectID": "Molecular_8%Para.html#introduction",
+    "href": "Molecular_8%Para.html#introduction",
+    "title": "4  8% Paraformaldehyde",
+    "section": "4.1 Introduction",
+    "text": "4.1 Introduction\n\nPurpose: This procedure describes how to make 8% paraformaldehyde. This protocol is the one I have used and makes use of pH to get the PFA into solution relatively quickly - then you readjust the pH. It’s for 8% - then you can add 1:1 2x PBS.\nProcedure Type: Molecular\nSpecies: N/A\n\n:::"
+  },
+  {
+    "objectID": "Molecular_8%Para.html#materials",
+    "href": "Molecular_8%Para.html#materials",
+    "title": "4  8% Paraformaldehyde",
+    "section": "4.2 Materials:",
+    "text": "4.2 Materials:\n\nxxx\n\nTotal = 40 ml of buffer"
+  },
+  {
+    "objectID": "Molecular_8%Para.html#solutions",
+    "href": "Molecular_8%Para.html#solutions",
+    "title": "4  8% Paraformaldehyde",
+    "section": "4.3 Solutions:",
+    "text": "4.3 Solutions:\nNONE"
+  },
+  {
+    "objectID": "Molecular_8%Para.html#procedure",
+    "href": "Molecular_8%Para.html#procedure",
+    "title": "4  8% Paraformaldehyde",
+    "section": "4.4 Procedure:",
+    "text": "4.4 Procedure:\n\n\n\n\n\n\nHUMAN HEALTH WARNGING\n\n\n\nParaformaldehyde can be hazardous to your health - make sure you prepare in the fume hood.\n\n\n\nAdd 40 g Paraformaldehyde to 450 ml distilled water (or scale for desired final volume).\nAdd 1 ul of 10 N NaOH per ml of water (i.e. 500 ul for 500 ml).\nApply medium heat while stirring at medium speed to dissolve - approx 15-20 min.\nSolution should not go above 60º C.\nEventually, granules will fully dissolve and the solution will become translucent.\n\n\n\n\n\n\n\nDO NOT LET THE SOLUTION STIR BEYOND THIS POINT\n\n\n\nIt will form a fuzzy precipitate that reduces the solution strength after filtering.\n\n\n\nOnce the granules have dissolved and the solution clears, turn off the heat and equilibrate to pH 7.4 with approx 1.5 ml of 20% HCl (or scale, depending on target volume).\nBring volume to 500 ml (or scaled volume) with distilled water.\nFilter while still warm to 0.45 um (or 0.2 um). Aliquot and store at -20º C."
   }
 ]

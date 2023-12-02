@@ -1,0 +1,46 @@
+# 8% Paraformaldehyde {#sec-molec-2xTurbo}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to make 8% paraformaldehyde. This protocol is the one I have used and makes use of pH to get the PFA into solution relatively quickly - then you readjust the pH. It's for 8% - then you can add 1:1 2x PBS.
+-   **Procedure Type**: Molecular
+-   **Species**: N/A
+
+:::
+
+## Materials:
+
+-   xxx
+
+Total = 40 ml of buffer
+
+## Solutions:
+
+NONE
+
+## Procedure:
+
+::: {.callout-warning title="HUMAN HEALTH WARNGING"}
+Paraformaldehyde can be hazardous to your health - make sure you prepare in the fume hood.
+:::
+
+- Add 40 g Paraformaldehyde to 450 ml distilled water (or scale for desired final volume).
+
+- Add 1 ul of 10 N NaOH per ml of water (i.e. 500 ul for 500 ml).
+
+- Apply medium heat while stirring at medium speed to dissolve - approx 15-20 min.  
+
+- Solution should not go above 60º C.  
+
+- Eventually, granules will fully dissolve and the solution will become translucent.  
+
+::: {.callout-note title="DO NOT LET THE SOLUTION STIR BEYOND THIS POINT"}
+It will form a fuzzy precipitate that reduces the solution strength after filtering.
+:::
+
+- Once the granules have dissolved and the solution clears, turn off the heat and equilibrate to pH 7.4 with approx 1.5 ml of 20% HCl (or scale, depending on target volume).  
+
+- Bring volume to 500 ml (or scaled volume) with distilled water.  
+
+- Filter while still warm to 0.45 um (or 0.2 um).  Aliquot and store at -20º C.  
+
