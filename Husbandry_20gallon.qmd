@@ -8,7 +8,9 @@
     -   Threespine stickleback, (*Gasterosteus aculeatus*),
     -   Gulf pipefish (*Syngnathus scovelli*)
 
-***Tank cleaning is to be done ONLY Monday - Friday***
+::: {.callout-warning title="Schedule for Cleaning"}
+Tank cleaning is to be done ONLY Monday - Friday
+:::
 
 ## Materials:
 

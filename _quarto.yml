@@ -5,6 +5,8 @@ project:
 book:
   title: "Cresko Laboratory Procedures and Protocols"
   reader-mode: true
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
   page-footer:
     left: |
       The complete compendium of SOPs for the Cresko Laboratory
@@ -14,6 +16,7 @@ book:
   cover-image: images/CreskoLabLogo.png
   author: "William A. Cresko"
   date: "11/30/2023"
+  
   chapters:
     - index.qmd
     - intro.qmd
@@ -24,6 +27,7 @@ book:
         
     - part: Part2_Molecular.qmd
       chapters:
+        - Molecular_cDNA.qmd
         - Placeholder_Molecular.qmd
         
     - part: Part3_Vertebrate_Husbandry.qmd
@@ -52,6 +56,15 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
+  epub:
+    cover-image: images/CreskoLabLogo.png
+    
 editor: visual
 

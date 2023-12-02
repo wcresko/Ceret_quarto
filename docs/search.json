@@ -14,9 +14,107 @@
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
+    "objectID": "Husbandry_20gallon.html#introduction",
+    "href": "Husbandry_20gallon.html#introduction",
+    "title": "2  Twenty Gallon Aquarium Cleaning",
+    "section": "2.1 Introduction",
+    "text": "2.1 Introduction\n\nPurpose: This procedure describes how to clean 20 gallon glass tanks.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus),\nGulf pipefish (Syngnathus scovelli)\n\n\n\n\n\n\n\n\nSchedule for Cleaning\n\n\n\nTank cleaning is to be done ONLY Monday - Friday"
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#materials",
+    "href": "Husbandry_20gallon.html#materials",
+    "title": "2  Twenty Gallon Aquarium Cleaning",
+    "section": "2.2 Materials:",
+    "text": "2.2 Materials:\n\nScrub pad or sponge\nCart (you may or may not want to use)\nOld clothes (this can be messy)\nPersonal protection equipment (Splash proof glasses or face shield)."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#solutions",
+    "href": "Husbandry_20gallon.html#solutions",
+    "title": "2  Twenty Gallon Aquarium Cleaning",
+    "section": "2.3 Solutions:",
+    "text": "2.3 Solutions:\n\nBleach solution: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.\nSodium thiosulfate: Make a 3% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 150g (marked on dispenser) of sodium thiosulfate. Mix\n\nNote: When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#procedure",
+    "href": "Husbandry_20gallon.html#procedure",
+    "title": "2  Twenty Gallon Aquarium Cleaning",
+    "section": "2.4 Procedure:",
+    "text": "2.4 Procedure:\n\nComplete bleaching and cleaning of tank. This needs to be done to each tank every 2 months.\nRemove fish from tank and put them into a clean tank. Tanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced.\nDrain the tank and remove it from the rack. Clean air diffuser as instructed below.\n\nClean the tank and all parts thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside (algae should be left if very gentle rubbing will not remove it.\nSquirt about 10 – 20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand using a pad or sponge exposing all inside portions of the tank to bleach.\nRinse the tank thoroughly with hot tap water. Rinse the tank with sodium thiosulfate, and then rinse it again with hot water. Put a few thiosulfate crystals into the tank and leave it.\nReassemble the tank and put it back on the rack. Fill with system water and allow water to recirculate for about 30 minutes before adding fish. Watch fish for 15min to look for any signs of distress.\nUsing a dry erase marker record date/time on the front of the tank when system water is turned back on.\n\nInitial the check list that you have completed the tank cleaning."
+  },
+  {
+    "objectID": "Husbandry_20gallon.html#air-difuser-cleaning",
+    "href": "Husbandry_20gallon.html#air-difuser-cleaning",
+    "title": "2  Twenty Gallon Aquarium Cleaning",
+    "section": "2.5 Air difuser cleaning:",
+    "text": "2.5 Air difuser cleaning:\n\nRemove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.\nPlace in 10% bleach solution for 15-30 minutes.\nRinse the corner filters with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.\nRinse with hot water for 5 minutes.\nWhen cleaned air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress."
+  },
+  {
+    "objectID": "Molecular_cDNA.html#introduction",
+    "href": "Molecular_cDNA.html#introduction",
+    "title": "3  cDNA basic",
+    "section": "3.1 Introduction",
+    "text": "3.1 Introduction\n\nPurpose: This procedure describes how to synthesis cDNA for use with PCR.\nProcedure Type: Molecular\nSpecies: N/A"
+  },
+  {
+    "objectID": "Molecular_cDNA.html#materials",
+    "href": "Molecular_cDNA.html#materials",
+    "title": "3  cDNA basic",
+    "section": "3.2 Materials:",
+    "text": "3.2 Materials:\n\n2 µl Oligo d(T)23 VN (50 µM, NEB; anchored-dT primer)*\nX µl up to 5 µg total RNA\n1 µl 10 mM dNTP\nwater\n2 µl 10x RT buffer (Invitrogen)\n4 µl 25 mM MgCl2\n2 µl 0.1 mM DTT – Invitrogen\n1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)\n1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)"
+  },
+  {
+    "objectID": "Molecular_cDNA.html#solutions",
+    "href": "Molecular_cDNA.html#solutions",
+    "title": "3  cDNA basic",
+    "section": "3.3 Solutions:",
+    "text": "3.3 Solutions:\nNONE"
+  },
+  {
+    "objectID": "Molecular_cDNA.html#procedure",
+    "href": "Molecular_cDNA.html#procedure",
+    "title": "3  cDNA basic",
+    "section": "3.4 Procedure:",
+    "text": "3.4 Procedure:\n\n3.4.1 First strand synthesis\nCombine:\n\n2 µl Oligo d(T)23 VN (50 µM, NEB; anchored-dT primer)*\nX µl up to 5 µg total RNA\n1 µl 10 mM dNTP mix\nWater (if necessary) to bring total to 10 µl\n\nHeat to 65°C for 5 min., then ice\nCollect contents at bottom of tube by brief centrifugation.\nAdd:\n\n2 µl 10x RT buffer (Invitrogen)\n4 µl 25 mM MgCl2\n2 µl 0.1 mM DTT – Invitrogen\n1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)\n1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)\n\nMix by gentle aspiration\n\n25°C for 5 min.\n\n\n\n3.4.2 Reaction can be scaled up to accommodate more starting RNA\nSynthesis: Incubate at 50°C for 50 min.\nInactivation: 85°C for 5 min. Chill on ice, collect contents to bottom by short spin.\nDestroy RNA template: 1 µl RNase H (2 u/µl), incubate at 37°C for 20 min.\nProceed to PCR. Depending on expression level, may be able to use a dilution of cDNA as template – try 1:50 dilution in EB, use 2 µl as template in a 20 µl reaction. Don’t dilute your entire amount of cDNA, as some products may require a higher concentration of template."
+  },
+  {
+    "objectID": "Placeholder_Molecular.html#xxx",
+    "href": "Placeholder_Molecular.html#xxx",
+    "title": "4  Placeholder_Molecular",
+    "section": "4.1 xxx",
+    "text": "4.1 xxx\nxxxx\n\n4.1.1 xxx\nxxxxx"
+  },
+  {
+    "objectID": "Placeholder_Daphnia.html#xxx",
+    "href": "Placeholder_Daphnia.html#xxx",
+    "title": "6  Placeholder_Daphnia",
+    "section": "6.1 xxx",
+    "text": "6.1 xxx\nxxxx\n\n6.1.1 xxx\nxxxxx"
+  },
+  {
+    "objectID": "base-R.html#introduction",
+    "href": "base-R.html#introduction",
+    "title": "7  A field guide to base R",
+    "section": "7.1 Introduction",
+    "text": "7.1 Introduction\nTo finish off the programming section, we’re going to give you a quick tour of the most important base R functions that we don’t otherwise discuss in the book. These tools are particularly useful as you do more programming and will help you read code you’ll encounter in the wild.\nThis is a good place to remind you that the tidyverse is not the only way to solve data science problems. We teach the tidyverse in this book because tidyverse packages share a common design philosophy, increasing the consistency across functions, and making each new function or package a little easier to learn and use. It’s not possible to use the tidyverse without using base R, so we’ve actually already taught you a lot of base R functions: from library() to load packages, to sum() and mean() for numeric summaries, to the factor, date, and POSIXct data types, and of course all the basic operators like +, -, /, *, |, &, and !. What we haven’t focused on so far is base R workflows, so we will highlight a few of those in this chapter.\nAfter you read this book, you’ll learn other approaches to the same problems using base R, data.table, and other packages. You’ll undoubtedly encounter these other approaches when you start reading R code written by others, particularly if you’re using StackOverflow. It’s 100% okay to write code that uses a mix of approaches, and don’t let anyone tell you otherwise!\nIn this chapter, we’ll focus on four big topics: subsetting with [, subsetting with [[ and $, the apply family of functions, and for loops. To finish off, we’ll briefly discuss two essential plotting functions.\n\n7.1.1 Prerequisites\nThis package focuses on base R so doesn’t have any real prerequisites, but we’ll load the tidyverse in order to explain some of the differences.\n\nlibrary(tidyverse)"
+  },
+  {
+    "objectID": "base-R.html#sec-subset-many",
+    "href": "base-R.html#sec-subset-many",
+    "title": "7  A field guide to base R",
+    "section": "7.2 Selecting multiple elements with [",
+    "text": "7.2 Selecting multiple elements with [\n[ is used to extract sub-components from vectors and data frames, and is called like x[i] or x[i, j]. In this section, we’ll introduce you to the power of [, first showing you how you can use it with vectors, then how the same principles extend in a straightforward way to two-dimensional (2d) structures like data frames. We’ll then help you cement that knowledge by showing how various dplyr verbs are special cases of [.\n\n7.2.1 Subsetting vectors\nThere are five main types of things that you can subset a vector with, i.e., that can be the i in x[i]:\n\nA vector of positive integers. Subsetting with positive integers keeps the elements at those positions:\n\nx &lt;- c(\"one\", \"two\", \"three\", \"four\", \"five\")\nx[c(3, 2, 5)]\n\n[1] \"three\" \"two\"   \"five\" \n\n\nBy repeating a position, you can actually make a longer output than input, making the term “subsetting” a bit of a misnomer.\n\nx[c(1, 1, 5, 5, 5, 2)]\n\n[1] \"one\"  \"one\"  \"five\" \"five\" \"five\" \"two\" \n\n\nA vector of negative integers. Negative values drop the elements at the specified positions:\n\nx[c(-1, -3, -5)]\n\n[1] \"two\"  \"four\"\n\n\nA logical vector. Subsetting with a logical vector keeps all values corresponding to a TRUE value. This is most often useful in conjunction with the comparison functions.\n\nx &lt;- c(10, 3, NA, 5, 8, 1, NA)\n\n# All non-missing values of x\nx[!is.na(x)]\n\n[1] 10  3  5  8  1\n\n# All even (or missing!) values of x\nx[x %% 2 == 0]\n\n[1] 10 NA  8 NA\n\n\nUnlike filter(), NA indices will be included in the output as NAs.\nA character vector. If you have a named vector, you can subset it with a character vector:\n\nx &lt;- c(abc = 1, def = 2, xyz = 5)\nx[c(\"xyz\", \"def\")]\n\nxyz def \n  5   2 \n\n\nAs with subsetting with positive integers, you can use a character vector to duplicate individual entries.\nNothing. The final type of subsetting is nothing, x[], which returns the complete x. This is not useful for subsetting vectors, but as we’ll see shortly, it is useful when subsetting 2d structures like tibbles."
+  },
+  {
+    "objectID": "base-R.html#summary",
+    "href": "base-R.html#summary",
+    "title": "7  A field guide to base R",
+    "section": "7.3 Summary",
+    "text": "7.3 Summary\nIn this chapter, we’ve shown you a selection of base R functions useful for subsetting and iteration. Compared to approaches discussed elsewhere in the book, these functions tend to have more of a “vector” flavor than a “data frame” flavor because base R functions tend to take individual vectors, rather than a data frame and some column specification. This often makes life easier for programming and so becomes more important as you write more functions and begin to write your own packages.\nThis chapter concludes the programming section of the book. You’ve made a solid start on your journey to becoming not just a data scientist who uses R, but a data scientist who can program in R. We hope these chapters have sparked your interest in programming and that you’re looking forward to learning more outside of this book."
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "4  Summary",
+    "title": "8  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
@@ -40,131 +138,5 @@
     "title": "Appendix B — Appendix 2",
     "section": "",
     "text": "Hah Hah"
-  },
-  {
-    "objectID": "Humbug.html",
-    "href": "Humbug.html",
-    "title": "2  Data import",
-    "section": "",
-    "text": "3 HUMBUG"
-  },
-  {
-    "objectID": "Humbug.html#introduction",
-    "href": "Humbug.html#introduction",
-    "title": "2  Humbug",
-    "section": "2.1 Introduction",
-    "text": "2.1 Introduction\nWorking with data provided by R packages is a great way to learn data science tools, but you want to apply what you’ve learned to your own data at some point. In this chapter, you’ll learn the basics of reading data files into R.\nSpecifically, this chapter will focus on reading plain-text rectangular files. We’ll start with practical advice for handling features like column names, types, and missing data. You will then learn about reading data from multiple files at once and writing data from R to a file. Finally, you’ll learn how to handcraft data frames in R.\n\n2.1.1 Prerequisites\nIn this chapter, you’ll learn how to load flat files in R with the readr package, which is part of the core tidyverse. adfaosdoasdfo\nThis chapter focuses on ggplot2, one of the core packages in the tidyverse. To access the datasets, help pages, and functions used in this chapter, load the tidyverse by running:\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.4.4     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.0\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
-  },
-  {
-    "objectID": "base-R.html#introduction",
-    "href": "base-R.html#introduction",
-    "title": "6  A field guide to base R",
-    "section": "6.1 Introduction",
-    "text": "6.1 Introduction\nTo finish off the programming section, we’re going to give you a quick tour of the most important base R functions that we don’t otherwise discuss in the book. These tools are particularly useful as you do more programming and will help you read code you’ll encounter in the wild.\nThis is a good place to remind you that the tidyverse is not the only way to solve data science problems. We teach the tidyverse in this book because tidyverse packages share a common design philosophy, increasing the consistency across functions, and making each new function or package a little easier to learn and use. It’s not possible to use the tidyverse without using base R, so we’ve actually already taught you a lot of base R functions: from library() to load packages, to sum() and mean() for numeric summaries, to the factor, date, and POSIXct data types, and of course all the basic operators like +, -, /, *, |, &, and !. What we haven’t focused on so far is base R workflows, so we will highlight a few of those in this chapter.\nAfter you read this book, you’ll learn other approaches to the same problems using base R, data.table, and other packages. You’ll undoubtedly encounter these other approaches when you start reading R code written by others, particularly if you’re using StackOverflow. It’s 100% okay to write code that uses a mix of approaches, and don’t let anyone tell you otherwise!\nIn this chapter, we’ll focus on four big topics: subsetting with [, subsetting with [[ and $, the apply family of functions, and for loops. To finish off, we’ll briefly discuss two essential plotting functions.\n\n6.1.1 Prerequisites\nThis package focuses on base R so doesn’t have any real prerequisites, but we’ll load the tidyverse in order to explain some of the differences.\n\nlibrary(tidyverse)"
-  },
-  {
-    "objectID": "base-R.html#sec-subset-many",
-    "href": "base-R.html#sec-subset-many",
-    "title": "6  A field guide to base R",
-    "section": "6.2 Selecting multiple elements with [",
-    "text": "6.2 Selecting multiple elements with [\n[ is used to extract sub-components from vectors and data frames, and is called like x[i] or x[i, j]. In this section, we’ll introduce you to the power of [, first showing you how you can use it with vectors, then how the same principles extend in a straightforward way to two-dimensional (2d) structures like data frames. We’ll then help you cement that knowledge by showing how various dplyr verbs are special cases of [.\n\n6.2.1 Subsetting vectors\nThere are five main types of things that you can subset a vector with, i.e., that can be the i in x[i]:\n\nA vector of positive integers. Subsetting with positive integers keeps the elements at those positions:\n\nx &lt;- c(\"one\", \"two\", \"three\", \"four\", \"five\")\nx[c(3, 2, 5)]\n\n[1] \"three\" \"two\"   \"five\" \n\n\nBy repeating a position, you can actually make a longer output than input, making the term “subsetting” a bit of a misnomer.\n\nx[c(1, 1, 5, 5, 5, 2)]\n\n[1] \"one\"  \"one\"  \"five\" \"five\" \"five\" \"two\" \n\n\nA vector of negative integers. Negative values drop the elements at the specified positions:\n\nx[c(-1, -3, -5)]\n\n[1] \"two\"  \"four\"\n\n\nA logical vector. Subsetting with a logical vector keeps all values corresponding to a TRUE value. This is most often useful in conjunction with the comparison functions.\n\nx &lt;- c(10, 3, NA, 5, 8, 1, NA)\n\n# All non-missing values of x\nx[!is.na(x)]\n\n[1] 10  3  5  8  1\n\n# All even (or missing!) values of x\nx[x %% 2 == 0]\n\n[1] 10 NA  8 NA\n\n\nUnlike filter(), NA indices will be included in the output as NAs.\nA character vector. If you have a named vector, you can subset it with a character vector:\n\nx &lt;- c(abc = 1, def = 2, xyz = 5)\nx[c(\"xyz\", \"def\")]\n\nxyz def \n  5   2 \n\n\nAs with subsetting with positive integers, you can use a character vector to duplicate individual entries.\nNothing. The final type of subsetting is nothing, x[], which returns the complete x. This is not useful for subsetting vectors, but as we’ll see shortly, it is useful when subsetting 2d structures like tibbles."
-  },
-  {
-    "objectID": "base-R.html#summary",
-    "href": "base-R.html#summary",
-    "title": "6  A field guide to base R",
-    "section": "6.3 Summary",
-    "text": "6.3 Summary\nIn this chapter, we’ve shown you a selection of base R functions useful for subsetting and iteration. Compared to approaches discussed elsewhere in the book, these functions tend to have more of a “vector” flavor than a “data frame” flavor because base R functions tend to take individual vectors, rather than a data frame and some column specification. This often makes life easier for programming and so becomes more important as you write more functions and begin to write your own packages.\nThis chapter concludes the programming section of the book. You’ve made a solid start on your journey to becoming not just a data scientist who uses R, but a data scientist who can program in R. We hope these chapters have sparked your interest in programming and that you’re looking forward to learning more outside of this book."
-  },
-  {
-    "objectID": "part_one.html",
-    "href": "part_one.html",
-    "title": "Ceret_trial",
-    "section": "",
-    "text": "PART ONE"
-  },
-  {
-    "objectID": "part_two.html",
-    "href": "part_two.html",
-    "title": "Ceret_trial",
-    "section": "",
-    "text": "PART TWO"
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#purpose",
-    "href": "Husbandry_20gallon.html#purpose",
-    "title": "2  20 Gallon Aquarium Cleaning",
-    "section": "2.1 Purpose",
-    "text": "2.1 Purpose\nThis procedure describes how to clean 20 gallon glass tanks."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#procedure-type",
-    "href": "Husbandry_20gallon.html#procedure-type",
-    "title": "2  20 Gallon Aquarium Cleaning",
-    "section": "2.2 Procedure Type:",
-    "text": "2.2 Procedure Type:\nHusbandry"
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#species",
-    "href": "Husbandry_20gallon.html#species",
-    "title": "2  20 Gallon Aquarium Cleaning",
-    "section": "2.3 Species:",
-    "text": "2.3 Species:\n\nThreespine stickleback, (Gasterosteus aculeatus),\ngulf pipefish (Syngnathus scovelli)\n\nTank cleaning is to be done ONLY Monday - Friday ## Materials: - Scrub pad or sponge - Cart (you may or may not want to use) - Old clothes (this can be messy) - Personal protection equipment (Splash proof glasses or face shield)."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#solutions",
-    "href": "Husbandry_20gallon.html#solutions",
-    "title": "1  Twenty Gallon Aquarium Cleaning",
-    "section": "1.3 Solutions:",
-    "text": "1.3 Solutions:\n\nBleach solution: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.\nSodium thiosulfate: Make a 3% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 150g (marked on dispenser) of sodium thiosulfate. Mix\n\nNote: When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#procedure",
-    "href": "Husbandry_20gallon.html#procedure",
-    "title": "1  Twenty Gallon Aquarium Cleaning",
-    "section": "1.4 Procedure:",
-    "text": "1.4 Procedure:\n\nComplete bleaching and cleaning of tank. This needs to be done to each tank every 2 months.\nRemove fish from tank and put them into a clean tank. Tanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced.\nDrain the tank and remove it from the rack. Clean air diffuser as instructed below.\n\nClean the tank and all parts thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside (algae should be left if very gentle rubbing will not remove it.\nSquirt about 10 – 20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand using a pad or sponge exposing all inside portions of the tank to bleach.\nRinse the tank thoroughly with hot tap water. Rinse the tank with sodium thiosulfate, and then rinse it again with hot water. Put a few thiosulfate crystals into the tank and leave it.\nReassemble the tank and put it back on the rack. Fill with system water and allow water to recirculate for about 30 minutes before adding fish. Watch fish for 15min to look for any signs of distress.\nUsing a dry erase marker record date/time on the front of the tank when system water is turned back on.\n\nInitial the check list that you have completed the tank cleaning."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#air-diffuser-cleaning",
-    "href": "Husbandry_20gallon.html#air-diffuser-cleaning",
-    "title": "1  Twenty Gallon Aquarium Cleaning",
-    "section": "1.5 Air diffuser cleaning:",
-    "text": "1.5 Air diffuser cleaning:\n\nRemove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.\nPlace in 10% bleach solution for 15-30 minutes.\nRinse the corner filters with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.\nRinse with hot water for 5 minutes.\nWhen cleaned air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#introduction",
-    "href": "Husbandry_20gallon.html#introduction",
-    "title": "1  Twenty Gallon Aquarium Cleaning",
-    "section": "1.1 Introduction",
-    "text": "1.1 Introduction\n\nPurpose: This procedure describes how to clean 20 gallon glass tanks.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus),\nGulf pipefish (Syngnathus scovelli)\n\n\nTank cleaning is to be done ONLY Monday - Friday"
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#materials",
-    "href": "Husbandry_20gallon.html#materials",
-    "title": "1  Twenty Gallon Aquarium Cleaning",
-    "section": "1.2 Materials:",
-    "text": "1.2 Materials:\n\nScrub pad or sponge\nCart (you may or may not want to use)\nOld clothes (this can be messy)\nPersonal protection equipment (Splash proof glasses or face shield)."
-  },
-  {
-    "objectID": "Husbandry_20gallon.html#air-difuser-cleaning",
-    "href": "Husbandry_20gallon.html#air-difuser-cleaning",
-    "title": "1  Twenty Gallon Aquarium Cleaning",
-    "section": "1.5 Air difuser cleaning:",
-    "text": "1.5 Air difuser cleaning:\n\nRemove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.\nPlace in 10% bleach solution for 15-30 minutes.\nRinse the corner filters with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.\nRinse with hot water for 5 minutes.\nWhen cleaned air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress."
-  },
-  {
-    "objectID": "Placeholder_Molecular.html#xxx",
-    "href": "Placeholder_Molecular.html#xxx",
-    "title": "2  Placeholder_Molecular",
-    "section": "2.1 xxx",
-    "text": "2.1 xxx\nxxxx\n\n2.1.1 xxx\nxxxxx"
-  },
-  {
-    "objectID": "Placeholder_Daphnia.html#xxx",
-    "href": "Placeholder_Daphnia.html#xxx",
-    "title": "4  Placeholder_Daphnia",
-    "section": "4.1 xxx",
-    "text": "4.1 xxx\nxxxx\n\n4.1.1 xxx\nxxxxx"
   }
 ]
