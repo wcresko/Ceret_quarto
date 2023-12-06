@@ -1,1 +1,3 @@
 # Molecular Protocols
+
+This section of the book contains common protocols used for molecular biology and genomics in the laboratory. These include standard protocols such as setting up creating reagents, setting up PCRs and running gels, as well as advanced protocols such as creating constructs.

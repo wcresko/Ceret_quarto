@@ -1,0 +1,3 @@
+# Daphnia Husbandry
+
+This section of the manual contains protocols for the safe and ethical husbandry and use of invertebrate animals, particular the nematode worm *C. remanei* and water fleas of the genus *Daphnia*

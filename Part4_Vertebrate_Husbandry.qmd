@@ -1,0 +1,3 @@
+# Vertebrate Husbandry
+
+This section of the manual contains protocols for the safe and ethical husbandry and use of vertebrate animals, particular the fish models stickleback, zebrafish and syngnathids.

@@ -13,7 +13,7 @@ book:
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   
   cover-image: images/CreskoLabLogo.png
-  author: "William A. Cresko"
+  author: "Cresko Laboratory"
   date: now
   date-format: full
   
@@ -22,42 +22,46 @@ book:
     
     - part: Part1_General.qmd
       chapters:
-        - General_Contact.qmd
+        - 01_General/General_Contact.qmd
         
     - part: Part2_Molecular.qmd
       chapters:
-        - Molecular_cDNA.qmd
-        - Molecular_2xTurbo.qmd
-        - Molecular_8%Para.qmd
+        - 02_Molecular/Molecular_cDNA.qmd
+        - 02_Molecular/Molecular_2xTurbo.qmd
+        - 02_Molecular/Molecular_Para.qmd
         
-    - part: Part3_Vertebrate_Husbandry.qmd
+    - part: Part3_Microbiology.qmd
       chapters:
-        - Husbandry_20gallon.qmd
+        - 03_Microbiology/Placeholder_Microbiology.qmd
         
-    - part: Part4_Daphnia_Husbandry.qmd
+    - part: Part4_Vertebrate_Husbandry.qmd
       chapters:
-        - Placeholder_Daphnia.qmd
+        - 04_Vertebrate/Husbandry_20gallon.qmd
+        
+    - part: Part5_Invertebrate_Husbandry.qmd
+      chapters:
+        - 05_Invertebrate/Placeholder_Daphnia.qmd
    
-    - part: Part5_Bioinformatic.qmd
+    - part: Part6_Bioinformatic.qmd
       chapters:
-        - base-R.qmd
+        - 06_Bioinformatic/base-R.qmd
 
     - summary.qmd
     - references.qmd  
     
   appendices:
-    - appendix_1.qmd
-    - appendix_2.qmd
+    - 07_Appendices/appendix_1.qmd
+    - 07_Appendices/appendix_2.qmd
   
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-    number-depth: 2
+    number-depth: 1
   pdf:
     documentclass: scrreprt
-    number-depth: 2
+    number-depth: 1
     include-in-header: 
       text: |
         \usepackage{makeidx}

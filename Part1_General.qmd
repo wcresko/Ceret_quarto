@@ -1,1 +1,3 @@
 # General Laboratory Protocols
+
+This section of the book contains general protocols for working in the laboratory. 
