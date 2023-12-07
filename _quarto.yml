@@ -37,6 +37,7 @@ book:
     - part: Part4_Vertebrate_Husbandry.qmd
       chapters:
         - 04_Vertebrate/Husbandry_20gallon.qmd
+        - 04_Vertebrate/Husbandry_Artemia_Decapsulation.qmd
         
     - part: Part5_Invertebrate_Husbandry.qmd
       chapters:
