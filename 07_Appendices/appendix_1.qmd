@@ -1,7 +1,7 @@
 # Sbf1 Barcodes in 96 Well Plate
 
 | well | Barcode | Name (top)      | Final top sequence                            | well | Name (bottom)   | Final bottom sequence                          |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|------|---------|-----------------|-----------------------------------------------|------|-----------------|------------------------------------------------|
 | A1   | AAACGG  | SbfI-AAACGG-top | ACACTCTTTCCCTACACGACGCTCTTCCGATCTAAACGGTGC\*A | A1   | SbfI-AAACGG-bot | /5Phos/CCGTTTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT |
 | A2   | AACGTT  | SbfI-AACGTT-top | ACACTCTTTCCCTACACGACGCTCTTCCGATCTAACGTTTGC\*A | A2   | SbfI-AACGTT-bot | /5Phos/AACGTTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT |
 | A3   | AACTGA  | SbfI-AACTGA-top | ACACTCTTTCCCTACACGACGCTCTTCCGATCTAACTGATGC\*A | A3   | SbfI-AACTGA-bot | /5Phos/TCAGTTAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT |
