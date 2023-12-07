@@ -168,6 +168,34 @@
     "text": "Air difuser cleaning:\n\nRemove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.\nPlace in 10% bleach solution for 15-30 minutes.\nRinse the corner filters with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.\nRinse with hot water for 5 minutes.\nWhen cleaned air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress."
   },
   {
+    "objectID": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#introduction",
+    "href": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#introduction",
+    "title": "7  Artemia Decapsulation",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes standard practices for decapsulating brine shrimp. Although brine shrimp can be hatched, collected and then fed to fish, the cysts are often hard to separate from the newly hatched brine shrimp and can be ingested by stickleback and pipefish. To reduce this phenomenon we can decapsulate brine shrimp in advance, and then leave them in a suspended state in the freezer for an extended period of time (~ xxx weeks) before they are hatched.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus),\nGulf pipefish (Syngnathus scovelli)\n\nAuthors\n\nMark C. Currey"
+  },
+  {
+    "objectID": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#materials",
+    "href": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#materials",
+    "title": "7  Artemia Decapsulation",
+    "section": "Materials:",
+    "text": "Materials:\n\n15 oz can of dried Artemia cysts (approximately 430 g)\n4.3 L ~6% laundry grade bleach\nRock Salt (NaCl)\n125 ml 40% Lye (NaOH) solution\n30.0 g Sodium thiosulfate (Na_{2}S_{2}O_{3})\n16 L Hatching Cone with aeration\n125 ?m mesh bag (Aquatic Eco-Systems PMB3, 125 micron x 18”)\nSeveral 3-5 L beakers\n(1-2) Squirt bottles - squeeze type"
+  },
+  {
+    "objectID": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#solutions",
+    "href": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#solutions",
+    "title": "7  Artemia Decapsulation",
+    "section": "Solutions:",
+    "text": "Solutions:\n\n\n\n\n\n\nBe ready\n\n\n\nSolutions should be prepared in advance.\n\n\n\nBleach, ~6% laundry grade\n\n25 ppt Salt Solution\nCombine: 50 g Rock Salt (NaCl) To 2.0 L with tap water\nStir to dissolve completely.\n\n40% Lye (NaOH) solution\n\nCombine: 200 g Lye (NaOH) To 500 mL with tap water\nStir to dissolve completely.\nStore in refrigerator (4°C)\n\nBuffered Salt Solution\n\nCombine: 2L, 25 ppt Salt Solution\n125 mL 40% Lye Solution, pre-chilled to 4°C\n\n1.0% Sodium Thiosulfate\n\nCombine: 30 g sodium thiosulfate To 3.0 L with tap water\nStir to dissolve.\n\nSaturated Brine\n\nCombine: ~25g Rock Salt to 4.0 L with tap water\nAerate to dissolve."
+  },
+  {
+    "objectID": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#procedure",
+    "href": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#procedure",
+    "title": "7  Artemia Decapsulation",
+    "section": "Procedure:",
+    "text": "Procedure:\n\nCyst hydration: Hydrate one full can of dried cyst in 5 L of tap water in a hatching cone with aeration for 1 hour at room temp. Examine the cyst under a dissecting scope with top lighting before proceeding. Dry cysts are dimpled, resembling a deflated basketball, whereas fully hydrated cysts are completely spherical in shape. The cysts must be fully hydrated prior to the de-capsulation step. If cysts are not completely spherical after 1 hour, continue the hydration process (for a maximum of 2 hours), checking the progress of the cysts under a microscope every 15 min.\nFilter and rinse cysts: Collect the hydrated cyst in a 125 um mesh bag and rinse with cool tap water.\nTransfer cysts back to the cone: Add the Buffered Salt Solution to the cone and aerate (save back a filled squirt bottle of salt solution to help transfer cysts to cone). Transfer cysts into cone.\nDe-capsulation: Add the bleach (4.3 L) to the cone and continue aeration. Watch the cysts turn from brown to grey to orange, When the cysts are 90% orange, stop the reaction by quickly siphoning the cysts through a 125 um mesh bag and rinsing well with cool tap water.\nNeutralization residual chlorine: To neutralize any residual chlorine transfer the mesh bag to a clean 4 L beaker and pour the 1.0% Sodium Thiosulfate (3L) into the bag. Soak the cysts in the sodium thiosulfate solution for ~1 min, then rinse the cysts with de-ionized tap water. Rinse until discharge turns clear.\nDehydration for long-term storage: Transfer the cysts back to the cone with 4 L of saturated brine and aerate until salt is dissolved. Transfer dehydrated cyst to (5 or 6) 1 L Nalgene bottles filled with 200 - 300 grams of salt. Add enough salt so that it does not dissolve when de-capsulated brine is added. Fill the bottles with de-capsulated brine. Store in refrigerator. The de-capsulated brine will store for at least 1 month. Hatch brine as you would capsulated brine (see Hatching and Feeding Brine SOP)."
+  },
+  {
     "objectID": "Part5_Invertebrate_Husbandry.html",
     "href": "Part5_Invertebrate_Husbandry.html",
     "title": "Daphnia Husbandry",
@@ -177,7 +205,7 @@
   {
     "objectID": "05_Invertebrate/Placeholder_Daphnia.html#xxx",
     "href": "05_Invertebrate/Placeholder_Daphnia.html#xxx",
-    "title": "7  Placeholder_Daphnia",
+    "title": "8  Placeholder_Daphnia",
     "section": "xxx",
     "text": "xxx\nxxxx\n\nxxx\nxxxxx"
   },
@@ -191,28 +219,28 @@
   {
     "objectID": "06_Bioinformatic/base-R.html#introduction",
     "href": "06_Bioinformatic/base-R.html#introduction",
-    "title": "8  A field guide to base R",
+    "title": "9  A field guide to base R",
     "section": "Introduction",
     "text": "Introduction\nTo finish off the programming section, we’re going to give you a quick tour of the most important base R functions that we don’t otherwise discuss in the book. These tools are particularly useful as you do more programming and will help you read code you’ll encounter in the wild.\nThis is a good place to remind you that the tidyverse is not the only way to solve data science problems. We teach the tidyverse in this book because tidyverse packages share a common design philosophy, increasing the consistency across functions, and making each new function or package a little easier to learn and use. It’s not possible to use the tidyverse without using base R, so we’ve actually already taught you a lot of base R functions: from library() to load packages, to sum() and mean() for numeric summaries, to the factor, date, and POSIXct data types, and of course all the basic operators like +, -, /, *, |, &, and !. What we haven’t focused on so far is base R workflows, so we will highlight a few of those in this chapter.\nAfter you read this book, you’ll learn other approaches to the same problems using base R, data.table, and other packages. You’ll undoubtedly encounter these other approaches when you start reading R code written by others, particularly if you’re using StackOverflow. It’s 100% okay to write code that uses a mix of approaches, and don’t let anyone tell you otherwise!\nIn this chapter, we’ll focus on four big topics: subsetting with [, subsetting with [[ and $, the apply family of functions, and for loops. To finish off, we’ll briefly discuss two essential plotting functions.\n\nPrerequisites\nThis package focuses on base R so doesn’t have any real prerequisites, but we’ll load the tidyverse in order to explain some of the differences.\n\nlibrary(tidyverse)"
   },
   {
     "objectID": "06_Bioinformatic/base-R.html#sec-subset-many",
     "href": "06_Bioinformatic/base-R.html#sec-subset-many",
-    "title": "8  A field guide to base R",
+    "title": "9  A field guide to base R",
     "section": "Selecting multiple elements with [",
     "text": "Selecting multiple elements with [\n[ is used to extract sub-components from vectors and data frames, and is called like x[i] or x[i, j]. In this section, we’ll introduce you to the power of [, first showing you how you can use it with vectors, then how the same principles extend in a straightforward way to two-dimensional (2d) structures like data frames. We’ll then help you cement that knowledge by showing how various dplyr verbs are special cases of [.\n\nSubsetting vectors\nThere are five main types of things that you can subset a vector with, i.e., that can be the i in x[i]:\n\nA vector of positive integers. Subsetting with positive integers keeps the elements at those positions:\n\nx &lt;- c(\"one\", \"two\", \"three\", \"four\", \"five\")\nx[c(3, 2, 5)]\n\n[1] \"three\" \"two\"   \"five\" \n\n\nBy repeating a position, you can actually make a longer output than input, making the term “subsetting” a bit of a misnomer.\n\nx[c(1, 1, 5, 5, 5, 2)]\n\n[1] \"one\"  \"one\"  \"five\" \"five\" \"five\" \"two\" \n\n\nA vector of negative integers. Negative values drop the elements at the specified positions:\n\nx[c(-1, -3, -5)]\n\n[1] \"two\"  \"four\"\n\n\nA logical vector. Subsetting with a logical vector keeps all values corresponding to a TRUE value. This is most often useful in conjunction with the comparison functions.\n\nx &lt;- c(10, 3, NA, 5, 8, 1, NA)\n\n# All non-missing values of x\nx[!is.na(x)]\n\n[1] 10  3  5  8  1\n\n# All even (or missing!) values of x\nx[x %% 2 == 0]\n\n[1] 10 NA  8 NA\n\n\nUnlike filter(), NA indices will be included in the output as NAs.\nA character vector. If you have a named vector, you can subset it with a character vector:\n\nx &lt;- c(abc = 1, def = 2, xyz = 5)\nx[c(\"xyz\", \"def\")]\n\nxyz def \n  5   2 \n\n\nAs with subsetting with positive integers, you can use a character vector to duplicate individual entries.\nNothing. The final type of subsetting is nothing, x[], which returns the complete x. This is not useful for subsetting vectors, but as we’ll see shortly, it is useful when subsetting 2d structures like tibbles."
   },
   {
     "objectID": "06_Bioinformatic/base-R.html#summary",
     "href": "06_Bioinformatic/base-R.html#summary",
-    "title": "8  A field guide to base R",
+    "title": "9  A field guide to base R",
     "section": "Summary",
     "text": "Summary\nIn this chapter, we’ve shown you a selection of base R functions useful for subsetting and iteration. Compared to approaches discussed elsewhere in the book, these functions tend to have more of a “vector” flavor than a “data frame” flavor because base R functions tend to take individual vectors, rather than a data frame and some column specification. This often makes life easier for programming and so becomes more important as you write more functions and begin to write your own packages.\nThis chapter concludes the programming section of the book. You’ve made a solid start on your journey to becoming not just a data scientist who uses R, but a data scientist who can program in R. We hope these chapters have sparked your interest in programming and that you’re looking forward to learning more outside of this book."
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "9  Summary",
+    "title": "10  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
@@ -236,33 +264,5 @@
     "title": "Appendix B — Appendix 2",
     "section": "",
     "text": "Hah Hah"
-  },
-  {
-    "objectID": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#introduction",
-    "href": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#introduction",
-    "title": "7  Artemia Decapsulation",
-    "section": "Introduction",
-    "text": "Introduction\n\nPurpose: This procedure describes standard practices for decapsulating brine shrimp. Although brine shrimp can be hatched, collected and then fed to fish, the cysts are often hard to separate from the newly hatched brine shrimp and can be ingested by stickleback and pipefish. To reduce this phenomenon we can decapsulate brine shrimp in advance, and then leave them in a suspended state in the freezer for an extended period of time (~ xxx weeks) before they are hatched.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus),\nGulf pipefish (Syngnathus scovelli)\n\nAuthors\n\nMark C. Currey"
-  },
-  {
-    "objectID": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#materials",
-    "href": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#materials",
-    "title": "7  Artemia Decapsulation",
-    "section": "Materials:",
-    "text": "Materials:\n\n15 oz can of dried Artemia cysts (approximately 430 g)\n4.3 L ~6% laundry grade bleach\nRock Salt (NaCl)\n125 ml 40% Lye (NaOH) solution\n30.0 g Sodium thiosulfate (Na_{2}S_{2}O_{3})\n16 L Hatching Cone with aeration\n125 ?m mesh bag (Aquatic Eco-Systems PMB3, 125 micron x 18”)\nSeveral 3-5 L beakers\n(1-2) Squirt bottles - squeeze type"
-  },
-  {
-    "objectID": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#procedure",
-    "href": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#procedure",
-    "title": "7  Artemia Decapsulation",
-    "section": "Procedure:",
-    "text": "Procedure:\n\nCyst hydration: Hydrate one full can of dried cyst in 5 L of tap water in a hatching cone with aeration for 1 hour at room temp. Examine the cyst under a dissecting scope with top lighting before proceeding. Dry cysts are dimpled, resembling a deflated basketball, whereas fully hydrated cysts are completely spherical in shape. The cysts must be fully hydrated prior to the de-capsulation step. If cysts are not completely spherical after 1 hour, continue the hydration process (for a maximum of 2 hours), checking the progress of the cysts under a microscope every 15 min.\nFilter and rinse cysts: Collect the hydrated cyst in a 125 um mesh bag and rinse with cool tap water.\nTransfer cysts back to the cone: Add the Buffered Salt Solution to the cone and aerate (save back a filled squirt bottle of salt solution to help transfer cysts to cone). Transfer cysts into cone.\nDe-capsulation: Add the bleach (4.3 L) to the cone and continue aeration. Watch the cysts turn from brown to grey to orange, When the cysts are 90% orange, stop the reaction by quickly siphoning the cysts through a 125 um mesh bag and rinsing well with cool tap water.\nNeutralization residual chlorine: To neutralize any residual chlorine transfer the mesh bag to a clean 4 L beaker and pour the 1.0% Sodium Thiosulfate (3L) into the bag. Soak the cysts in the sodium thiosulfate solution for ~1 min, then rinse the cysts with de-ionized tap water. Rinse until discharge turns clear.\nDehydration for long-term storage: Transfer the cysts back to the cone with 4 L of saturated brine and aerate until salt is dissolved. Transfer dehydrated cyst to (5 or 6) 1 L Nalgene bottles filled with 200 - 300 grams of salt. Add enough salt so that it does not dissolve when de-capsulated brine is added. Fill the bottles with de-capsulated brine. Store in refrigerator. The de-capsulated brine will store for at least 1 month. Hatch brine as you would capsulated brine (see Hatching and Feeding Brine SOP)."
-  },
-  {
-    "objectID": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#solutions",
-    "href": "04_Vertebrate/Husbandry_Artemia_Decapsulation.html#solutions",
-    "title": "7  Artemia Decapsulation",
-    "section": "Solutions:",
-    "text": "Solutions:\n\n\n\n\n\n\nBe ready\n\n\n\nSolutions should be prepared in advance.\n\n\n\nBleach, ~6% laundry grade\n\n25 ppt Salt Solution\nCombine: 50 g Rock Salt (NaCl) To 2.0 L with tap water\nStir to dissolve completely.\n\n40% Lye (NaOH) solution\n\nCombine: 200 g Lye (NaOH) To 500 mL with tap water\nStir to dissolve completely.\nStore in refrigerator (4°C)\n\nBuffered Salt Solution\n\nCombine: 2L, 25 ppt Salt Solution\n125 mL 40% Lye Solution, pre-chilled to 4°C\n\n1.0% Sodium Thiosulfate\n\nCombine: 30 g sodium thiosulfate To 3.0 L with tap water\nStir to dissolve.\n\nSaturated Brine\n\nCombine: ~25g Rock Salt to 4.0 L with tap water\nAerate to dissolve."
   }
 ]
