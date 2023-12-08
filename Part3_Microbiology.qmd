@@ -1,7 +1,3 @@
-# Bioinformatic
+# Microbiology
 
-This ection of the book contains protocols for basic bioinformatic skills such as using our laboratory cluster 'Genome', as well as our account Nereus on the UO supercomputer Talapas.
-
-Note that there are several appendices that contain greater details and training on things such as the use of command line, R and Python, markdown and literature programming, and documentation using Quarto and Jupyter notebooks.
-
-See @knuth84 for additional discussion of literate programming.
+This ection of the book contains protocols that involve the use of microbes, mostly in the context of host-microbe interactions, but also standard protocols for cloning of nucleic acides using microbes.

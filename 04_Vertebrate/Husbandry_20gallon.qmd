@@ -1,4 +1,4 @@
-# Twenty Gallon Aquarium Cleaning {#sec-husb-20gallon}
+# Aquarium Cleaning {#sec-husb-20gallon}
 
 ## Introduction
 
@@ -7,7 +7,7 @@
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*),
     -   Gulf pipefish (*Syngnathus scovelli*)
-- 
+-   
 
 ::: {.callout-warning title="Schedule for Cleaning"}
 Tank cleaning is to be done ONLY Monday - Friday

@@ -1,0 +1,61 @@
+# Alizarin Staining {#sec-molec-aliz}
+
+## Introduction
+
+-   **Purpose**: Alizarin staining of fixed adult stickleback.
+-   **Procedure Type**: Molecular
+-   **Species**:
+    -   Threespine stickleback, *Gasterosteus aculeatus*
+    -   xxx
+-   **Authors**
+    -   xxx
+
+::: {.callout-warning title="Schedule for Cleaning"}
+PLACEHOLDER
+:::
+
+## Materials:
+
+-   Alizarin red S
+-   KOH
+-   H~2~O~2~
+-   NaOH
+-   MESAB
+-   PFA
+
+## Solutions:
+
+-   **0.5% Alizarin red S Stock**:
+    -   To make 50 mls add 0.25g alizarin red S powder to 50 ml water.
+-   **0.025% Alizarin Stain**
+    -   To make 100 mls: Add 500µl 0.5% alizarin red S (stock) to 99.5ml 1% KOH
+    -   1 Liter: Add 5ml 0.5% alizarin red S (stock) to 9950ml (1 liter) 1%KOH
+-   **3% H202/0.5%KOH**: Mix and keep at 4C; Before using, bring to room temperature to hold down introducing bubbles under the skin: 0.5ml 6%H202 & 0.5ml 1%KOH.
+-   MESAB: Tricaine: 3-amino benzoic acid ethyl ester from Sigma (Cat \# A-5040). Mix in fish safe container with a stir bar:
+    -   400 mg tricaine powder
+    -   800 mg Na2HPO4 (anhydrous)
+    -   100 ml glass distilled water
+    -   Adjust to \~pH 7 with a drop at a time of 1N NaOH or 1N HCl if needed but it's usually right if you weigh the sodium phosphate carefully and measure the water with a graduated cylinder.
+    -   For storage: Aliquot into 6 x 25 ml fish safe plastic bottles and store at 4C. Label with date made and use within a couple of weeks.
+-   **8% PFA**:
+    -   8 g Pelleted PFA (Ted Pella, Inc.; cat# 18501)
+    -   90 ml dH2O
+    -   25 drops 1N NaOH
+    -   Heat at very low heat and stir until solution clears.
+    -   Add 25 drops 1N HCl. pH should be 7.0-7.2.
+    -   Filter and store at 4C not more than 1 week.
+    -   Use as 4% PFA: dilute 1:1 with 2X PBS, do not store solution more than a few hours.
+-   **2X PBS**
+    -   1.6% NaCl
+    -   0.04% KCl
+    -   0.04 M PO4 pH 7.0- 7.3
+
+## Procedure:
+
+-   **Day One**
+    -   2h-8h at R/T depending on size on shaker.
+    -   Without agitation and with lid open until eyes start to lighten and all skin pigment is gone (usually about an hour or more)
+-   **Day Two**
+    -   xxx
+    -   xxx
+    -   xxx

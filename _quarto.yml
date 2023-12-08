@@ -29,6 +29,7 @@ book:
         - 02_Molecular/Molecular_cDNA.qmd
         - 02_Molecular/Molecular_2xTurbo.qmd
         - 02_Molecular/Molecular_Para.qmd
+        - 02_Molecular/Molecular_Alizarin.qmd
         
     - part: Part3_Microbiology.qmd
       chapters:
