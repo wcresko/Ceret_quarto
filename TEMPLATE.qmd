@@ -1,0 +1,43 @@
+# xxx {#sec-xxx-xxx}
+
+## Introduction
+
+-   **Purpose**: xxx
+-   **Procedure Type**: xxx
+-   **Species**:
+    -   Bay pipefish, (*Syngnathus leptorhyncus*),
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+- xxx
+- xxx
+- xxx
+- xxx
+
+## Solutions
+
+- xxx
+- xxx
+- xxx
+- xxx
+
+## Procedure
+
+- xxx
+- xxx
+- xxx
+- xxx
+
+## Associated Papers
+
+- xxx
+- xxx
+- xxx
+- xxx

@@ -37,23 +37,33 @@ book:
         
     - part: Part4_Vertebrate_Husbandry.qmd
       chapters:
-        - 04_Vertebrate/Husbandry_20gallon.qmd
-        - 04_Vertebrate/Husbandry_Artemia_Decapsulation.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_20gallon.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Artemia_Decapsulation.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Embryo_and_Larval_Euthanasia_Syngnathid.qmd
         
-    - part: Part5_Invertebrate_Husbandry.qmd
+    - part: Part5_Vertebrate_Experiment.qmd
       chapters:
-        - 05_Invertebrate/Placeholder_Daphnia.qmd
-   
-    - part: Part6_Bioinformatic.qmd
-      chapters:
-        - 06_Bioinformatic/base-R.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Live_Calcein_Staining_Syngnathid.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Live_Daspei_Staining_Syngnathid.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Live_Fin_Clipping_Syngnathid.qmd
 
-    - summary.qmd
-    - references.qmd  
-    
+    - part: Part6_Invertebrate_Husbandry.qmd
+      chapters:
+        - 06_Invertebrate/Placeholder_Daphnia.qmd
+   
+    - part: Part7_Bioinformatic.qmd
+      chapters:
+        - 07_Bioinformatic/base-R.qmd
+  
+    - part: Part8_References.qmd
+      chapters:      
+        - references.qmd
+        - notes.qmd 
+
   appendices:
-    - 07_Appendices/appendix_1.qmd
-    - 07_Appendices/appendix_2.qmd
+    - 08_Appendices/appendix_1.qmd
+    - 08_Appendices/appendix_2.qmd
   
 bibliography: references.bib
 
