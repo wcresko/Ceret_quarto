@@ -1,4 +1,4 @@
-# Artemia Decapsulation {#sec-husb-artemia}
+# Artemia Decapsulation {#sec-vert_husb-artemia}
 
 ## Introduction
 
