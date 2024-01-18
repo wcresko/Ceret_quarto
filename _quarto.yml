@@ -47,6 +47,8 @@ book:
         - 05_Vertebrate_Experiment/VertExperiment_Live_Calcein_Staining_Syngnathid.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Live_Daspei_Staining_Syngnathid.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Live_Fin_Clipping_Syngnathid.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Field_Collection_Syngnathid.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Field_Collection_Stickleback.qmd
 
     - part: Part6_Invertebrate_Husbandry.qmd
       chapters:

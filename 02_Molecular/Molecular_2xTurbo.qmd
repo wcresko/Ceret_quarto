@@ -8,18 +8,18 @@
 
 ## Materials:
 
-- 33,000 µl npH2O 
-- 2000 µl MgSO4 (100mM) 
-- 1600 µl 1M Tris-HCl (pH 8.6)
-- 800 µl 1M KCl 
-- 800 µl 1M (NH4)2SO4 
-- 800 µl Triton-X 100 (10%) 
-- 400 µl DMSO (100 %) 
-- 120 µl dATP (100mM) 
-- 120 µl dGTP (100mM) 
-- 120 µl dTTP (100mM) 
-- 120 µl dCTP (100mM) 
-- 80 µl 100mg/ml BSA
+-   33,000 µl npH2O
+-   2000 µl MgSO4 (100mM)
+-   1600 µl 1M Tris-HCl (pH 8.6)
+-   800 µl 1M KCl
+-   800 µl 1M (NH4)2SO4
+-   800 µl Triton-X 100 (10%)
+-   400 µl DMSO (100 %)
+-   120 µl dATP (100mM)
+-   120 µl dGTP (100mM)
+-   120 µl dTTP (100mM)
+-   120 µl dCTP (100mM)
+-   80 µl 100mg/ml BSA
 
 Total = 40 ml of buffer
 
@@ -29,6 +29,6 @@ NONE
 
 ## Procedure:
 
-- Mix above reagents together 
-- Place in 1.5 ml ependorph tubes
-- Store at -20C
+-   Mix above reagents together
+-   Place in 1.5 ml ependorph tubes
+-   Store at -20C
