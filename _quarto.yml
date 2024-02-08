@@ -40,6 +40,11 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_20gallon.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Artemia_Decapsulation.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Embryo_and_Larval_Euthanasia_Syngnathid.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Dishwasher_Use.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Hatching_Feeding_BrineShrimp.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Density_Standards.qmd
         
     - part: Part5_Vertebrate_Experiment.qmd
       chapters:

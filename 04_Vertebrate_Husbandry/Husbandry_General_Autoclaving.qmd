@@ -1,0 +1,34 @@
+# Autoclaving Fish Room {#sec-husb-autoclaving}
+
+## Introduction
+
+-   **Purpose**: For sanitizing nets and scrub pads that have been used in the fish room.
+-   **Procedure Type**: xxx
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Bay pipefish, (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+    -   Zebrafish, (*Danio rerio*)
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+-   xx
+-   xx
+-   xx
+
+## Procedure
+
+1.  Place dirty nets and scrub pads in autoclave wire bin
+2.  Put bin into autoclave, and close the door (close door by pushing main door against hinge on left of door, then push door shut and seal by turning handle clockwise to just tight, DO NOT OVER TIGHTEN).
+3.  Change menu to B using keypad
+4.  Hit #1 twice, this will start the autoclave.
+5.  Sign sheet on outside of entrance door
+6.  Wait 45 minutes and remove nets
+7.  Put nets in clean nets tub.
+8.  Initial Check list on outside of door.   **Gravity   45 min   OK to Remove**
