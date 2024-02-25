@@ -1,0 +1,44 @@
+# Health Check - Sick and Dead Fish {#sec-husbandry-fish_health_check}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to do daily health checks on stickleback and pipefish.
+-   **Procedure Type**: Husbandry
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Mark Currey
+-   **Date Created**: April 14, 2008; updated January 01, 2015 by Mark Currey
+
+## Materials
+
+-   Fish Morgue consisting of a sealable plastic bag located in the freezer.
+-   Small container for fish transport
+-   Net
+
+## Solutions
+
+-   Mesab, a.k.a. MS222, tricaine or 3-aminobenzoic acid ethyl ester
+
+## Procedure
+
+1.  Check for sick and dead fish **daily** by looking through all tanks. This is best done when feeding. Be sure to look along the sides both at the top and bottom of the tank and near the outflow baffle. 
+2.  When done initial and record sick and dead fish on the daily checklist. Symptoms of Sick and Distressed fish are posted in the fish room.
+
+- If dead fish is found:
+    1.  Make note of the number of fish, tank space, and what stock the fish was from on the daily check list.
+    2.  With a clean net, remove fish and place into fish morgue. (The fish morgue can be found in the chest freezer. It is a small bucket labeled "Fish Morgue" on the lid).
+- If sick/dead fish are found:
+    1.  If sick - make a note on the tank and contact supervisor.
+
+::: {.callout-important title="This is a callout IMPORTANT"}
+**If there are more than 3 sick or dead fish in any one tank please contact Mark Currey 541-505-0006 or Bill Cresko 541-285-5446 immediately.**
+:::
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx
+

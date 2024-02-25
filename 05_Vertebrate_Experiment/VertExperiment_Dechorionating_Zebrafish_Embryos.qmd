@@ -1,0 +1,50 @@
+# Dechorionating Zebrafish Embryos {#sec-vertexp-zfish_dechorinate}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to dechorionate zebrafish embryos.
+-   **Procedure Type**: Vertebrate experiment
+-   **Species**:
+    -   Zebrafish (*Danio rerio*)
+-   **Author**:
+-   **Date Created**:
+
+## Materials
+
+-   Two pairs of Dumont #5 forceps
+-   Fire-polished wide-bore Pasteur pipet
+-   If using enzymatic dechorionation:
+    -   6X flyfishing tippet
+    -   Capillary tube
+-   Microscope
+
+## Solutions
+
+-   E3 medium (quantities for 5 L of 60X stock listed after each ingredient in parentheses)
+    -   5 mM NaCl (86 g)
+    -   0.17 mM KCl (3.8 g)
+    -   0.33 mM CaCl~2~ (14.5 g CaCl~2~ x 2H~2~O)
+    -   0.333 mM MgSO~4~ (24.5 g MgSO~4~ x 7H~2~O)
+    -   0.00001% (w/v) Methylene Blue (to be added to 1X solution)
+-   2 mg/ml Pronase in E3 medium (Pronase Solution made from solid Powder (Roche 165921))
+
+## Procedure
+
+1.  Chorions can be removed easily using two forceps (it is critical that the tips are sharp and that their ends can touch). When raised in E3 medium at 28.5°C, zebrafish embryos develop normally outside of their chorions. Manually dechorionate embryos, using the following procedure:
+
+    a.  While using one pair of forceps to hold the chorion, make a tear in the chorion with the other pair of forceps.
+    b.  Hold the chorion in a region opposite of the tear, and gently push the embryo through the opening by passing the chorion and the embryo between the tips of the other pair of forceps.
+
+::: {.callout-warning title="IMPORTANT"}
+Embryos younger than 15 hpf are particularly fragile and great care must be taken not to damage them.
+:::
+
+2.  Alternatively, embryos can be enzymatically dechorionated in bulk using the following procedure:
+
+    a.  Incubate the embryos in the Pronase Solution at room temperature for a brief time (typically 1-10 minutes, depending on the embryonic stage). Constantly check the condition of the chorions by gently depressing them with a poker (made by attaching a loop of 6X flyfishing tippet to a capillary tube) and looking at them under a microscope. When the chorions no longer return to a spherical shape, the Pronase treatment is complete.
+    b.  Thoroughly wash the embryos (3 to 4 times) in E3 mediun to remove the Pronase solution. Using the fire-polished Pasteur pipet, pipet the embryos back and fourth in the E3 medium. The Pronase-treated chorions should break open, releasing the embryos.
+    c.  Dechorionated embryos should be handled using fire-polished Pasteur pipets to minimize damage.
+
+## Associated Papers
+
+-   

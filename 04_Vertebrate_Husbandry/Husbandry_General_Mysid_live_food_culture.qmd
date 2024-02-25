@@ -1,0 +1,44 @@
+# Live Food Culture - Mysids {#sec-husb-mysid_culture}
+
+## Introduction
+
+-   **Purpose**: This procedure describes standard practices for culturing mysids to feed to the pipefish. We will use 10.5 L tanks on the dedicated pipefish Aquaneering rack. The basic premise is that each tank will be collected once a month and reset with a subset of the collected shrimp and the rest of the collected shrimp fed to the pipefish, kind of like a sour dough culture.
+-   **Procedure Type**: Husbandry
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Tiffany Thornton, Mark Currey
+-   **Date Created**: 2023
+
+## Materials
+
+-   10.5 L Aquaneering tanks/rack plumbed to the common pipefish sump.
+-   6" Brine shrimp nets.
+-   Plastic containers for collecting.
+
+## Procedure:
+
+1.  **Feeding**
+    -   Feed each mysid tank with newly hatched brine shrimp supplemented with Selcon twice daily. Ideally this is done when feeding the stickleback.
+2.  **Water Change**
+    -   2-3 times per week. The mysid tanks are connected to the pipefish water system so will experience a water change along with the pipefish. See pipefish water change SOP.
+    
+::: {.callout-note title="This is a callout NOTE"}
+Mysids will only be collected Monday through Friday.
+:::    
+    
+3.  **Mysid Collection and Tank Reset (Daily - except on weekends)**
+    -   Turn off water to the oldest tank as noted by the date placed on the front of the tank.
+    -   Take the 10.5 L tank to the sink.
+    -   Obtain a clean 10.5 L tank and remove the green baffle and place a screen in the slots at the rear of the tank. Place this tank in the empty slot and start the water. Record the date with a piece of tape on the front of the tank.
+    -   Using the clip light for illumination, a white 6" brine shrimp net, and two plastic containers collect all of the mysids from the tank and place into the plastic containers. Place \~ 20 mysids into container #1. Collect the rest of the mysids and place in container #2.
+    -   Put all the mysids from container #1 into the empty "reset" tank.
+    -   Feed the mysids in container #2 to the adult pipefish.
+    
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx
+

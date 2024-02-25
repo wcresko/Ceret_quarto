@@ -1,8 +1,7 @@
 # Contact Information {#sec-general-contact}
 
-| Col1              | Col2         | Col3  |
-|-------------------|--------------|-------|
-| Cresko Laboratory | 541-346-5189 | Phone |
-| Bill Cresko       | 541-285-5446 | Cell  |
-| Mark Currey       | 541-505-0006 | Cell  |
-| Susie Bassham     | xxxx         | Cell  |
+| Col1          | Col2         | Col3 |
+|---------------|--------------|------|
+| Bill Cresko   | 541-285-5446 | Cell |
+| Mark Currey   | 541-505-0006 | Cell |
+| Susie Bassham | xxxx         | Cell |

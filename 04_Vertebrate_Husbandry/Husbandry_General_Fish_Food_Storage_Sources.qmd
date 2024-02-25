@@ -1,0 +1,93 @@
+# Fish Food: Storage and Sources {#sec-general-foodstorage_sources}
+
+## Introduction
+
+-   **Purpose**: This procedure describes sources of the various fish foods that are used in the Pacific Stickleback Facility and standard practices for storing these foods.
+-   **Procedure Type**: Husbandry
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Mark Currey
+-   **Date Created**: August 25, 2011; updated 2023 by M. Currey
+
+## Procedure
+
+::: {.callout-warning title="NOTES"}
+- Label all foods with received date and expiration date (see below for how to determine expiration date).
+- If one or more component is missing (being ordered) it is ok to leave it out of the mix. Please alert Mark C. to order the missing component.
+:::
+
+1.  **Brine Shrimp**:
+
+    -   Source: Brine Shrimp Direct, www.brineshrimpdirect.com
+    -   Expiration: Good **indefinitely** if frozen in tightly sealed container.
+        -   Upon receiving label with received date.
+        -   Store unopened tins in -20°C freezer
+        -   After de-capsulation label with date de-capsulated and date of expiration (**30** days from de-capsulation).
+        -   Store de-capsulated shrimp at 4°C.
+        
+2.  **Selco (brine shrimp supplement)**:
+
+    -   Source: Aquatic Ecosystems, http://www.aquaticeco.com/
+    -   Expiration: Good **indefinitely** if kept unopened at room temperature.
+        -   Upon receiving label with received date.
+        -   Once opened label with opened date and expiration date of 1 year post opening
+        -   Store at room temperature.
+
+3.  **Golden Pearl Larval Diet**: 100-200, 300-500, and 800-1000 micron
+
+    -   Source: Brine Shrimp Direct, www.brineshrimpdirect.com
+    -   Expiration: Good **1** year if kept unopened in the fridge
+        -   Store in -4°C fridge.
+        -   If stored unopened label with expiration date **1 year** from receiving date.
+        -   Upon opening change expiration date to **6 months** from date opened.
+        -   Store at room temperature.
+
+4.  **Hikari dry foods**: Micro Pellets
+
+    -   Source: Pet Mountain, www.petmountain.com, That Pet Place: http://www.thatpetplace.com
+    -   Expiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in the fridge the food is good for **6 months**.
+        -   Keep out of direct sunlight, high heat, and humidity.
+        -   Store at 4°C.
+
+5.  **New Life Spectrum dry foods**: Optimum saltwater flakes, Growth Formula
+
+    -   Source: Jehmco, www.jehmco.com
+    -   Expiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in fridge the food is good for **6 months**.
+        -   Keep out of direct sunlight, high heat, and humidity.
+        -   Store at 4°C.
+
+5.  **Zeigler Larval dry food**: AP100 (150-250 microns)
+
+    -   Source: Aquatic Ecosystems, http://pentairaes.com
+    -   Expiration: Good **2 years** if kept unopened and in freezer. Once opened and placed in fridge the food is good for **12 months**.
+        -   Upon receiving label with received date and expiration date (2 years from received date).
+        -   Store at 4°C.
+        
+
+8.  **Otohime Fish Diet**: S1 and S2
+
+    -   Source: http://reedmariculture.com/product_otohime_fish_diet.php#tab_tech
+    -   Expiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in freezer the food is good for **6 months**.
+        -   Upon receiving label with received date and expiration date (1 years from received date).
+        -   Store at 4°C.
+
+9.  **Ziegler Zebrafish Diet**:
+
+    -   Source: http://www.zeiglerfeed.com/research-diets/adult-zebrafish-diet/
+    -   Expiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in freezer the food is good for **6 months**.
+        -   Upon receiving label with received date and expiration date (1 years from received date).
+        -   Store at 4°C.
+
+10. **Frozen Mysid and Blood Worms**:
+
+    -   Source: Online and local pet stores
+    -   Expiration: Expiration date printed on front label.
+        -   Upon receiving label with received date
+        -   Store at -20°C.
+        
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

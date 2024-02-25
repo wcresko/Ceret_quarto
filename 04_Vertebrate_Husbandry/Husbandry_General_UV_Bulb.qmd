@@ -1,0 +1,54 @@
+# UV Filter Bulb Replacement {#sec-husb-UV_bulb}
+
+## Introduction
+
+-   **Purpose**: Properly maintain and change UV bulbs in recirculating system in 310 Pacific Hall.
+-   **Procedure Type**: Husbandry
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+
+## Materials
+
+-   New UV bulbs
+-   Stickleback system -- 120 Watt
+-   Pipefish system -- 40 Watt
+-   Gloves
+-   High vacuum grease
+-   Replacement Seals
+-   Cloth for cleaning bulb housing
+-   Bucket
+
+## Solutions
+
+- NA
+
+## Procedure
+
+::: {.callout-warning title="NOTES"}
+- Always wear gloves when handling UV bulbs as oils from your hands can ruin the bulb.
+- If bulb is not on it is probably because the prongs are incorrect.
+- Take bulb back out and change the way the bulb is plugged in.
+- Bulbs should be replaced once per year.
+:::
+
+1.  Turn off power to UV filter by unplugging power cord
+2.  Remove bulb by unscrewing plastic bulb bolt (grey threaded bolt at
+    end of filter).
+3.  Unplug bulb noting prong placement.
+4.  Plug in new bulb with same prong placement as old bulb.
+5.  Screw in bolt and UV.
+6.  Turn power back on by plugging filter back in.
+7.  Check to see that UV is working by looking for light through
+    "viewing window" at the end of the filter.
+8.  Update changed/next change needed sticker on outside of unit.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

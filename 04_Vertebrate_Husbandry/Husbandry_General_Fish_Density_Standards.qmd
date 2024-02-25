@@ -1,0 +1,26 @@
+# Fish Density Standards {#sec-husb-fish_density}
+
+## Introduction
+
+-   **Purpose**: This procedure describes housing density standards for culturing different life stages of threespine stickleback. These standards for fish densities are what we in the Cresko lab have determined optimal after 12 years of keeping threespine stickleback in a recirculating aquaculture system.
+-   **Procedure Type**: Husbandry
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Mark Currey
+-   **Date Created**: August 25, 2011; 151125 updated by M. Currey
+
+## Procedure
+
+-   **Fry (9dpf - 2 months)**:
+    1.  Fry are kept in 2.8 L tanks at an ideal density of 20 fish per container. Fry can be kept in densities of up to 40 fish per tank. If fish densities are near 40 per tank fish are transferred or thinned after 1 month of age.
+-   **Juvenile (2 months - 4 months)**:
+    1.  Juvenile fish are transferred from fry tanks into 10.5 L tanks and kept at a density of 20 fish per container.
+-   **Grow out (4 months - 1 year), Adult and breeding conditioning (1 year - 1.5 years)**:
+    1.  Juvenile fish are transferred to 20 gallon tanks in the Winter room at an ideal density of 20 fish per container. Fish can be kept at a density of 40 fish per tank if space is needed. Once fish are 1 year of age (or older), transfer adult fish to the Summer room. Stickleback males become sexually mature 2-6 weeks after experiencing Summer conditions, females become sexually mature 4-6 weeks after experiencing Summer conditions. Conditioned fish can stay in the Summer room for 5 months. Breeding adults can be kept at increased densities if space is needed.
+    
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

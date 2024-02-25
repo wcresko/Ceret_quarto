@@ -41,6 +41,20 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_Artemia_Decapsulation.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Embryo_and_Larval_Euthanasia_Syngnathid.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Fish_Density_Standards.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Fish_Food_Storage_Sources.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Fry_tank_cleaning.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Health_Check.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Mysid_live_food_culture.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_DB_use.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_UV_Bulb.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Adult_Euthanasia.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Syngnathid_Embryo_and_Larval_Euthanasia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Dishwasher_Use.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Hatching_Feeding_BrineShrimp.qmd
@@ -54,6 +68,7 @@ book:
         - 05_Vertebrate_Experiment/VertExperiment_Live_Fin_Clipping_Syngnathid.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Field_Collection_Syngnathid.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Field_Collection_Stickleback.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Dechorionating_Zebrafish_Embryos.qmd
 
     - part: Part6_Invertebrate_Husbandry.qmd
       chapters:
