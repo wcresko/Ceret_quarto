@@ -1,0 +1,73 @@
+# PCR with Phusion {#sec-molec-Phusion_PCR}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to set up a basic PCR with Phusion polymerase
+-   **Procedure Type**: Molecular
+-   **Species**: N/A
+
+The following guidelines are provided to ensure successful PCR using Phusion® DNA Polymerase. These guidelines cover routine PCR. Amplification of templates with high GC content, high secondary structure, low template concentrations or long amplicons may require further optimization.
+
+We recommend assembling all reaction components on ice and quickly transferring the reactions to a thermocycler preheated to the denaturation temperature (98°C). All components should be mixed and centrifuged prior to use. It is important to add Phusion DNA Polymerase last in order to prevent any primer degradation caused by the 3´→ 5´ exonuclease activity. 
+
+Phusion DNA Polymerase may be diluted in 1X HF or GC Buffer just prior to use in order to reduce pipetting errors. Please note that protocols with Phusion DNA Polymerase may differ from protocols with other standard polymerases. As such, conditions recommended below should be used for optimal performance.
+
+## Materials:
+
+-   PCR tubes, plates or strip tubes (1 per reaction & 1 for positive control)
+-   Forward and reverse primers
+-   npH2O
+-   Phusion DNA polymerase
+-   5X Phusion HF or GC Buffer
+-   10 mM dNTPs
+-   DMSo (optional)
+
+## Solutions:
+
+NONE
+
+## Procedure:
+
+### Prepare PCR reactions
+
+|     | Component            | 20ul Reaction | 50ul Reaction | Final Concentration  |
+|---------------|---------------|---------------|---------------|---------------|
+| 1   | npH20                | to 20 ul      | to 50 ul      |                      |
+| 2   | 5x Phusion Buffer    | 4 ul          | 10 ul         | 1X                   |
+| 3   | 10mM dNTPs           | 0.4ul         | 1.0 ul        | 200 uM               |
+| 4   | 10 uM forward Primer | 1.0 ul        | 2.5 ul        | 0.5 uM               |
+| 5   | 10 uM reverse Primer | 1.0 ul        | 2.5 ul        | 0.5 uM               |
+| 6   | Template DNA         | variable      | variable      | \<250 ng             |
+| 7   | DMSO (optional)      | (0.6 ul)      | (1.5 ul)      | 3%                   |
+| 8   | Phusion polymerase   | 0.2 ul        | 0.5 ul        | 0.4 units/ 20 ul rxn |
+
+: Table 1. Mixtures for PCR Reaction
+
+Mix together reagents in a 1500 ul tube for the number of reactions needed, but add an extra reaction for pipeting error and one for a negative control. For example, if a PCR will be run on 23 samples and one control, mix enough for 25 reactions.
+
+::: {.callout-warning title="Keep reactions cold"}
+- Set up PCR reactions on ice
+- Gently mix the reaction
+- Collect all liquid to the bottom of the tube by a quick spin if necessary
+- Overlay the sample with mineral oil if using a PCR machine without a heated lid
+:::
+
+### PCR Conditions
+
+|     | Step                 | Temperature        | Duration         | Number cycles |
+|--------------|----------------|--------------|--------------|--------------|
+| 1   | Initial Denaturation | 98 C               | 30 seconds       | 1 cycle       |
+| 2   |                      | 98 C               | 30 seconds       |               |
+| 3   | Amplification        | Primer Anneal Temp | 30 seconds       | 25-30 cycles  |
+| 4   |                      | 72 C               | 15-30 seconds/kb |               |
+| 5   | Final Extension      | 72 C               | 5 minutes        | 1 cycle       |
+| 6   | Hold                 | 10 C               | indefinite       | 1 cycle       |
+| 7   |                      |                    |                  |               |
+| 8   |                      |                    |                  |               |
+
+: Table 2. Thermocycler regime
+
+::: {.callout-note title="Anneal temperature and length of amplification step"}
+-   The annealing temperature and length of time for amplification will depend upon the primers and the length of the fragment to be amplified.
+-   15 seconds/kb works for most reactions. 30 seconds/kb can be used for more complex reactions.
+:::

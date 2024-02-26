@@ -26,6 +26,7 @@ book:
         
     - part: Part2_Molecular.qmd
       chapters:
+        - 02_Molecular/Molecular_Phusion_PCR.qmd
         - 02_Molecular/Molecular_cDNA.qmd
         - 02_Molecular/Molecular_2xTurbo.qmd
         - 02_Molecular/Molecular_Para.qmd

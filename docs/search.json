@@ -1146,5 +1146,33 @@
     "title": "35  Dechorionating Zebrafish Embryos",
     "section": "Associated Papers",
     "text": "Associated Papers"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Phusion_PCR.html#introduction",
+    "href": "02_Molecular/Molecular_Phusion_PCR.html#introduction",
+    "title": "2  PCR with Phusion",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to set up a basic PCR with Phusion polymerase\nProcedure Type: Molecular\nSpecies: N/A\n\nThe following guidelines are provided to ensure successful PCR using Phusion® DNA Polymerase. These guidelines cover routine PCR. Amplification of templates with high GC content, high secondary structure, low template concentrations or long amplicons may require further optimization.\nWe recommend assembling all reaction components on ice and quickly transferring the reactions to a thermocycler preheated to the denaturation temperature (98°C). All components should be mixed and centrifuged prior to use. It is important to add Phusion DNA Polymerase last in order to prevent any primer degradation caused by the 3´→ 5´ exonuclease activity.\nPhusion DNA Polymerase may be diluted in 1X HF or GC Buffer just prior to use in order to reduce pipetting errors. Please note that protocols with Phusion DNA Polymerase may differ from protocols with other standard polymerases. As such, conditions recommended below should be used for optimal performance."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Phusion_PCR.html#materials",
+    "href": "02_Molecular/Molecular_Phusion_PCR.html#materials",
+    "title": "2  PCR with Phusion",
+    "section": "Materials:",
+    "text": "Materials:\n\nPCR tubes, plates or strip tubes (1 per reaction & 1 for positive control)\nForward and reverse primers\nnpH2O\nPhusion DNA polymerase\n5X Phusion HF or GC Buffer\n10 mM dNTPs\nDMSo (optional)"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Phusion_PCR.html#solutions",
+    "href": "02_Molecular/Molecular_Phusion_PCR.html#solutions",
+    "title": "2  PCR with Phusion",
+    "section": "Solutions:",
+    "text": "Solutions:\nNONE"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Phusion_PCR.html#procedure",
+    "href": "02_Molecular/Molecular_Phusion_PCR.html#procedure",
+    "title": "2  PCR with Phusion",
+    "section": "Procedure:",
+    "text": "Procedure:\n\nPrepare PCR reactions\n\nTable 1. Mixtures for PCR Reaction\n\n\n\n\n\n\n\n\n\n\nComponent\n20ul Reaction\n50ul Reaction\nFinal Concentration\n\n\n\n\n1\nnpH20\nto 20 ul\nto 50 ul\n\n\n\n2\n5x Phusion Buffer\n4 ul\n10 ul\n1X\n\n\n3\n10mM dNTPs\n0.4ul\n1.0 ul\n200 uM\n\n\n4\n10 uM forward Primer\n1.0 ul\n2.5 ul\n0.5 uM\n\n\n5\n10 uM reverse Primer\n1.0 ul\n2.5 ul\n0.5 uM\n\n\n6\nTemplate DNA\nvariable\nvariable\n&lt;250 ng\n\n\n7\nDMSO (optional)\n(0.6 ul)\n(1.5 ul)\n3%\n\n\n8\nPhusion polymerase\n0.2 ul\n0.5 ul\n0.4 units/ 20 ul rxn\n\n\n\nMix together reagents in a 1500 ul tube for the number of reactions needed, but add an extra reaction for pipeting error and one for a negative control. For example, if a PCR will be run on 23 samples and one control, mix enough for 25 reactions.\n\n\n\n\n\n\nKeep reactions cold\n\n\n\n\nSet up PCR reactions on ice\nGently mix the reaction\nCollect all liquid to the bottom of the tube by a quick spin if necessary\nOverlay the sample with mineral oil if using a PCR machine without a heated lid\n\n\n\n\n\nPCR Conditions\n\nTable 2. Thermocycler regime\n\n\n\n\n\n\n\n\n\n\nStep\nTemperature\nDuration\nNumber cycles\n\n\n\n\n1\nInitial Denaturation\n98 C\n30 seconds\n1 cycle\n\n\n2\n\n98 C\n30 seconds\n\n\n\n3\nAmplification\nPrimer Anneal Temp\n30 seconds\n25-30 cycles\n\n\n4\n\n72 C\n15-30 seconds/kb\n\n\n\n5\nFinal Extension\n72 C\n5 minutes\n1 cycle\n\n\n6\nHold\n10 C\nindefinite\n1 cycle\n\n\n7\n\n\n\n\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnneal temperature and length of amplification step\n\n\n\n\nThe annealing temperature and length of time for amplification will depend upon the primers and the length of the fragment to be amplified.\n15 seconds/kb works for most reactions. 30 seconds/kb can be used for more complex reactions."
   }
 ]
