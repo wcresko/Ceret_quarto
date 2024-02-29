@@ -1,4 +1,4 @@
-# Fish Food: Storage and Sources {#sec-general-foodstorage_sources}
+# Food Storage and Sources {#sec-general-foodstorage_sources}
 
 ## Introduction
 

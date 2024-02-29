@@ -1,0 +1,54 @@
+# Sentinel Fish {#sec-xxx-xxx}
+
+## Introduction
+
+-   **Purpose**: This protocol describes the setup, care, and processing of sentinel fish for the Pacific Stickleback fish room.
+-   **Procedure Type**: xxx
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Bay pipefish, (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+-   Dietrich's fixative {#sec-general_recipe_dietrichs_fix}
+-   50 ml tubes
+-   Straight razor
+
+## Solutions
+
+-   Prepare Dietrich's Fixative (100 ml) as follows & {#sec-general_recipe_dietrichs_fix}
+-   Store fixative at room temperature.
+    -   30 ml Ethanol (95%)
+    -   10 ml Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma \# F1635)
+    -   2 ml Glacial Acetic Acid
+    -   58 ml Distilled Water
+
+## Procedure
+
+### Location and monitoring of sentinel tanks
+
+1. Sentinel fish are placed in tanks in both the Summer and Winter rooms.
+2. A subset of a stock cross can be used, allow fish to live in the water system for at least 2 weeks before sampling.
+3. Every 6 months four fish from each tank are fixed with Deitrich's fixative.
+4. Take fish to the Histology lab for Hematoxylin and Eosin staining and sectioning. 
+5. Prepared slides are given to Dr. Kathy Snell for diagnosis. 
+
+### Fixing of Fish and Sectioning
+
+1. Fish are euthanized using MS222.
+2. Cut 2 cm segments starting just behind the eye to 2 cm caudally.
+3. Put these segments into Dietrich's fix for at least 24 hours.
+4. Parafin embedded sagital sections need to be done.
+5. Request cross sections through the gills and into the gut. 
+
+### Fish to Dr. Kathy Snell
+
+1. Arrange drop off of slides to Dr. Snell located in Huestis Hall, snellk@uoregon.edu
+

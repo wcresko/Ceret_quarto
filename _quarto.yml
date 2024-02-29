@@ -39,35 +39,40 @@ book:
         
     - part: Part4_Vertebrate_Husbandry.qmd
       chapters:
-        - 04_Vertebrate_Husbandry/Husbandry_20gallon.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_Artemia_Decapsulation.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_Embryo_and_Larval_Euthanasia_Syngnathid.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_General_Fish_Density_Standards.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Fish_Food_Storage_Sources.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Fry_tank_cleaning.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Health_Check.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Mysid_live_food_culture.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_DB_use.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_UV_Bulb.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Adult_Euthanasia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Syngnathid_Embryo_and_Larval_Euthanasia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Dishwasher_Use.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Hatching_Feeding_BrineShrimp.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Density_Standards.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Incubator_Use.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Program_Light.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Room_Clean.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Anesthesia.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Density_Standards.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Cross.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Dry_Food_Mix.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Testes_Storage.qmd
-        
+        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.qmd
+
     - part: Part5_Vertebrate_Experiment.qmd
       chapters:
         - 05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.qmd
@@ -84,7 +89,11 @@ book:
         
     - part: Part7_Common_Recipes.qmd
       chapters:
-        - 07_Recipes/Placeholder_Recipes.qmd
+        - 07_Recipes/Recipe_Husbandry_deitrichs_fix.qmd
+        - 07_Recipes/Recipe_Husbandry_embryo_medium.qmd
+        - 07_Recipes/Recipe_Husbandry_ginzbergs_ringers.qmd
+        - 07_Recipes/Recipe_Husbandry_mesab_stock.qmd
+        - 07_Recipes/Recipe_Husbandry_testes_solution.qmd
         
     - part: Part8_Bioinformatic.qmd
       chapters:

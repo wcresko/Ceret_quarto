@@ -1,9 +1,0 @@
-# Placeholder_Recipes {#sec-Recipes}
-
-## xxx
-
-xxxx
-
-### xxx
-
-xxxxx

@@ -1,0 +1,38 @@
+# Embryo Bleaching for Disinfection {#sec-husbandry_stickleback_embryo_bleaching}
+
+## Introduction
+
+-   **Purpose**: This protocol allows for the removal of ecto-parasites from embryos produced from wild-caught stickleback. Use this protocol whenever new fish are added to a pre-existing stickleback rearing system, or whenever stocks are transferred between labs.
+-   **Procedure Type**: Husbandry
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Mark Currey   
+-   **Date Created**: August 25, 2011, update February 29, 2014
+
+## Materials
+
+-   Wash bottle and petri dishes
+-   Timer
+
+## Solutions
+
+-   6% sodium hypochlorite (standard bleach)
+-   Working stock of bleach, mix:
+      500 µl of bleach
+      1 liter of embryo medium {#sec-general_recipe_embryo_medium}
+
+## Procedure
+
+      1.  Raise embryos according to standard crossing and rearing protocols {#sec-husbandry_stickleback_crossing}
+      2.  At 48-60 hours post-fertilization (@ 20C - at this point most organogenesis is complete) remove embryo medium from petri dishes and rinse embryos once with fresh embryo medium.
+      3.  Fill petri dish with working stock solution of bleach. Swirl and let sit for 1.5 min. Do not bleach embryos for longer as chorions can thicken and it becomes difficult for embryos to hatch.
+      4.  Drain bleach solution from embryos, and wash them three times with fresh embryo medium. This is really important.
+      5.  Replace embryo medium daily. If crosses are done in the field, the embryos can be shipped from day 3 to day 6 post-fertilization. To ship embryos, rinse once with embryo medium, place embryos into a 50ml conical tube (~100 embryos/tube) and fill with fresh embryo medium. Place tubes in a shipping container with wet ice. Separate the tubes from the ice with bubble-wrap and newspapers. Ship the embryos overnight.
+      6.  When the embryos arrive at the lab, rinse the outside of the containers well before moving into the lab. Allow them to equilibrate to room temp (~20C). Place the embryos into petri dishes, rinse once, and add new embryo medium. Rear according to standard protocol.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

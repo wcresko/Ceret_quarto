@@ -1,0 +1,37 @@
+# Ginzberg's Ringer Solution {#sec-general_recipe_ginzbergs_ringers}
+
+## Introduction
+
+-   **Purpose**: Recipe for making ginzberg's ringers solution\
+-   **Procedure Type**: recipe
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Mark Currey
+-   **Date Created**: January 1, 2004
+
+## Materials
+
+-   NaCl
+-   KCl
+-   CaCl2
+-   NaHCO3
+-   npH2O
+
+::: {.callout-Note title="NOTE"}
+All of these reagents should be located in the chemical cabinet.
+:::
+
+## Solutions
+
+-   none
+
+## Procedure
+
+For 1000 mls, mix: 1. Mix solids into 750 ml of npH2O - 6.6g NaCl - 0.25g KCl - 0.3g CaCl2 - 0.2g NaHCO3 2. Bring to 1 liter total volume with npH2O. 3. Store at 4° C.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

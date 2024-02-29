@@ -1,0 +1,35 @@
+# Stickleback Embryo Medium (EM) {#sec-general_recipe_embryo_medium}
+
+## Introduction
+
+-   **Purpose**: Recipe for embryo medium\
+-   **Procedure Type**: recipe
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Mark Currey
+-   **Date Created**: January 1, 2004
+
+## Materials
+
+-   Instant Ocean Salt
+-   Baking Soda
+-   nano pure water (npH2O)
+
+## Solutions
+
+-   none
+
+## Procedure
+
+For 2 liters: 1. Add 8g Instant Ocean to 2 liters of npH2O 2. Add \~0.5g baking soda 3. Check pH and adjust to 7.0 – 8.0
+
+::: {.callout-Note title="NOTE"}
+Salt and baking soda are located in containers near the weigh station. Rinse 2 liter flasks with DI water between uses.
+:::
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

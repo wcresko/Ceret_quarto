@@ -1,0 +1,34 @@
+# Testes Storage Solution {#sec-general_recipe_testes_solution}
+
+## Introduction
+
+-   **Purpose**: Recipe for making testes storage solution\
+-   **Procedure Type**: recipe
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Mark Currey
+-   **Date Created**: January 1, 2004
+
+## Materials
+
+-   Gentamycin (antimycotic) (Stock – 10 mg/ml)\*
+-   Cell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration
+
+::: {.callout-Note title="NOTE"}
+Both of these reagents are located in separate boxes in the scientific -20° C freezer. They are partitioned into 100μl aliquots.
+:::
+
+## Solutions
+
+-   Ginzberg's Ringers {#sec-general_recipe_ginzbergs_ringers}
+
+## Procedure
+
+For 100 mls, mix: 1. Add 100μl of Gentamycin and 100μl of Anti-biotic/mycotic to 100ml of Ginzburg’s Ringers solution. 2. Store at 4° C.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

@@ -58,84 +58,84 @@
   {
     "objectID": "02_Molecular/Molecular_2xTurbo.html#introduction",
     "href": "02_Molecular/Molecular_2xTurbo.html#introduction",
-    "title": "3  2x Turbo",
+    "title": "4  2x Turbo",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: This procedure describes how to create 2x Turbo PCR mix.\nProcedure Type: Molecular\nSpecies: N/A"
   },
   {
     "objectID": "02_Molecular/Molecular_2xTurbo.html#materials",
     "href": "02_Molecular/Molecular_2xTurbo.html#materials",
-    "title": "3  2x Turbo",
+    "title": "4  2x Turbo",
     "section": "Materials:",
     "text": "Materials:\n\n33,000 µl npH2O\n2000 µl MgSO4 (100mM)\n1600 µl 1M Tris-HCl (pH 8.6)\n800 µl 1M KCl\n800 µl 1M (NH4)2SO4\n800 µl Triton-X 100 (10%)\n400 µl DMSO (100 %)\n120 µl dATP (100mM)\n120 µl dGTP (100mM)\n120 µl dTTP (100mM)\n120 µl dCTP (100mM)\n80 µl 100mg/ml BSA\n\nTotal = 40 ml of buffer"
   },
   {
     "objectID": "02_Molecular/Molecular_2xTurbo.html#solutions",
     "href": "02_Molecular/Molecular_2xTurbo.html#solutions",
-    "title": "3  2x Turbo",
+    "title": "4  2x Turbo",
     "section": "Solutions:",
     "text": "Solutions:\nNONE"
   },
   {
     "objectID": "02_Molecular/Molecular_2xTurbo.html#procedure",
     "href": "02_Molecular/Molecular_2xTurbo.html#procedure",
-    "title": "3  2x Turbo",
+    "title": "4  2x Turbo",
     "section": "Procedure:",
     "text": "Procedure:\n\nMix above reagents together\nPlace in 1.5 ml ependorph tubes\nStore at -20C"
   },
   {
     "objectID": "02_Molecular/Molecular_Para.html#introduction",
     "href": "02_Molecular/Molecular_Para.html#introduction",
-    "title": "4  Paraformaldehyde",
+    "title": "5  Paraformaldehyde",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: This procedure describes how to make 8% paraformaldehyde. This protocol is the one I have used and makes use of pH to get the PFA into solution relatively quickly - then you readjust the pH. It’s for 8% - then you can add 1:1 2x PBS.\nProcedure Type: Molecular\nSpecies: N/A"
   },
   {
     "objectID": "02_Molecular/Molecular_Para.html#materials",
     "href": "02_Molecular/Molecular_Para.html#materials",
-    "title": "4  Paraformaldehyde",
+    "title": "5  Paraformaldehyde",
     "section": "Materials:",
     "text": "Materials:\n\nxxx\n\nTotal = 40 ml of buffer"
   },
   {
     "objectID": "02_Molecular/Molecular_Para.html#solutions",
     "href": "02_Molecular/Molecular_Para.html#solutions",
-    "title": "4  Paraformaldehyde",
+    "title": "5  Paraformaldehyde",
     "section": "Solutions:",
     "text": "Solutions:\nNONE"
   },
   {
     "objectID": "02_Molecular/Molecular_Para.html#procedure",
     "href": "02_Molecular/Molecular_Para.html#procedure",
-    "title": "4  Paraformaldehyde",
+    "title": "5  Paraformaldehyde",
     "section": "Procedure:",
     "text": "Procedure:\n\n\n\n\n\n\nHUMAN HEALTH WARNGING\n\n\n\nParaformaldehyde can be hazardous to your health - make sure you prepare in the fume hood.\n\n\n\nAdd 40 g Paraformaldehyde to 450 ml distilled water (or scale for desired final volume).\nAdd 1 ul of 10 N NaOH per ml of water (i.e. 500 ul for 500 ml).\nApply medium heat while stirring at medium speed to dissolve - approx 15-20 min.\nSolution should not go above 60º C.\nEventually, granules will fully dissolve and the solution will become translucent.\n\n\n\n\n\n\n\nDO NOT LET THE SOLUTION STIR BEYOND THIS POINT\n\n\n\nIt will form a fuzzy precipitate that reduces the solution strength after filtering.\n\n\n\nOnce the granules have dissolved and the solution clears, turn off the heat and equilibrate to pH 7.4 with approx 1.5 ml of 20% HCl (or scale, depending on target volume).\nBring volume to 500 ml (or scaled volume) with distilled water.\nFilter while still warm to 0.45 um (or 0.2 um). Aliquot and store at -20º C."
   },
   {
     "objectID": "02_Molecular/Molecular_Alizarin.html#introduction",
     "href": "02_Molecular/Molecular_Alizarin.html#introduction",
-    "title": "5  Alizarin Staining",
+    "title": "6  Alizarin Staining",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: Alizarin staining of fixed adult stickleback.\nProcedure Type: Molecular\nSpecies:\n\nThreespine stickleback, Gasterosteus aculeatus\nxxx\n\nAuthors\n\nxxx\n\n\n\n\n\n\n\n\nSchedule for Cleaning\n\n\n\nPLACEHOLDER"
   },
   {
     "objectID": "02_Molecular/Molecular_Alizarin.html#materials",
     "href": "02_Molecular/Molecular_Alizarin.html#materials",
-    "title": "5  Alizarin Staining",
+    "title": "6  Alizarin Staining",
     "section": "Materials:",
     "text": "Materials:\n\nAlizarin red S\nKOH\nH2O2\nNaOH\nMESAB\nPFA"
   },
   {
     "objectID": "02_Molecular/Molecular_Alizarin.html#solutions",
     "href": "02_Molecular/Molecular_Alizarin.html#solutions",
-    "title": "5  Alizarin Staining",
+    "title": "6  Alizarin Staining",
     "section": "Solutions:",
     "text": "Solutions:\n\n0.5% Alizarin red S Stock:\n\nTo make 50 mls add 0.25g alizarin red S powder to 50 ml water.\n\n0.025% Alizarin Stain\n\nTo make 100 mls: Add 500µl 0.5% alizarin red S (stock) to 99.5ml 1% KOH\n1 Liter: Add 5ml 0.5% alizarin red S (stock) to 9950ml (1 liter) 1%KOH\n\n3% H202/0.5%KOH: Mix and keep at 4C; Before using, bring to room temperature to hold down introducing bubbles under the skin: 0.5ml 6%H202 & 0.5ml 1%KOH.\nMESAB: Tricaine: 3-amino benzoic acid ethyl ester from Sigma (Cat # A-5040). Mix in fish safe container with a stir bar:\n\n400 mg tricaine powder\n800 mg Na2HPO4 (anhydrous)\n100 ml glass distilled water\nAdjust to ~pH 7 with a drop at a time of 1N NaOH or 1N HCl if needed but it’s usually right if you weigh the sodium phosphate carefully and measure the water with a graduated cylinder.\nFor storage: Aliquot into 6 x 25 ml fish safe plastic bottles and store at 4C. Label with date made and use within a couple of weeks.\n\n8% PFA:\n\n8 g Pelleted PFA (Ted Pella, Inc.; cat# 18501)\n90 ml dH2O\n25 drops 1N NaOH\nHeat at very low heat and stir until solution clears.\nAdd 25 drops 1N HCl. pH should be 7.0-7.2.\nFilter and store at 4C not more than 1 week.\nUse as 4% PFA: dilute 1:1 with 2X PBS, do not store solution more than a few hours.\n\n2X PBS\n\n1.6% NaCl\n0.04% KCl\n0.04 M PO4 pH 7.0- 7.3"
   },
   {
     "objectID": "02_Molecular/Molecular_Alizarin.html#procedure",
     "href": "02_Molecular/Molecular_Alizarin.html#procedure",
-    "title": "5  Alizarin Staining",
+    "title": "6  Alizarin Staining",
     "section": "Procedure:",
     "text": "Procedure:\n\nDay One\n\n2h-8h at R/T depending on size on shaker.\nWithout agitation and with lid open until eyes start to lighten and all skin pigment is gone (usually about an hour or more)\n\nDay Two\n\nxxx\nxxx\nxxx"
   },
@@ -261,28 +261,28 @@
   {
     "objectID": "05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.html#introduction",
     "href": "05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.html#introduction",
-    "title": "10  Alizarin Staining",
+    "title": "42  Alizarin Staining",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: This procedure describes how to live alizarin stain pipefish\nProcedure Type: Amimal Experimental\nSpecies:\n\nBay pipefish, (Syngnathus leptorhyncus),\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
   },
   {
     "objectID": "05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.html#solutions",
     "href": "05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.html#solutions",
-    "title": "10  Alizarin Staining",
+    "title": "42  Alizarin Staining",
     "section": "Solutions",
     "text": "Solutions\n\nAlizarin stock solutions: 0.5g?Alizarin red in 100ml or in 50ml in sterile water?(SIGMA cat# A5533 Alizarin Red S, certified).?? ?\nStaining Solution: For 1 Liter:?\n\n990 ml embryo medium?(See embryo medium recipe).?\nAdd 10 ml 0.5% or 1% Alizarin Stock in sterile water?for final concentrations of 0.005% or 0.01%.\nAdjust to pH 7.5 with NaOH ? For 50 ml (enough for 100mm diameter petri dish):?\n\n49.5 ml Embryo medium?\nAdd 500 ?l 0.5% or 1% Alizarin Stock in sterile water?\nAdjust to pH 7.5 with NaOH"
   },
   {
     "objectID": "05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.html#procedures",
     "href": "05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.html#procedures",
-    "title": "10  Alizarin Staining",
+    "title": "42  Alizarin Staining",
     "section": "Procedures",
     "text": "Procedures\n\nPlace fish into a container containing stain for 1-2 hours for larvae to overnight for juveniles or adult fish in the dark. We have found that fish do not experience adverse effects from being exposed to stain. Monitor fish every 30-60 minutes if possible. To de-stain, rinse thoroughly with embryo medium by placing fish into container of embryo medium without stain for 30 minutes; background continues to go down with time. Move on to DASPEI live staining if desired (see DASPEI live staining SOP) or anesthetize until the fish reaches a light plane of anesthesia (i.e. movement has slowed down enough that the fish can be safely handled) and observe/image.?\nBone fluorescence will decrease over time, so plan on imaging the same day if possible.?\nKeep fish in the dark as much as is reasonably convenient.?\nAfter fish has been observed/imaged place in a container of fish water. Monitor fish every 5-10 minutes until the fish is revived. Once fish is revived place back on the fish system and monitor during daily health checks. If the fish is to be fixed for post mortem experiments place fish directly into euthanasia MS222 solution and follow the euthanasia SOP."
   },
   {
     "objectID": "05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.html#associated-papers",
     "href": "05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.html#associated-papers",
-    "title": "10  Alizarin Staining",
+    "title": "42  Alizarin Staining",
     "section": "Associated Papers",
     "text": "Associated Papers"
   },
@@ -548,49 +548,49 @@
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.html#introduction",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.html#introduction",
-    "title": "10  Autoclaving Fish Room",
+    "title": "9  Autoclaving Fish Room",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: For sanitizing nets and scrub pads that have been used in the fish room.\nProcedure Type: xxx\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\nZebrafish, (Danio rerio)\n\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.html#materials",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.html#materials",
-    "title": "10  Autoclaving Fish Room",
+    "title": "9  Autoclaving Fish Room",
     "section": "Materials",
     "text": "Materials\n\nxx\nxx\nxx"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.html#procedure",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Autoclaving.html#procedure",
-    "title": "10  Autoclaving Fish Room",
+    "title": "9  Autoclaving Fish Room",
     "section": "Procedure",
     "text": "Procedure\n\nPlace dirty nets and scrub pads in autoclave wire bin\nPut bin into autoclave, and close the door (close door by pushing main door against hinge on left of door, then push door shut and seal by turning handle clockwise to just tight, DO NOT OVER TIGHTEN).\nChange menu to B using keypad\nHit #1 twice, this will start the autoclave.\nSign sheet on outside of entrance door\nWait 45 minutes and remove nets\nPut nets in clean nets tub.\nInitial Check list on outside of door.   Gravity   45 min   OK to Remove"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.html#introduction",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.html#introduction",
-    "title": "15  Brine Shrimp Enrichment",
+    "title": "12  Brine Shrimp Enrichment",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: This procedure describes how to enrich brine shrimp with high-carotenoid marine algae (or other enrichments).\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: May 6, 2008; February 2, 2024 updated by M. Currey"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.html#materials",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.html#materials",
-    "title": "15  Brine Shrimp Enrichment",
+    "title": "12  Brine Shrimp Enrichment",
     "section": "Materials",
     "text": "Materials\n\nDe-capsulated Brine Shrimp\nRock Salt\n105 μm mesh shrimp collector\nBaking Soda\nSquirt Bottle\nEnrichment material\n\n#Solutions\n\nnone"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.html#procedure",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.html#procedure",
-    "title": "15  Brine Shrimp Enrichment",
+    "title": "12  Brine Shrimp Enrichment",
     "section": "Procedure",
     "text": "Procedure\n\nHatch and harvest the brine shrimp (see brine shrimp hatching and feeding SOP).\nTransfer into a specimen cup with clean seawater to resuspend them. Fill the specimen cup with new seawater until it reaches 1L.\nDilute the brine shrimp. Assuming an 80% hatch rate from the 1 g of brine shrimp eggs about 200,000 nauplii will hatch. For further culturing the recommended density is 1,000-2,000 brine shrimp/L. As many will be lost in the culturing process shooting for a higher density will result in more alive at the end. Add between 300-400 mL of the brine shrimp to a 5-gallon (18L) conical hatching jar (made to 30-35 ppt) ensuring that the brine shrimp are suspended in the specimen cup and not settled at the bottom.\n\nProvide a lid to reduce evaporation and proper aeration. Make sure the tube extends as far down as possible to eliminate the possibility of a “dead zone”\n\nFeed the brine shrimp. Brine shrimp do not eat for the first 48 hrs. of their life cycle as they absorb nutrients from their yolk sac. After 48 hr. feed the brine shrimp High-Carotenoid Marine Algae (ordered from brineshrimpdirect.com). Add 1 tsp. of Hi-C Algae to a blender with 0.5L of seawater and blend until smooth. Add this solution to the conical hatching jar for the brine shrimp to feed on. Feed this solution to brine shrimp daily.\n\nStore leftover Hi-C Algae in 50 mL Falcon Tubes sealed with parafilm in the freezer\n\nConduct daily water changes. Since a filtration system cannot be implemented due to the small nature of the brine shrimp, 20-30% water changes should be conducted daily. Remove air from the system and open the stopcock to allow water to exit the container. Filter the water through a fine mesh net to catch any brine shrimp as it exits the conical hatching jar. Immediately transfer those brine shrimp to a specimen container and re-add them to the system. Wipe down and food that has settled along the edge and lid and re-fill the conical hatching jar with clean seawater. Reintroduce the air.\nFeed out the brine shrimp. It takes around 8-12 days for the brine shrimp to reach their full size of 7mm (this amount of time will change depending on how optimum the conditions are for the brine shrimp). Once large enough, drain a portion of the container through a fine mesh net and immediately transfer into a specimen cup with clean seawater. Drain this water through a net with larger holes to remove food from the solution (brine shrimp will be large enough at this time to not fall through the holes) into a new specimen cup. Use a turkey baster to allocate food evenly to all of the tanks.\n\n\nDepending on the amount of fish that must be fed the culture may be fed out over a period of multiple days\n\n\nIf the conical hatching jar is completely fed out, restart the culture with new nauplii. For best results stagger the start of the conical hatching jars so brine shrimp will always be growing while you feed out others."
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.html#associated-papers",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.html#associated-papers",
-    "title": "15  Brine Shrimp Enrichment",
+    "title": "12  Brine Shrimp Enrichment",
     "section": "Associated Papers",
     "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
   },
@@ -716,105 +716,105 @@
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#introduction",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#introduction",
-    "title": "13  20 gallon Tank Cleaning",
+    "title": "10  Tank Cleaning 20G",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: This procedure describes how to clean 20 gallon glass tanks.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: April 8, 2008; revised December 6, 2018 by M. Currey\n\n\n\n\n\n\n\nThis is important\n\n\n\nTank cleaning is to be done ONLY Monday - Friday."
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#materials",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#materials",
-    "title": "13  20 gallon Tank Cleaning",
+    "title": "10  Tank Cleaning 20G",
     "section": "Materials",
     "text": "Materials\n\nScrub pad or sponge\nCart\nOld clothes (this can be messy)\nPersonal protection equipment (Splash proof glasses or face shield)\nGloves\nSink"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#solutions",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#solutions",
-    "title": "13  20 gallon Tank Cleaning",
+    "title": "10  Tank Cleaning 20G",
     "section": "Solutions",
     "text": "Solutions\n\nBleach solution: Make a 10% bleach solution in a used 1 gallon bleach bottle. To do so: Add 2.7 L of water. Add 0.3 L of bleach and gently stir. Dispense into appropriately labeled squirt bottle for use.\nSodium thiosulfate: Make a 5% solution of sodium thiosulfate in the carboy located on counter above the fridge. To do so: Add 500 g of sodium thiosulfate. Fill carboy to the fill line indicated on front of carboy (~ 5L) with water. Mix aggressively. Dispense into appropriately labeled squirt bottle for use.\n\n\n\n\n\n\n\nChemical Hygiene\n\n\n\nWhen using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate."
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#procedure",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#procedure",
-    "title": "13  20 gallon Tank Cleaning",
+    "title": "10  Tank Cleaning 20G",
     "section": "Procedure",
     "text": "Procedure\n\nComplete bleaching and cleaning of tank. This needs to be done to each tank every 2 months.\n\nRemove fish from tank and put them into a clean tank. Tanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced.\nDrain the tank and remove it from the rack. Clean air diffuser as instructed below. Clean the tank and all parts thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside (algae should be left if very gentle rubbing will not remove it.\nSquirt about 10-20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand using a pad or sponge exposing all inside portions of the tank to bleach.\nRinse the tank thoroughly with hot tap water. Rinse the tank with sodium thiosulfate, and then rinse it again with hot water. Put a few thiosulfate crystals into the tank and leave it.\nReassemble the tank and put it back on the rack. Fill with system water and using a dry erase marker record date/time on the front of the tank.\nAllow water to recirculate for about 30 minutes before adding fish. If adding fish, Watch fish for 15 min after adding them to look for any signs of distress.\n\nInitial check list\nAir diffuser cleaning:\n\nRemove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.\nPlace in 10% bleach solution for 15-30 minutes. Please see {#sec-Plastic_Glassware_cleaning-bleach} for bleach and sodium thisolfate instructions.\nRinse with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.\nRinse with hot water for 5 minutes.\nWhen cleaned, air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress."
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#associated-papers",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_20_gallon_tank_cleaning.html#associated-papers",
-    "title": "13  20 gallon Tank Cleaning",
+    "title": "10  Tank Cleaning 20G",
     "section": "Associated Papers",
     "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#introduction",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#introduction",
-    "title": "14  Artemia Decapsulation",
+    "title": "11  Artemia Decapsulation",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: This procedure describes standard practices for decapsulating brine shrimp.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: Adapted April 3, 2008 by M. Currey; Updated February 12, 2024 by M. Currey"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#materials",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#materials",
-    "title": "14  Artemia Decapsulation",
+    "title": "11  Artemia Decapsulation",
     "section": "Materials",
     "text": "Materials\n\n15 oz can of dried Artemia cysts (approximately 430 g)\n4.3 L ~6% laundry grade bleach\nRock Salt (NaCl)\n125 ml 40% Lye (NaOH) solution\n30.0 g Sodium thiosulfate (Na2S2O3)\n16 L Hatching Cone with aeration\n125 micron mesh bag (Aquatic Eco-Systems PMB3, 125 micron x 18”)\nSeveral 3-5 L beakers\n(1-2) Squirt bottles - squeeze type"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#solutions",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#solutions",
-    "title": "14  Artemia Decapsulation",
+    "title": "11  Artemia Decapsulation",
     "section": "Solutions",
     "text": "Solutions\n\n\n\n\n\n\nNOTES\n\n\n\nSolutions should be prepared in advance.\n\n\n\n\n\n\n\n\nChemical Hygiene\n\n\n\nWhen using bleach and/or NaOH. Eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol.\n\n\n\nBleach, ~6% laundry grade\n25 ppt Salt Solution\n\nCombine: 50 g Rock Salt (NaCl) To 2.0 L with tap water\nStir to dissolve completely.\n\n40% Lye (NaOH) solution\n\nCombine: 200 g Lye (NaOH) To 500 mL with tap water\nStir to dissolve completely.\nStore in refrigerator (4°C)\n\nBuffered Salt Solution\n\nCombine: 2L, 25 ppt Salt Solution\n125 mL 40% Lye Solution, pre-chilled to 4°C\n\n1.0% Sodium Thiosulfate\n\nCombine: 30 g sodium thiosulfate To 3.0 L with tap water\nStir to dissolve.\n\nSaturated Brine\n\nCombine: ~25g Rock Salt to 4.0 L with tap water\nAerate to dissolve."
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#procedure",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#procedure",
-    "title": "14  Artemia Decapsulation",
+    "title": "11  Artemia Decapsulation",
     "section": "Procedure",
     "text": "Procedure\n\nCyst hydration: Hydrate one full can of dried cyst in 5 L of tap water in a hatching cone with aeration for 1 hour at room temp. Examine the cyst under a dissecting scope with top lighting before proceeding. Dry cysts are dimpled, resembling a deflated basketball, whereas fully hydrated cysts are completely spherical in shape. The cysts must be fully hydrated prior to the de-capsulation step. If cysts are not completely spherical after 1 hour, continue the hydration process (for a maximum of 2 hours), checking the progress of the cysts under a microscope every 15 min.\nFilter and rinse cysts: Collect the hydrated cyst in a 125 um mesh bag and rinse with cool tap water.\nTransfer cysts back to the cone: Add the Buffered Salt Solution to the cone and aerate (save back a filled squirt bottle of salt solution to help transfer cysts to cone). Transfer cysts into cone.\nDe-capsulation: Add the bleach (4.3 L) to the cone and continue aeration. Watch the cysts turn from brown to grey to orange, When the cysts are 90% orange, stop the reaction by quickly siphoning the cysts through a 125 um mesh bag and rinsing well with cool tap water.\nNeutralization residual chlorine: To neutralize any residual chlorine transfer the mesh bag to a clean 4 L beaker and pour the 1.0% Sodium Thiosulfate (3L) into the bag. Soak the cysts in the sodium thiosulfate solution for ~1 min, then rinse the cysts with de-ionized tap water. Rinse until discharge turns clear.\nDehydration for long-term storage: Transfer the cysts back to the cone with 4 L of saturated brine and aerate until salt is dissolved. Transfer dehydrated cyst to (5 or 6) 1 L Nalgene bottles filled with 200 - 300 grams of salt. Add enough salt so that it does not dissolve when de-capsulated brine is added. Fill the bottles with de-capsulated brine. Store in refrigerator. The de-capsulated brine will store for at least 1 month. Hatch brine as you would capsulated brine (see Hatching and Feeding Brine SOP)."
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#associated-papers",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Brine_Shrimp_decapsulation.html#associated-papers",
-    "title": "14  Artemia Decapsulation",
+    "title": "11  Artemia Decapsulation",
     "section": "Associated Papers",
     "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#introduction",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#introduction",
-    "title": "16  Bleach and Sodium Thiosulfate",
+    "title": "13  Bleach and Sodium Thiosulfate",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: This procedure describes how to use bleach and sodium thisosulfate to clean plastics and glassware in the Pacific fish facility.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: April 10, 2008; updated April 4, 2012 by M. Currey"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#materials",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#materials",
-    "title": "16  Bleach and Sodium Thiosulfate",
+    "title": "13  Bleach and Sodium Thiosulfate",
     "section": "Materials",
     "text": "Materials\n\nGloves\nEye protection\nApron\nGloves\nOld clothes (I have ruined many shirts doing this)"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#solutions",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#solutions",
-    "title": "16  Bleach and Sodium Thiosulfate",
+    "title": "13  Bleach and Sodium Thiosulfate",
     "section": "Solutions",
     "text": "Solutions\n\nBleach solution: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.\nSodium thiosulfate: Make a 5% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 250 g (marked on dispenser) of sodium thiosulfate. Mix aggressively.\n\n\n\n\n\n\n\nChemical Hygiene\n\n\n\nWhen using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate.\n\n\n\n\n\n\n\n\nNOTES\n\n\n\nThese solutions need to be changed once a week. (see below for directions)"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#procedure",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#procedure",
-    "title": "16  Bleach and Sodium Thiosulfate",
+    "title": "13  Bleach and Sodium Thiosulfate",
     "section": "Procedure",
     "text": "Procedure\n\nCleaning of Dishes: (Do the steps below in the order displayed)\n\nPut away all clean dishes that are on drying shelve.\nTransfer sodium thiosulfate soaked dishes into sink and rinse well. After they have been rinsed place the dishes on drying racks to dry.\nTransfer bleach soaked dishes into sodium thiosulfate solution and let soak overnight.\nRinse dirty (dishes) glass and plastic ware, NO NETS, in the sink.\nPlace rinsed dishes into bleach and let soak overnight.\n\nChanging solutions:\n\nWear gloves and protective eyewear.\nEmpty bleach/sodium thiosulfate containers of all dishes.\nEmpty used solutions into sink.\nRinse container with water and allow to drain.\nFill with water and the proper amount of bleach/sodium thiosulfate to make the concentrations as stated above. (The directions for this with amounts of water and chemical should be written on container)\nInitial Check list"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#associated-papers",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Cleaning_Plastic_and_Glassware_with_Bleach.html#associated-papers",
-    "title": "16  Bleach and Sodium Thiosulfate",
+    "title": "13  Bleach and Sodium Thiosulfate",
     "section": "Associated Papers",
     "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
   },
@@ -842,21 +842,21 @@
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Fish_Food_Storage_Sources.html#introduction",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Fish_Food_Storage_Sources.html#introduction",
-    "title": "18  Fish Food: Storage and Sources",
+    "title": "14  Food Storage and Sources",
     "section": "Introduction",
     "text": "Introduction\n\nPurpose: This procedure describes sources of the various fish foods that are used in the Pacific Stickleback Facility and standard practices for storing these foods.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Mark Currey\nDate Created: August 25, 2011; updated 2023 by M. Currey"
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Fish_Food_Storage_Sources.html#procedure",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Fish_Food_Storage_Sources.html#procedure",
-    "title": "18  Fish Food: Storage and Sources",
+    "title": "14  Food Storage and Sources",
     "section": "Procedure",
     "text": "Procedure\n\n\n\n\n\n\nNOTES\n\n\n\n\nLabel all foods with received date and expiration date (see below for how to determine expiration date).\nIf one or more component is missing (being ordered) it is ok to leave it out of the mix. Please alert Mark C. to order the missing component.\n\n\n\n\nBrine Shrimp:\n\nSource: Brine Shrimp Direct, www.brineshrimpdirect.com\nExpiration: Good indefinitely if frozen in tightly sealed container.\n\nUpon receiving label with received date.\nStore unopened tins in -20°C freezer\nAfter de-capsulation label with date de-capsulated and date of expiration (30 days from de-capsulation).\nStore de-capsulated shrimp at 4°C.\n\n\nSelco (brine shrimp supplement):\n\nSource: Aquatic Ecosystems, http://www.aquaticeco.com/\nExpiration: Good indefinitely if kept unopened at room temperature.\n\nUpon receiving label with received date.\nOnce opened label with opened date and expiration date of 1 year post opening\nStore at room temperature.\n\n\nGolden Pearl Larval Diet: 100-200, 300-500, and 800-1000 micron\n\nSource: Brine Shrimp Direct, www.brineshrimpdirect.com\nExpiration: Good 1 year if kept unopened in the fridge\n\nStore in -4°C fridge.\nIf stored unopened label with expiration date 1 year from receiving date.\nUpon opening change expiration date to 6 months from date opened.\nStore at room temperature.\n\n\nHikari dry foods: Micro Pellets\n\nSource: Pet Mountain, www.petmountain.com, That Pet Place: http://www.thatpetplace.com\nExpiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in the fridge the food is good for 6 months.\n\nKeep out of direct sunlight, high heat, and humidity.\nStore at 4°C.\n\n\nNew Life Spectrum dry foods: Optimum saltwater flakes, Growth Formula\n\nSource: Jehmco, www.jehmco.com\nExpiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in fridge the food is good for 6 months.\n\nKeep out of direct sunlight, high heat, and humidity.\nStore at 4°C.\n\n\nZeigler Larval dry food: AP100 (150-250 microns)\n\nSource: Aquatic Ecosystems, http://pentairaes.com\nExpiration: Good 2 years if kept unopened and in freezer. Once opened and placed in fridge the food is good for 12 months.\n\nUpon receiving label with received date and expiration date (2 years from received date).\nStore at 4°C.\n\n\nOtohime Fish Diet: S1 and S2\n\nSource: http://reedmariculture.com/product_otohime_fish_diet.php#tab_tech\nExpiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in freezer the food is good for 6 months.\n\nUpon receiving label with received date and expiration date (1 years from received date).\nStore at 4°C.\n\n\nZiegler Zebrafish Diet:\n\nSource: http://www.zeiglerfeed.com/research-diets/adult-zebrafish-diet/\nExpiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in freezer the food is good for 6 months.\n\nUpon receiving label with received date and expiration date (1 years from received date).\nStore at 4°C.\n\n\nFrozen Mysid and Blood Worms:\n\nSource: Online and local pet stores\nExpiration: Expiration date printed on front label.\n\nUpon receiving label with received date\nStore at -20°C."
   },
   {
     "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Fish_Food_Storage_Sources.html#associated-papers",
     "href": "04_Vertebrate_Husbandry/Husbandry_General_Fish_Food_Storage_Sources.html#associated-papers",
-    "title": "18  Fish Food: Storage and Sources",
+    "title": "14  Food Storage and Sources",
     "section": "Associated Papers",
     "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
   },
@@ -1531,5 +1531,495 @@
     "title": "Bioinformatic",
     "section": "",
     "text": "This ection of the book contains protocols for basic bioinformatic skills such as using our laboratory cluster ‘Genome’, as well as our account Nereus on the UO supercomputer Talapas.\nNote that there are several appendices that contain greater details and training on things such as the use of command line, R and Python, markdown and literature programming, and documentation using Quarto and Jupyter notebooks.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#introduction",
+    "title": "20  Weekday Feeding & Health Checks",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to conduct weekday feedings and health checks for stickleback and pipefish\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: December 15, 2023; modified February 29, 2024"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#materials",
+    "title": "20  Weekday Feeding & Health Checks",
+    "section": "Materials",
+    "text": "Materials\n\nAdult stickleback food\nJuvenile stickleback food\nBrine shrimp\nSquirt bottle\nDe-capsulated brine shrimp\nRock salt\n105 μm mesh shrimp collector\nBaking soda\nFrozen mysids\n1000 ml beaker labeled “Pipefish Only”\nNet\nContainer to hold fish while being euthanized\nPostmortem fixing equipment\nMorgue\n\n\nAdult and Juvenile mixes can be found here: {#sec-recipe-dry_fish_food}"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#solutions",
+    "title": "20  Weekday Feeding & Health Checks",
+    "section": "Solutions",
+    "text": "Solutions\n\nEuthanasia strength Mesab (located in Mark’s fridge in 324 Pacific)"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#procedure",
+    "title": "20  Weekday Feeding & Health Checks",
+    "section": "Procedure",
+    "text": "Procedure\n\n\n\n\n\n\nNOTES\n\n\n\nFish will be fed 2x per day on weekdays, once in morning and another in the afternoon ideally spread as far apart as schedules will allow.\n\n\n\nConduct health checks of all fish in Winter Room and Summer Room according to the steps described in {#sec-husbandry-fish_health_check}.\nPrepare brine cone for feeding by following the steps described in {#sec-husbandry-brine_gen_hatch_feed}.\n\n\n\n\n\n\n\nNOTES\n\n\n\nWhen feeding brine shrimp in the morning only use half of the shrimp to leave the other half do evening feeding. When feeding brine shrimp in the evening please reset the brine cone {#sec-husbandry-brine_gen_hatch_feed}.\n\n\n\nFeed Stickleback\n\nWinter Room\n\n20g tanks\n\nFeed 1 scoop of adult stickleback food.\n\n\nSummer Room\n\n20g tanks\n\nFeed 1 scoop of adult stickleback food.\n\n4.5 and 10.5 liter tanks\n\nLarval 4.5 liter tanks: feed small squirt of brine shrimp.\nJuvenile 10.5 liter tanks: feed half of a scoop of juvenile food.\n\n\n\n\n\n\n\n\n\n\nNOTES\n\n\n\nIf there is not sufficient adult or juvenile food to conduct feedings, see {#sec-recipe-dry_fish_food} for instructions on making more food.\n\n\n\nFeed Pipefish\n\n\n\n\n\n\n\nNOTES\n\n\n\nPlease move any male that has given birth into a community (20g) adult pipefish tank\n\n\nAM - 20g tanks (adults and juveniles) 1. Frozen mysids 2. Squirt of brine shrimp\n\n10.5 liter tanks (mysids, pregnant males, and juvenile pipefish) 1. Squirt of brine shrimp\n\nPM - 20g tanks (adults and juveniles) 1. Frozen mysids 2. Squirt of brine shrimp\n\n10.5 liter tanks (mysids, pregnant males, and juvenile pipefish) 1. Squirt of brine shrimp 1. Frozen mysids 2. Live mysids {#sec-husb-mysid_culture}\n\n\n\n\n\n\n\nNOTE FOR PREPARING AND FEEDING FROZEN MYSIDS\n\n\n\nPartially fill the 1000 ml beaker labeled “Pipefish Only” located on the pipefish rack with pipefish water. Place a dime sized piece of frozen mysids (bottom shelf in freezer) in the beaker with water, and swirl water to thaw mysids. Once thawed, feed to the adult pipefish."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#associated-papers",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.html#associated-papers",
+    "title": "20  Weekday Feeding & Health Checks",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.html#introduction",
+    "title": "33  Sentinel Fish",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This protocol describes the setup, care, and processing of sentinel fish for the Pacific Stickleback fish room.\nProcedure Type: xxx\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.html#materials",
+    "title": "33  Sentinel Fish",
+    "section": "Materials",
+    "text": "Materials\n\nDietrich’s fixative {#sec-general_recipe_dietrichs_fix}\n50 ml tubes\nStraight razor"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.html#solutions",
+    "title": "33  Sentinel Fish",
+    "section": "Solutions",
+    "text": "Solutions\n\nPrepare Dietrich’s Fixative (100 ml) as follows & {#sec-general_recipe_dietrichs_fix}\nStore fixative at room temperature.\n\n30 ml Ethanol (95%)\n10 ml Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma # F1635)\n2 ml Glacial Acetic Acid\n58 ml Distilled Water"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Sentinel_Fish.html#procedure",
+    "title": "33  Sentinel Fish",
+    "section": "Procedure",
+    "text": "Procedure\n\nLocation and monitoring of sentinel tanks\n\nSentinel fish are placed in tanks in both the Summer and Winter rooms.\nA subset of a stock cross can be used, allow fish to live in the water system for at least 2 weeks before sampling.\nEvery 6 months four fish from each tank are fixed with Deitrich’s fixative.\nTake fish to the Histology lab for Hematoxylin and Eosin staining and sectioning.\nPrepared slides are given to Dr. Kathy Snell for diagnosis.\n\n\n\nFixing of Fish and Sectioning\n\nFish are euthanized using MS222.\nCut 2 cm segments starting just behind the eye to 2 cm caudally.\nPut these segments into Dietrich’s fix for at least 24 hours.\nParafin embedded sagital sections need to be done.\nRequest cross sections through the gills and into the gut.\n\n\n\nFish to Dr. Kathy Snell\n\nArrange drop off of slides to Dr. Snell located in Huestis Hall, snellk@uoregon.edu"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#introduction",
+    "title": "34  Embryo Bleaching for Disinfection",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This protocol allows for the removal of ecto-parasites from embryos produced from wild-caught stickleback. Use this protocol whenever new fish are added to a pre-existing stickleback rearing system, or whenever stocks are transferred between labs.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Mark Currey\n\nDate Created: August 25, 2011, update February 29, 2014"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#materials",
+    "title": "34  Embryo Bleaching for Disinfection",
+    "section": "Materials",
+    "text": "Materials\n\nWash bottle and petri dishes\nTimer"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#solutions",
+    "title": "34  Embryo Bleaching for Disinfection",
+    "section": "Solutions",
+    "text": "Solutions\n\n6% sodium hypochlorite (standard bleach)\nWorking stock of bleach, mix: 500 µl of bleach 1 liter of embryo medium {#sec-general_recipe_embryo_medium}"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#procedure",
+    "title": "34  Embryo Bleaching for Disinfection",
+    "section": "Procedure",
+    "text": "Procedure\n  1.  Raise embryos according to standard crossing and rearing protocols {#sec-husbandry_stickleback_crossing}\n  2.  At 48-60 hours post-fertilization (@ 20C - at this point most organogenesis is complete) remove embryo medium from petri dishes and rinse embryos once with fresh embryo medium.\n  3.  Fill petri dish with working stock solution of bleach. Swirl and let sit for 1.5 min. Do not bleach embryos for longer as chorions can thicken and it becomes difficult for embryos to hatch.\n  4.  Drain bleach solution from embryos, and wash them three times with fresh embryo medium. This is really important.\n  5.  Replace embryo medium daily. If crosses are done in the field, the embryos can be shipped from day 3 to day 6 post-fertilization. To ship embryos, rinse once with embryo medium, place embryos into a 50ml conical tube (~100 embryos/tube) and fill with fresh embryo medium. Place tubes in a shipping container with wet ice. Separate the tubes from the ice with bubble-wrap and newspapers. Ship the embryos overnight.\n  6.  When the embryos arrive at the lab, rinse the outside of the containers well before moving into the lab. Allow them to equilibrate to room temp (~20C). Place the embryos into petri dishes, rinse once, and add new embryo medium. Rear according to standard protocol."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#associated-papers",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_Bleaching.html#associated-papers",
+    "title": "34  Embryo Bleaching for Disinfection",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#introduction",
+    "title": "35  Stickleback Embryo and Larval Euthanasia",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes best practices for euthanizing embryonic and larval threespine stickleback.\nProcedure Type: Vertebrate Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Mark Currey\n\nDate Created: April 10, 2010, update January 1, 2014"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#materials",
+    "title": "35  Stickleback Embryo and Larval Euthanasia",
+    "section": "Materials",
+    "text": "Materials\n\nContainer to hold fish while being euthanized.\nPost mortem fixing equipment\nMorgue (if needed)"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#solutions",
+    "title": "35  Stickleback Embryo and Larval Euthanasia",
+    "section": "Solutions",
+    "text": "Solutions\n\nMesab Stock Solution {#sec-general_recipe_mesab}\nEuthanasia strength Mesab (see below)\nEuthanasia Solution (300 mg/L):\n\nMake Mesab stock solution or obtain an aliquot from the freezer.\nMake a solution of 3.0 ppt Instant Ocean by adding 0.3 grams of Instant Ocean to 100 ml of DD water.\nCombine 7.5ml of stock solution into 100 ml of 3 ppt Instant Ocean.\nStore solution in an amber bottle to protect it from light and add mixed and expiration dates (6 months after being mixed) to the bottle."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#procedure",
+    "title": "35  Stickleback Embryo and Larval Euthanasia",
+    "section": "Procedure",
+    "text": "Procedure\nProcedure for embryo euthanasia\n1.  Place embryos into a MS-222 euthanasia solution.\n2.  Leave embryos in solution until movement has stopped, ~ 10 minutes.\n3.  If fish is to be used for experiments, proceed with fixation or preparation for the experiment.\n4.  If the fish are to be disposed of, place embryo in 95% ETOH for 5 minutes and then into morgue for disposal.\n\n\n\n\n\n\nNOTES\n\n\n\nThe last step is necessary as a startle response is not obvious in unhatched fish.\n\n\nProcedure for larval euthanasia\n1.   Place larva into a MS-222 euthanasia solution.\n2.   Wait 10 minutes and perform a tap test to look for a startle response.\n3.   If there is a response wait 5 minutes and repeat startle response test.\n4.   Repeat this step every 5 minutes as needed.\n5.   If there is no response move to fixing for post mortem experiments or place in morgue."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#associated-papers",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Stickleback_Embryo_and_Larval_Euthanasia.html#associated-papers",
+    "title": "35  Stickleback Embryo and Larval Euthanasia",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.html#introduction",
+    "title": "36  Pipefish Crossing",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: The procedure describes how introduce wild caught gulf pipefish into our aquaculture systems.\nProcedure Type: husbandry\nSpecies:\n\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\n\nDate Created: February 29, 2024\n\n\n\n\n\n\n\nNOTES\n\n\n\nWild pipefish will arrive very stressed out so they need to be handled carefully."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.html#materials",
+    "title": "36  Pipefish Crossing",
+    "section": "Materials",
+    "text": "Materials\n\nEmpty 20 gallon Tank\nClean 5 gallon bucket"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.html#solutions",
+    "title": "36  Pipefish Crossing",
+    "section": "Solutions",
+    "text": "Solutions\n\nnone"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.html#procedure",
+    "title": "36  Pipefish Crossing",
+    "section": "Procedure",
+    "text": "Procedure\n\nWhen pipefish arrive remove them from packaging and let float them in system water for 15-30 minutes to accilmate to the temperature.\nPoor contents of each bag of pipefish into a 5 gallon bucket.\nSlowly acclimate the new pipefish by adding 1/4 - 1/2 gallon of system water to the 5 gallon bucket over the course of a few hours. Do this until most of the water in the bucket is system water.\nMove pipefish (not water) to clean 20 gallon tank.\nFeed lightly for 2-3 days as the fish acclimate to captivity. Slowly introduce frozen mysids along with live mysids."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.html#introduction",
+    "title": "37  Pipefish Crossing",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: The procedure describes how to set up pipefish for crossing.\nProcedure Type: husbnadry\nSpecies:\n\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\n\nDate Created: February 29, 2024\n\n\n\n\n\n\n\nNOTES\n\n\n\nPipefish are housed communally or kept as pairs and allowed to naturally spawn."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.html#materials",
+    "title": "37  Pipefish Crossing",
+    "section": "Materials",
+    "text": "Materials\n\nEmpty 20 gallon Tank"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.html#solutions",
+    "title": "37  Pipefish Crossing",
+    "section": "Solutions",
+    "text": "Solutions\n\nnone"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.html#procedure",
+    "title": "37  Pipefish Crossing",
+    "section": "Procedure",
+    "text": "Procedure\n\nSetting up crosses\n\nHouse pairs of adults or groups of mixed sex pipefish in a 20 gallon tank.\nCheck tanks each day to look for pregnant males.\nPlace pregnant males singly in 4.5 L tanks containing plastic grass with a 850 mesh baffle installed.\nOnce the male has given birth move him to a 20 gallon tank."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.html#introduction",
+    "title": "38  Pipefish Water System Maintenance",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes maintenance of the pipefish recirculating system. The pipefish system is a ~ 500 gallon recirculating salt water system. Water parameters: 25C, 25ppt salinity, no ammonia, no nitrites, and nitrates below 40 ppm.\nProcedure Type: Husbandry\nSpecies:\n\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\n\nDate Created: February 29, 2024"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.html#materials",
+    "title": "38  Pipefish Water System Maintenance",
+    "section": "Materials",
+    "text": "Materials\n\nClean 20 gallon tanks\nClean tank hardware\nPlastic plants\nGravel vacuum"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.html#procedure",
+    "title": "38  Pipefish Water System Maintenance",
+    "section": "Procedure",
+    "text": "Procedure\n20 gallon adult pipefish tanks\n\n\n\n\n\n\nNOTES\n\n\n\nAll 20 gallon pipefish tanks are cleaned and reset at least once a month.\n\n\n\nComplete take down and cleaning\n\nAfter transferring fish to a clean tank, take down the old tank as described in {#sec-vert_husb-aquarium_cleaning}, but leave the bulkhead on and keep the substrate in the tank.\nPut the strainer catch over the drain in the sink to prevent substrate from clogging the drain. Tilt the tank vertically so the substrate pools in the back.\nReset tank as described in the S{#sec-vert_husb-aquarium_cleaning}, but add at least 2 clean plastic plants to the tank for enrichment.\nCirculate clean tanks 30 minutes before transferring fish.\n\n\n\n\n\n\n\n\nNOTES\n\n\n\nIf there are not enough open tanks to completely clean and reset 3-5 per week, use the gravel vac to clean all occupied tanks at least 1x per week:\n\n\n\nGravel Vac cleaning\n\nUse an empty bucket (with drain drilled in) to catch the water siphoned out of each tank.\nRinse gravel vac and tube with RO water.\nTurn off water and air flow to the tank being cleaned.\nCreate a siphon with the gravel vac to begin draining the tank water into the bin. Keep a section of the gravel vac hose near the end pinched to control suction by pinching down to stop and releasing slightly to restart. Agitate substrate by “fluffing” up and down with the gravel vac.\n\n\n\n\n\n\n\n\nCAUTION\n\n\n\nDo not allow water level to be drained below 5-6 inches in the sump. Immediately stop suction if a pipefish enters the gravel vac. Check the bin for any pipefish that may have been accidentally sucked into the gravel vac before moving to the next tank.\n\n\n10.5 L pipefish fry tanks\n\n\n\n\n\n\nNOTE\n\n\n\nFry are generally large enough to be transferred to clean 10L tanks at 2 months post-birth\n\n\n\nSet up new 10.5 L tanks band place a clean small plastic plant in the tank for enrichment.\nUneaten food will build up quickly. Use a turkey baster and muck bucket to spot clean 2x per week or as needed.\nReplace the back 850 screen baffle in tanks when they appear clogged.\n\nChanging water in the system\n\n\n\n\n\n\nNOTE\n\n\n\n10-20% of the system water should be changed every week.\n\n\n\nDrain system water by attaching a hose to one of the 20 gallon tanks supply placing the other end of the hose in the corner room drain. Turn on valve and allow water to drain until the water level is 3-5 inches above the basket that supplies the system pump (located left side of largest sump under 20 gallon rack).\nThe makeup water vat should be full. Check makeup water salinity with a refractometer. Target salinity is ~25 ppt. Adjust salinity by adding salt or RO water if necessary. Put the end of the makeup water hose into the small sump.\nTurn makeup water pump on until makeup water drops to the drain line marked on the outside of the makeup water vat, then turn off. Lift the makeup water hose out of the sump and rest on the rim of the makeup water vat.\nTo reset the makeup water vat, use the RO located in the northeast corner of the room to fill the vat up to the fill line. This take about 15 minutes.\nUse a 5 L beaker to measure 2.5 L of instant ocean and pour into makeup water vat. Recheck salinity after several minutes and adjust as necessary."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.html#associated-papers",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.html#associated-papers",
+    "title": "38  Pipefish Water System Maintenance",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.html#introduction",
+    "title": "39  Syngnathid Euthanasia",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes best practices for euthanizing embryonic and larval pipefish\nProcedure Type: Vertebrate Husbandry\nSpecies:\n\nBay pipefish, (Syngnathus leptorhyncus),\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.html#materials",
+    "title": "39  Syngnathid Euthanasia",
+    "section": "Materials",
+    "text": "Materials\n\nEuthanasia strength Mesab (see above)\nContainer to hold fish while being euthanized.\nPost mortem fixing equipment\nMorgue"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.html#solutions",
+    "title": "39  Syngnathid Euthanasia",
+    "section": "Solutions",
+    "text": "Solutions\n\nMS-222 Stock solution of (4g/L, From Zebrafish Book 4th edition)??\n\nTricaine must be pharmaceutical-grade\nWe use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved.\nTricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form.\nPurchase the smallest amount possible because tricaine expires quickly.\n\nMesab Stock Solution (4g/L) (tris buffered):\n\n4 g tricaine powder\n979 ml DD water\n~21 ml 1 M Tris (pH 9).\nAdjust pH to ~7.\nAliquot in 50ml tubes, label with MESAB Stock\nSolution 4g/L, and store in a -20 freezer.\nThis makes 1 liter of solution.\n\nEuthanasia Solution (300 mg/L):\n\nMake a solution of tris buffered Stock Solution as described above.\n(Or obtain an aliquot from the freezer)\nCombine 7.5ml of stock solution into 100 ml of fish water."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.html#procedure",
+    "title": "39  Syngnathid Euthanasia",
+    "section": "Procedure",
+    "text": "Procedure\n\nProcedure for embryo euthanasia:\n\nPlace embryos into a MS-222 euthanasia solution.\nLeave embryos in solution until movement has stopped, ~ 10 minutes.\nIf fish is to be used for experiments, proceed with fixation or preparation for the experiment.\nIf the fish are to be disposed of, place embryo in 95% ETOH for 5 minutes and then into morgue for disposal.\n\n\n\n\n\n\n\n\nNOTES\n\n\n\nThis last step is necessary as a startle response is not obvious in unhatched fish\n\n\n\nProcedure for larval euthanasia:\n\nPlace larva into a MS-222 euthanasia solution.\nWait 10 minutes and perform a tap test to look for a startle response.\nIf there is a response wait 5 minutes and repeat startle response test.\nRepeat this step every 5 minutes as needed.\nIf there is no response move to fixing for post mortem experiments or place in morgue."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#introduction",
+    "title": "40  Pipefish Adult Euthanasia",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes best practices for euthanizing adult pipefish.\nProcedure Type: Husbandry\nSpecies:\n\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\n\nDate Created: February 29, 2024"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#materials",
+    "title": "40  Pipefish Adult Euthanasia",
+    "section": "Materials",
+    "text": "Materials\n\nContainer to hold fish while being euthanized.\nPost mortem fixing equipment\nMorgue"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#solutions",
+    "title": "40  Pipefish Adult Euthanasia",
+    "section": "Solutions",
+    "text": "Solutions\n\n\n\n\n\n\nNOTES\n\n\n\nTricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly.\n\n\n\nEuthanasia strength Mesab (see below) and {#sec-general_recipe_mesab}\nMesab Stock Solution (4g/L From Zebrafish Book 4th edition) (tris buffered):\n\n4 g tricaine powder\n979 ml DD water\n~21 ml 1 M Tris (pH 9).\nAdjust pH to ~7.\nAliquot in 50ml tubes, label with MESAB Stock Solution 4g/L, and store in a -20 freezer.\nThis makes 1 liter of solution.\n\nEuthanasia Solution (300 mg/L):\n\nMake a solution of tris buffered Stock Solution as described above. (Or obtain an aliquot from the freezer)\nMake a solution of 3.0 ppt Instant Ocean by adding 0.3 grams of Instant Ocean to 100 ml of DD water.\nCombine 7.5ml of stock solution into 100 ml of 3 ppt Instant Ocean.\nStore solution in an amber bottle to protect it from light and add mixed and expiration dates (6 months after being mixed) to the bottle."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#procedure",
+    "title": "40  Pipefish Adult Euthanasia",
+    "section": "Procedure",
+    "text": "Procedure\n\nPlace fish in euthanasia strength mesab and wait 10 minutes.\nTo confirm death wait ten minutes after opercular movement has stopped and perform a tap test. TO do this gently tap on the table next to the container holding the fish. If the fish is still alive this will trigger a startle response, wait 5 more minutes and repeat tap test. If no response, proceed to fixing for post mortem experiments or place fish in the morgue."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#associated-papers",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.html#associated-papers",
+    "title": "40  Pipefish Adult Euthanasia",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#introduction",
+    "title": "41  Pipefish Adult Anesthesia",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure dscribes how to anesthetize adult pipefish\nProcedure Type: Anesthesia\nSpecies:\n\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: xxx\nDate Created: xxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#materials",
+    "title": "41  Pipefish Adult Anesthesia",
+    "section": "Materials",
+    "text": "Materials\n\nPetri dishes or fish container"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#solutions",
+    "title": "41  Pipefish Adult Anesthesia",
+    "section": "Solutions",
+    "text": "Solutions\n\n\n\n\n\n\nNOTES\n\n\n\nTricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly.\n\n\n\nMS-222 Stock solution {#sec-general_recipe_mesab}\n\nMesab Stock Solution (4g/L) (tris buffered)\n-   4 g tricaine powder\n-   979 ml DD water\n-   \\~21 ml 1 M Tris (pH 9).\n-   Adjust pH to \\~7.\n-   Aliquot in 50ml tubes, label with MESAB Stock Solution 4g/L, and store in a -20 freezer.\n-   This makes 1 liter of solution.\nAnesthesia (168 mg/L) - Make a solution of tris buffered Stock solution MS-222 solution as described above. (Or obtain a pre-made solution from freezer) - Make a solution of 3 ppt Instant Ocean by adding 0.3 grams of Instant Ocean to 100 ml of DD water. - Combine 7.5ml of stock solution into 100 ml of 3 ppt Instant Ocean. - Store solution in an amber bottle to protect it from light and add mixed and expiration dates (6 months after being mixed) to the bottle."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#procedure",
+    "title": "41  Pipefish Adult Anesthesia",
+    "section": "Procedure:",
+    "text": "Procedure:\n1.  Place fish into 168 mg/l MS-222 solution and wait for the fish to slow down.\n2.  Image or do other experiments quickly to minimize fish exposure to MS-222. Pay attention to opercular movement to be sure that fish is alive.\n3.  Revive by placing in fish water and moving fish gently through the water to pass water over gills."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#associated-papers",
+    "href": "04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.html#associated-papers",
+    "title": "41  Pipefish Adult Anesthesia",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#introduction",
+    "href": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#introduction",
+    "title": "50  Dietrich’s Fixative (EM)",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for Dietrich’s fixative\nProcedure Type: recipe\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: February 29, 2024\n\n\nWhen fixing sentinel fish use Dieterich’s fixative."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#materials",
+    "href": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#materials",
+    "title": "50  Dietrich’s Fixative (EM)",
+    "section": "Materials",
+    "text": "Materials\n\nEthanol (95%)\nFormalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma # F1635)\nGlacial Acetic Acid\nDistilled WaterSolutions"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#solutions",
+    "href": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#solutions",
+    "title": "50  Dietrich’s Fixative (EM)",
+    "section": "Solutions",
+    "text": "Solutions\n\nnone"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#procedure",
+    "href": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#procedure",
+    "title": "50  Dietrich’s Fixative (EM)",
+    "section": "Procedure",
+    "text": "Procedure\n\nPrepare Dietrich’s Fixative (100 ml), mix: - 30 ml Ethanol (95%) - 10 ml Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma # F1635) - 2 ml Glacial Acetic Acid - 58 ml Distilled Water\nStore fixative at room temperature."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#associated-papers",
+    "href": "07_Recipes/Recipe_Husbandry_deitrichs_fix.html#associated-papers",
+    "title": "50  Dietrich’s Fixative (EM)",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_embryo_medium.html#introduction",
+    "href": "07_Recipes/Recipe_Husbandry_embryo_medium.html#introduction",
+    "title": "51  Stickleback Embryo Medium (EM)",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for embryo medium\n\nProcedure Type: recipe\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Mark Currey\nDate Created: January 1, 2004"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_embryo_medium.html#materials",
+    "href": "07_Recipes/Recipe_Husbandry_embryo_medium.html#materials",
+    "title": "51  Stickleback Embryo Medium (EM)",
+    "section": "Materials",
+    "text": "Materials\n\nInstant Ocean Salt\nBaking Soda\nnano pure water (npH2O)"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_embryo_medium.html#solutions",
+    "href": "07_Recipes/Recipe_Husbandry_embryo_medium.html#solutions",
+    "title": "51  Stickleback Embryo Medium (EM)",
+    "section": "Solutions",
+    "text": "Solutions\n\nnone"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_embryo_medium.html#procedure",
+    "href": "07_Recipes/Recipe_Husbandry_embryo_medium.html#procedure",
+    "title": "51  Stickleback Embryo Medium (EM)",
+    "section": "Procedure",
+    "text": "Procedure\nFor 2 liters: 1. Add 8g Instant Ocean to 2 liters of npH2O 2. Add ~0.5g baking soda 3. Check pH and adjust to 7.0 – 8.0\n\nSalt and baking soda are located in containers near the weigh station. Rinse 2 liter flasks with DI water between uses."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_embryo_medium.html#associated-papers",
+    "href": "07_Recipes/Recipe_Husbandry_embryo_medium.html#associated-papers",
+    "title": "51  Stickleback Embryo Medium (EM)",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#introduction",
+    "href": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#introduction",
+    "title": "52  Ginzberg’s Ringer Solution",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making ginzberg’s ringers solution\n\nProcedure Type: recipe\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Mark Currey\nDate Created: January 1, 2004"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#materials",
+    "href": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#materials",
+    "title": "52  Ginzberg’s Ringer Solution",
+    "section": "Materials",
+    "text": "Materials\n\nNaCl\nKCl\nCaCl2\nNaHCO3\nnpH2O\n\n\nAll of these reagents should be located in the chemical cabinet."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#solutions",
+    "href": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#solutions",
+    "title": "52  Ginzberg’s Ringer Solution",
+    "section": "Solutions",
+    "text": "Solutions\n\nnone"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#procedure",
+    "href": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#procedure",
+    "title": "52  Ginzberg’s Ringer Solution",
+    "section": "Procedure",
+    "text": "Procedure\nFor 1000 mls, mix: 1. Mix solids into 750 ml of npH2O - 6.6g NaCl - 0.25g KCl - 0.3g CaCl2 - 0.2g NaHCO3 2. Bring to 1 liter total volume with npH2O. 3. Store at 4° C."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#associated-papers",
+    "href": "07_Recipes/Recipe_Husbandry_ginzbergs_ringers.html#associated-papers",
+    "title": "52  Ginzberg’s Ringer Solution",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_mesab_stock.html#introduction",
+    "href": "07_Recipes/Recipe_Husbandry_mesab_stock.html#introduction",
+    "title": "53  Mesab Stock (EM)",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making a mesab stock solution\n\nProcedure Type: recipe\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: January 1, 2004\n\n\nMesab also known as Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_mesab_stock.html#materials",
+    "href": "07_Recipes/Recipe_Husbandry_mesab_stock.html#materials",
+    "title": "53  Mesab Stock (EM)",
+    "section": "Materials",
+    "text": "Materials\n\nMesab, a.k.a. MS222, tricaine, or 3-aminobenzoic acid ethyl ester\n1 M Tris (pH 9)\nDD water"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_mesab_stock.html#solutions",
+    "href": "07_Recipes/Recipe_Husbandry_mesab_stock.html#solutions",
+    "title": "53  Mesab Stock (EM)",
+    "section": "Solutions",
+    "text": "Solutions\n\nnone"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_mesab_stock.html#procedure",
+    "href": "07_Recipes/Recipe_Husbandry_mesab_stock.html#procedure",
+    "title": "53  Mesab Stock (EM)",
+    "section": "Procedure",
+    "text": "Procedure\nFor 1 liter, mix: 1. 4 g tricaine powder 2. 979 ml DD water 3. ~21 ml 1 M Tris (pH 9). 4. Adjust pH to ~7. 5. Aliquot in 50 ml tubes, label with MESAB Stock Solution 4g/L, and store in a -20 freezer."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_mesab_stock.html#associated-papers",
+    "href": "07_Recipes/Recipe_Husbandry_mesab_stock.html#associated-papers",
+    "title": "53  Mesab Stock (EM)",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_testes_solution.html#introduction",
+    "href": "07_Recipes/Recipe_Husbandry_testes_solution.html#introduction",
+    "title": "54  Testes Storage Solution",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making testes storage solution\n\nProcedure Type: recipe\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Mark Currey\nDate Created: January 1, 2004"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_testes_solution.html#materials",
+    "href": "07_Recipes/Recipe_Husbandry_testes_solution.html#materials",
+    "title": "54  Testes Storage Solution",
+    "section": "Materials",
+    "text": "Materials\n\nGentamycin (antimycotic) (Stock – 10 mg/ml)*\nCell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration\n\n\nBoth of these reagents are located in separate boxes in the scientific -20° C freezer. They are partitioned into 100μl aliquots."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_testes_solution.html#solutions",
+    "href": "07_Recipes/Recipe_Husbandry_testes_solution.html#solutions",
+    "title": "54  Testes Storage Solution",
+    "section": "Solutions",
+    "text": "Solutions\n\nGinzberg’s Ringers {#sec-general_recipe_ginzbergs_ringers}"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_testes_solution.html#procedure",
+    "href": "07_Recipes/Recipe_Husbandry_testes_solution.html#procedure",
+    "title": "54  Testes Storage Solution",
+    "section": "Procedure",
+    "text": "Procedure\nFor 100 mls, mix: 1. Add 100μl of Gentamycin and 100μl of Anti-biotic/mycotic to 100ml of Ginzburg’s Ringers solution. 2. Store at 4° C."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_testes_solution.html#associated-papers",
+    "href": "07_Recipes/Recipe_Husbandry_testes_solution.html#associated-papers",
+    "title": "54  Testes Storage Solution",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
   }
 ]

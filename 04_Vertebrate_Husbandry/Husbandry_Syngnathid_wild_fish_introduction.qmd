@@ -1,0 +1,32 @@
+# Pipefish Crossing {#sec-husbandry_wild_syng_introduction}
+
+## Introduction
+
+-   **Purpose**: The procedure describes how introduce wild caught gulf pipefish into our aquaculture systems. 
+-   **Procedure Type**: husbandry
+-   **Species**:
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Mark Currey   
+-   **Date Created**: February 29, 2024
+
+::: {.callout-note title="NOTES"}
+Wild pipefish will arrive very stressed out so they need to be handled carefully.
+:::
+
+## Materials
+
+-   Empty 20 gallon Tank
+-   Clean 5 gallon bucket
+
+## Solutions
+
+- none
+
+## Procedure
+
+1. When pipefish arrive remove them from packaging and let float them in system water for 15-30 minutes to accilmate to the temperature. 
+2. Poor contents of each bag of pipefish into a 5 gallon bucket. 
+3. Slowly acclimate the new pipefish by adding 1/4 - 1/2 gallon of system water to the 5 gallon bucket over the course of a few hours. Do this until most of the water in the bucket is system water. 
+4. Move pipefish (not water) to clean 20 gallon tank. 
+5. Feed lightly for 2-3 days as the fish acclimate to captivity. Slowly introduce frozen mysids along with live mysids.
+
