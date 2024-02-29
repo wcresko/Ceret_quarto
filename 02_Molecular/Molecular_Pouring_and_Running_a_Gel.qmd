@@ -1,0 +1,138 @@
+# Pouring and Running a Gel
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to pour and run a gel to visualize DNA.
+-   **Procedure Type**: Molecular
+-   **Author**: Micah Woods
+-   **Date Created**: February 14, 2024
+
+## Background
+
+Gel electrophoresis is a technique used to separate mixtures of DNA, RNA, or proteins based on their molecular size. During gel electrophoresis, an electrical field is used to help molecules travel through the pores of an agarose gel matrix. At one end of the gel, furthest away from where the samples are loaded, is a positive charge, and at the other end is a negative charge. Since DNA and RNA are both negatively charged molecules, they are pulled through the gel matrix towards the positive charge. Since proteins do not have a negative charge, researchers must first mix them with a sodium dodecyl sulfate detergent which gives them the negative charge needed to migrate towards the positive end of the gel. The speed at which molecules travel through the gel is inversely related to their molecular size. For example, small DNA molecules have a low molecular weight, enabling them to travel further through the gel matrix than a larger DNA molecule. When a gel is stained with DNA/RNA/protein-binding dye, these molecules can be seen as bands, whose location along the length of the gel represents the molecule?s size in terms of number of base pairs. When dye-stained DNA/RNA/protein is run beside a ladder with known fragment size, one can estimate the size of the assayed molecule. After the DNA/RNA/protein molecules have been separated using gel electrophoresis, the gel is imaged under UV light, visualizing the DNA/RNA/proteins present across the length of the gel.
+
+## Materials
+
+-   500 ml Corning glass bottle labeled "Agarose Gels"
+-   Scale
+-   Weigh paper
+-   Microwave
+-   Gel comb
+-   Gel tray
+-   Pipets
+-   Pipet tips
+-   Parafilm or PCR strip tubes for mixing DNA samples and Loading Dye
+-   Gel box with enough buffer inside to cover gel
+-   Electrodes attached to power supply (Bio-Rad PowerPac)
+-   Gel transferring tray
+-   Device for visualizing gel
+    -   Azure Biosystems c200, located in Pacific 314
+-   Gel image printer
+-   Kimwipes
+
+## Solutions
+
+-   0.5X TBE
+-   Safe View
+-   Molecular Biology Grade Agarose
+-   6X Loading Dye
+-   Ladder of choice
+-   EB Buffer
+
+## Procedure
+
+1.  Weigh desired amount of Molecular Biology Grade Agarose - scale, weigh paper, and Agarose located on the common use bench on the north end of the laboratory - and pour it into the 500 ml Corning glass bottle labeled "Agarose Gels" (located on top of or inside the microwave on the south end of the laboratory).
+
+    a.  1-1.2% Agarose (1 g-1.2 g) is a good starting amount of Agarose for DNA samples, though the amount of Agarose can vary depending on your particular samples and goals. The concentration of Agarose in a gel depends on the sizes of DNA fragments to be separated, with most gels ranging between 0.5%-2% Agarose.
+
+2.  Fill bottle with 0.5X TBE buffer, located in the 20-liter Nalgene located at the south sink. The volume of TBE buffer used will be based on the size of the gel mold. For example, for a 14"x10" gel tray, use 100 ml of 0.5X TBE buffer. 3. Put bottle in microwave and microwave for one minute.
+
+3.  Using the heat mittens located on top of the microwave, remove the bottle from the microwave, swirl the mixture around, and put it back in the microwave for 30 seconds. By the end of this step, the Agarose should be melted into the TBE and there should be no remaining solid Agarose particles.
+
+4.  Using the heat mittens, remove the bottle from the microwave and carry it to the fume hood.
+
+5.  Select a gel tray from the drawer under the gel boxes. Put tape around the two longest sides of the gel tray, pressing tape on firmly so it is air-tight with the tray. The distance between the top of the tape and the bottom of the tray should be at least half-an-inch tall so that it can hold all of the liquid from the Agarose Gel bottle without it spilling over the sides or leaking through any air gaps in the tape.
+
+6.  Select a gel comb from the drawer under the gel boxes. Different combs make different sized wells that can hold different volumes, so select a comb based on your specific experiment. Place the gel comb in the notches of the gel tray. The combs should not touch the bottom of the tray but be slightly above it.
+
+7.  Let the agarose solution cool for a few minutes. Using the heat mittens, swirl the Agarose Gel bottle again. Add 5 ul of Safe View (located in the Styrofoam box in the fume hood) to the Agarose Gel bottle. Gently swirl the bottle to mix in the Safe View; try to avoid creating bubbles while swirling.
+
+8.  Slowly pour the Agarose Gel mixture into the gel tray with gel comb. Be careful not to create bubbles in the gel mixture while pouring. If there are bubbles, pop or move them to the bottom of the tray, away from the comb. Slowly lift the comb up and down a few times to ensure there are no bubbles around the comb.
+
+9.  Let the gel mixture sit in the tray under the hood until it solidifies (usually takes around 20 minutes).
+
+10. While you are waiting for the gel to solidify, clean the Agarose Gel bottle. Fill the bottle halfway with water, swirl the water, microwave for 30 seconds, swirl again and microwave for another 30 seconds. Pour out the water and set the bottle out to dry next to the microwave.
+
+11. Once the agarose mixture has solidified, carefully remove the tape from the sides of the tray.
+
+    ::: {.callout-important title="This is important"}
+    Tape should be removed from the tray while held under the fume hood. Tape should be removed slowly to prevent any splattering of residual liquid on the top of the solidified gel.
+    :::
+
+12. Carefully remove the comb from the gel matrix by slowly pulling it straight up.
+
+13. Carry the gel in the gel plate to the gel boxes, remove gel box lid, and slowly lower the gel and plate into gel boxes.
+
+14. Load ladder\* of choice into the left-most well of the gel. The volume of ladder you load will vary depending on your experiment.
+
+    ::: {.callout-important title="This is important"}
+    When expelling the ladder into the well, only pipet to the first stop. Pipetting to the second stop risks expelling bubbles into the well which could interfere with the experiment.
+    :::
+
+    ::: {.callout-important title="NOTES"}
+    \*The ladder is made of DNA and needs a gel loading dye. When selecting a ladder to use, make sure that the ladder is not clear but has been mixed with a loading dye (should be a bright color like blue, orange, green, or purple).
+    :::
+
+15. Prepare DNA samples to be loaded into the wells of the gel. Pipet out 10 ul of DNA\* from each sample onto a piece of parafilm or into a PCR strip tube, using a fresh pipet tip for each sample to avoid cross contamination.
+
+    ::: {.callout-important title="NOTES"}
+    \*The volume of DNA you mix load into each well depends on the concentration of DNA and how much of DNA of your total you can afford to use for the gel, though a generally good concentration range is 10-100 ng/ul to ensure the DNA can be visualized on the gel. If you are aiming to load a specific concentration of DNA into each well, calculate the concentration of your DNA sample and find that the corresponding volume is less than 10 ul, you can add the appropriate volume of EB Buffer to bring the sample's volume up to 10 ul.
+    :::
+
+16. Add 2 ul of 6X Loading Dye\* to each DNA sample. Thoroughly mix the dye and DNA sample by aspiration, but mix slowly to avoid creating bubbles. Be sure to use a fresh pipet tip in between DNA samples.
+
+    ::: {.callout-important title="NOTES"}
+    \*The exact volume of loading dye you add to each sample can change depending on the amount of DNA you add, but the final dilution should be 1 part 6X Loading Dye to 5 parts DNA sample.
+    :::
+
+17. Load 10 ul of the DNA sample/dye mixture into the next available well in the gel.
+
+    ::: {.callout-important title="This is important"}
+    \*When expelling the DNA sample/dye mixture into the well, only pipet to the first stop. Pipetting to the second stop risks expelling bubbles into the well which could interfere with the experiment.
+    :::
+
+18. Put gel box cover on. Attach the electrodes to the metal posts at the top and bottom of gel box; the black electrode (-) attaches to the metal post on the top of the box and the red electrode (+) attaches to the metal post on the bottom of the box.
+
+    ::: {.callout-important title="NOTES"}
+    Since DNA is a negatively charged molecule, it will run through the gel matrix towards a positive charge. A helpful way to remember electrode placement, then, is "Run to red," since the red electrode has a positive charge and should be placed furthest away from the DNA samples.
+    :::
+
+19. Turn on the Bio-Rad PowerPac and set it to your desired voltage. Press "Run." You can check to see if an electric current is running through the gel box by looking for a stream of small bubbles rising up the back of the gel box.
+
+20. Run samples for desired time.
+
+21. Press the "Stop" button on the Bio-Rad PowerPac and turn off the power. Remove the electrodes from either end of the gel box, loosely wind them up and place them above or next to the Bio-Rad PowerPac.
+
+22. Remove the lid from the gel box. Carefully lift the gel tray out of the gel box, ensuring that the gel does not slide off the tray. Place the gel tray and gel onto the gel transferring tray (located behind the faucet on the south sink). Carry the gel to the gel imaging station (Azure Biosystems c200) in the Phillips Microfluidics Laboratory (Pacific 314).
+
+23. To image the gel,
+
+    a.  Open the door of the c200 Azure Biosystems gel imaging station, and carefully slide the gel inside. The long side of the gel should be facing the opening of the imaging station. Position the gel so that it is centered inside the imaging platform, and the short sides of the gel are parallel to the sides of the imaging platform. Close the door.
+    b.  Select the "cSeries Capture Software" on the screen.
+    c.  Select the "GEL" option in the top left corner, to the right of the "GALLERY" option.
+    d.  Select the "BRIGHT BANDS" option in the bottom right corner.
+    e.  Select "CAPTURE" to take an image of the gel.
+    f.  Once your image has been captured, you may rotate, flip, crop, or zoom in/out of the image.
+    g.  To print the image, select "PRINT" and choose the number of copies you would like to print.
+
+24. Open the door of the c200 Azure Biosystems gel imaging station and carefully remove the gel. Wipe down the gel platform using a Kimwipe and close the door.
+
+25. Carry your gel and printed images back to the lab. You may either dispose of your gel in the trash or store the gel in a plastic bag in the refrigerator for future use.
+
+26. Rise off the gel transferring tray and set it to dry behind the south sink faucets. Rinse off the gel tray and the gel comb, ensuring that there is no remaining agarose between the tines of the gel comb. Set the comb and the tray to dry on the drying rack hanging above the south sink.
+
+## Associated Papers
+
+-   Mark: "Should we add the 'things that can go wrong when running a gel' document that we discussed to this document or at least reference it??"
+-   Lee PY, Costumbrado J, Hsu CY, Kim YH. Agarose gel electrophoresis for the separation of DNA fragments. J Vis Exp. 2012 Apr 20;(62):3923. doi: 10.3791/3923. PMID: 22546956; PMCID: PMC4846332.
+-   Gel electrophoresis. Scitable by Nature Education. https://www.nature.com/scitable/definition/gel-electrophoresis-286/#:\~:text=Gel%20electrophoresis%20is%20a%20laboratory,gel%20that%20contains%20small%20pores.

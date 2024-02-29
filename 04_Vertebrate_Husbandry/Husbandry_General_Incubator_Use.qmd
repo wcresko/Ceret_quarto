@@ -1,0 +1,47 @@
+# Incubator Use and Care of Stickleback Fry {#sec-vert_husbandry_incubator_use}
+
+## Introduction
+
+-   **Purpose**: This procedure describes best practices for the use of the embryo incubator.
+-   **Procedure Type**: Husbandry
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Mark Currey
+-   **Date Created**: April 1, 2008
+
+## Materials
+
+-   Petri Dishes
+-   Incubator
+-   Fry food
+-   Checklist
+
+## Solutions
+
+-   Embryo Medium (found above incubator)
+
+## Procedure
+
+::: {.callout-important title="This is important"}
+Researchers are responsible for monitoring and caring of their research animals while in the incubator. This includes water changes, removing ?deads?, fixing, euthanizing and any other procedures regarding the fish. If the fish are to be raised past hatching please contact Mark, prior to hatching, to make arrangements for putting fish into the system. Also, please see Mark prior to initial use of incubator for brief training. 
+:::
+
+Procedure:
+
+1.  Raise Embryos (check daily):
+
+    -   Embryos will develop at approximately 2.5 times zebrafish time \[see http://zfin.org/zf_info/zfbook/stages/index.html\], and hatch at approximately 7 days. 48hr stickleback embryos have completed most major morphogenetic processes, and the melanic pigment cells are just starting to migrate. A beating heart can be seen after \~72hr. Check petri dishes daily and remove deads and those with arrested development. Change embryo medium at 3-4 dpf and more if warranted. 
+
+2.  Hatching, Begin Feeding Brine Shrimp, and Move to System (t = 7-8 days post fertilization):
+
+    -   After hatching at 7-8 days post fertilization, remove chorions and allow young to absorb yolk (2-3 days). At approximately day 2 post hatching take petri dish containing fry out of incubator and place dishes on a table. To each petri dish add approximately the same volume of system water, as there is embryo medium; this will double the volume of liquid in the dish. This acclimates the fry to the system water. Allow the fry to acclimate for 15-20 minutes, the longer the better. Then transfer fry to small aquaria on the system. Feed newly hatched brine shrimp 1-2 times daily according to directions posted in the fish room.
+
+3.  **Initial checklist and add what type of check was done to checklist.**
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx
+

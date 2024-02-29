@@ -31,6 +31,7 @@ book:
         - 02_Molecular/Molecular_2xTurbo.qmd
         - 02_Molecular/Molecular_Para.qmd
         - 02_Molecular/Molecular_Alizarin.qmd
+        - 02_Molecular/Molecular_Pouring_and_Running_a_Gel.qmd
         
     - part: Part3_Microbiology.qmd
       chapters:
@@ -60,6 +61,13 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_General_Dishwasher_Use.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Hatching_Feeding_BrineShrimp.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Density_Standards.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Incubator_Use.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Program_Light.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Room_Clean.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Anesthesia.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Cross.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Dry_Food_Mix.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Testes_Storage.qmd
         
     - part: Part5_Vertebrate_Experiment.qmd
       chapters:
@@ -78,15 +86,19 @@ book:
     - part: Part7_Bioinformatic.qmd
       chapters:
         - 07_Bioinformatic/base-R.qmd
+        
+    - part: Part8_Common_Recipes.qmd
+      chapters:
+        - 08_Recipes/Placeholder_Recipes.qmd
   
-    - part: Part8_References.qmd
+    - part: Part9_References.qmd
       chapters:      
         - references.qmd
         - notes.qmd 
 
   appendices:
-    - 08_Appendices/appendix_1.qmd
-    - 08_Appendices/appendix_2.qmd
+    - 10_Appendices/appendix_1.qmd
+    - 10_Appendices/appendix_2.qmd
   
 bibliography: references.bib
 

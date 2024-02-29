@@ -1,0 +1,33 @@
+# Animal Facility Cleaning {#sec-vert_facility_cleaning}
+
+## Introduction
+
+-   **Purpose**: Procedure for keeping animal facility clean and disinfected
+-   **Procedure Type**: xxx
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Bay pipefish, (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+::: {.callout-caution title="Chemical Hygiene"}
+When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate.
+:::
+
+## Materials
+
+-   Mop and broom
+-   Sponges
+-   Bleach
+
+## Solutions
+
+-   **Bleach solution**: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.
+
+## Procedure
+
+-   Once per week the floors will be swept and mopped using a 10% bleach solution.
+-   Once per week counter tops will be cleaned with sponge and a 10% bleach solution.
+-   Broken tanks are to be taken to the dumpster located at the northeast corner of Pacific Hall.
+-   Dishes will be done daily (see [Plastic and Glass Cleaning SOP]{#sec-husbandry-Plastic_Glassware_cleaning-bleach}.
