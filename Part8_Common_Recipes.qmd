@@ -1,3 +1,3 @@
-# References&Notes
+# Common Recipes
 
-This section of the book contains references and notes for all protocols
+This section of the book contains common recipes used for solutions and reagents across other protocols

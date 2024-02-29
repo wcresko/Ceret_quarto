@@ -16,7 +16,7 @@
 
 ## Solutions
 
-- none
+-   none
 
 ## Procedure
 
@@ -26,24 +26,14 @@ At each new mixing of dry food (approximately once per week) food containers wil
 
 1.  Mix equal parts of the following, store at 4C in fish facility food fridge. Label with an expiration date of 1 month from mixing.
 
-**Fry Mix**:
-        1.  100-200 micron golden pearls
-        2.  Ziegler AP100
-        
-**Juvenile Mix**: (label with a yellow dot or yellow tape)
-        1.  Aquanix cool mix flakes (or other flake food)
-        2.  200-300 micron golden pearls
-        3.  Otohime C1 pellets
-        
-**Adult Mix**:
-        1.  Otohime S1
-        2.  Ziegler zebrafish diet
-        3.  Hikari micro pellet
-        4.  Golden pearls 500-800 micron
-        5.  Aquanix cool mix flakes (or other flake food)
+**Fry Mix**: 1. 100-200 micron golden pearls 2. Ziegler AP100
+
+**Juvenile Mix**: (label with a yellow dot or yellow tape) 1. Aquanix cool mix flakes (or other flake food) 2. 200-300 micron golden pearls 3. Otohime C1 pellets
+
+**Adult Mix**: 1. Otohime S1 2. Ziegler zebrafish diet 3. Hikari micro pellet 4. Golden pearls 500-800 micron 5. Aquanix cool mix flakes (or other flake food)
 
 ::: {.callout-note title="NOTES"}
-If we are out of one of the types of food it is ok to omite it from the mix. 
+If we are out of one of the types of food it is ok to omite it from the mix.
 :::
 
 ## Associated Papers

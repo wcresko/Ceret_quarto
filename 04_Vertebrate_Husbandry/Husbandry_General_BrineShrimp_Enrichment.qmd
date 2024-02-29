@@ -10,7 +10,8 @@
 -   **Author**: Mark Currey
 -   **Date Created**: May 6, 2008; February 2, 2024 updated by M. Currey
 
-## Materials 
+## Materials
+
 -   De-capsulated Brine Shrimp
 -   Rock Salt
 -   105 μm mesh shrimp collector

@@ -27,8 +27,9 @@
 ::: {.callout-warning title="NOTES"}
 Solutions should be prepared in advance.
 :::
+
 ::: {.callout-caution title="Chemical Hygiene"}
-When using bleach and/or NaOH. Eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol. 
+When using bleach and/or NaOH. Eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol.
 :::
 
 -   Bleach, \~6% laundry grade

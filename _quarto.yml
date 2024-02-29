@@ -57,7 +57,6 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Adult_Euthanasia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Syngnathid_Embryo_and_Larval_Euthanasia.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_General_BrineShrimp_Enrichment.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Dishwasher_Use.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Hatching_Feeding_BrineShrimp.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Density_Standards.qmd
@@ -82,14 +81,14 @@ book:
     - part: Part6_Invertebrate_Husbandry.qmd
       chapters:
         - 06_Invertebrate/Placeholder_Daphnia.qmd
-   
-    - part: Part7_Bioinformatic.qmd
-      chapters:
-        - 07_Bioinformatic/base-R.qmd
         
-    - part: Part8_Common_Recipes.qmd
+    - part: Part7_Common_Recipes.qmd
       chapters:
-        - 08_Recipes/Placeholder_Recipes.qmd
+        - 07_Recipes/Placeholder_Recipes.qmd
+        
+    - part: Part8_Bioinformatic.qmd
+      chapters:
+        - 08_Bioinformatic/base-R.qmd
   
     - part: Part9_References.qmd
       chapters:      

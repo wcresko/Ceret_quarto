@@ -1,4 +1,4 @@
-# Cleaning of Plastic and Glassware using Bleach and Sodium Thiosulfate {#sec-husbandry-Plastic_Glassware_cleaning-bleach}
+# Bleach and Sodium Thiosulfate {#sec-husbandry-Plastic_Glassware_cleaning-bleach}
 
 ## Introduction
 
@@ -21,11 +21,12 @@
 ## Solutions
 
 -   **Bleach solution**: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.
--   **Sodium thiosulfate**: Make a 5% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 250 g (marked on dispenser) of sodium thiosulfate. Mix aggressively. 
+-   **Sodium thiosulfate**: Make a 5% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 250 g (marked on dispenser) of sodium thiosulfate. Mix aggressively.
 
 ::: {.callout-caution title="Chemical Hygiene"}
 When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate.
 :::
+
 ::: {.callout-warning title="NOTES"}
 These solutions need to be changed once a week. (see below for directions)
 :::
@@ -48,7 +49,7 @@ These solutions need to be changed once a week. (see below for directions)
     4.  Rinse container with water and allow to drain.
     5.  Fill with water and the proper amount of bleach/sodium thiosulfate to make the concentrations as stated above. (The directions for this with amounts of water and chemical should be written on container)
     6.  Initial Check list
-    
+
 ## Associated Papers
 
 -   xxx

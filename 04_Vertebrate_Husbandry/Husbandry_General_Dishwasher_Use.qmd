@@ -1,4 +1,4 @@
-# Dishwasher use to sterilize plastics, glassware, and nets {#sec-husb-dishwasher}
+# Dishwasher Use {#sec-husb-dishwasher}
 
 ## Introduction
 
@@ -21,15 +21,15 @@
 ## Procedure
 
 ::: {.callout-note title="NOTE"}
-Bulkheads, PVC fittings, and PVC pipefish should be cleaned with bleach and sodium thiosulfate (see xxxxxSOP). 
+Bulkheads, PVC fittings, and PVC pipefish should be cleaned with bleach and sodium thiosulfate (see xxxxxSOP).
 :::
 
 -   Loading the dishwasher:
     1.  If there are clean dishes from a previous cycle, put them away in their respective locations. If some are still wet, set them out to dry on the drying rack before putting them away.
     2.  RINSE ALL DIRTY DISHES VERY WELL, especially those with algae/food residue. the dishwasher will sanitize, but will not effectively clean, the dishes. Scrub dishes with a scrub pad to remove buildup, if needed.
     3.  Small tank lids should be stacked on the bottom rack, but not on the raised portion of the rack, as this impedes the rinser from spinning properly.
-    5.  Plastic tanks, Ziploc containers should be placed on the top rack.
-    6.  Nets can be placed on both racks. 
+    4.  Plastic tanks, Ziploc containers should be placed on the top rack.
+    5.  Nets can be placed on both racks.
 
 ::: {.callout-note title="NOTE"}
 BEFORE RUNNING THE DISHWASHER, SLIDE BOTH RACKS IN AND MAKE SURE THE RINSER ON THE BOTTOM OF THE TOP RACK CAN SPIN FREELY
@@ -45,7 +45,7 @@ Once per week (ON THURSDAY) include temperature tape
     3.  Should the program ever need to be cancelled mid-cycle, pressing the RUN/CANCEL button once will result in the cycle canceling and the water draining.
 -   Cleaning large tank lids
     1.  The small frontal lids to the large glass tanks should be loaded into the dishwasher. The large lids to the large glass tanks should be hosed off thoroughly with very hot water, and set on the rack to dry.
-    
+
 ## Associated Papers
 
 -   xxx

@@ -1,4 +1,4 @@
-# Stickleback Stock Number Assignment {#sec-Husbandry-Stickleback_database_use}
+# Stock Number Assignment {#sec-Husbandry-Stickleback_database_use}
 
 ## Introduction
 
@@ -9,14 +9,12 @@
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
     -   Zebrafish, (*Danio rerio*)
--   **Author**: Mark Currey   
+-   **Author**: Mark Currey\
 -   **Date Created**: February 12, 2024
 
-##Materials
-N/A
+##Materials N/A
 
-##Sloutions
-N/A
+##Sloutions N/A
 
 ::: {.callout-warning title="NOTE"}
 If you have not been given access to the stickleback database please ask Mark C to do this.
@@ -26,31 +24,31 @@ If you have not been given access to the stickleback database please ask Mark C 
 
 ##Wild Collections
 
-1. Go to the stickleback website, https://sticklebackdb.uoregon.edu/sticklebackdb/ (if you don't have access please see note above). 
-2. Click on the "stocks" button from the tool bar. 
-3. Click on "New Stock from Capture". 
-4. Find "capture population" from drop down list. If it is a new location add it by clicking the "add new population" button. 
-5. Enter capture date, line, and stock name information. The convention for wild collections is "wild caught" - "location"(e.g. Wild Caught - Cushman Slough). 
-6. Highlight protocol information. 
-7. Click the "create" button. 
-8. Record information in the crossing book. 
+1.  Go to the stickleback website, https://sticklebackdb.uoregon.edu/sticklebackdb/ (if you don't have access please see note above).
+2.  Click on the "stocks" button from the tool bar.
+3.  Click on "New Stock from Capture".
+4.  Find "capture population" from drop down list. If it is a new location add it by clicking the "add new population" button.
+5.  Enter capture date, line, and stock name information. The convention for wild collections is "wild caught" - "location"(e.g. Wild Caught - Cushman Slough).
+6.  Highlight protocol information.
+7.  Click the "create" button.
+8.  Record information in the crossing book.
 
 ##Lab Crosses
 
-1. Go to the stickleback website, https://sticklebackdb.uoregon.edu/sticklebackdb/ (if you don't have access please see note above). 
-2. Click on the "stocks" button from the tool bar. 
-3. Click on "New Stock from Breeding". 
-4. Add stock name information. The convention for crosses is "stock - line " (e.g. Stock - Cushman Slough) or if it's an experimental cross, "line - experiment information" (Cushman - CRISPR - FGF16 CNE KO). 
+1.  Go to the stickleback website, https://sticklebackdb.uoregon.edu/sticklebackdb/ (if you don't have access please see note above).
+2.  Click on the "stocks" button from the tool bar.
+3.  Click on "New Stock from Breeding".
+4.  Add stock name information. The convention for crosses is "stock - line " (e.g. Stock - Cushman Slough) or if it's an experimental cross, "line - experiment information" (Cushman - CRISPR - FGF16 CNE KO).
 
 ::: {.callout-warning title="NOTE"}
 If it is a new experiment (e.g. a new CRISPR target) you will need to create a name by simply typing it in.
 :::
 
-5. Add line information from drop down list. 
-6. Add maternal ID or add a new maternal individual. 
-7. Add paternal ID or add a new paternal individual.
-8. Add the number of eggs and number of fertilized embryos. 
-9. Add protocol information. 
+5.  Add line information from drop down list.
+6.  Add maternal ID or add a new maternal individual.
+7.  Add paternal ID or add a new paternal individual.
+8.  Add the number of eggs and number of fertilized embryos.
+9.  Add protocol information.
 10. Add any Label notes or comments
-11. Click the "create" button. 
-12. Record information in the crossing book. 
+11. Click the "create" button.
+12. Record information in the crossing book.

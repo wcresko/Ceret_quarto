@@ -18,8 +18,9 @@
 -   Blue tubing.
 
 ## Solutions:
+
 ::: {.callout-caution title="Chemical Hygiene"}
-When using bleach and/or Sodium Thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol. 
+When using bleach and/or Sodium Thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol.
 :::
 
 -   Bleach solution: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.

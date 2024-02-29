@@ -1,4 +1,4 @@
-# Pipefish Embryo and Larval Euthanasia {#sec-husb-pipe_larval_euth}
+# Pipefish Embryo & Larval Euthanasia {#sec-husb-pipe_larval_euth}
 
 ## Introduction
 
@@ -20,11 +20,13 @@
 ## Solutions
 
 ::: {.callout-warning title="NOTES"}
-        Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly
+```         
+    Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly
+```
 :::
 
 ::: {.callout-caution title="This is a callout CAUTON"}
-When handling Mesab please wear gloves and wash your hand after use. 
+When handling Mesab please wear gloves and wash your hand after use.
 :::
 
 -   **Mesab Stock Solution (4g/L, From Zebrafish Book 4th edition) (tris buffered)**:
@@ -51,7 +53,9 @@ When handling Mesab please wear gloves and wash your hand after use.
     4.  If the fish are to be disposed of, place embryo in 95% ETOH for 5 minutes and then into morgue for disposal.
 
 ::: {.callout-warning title="NOTES"}
-    This step is necessary as a startle response is not obvious in unhatched fish.
+```         
+This step is necessary as a startle response is not obvious in unhatched fish.
+```
 :::
 
 2.  Procedure for larval euthanasia:

@@ -1,4 +1,4 @@
-# Animal Room Light Programming {#sec-vert_husb-room_lighting}
+# Room Light Programming {#sec-vert_husb-room_lighting}
 
 ## Introduction
 

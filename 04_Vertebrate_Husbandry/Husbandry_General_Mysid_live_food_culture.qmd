@@ -1,4 +1,4 @@
-# Live Food Culture - Mysids {#sec-husb-mysid_culture}
+# Mysid Culture {#sec-husb-mysid_culture}
 
 ## Introduction
 
@@ -22,11 +22,11 @@
     -   Feed each mysid tank with newly hatched brine shrimp supplemented with Selcon twice daily. Ideally this is done when feeding the stickleback.
 2.  **Water Change**
     -   2-3 times per week. The mysid tanks are connected to the pipefish water system so will experience a water change along with the pipefish. See pipefish water change SOP.
-    
+
 ::: {.callout-note title="This is a callout NOTE"}
 Mysids will only be collected Monday through Friday.
-:::    
-    
+:::
+
 3.  **Mysid Collection and Tank Reset (Daily - except on weekends)**
     -   Turn off water to the oldest tank as noted by the date placed on the front of the tank.
     -   Take the 10.5 L tank to the sink.
@@ -34,11 +34,10 @@ Mysids will only be collected Monday through Friday.
     -   Using the clip light for illumination, a white 6" brine shrimp net, and two plastic containers collect all of the mysids from the tank and place into the plastic containers. Place \~ 20 mysids into container #1. Collect the rest of the mysids and place in container #2.
     -   Put all the mysids from container #1 into the empty "reset" tank.
     -   Feed the mysids in container #2 to the adult pipefish.
-    
+
 ## Associated Papers
 
 -   xxx
 -   xxx
 -   xxx
 -   xxx
-

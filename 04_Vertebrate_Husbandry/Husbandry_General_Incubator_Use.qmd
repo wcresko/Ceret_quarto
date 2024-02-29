@@ -1,4 +1,4 @@
-# Incubator Use and Care of Stickleback Fry {#sec-vert_husbandry_incubator_use}
+# Incubator & Stickleback Fry {#sec-vert_husbandry_incubator_use}
 
 ## Introduction
 
@@ -23,14 +23,14 @@
 ## Procedure
 
 ::: {.callout-important title="This is important"}
-Researchers are responsible for monitoring and caring of their research animals while in the incubator. This includes water changes, removing ?deads?, fixing, euthanizing and any other procedures regarding the fish. If the fish are to be raised past hatching please contact Mark, prior to hatching, to make arrangements for putting fish into the system. Also, please see Mark prior to initial use of incubator for brief training. 
+Researchers are responsible for monitoring and caring of their research animals while in the incubator. This includes water changes, removing ?deads?, fixing, euthanizing and any other procedures regarding the fish. If the fish are to be raised past hatching please contact Mark, prior to hatching, to make arrangements for putting fish into the system. Also, please see Mark prior to initial use of incubator for brief training.
 :::
 
 Procedure:
 
 1.  Raise Embryos (check daily):
 
-    -   Embryos will develop at approximately 2.5 times zebrafish time \[see http://zfin.org/zf_info/zfbook/stages/index.html\], and hatch at approximately 7 days. 48hr stickleback embryos have completed most major morphogenetic processes, and the melanic pigment cells are just starting to migrate. A beating heart can be seen after \~72hr. Check petri dishes daily and remove deads and those with arrested development. Change embryo medium at 3-4 dpf and more if warranted. 
+    -   Embryos will develop at approximately 2.5 times zebrafish time \[see http://zfin.org/zf_info/zfbook/stages/index.html\], and hatch at approximately 7 days. 48hr stickleback embryos have completed most major morphogenetic processes, and the melanic pigment cells are just starting to migrate. A beating heart can be seen after \~72hr. Check petri dishes daily and remove deads and those with arrested development. Change embryo medium at 3-4 dpf and more if warranted.
 
 2.  Hatching, Begin Feeding Brine Shrimp, and Move to System (t = 7-8 days post fertilization):
 
@@ -44,4 +44,3 @@ Procedure:
 -   xxx
 -   xxx
 -   xxx
-

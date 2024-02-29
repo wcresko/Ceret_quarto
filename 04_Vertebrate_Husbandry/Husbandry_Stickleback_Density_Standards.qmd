@@ -7,7 +7,7 @@
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
--   **Author**: Mark Currey   
+-   **Author**: Mark Currey\
 -   **Date Created**: January 01, 2020, updated February 05, 2024
 
 ## Materials
@@ -38,6 +38,7 @@
 -   Juvenile fish are transferred from fry tanks into 10.5 L tanks and kept at a density of 20 fish per container.
 
 ## Stickleback post-Juvenile (3 months - 1 year) Late Grow Out
+
 -   Fish older are then 3 months are transferred into 20 gallon tanks (if not already in a 20 gallon) and grown to 1 year of age in the Winter room.
 
 ## Stickleback Adults (1 year - 1.5 years) Breeding:
@@ -48,8 +49,6 @@
 
 ## Pipefish
 
-- Pregnant males are placed in 10.5 L tanks and moved back to 20 gallon tanks when the haev given birth. 
-- Young pipefish (0-3 months) are grown in 10.5 L tanks at the density they are born at. 
-- Adult pipefish are kept in mixed gender 20 gallon tanks at no more than 15 fish per tank. 
-
-
+-   Pregnant males are placed in 10.5 L tanks and moved back to 20 gallon tanks when the haev given birth.
+-   Young pipefish (0-3 months) are grown in 10.5 L tanks at the density they are born at.
+-   Adult pipefish are kept in mixed gender 20 gallon tanks at no more than 15 fish per tank.

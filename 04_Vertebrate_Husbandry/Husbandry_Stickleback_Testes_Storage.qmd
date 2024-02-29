@@ -17,34 +17,24 @@
 -   Cell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration\*
 
 ::: {.callout-warning title="NOTES"}
-*Both of these reagents are located in separate boxes in the scientific -20° C freezer. They are partitioned into 100μl aliquots.
+\*Both of these reagents are located in separate boxes in the scientific -20° C freezer. They are partitioned into 100μl aliquots.
 :::
 
 ## Solutions
 
--  Ginzberg's Ringers {#sec-recipe_ginzbergs}
--  Testes solution {#sec-recipe_testes_solution}
+-   Ginzberg's Ringers {#sec-recipe_ginzbergs}
+-   Testes solution {#sec-recipe_testes_solution}
 
-**Ginzberg's Ringers**
-    -   Mix solids into 750 ml of npH2O
-        -   6.6g NaCl
-        -   0.25g KCl
-        -   0.3g CaCl~2~
-        -   0.2g NaHCO~3~
-    -   Bring to 1 liter total volume with npH~2~O.
-    -   Store at 4° C.
-**Testes solution** (100ml)
-    -   Add 100μl of Gentamycin and 100μl of Anti-biotic/mycotic to 100ml of Ginzburg's Ringers solution. Store at 4°C.
-
+**Ginzberg's Ringers** - Mix solids into 750 ml of npH2O - 6.6g NaCl - 0.25g KCl - 0.3g CaCl~2~ - 0.2g NaHCO~3~ - Bring to 1 liter total volume with npH~2~O. - Store at 4° C. **Testes solution** (100ml) - Add 100μl of Gentamycin and 100μl of Anti-biotic/mycotic to 100ml of Ginzburg's Ringers solution. Store at 4°C.
 
 ## Procedure
 
-1. Make solutions
-2. Dissect testes {#sec-husbandry_stickleback_cross}.
-3. Place testes in 15 ml tube with ~10 ml of testes solution.
-4. Label tube with stock number and date of testes dissection and place tube with testes in 4°C refrigerator.
-5. Change testes solution once per week.
+1.  Make solutions
+2.  Dissect testes {#sec-husbandry_stickleback_cross}.
+3.  Place testes in 15 ml tube with \~10 ml of testes solution.
+4.  Label tube with stock number and date of testes dissection and place tube with testes in 4°C refrigerator.
+5.  Change testes solution once per week.
 
 ::: {.callout-warning title="NOTES"}
-Testes can be used up to ~1-2 months when stored this way.
+Testes can be used up to \~1-2 months when stored this way.
 :::

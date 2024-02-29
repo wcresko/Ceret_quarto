@@ -1,8 +1,8 @@
-# Hatching and Feeding Brine Shrimp {#sec-husbandry-brine_gen_hatch_feed}
+# Brine Shrimp Culture {#sec-husbandry-brine_gen_hatch_feed}
 
 ## Introduction
 
--   **Purpose**: This procedure describes the hatching and feeding of brine shrimp as well as how to reset the brine cone. 
+-   **Purpose**: This procedure describes the hatching and feeding of brine shrimp as well as how to reset the brine cone.
 -   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -18,31 +18,30 @@
 -   Baking Soda
 -   Squirt Bottle
 
-
 ## Solutions
 
 -   Selcon
 
 ## Procedure
 
-1.  Remove air bubbler, place a light at the bottom of the cone, and allow the shrimp to collect at the bottom  
-2.  Collect Brine Shrimp by draining the brine through the two system brine shrimp collector. 
+1.  Remove air bubbler, place a light at the bottom of the cone, and allow the shrimp to collect at the bottom\
+2.  Collect Brine Shrimp by draining the brine through the two system brine shrimp collector.
 
 ::: {.callout-note title="NOTES"}
-a. Only collect the bottom portion of the cone (only the orange 4-5 inches)
-b. It will take awhile for the brine shrimp to separate from the cysts. The brine shrimp colletion system can be placed on a stand while water is run through it from the sink. 
-c. Do not use the spary nozzle to force the brine shrimp through net 1 as it will destroy the shrimp. 
+a.  Only collect the bottom portion of the cone (only the orange 4-5 inches)
+b.  It will take awhile for the brine shrimp to separate from the cysts. The brine shrimp colletion system can be placed on a stand while water is run through it from the sink.
+c.  Do not use the spary nozzle to force the brine shrimp through net 1 as it will destroy the shrimp.
 :::
 
-3.  Reset Brine Cone: Fill cone with DI water to 10 L. Put airline and heater (set at 80°F) into cone. Add **300 ml of rock salt**, **1 scoop (5 ml) of baking soda**, and **1 ml of Selcon**. Obtain brine shrimp from refrigerator. Measure out **30 ml of dry brine  cysts** and add it to the cone. 
+3.  Reset Brine Cone: Fill cone with DI water to 10 L. Put airline and heater (set at 80°F) into cone. Add **300 ml of rock salt**, **1 scoop (5 ml) of baking soda**, and **1 ml of Selcon**. Obtain brine shrimp from refrigerator. Measure out **30 ml of dry brine cysts** and add it to the cone.
 
     ::: {.callout-note title="NOTE"}
-The amount of brine shrimp needed will vary depending on the number of juvenile fish that need to be fed. If there is a need for more brine shrimp add more brine shrimp cysts to cone and leave a note for the next person. Increase the amount in 30 ml increments.
+    The amount of brine shrimp needed will vary depending on the number of juvenile fish that need to be fed. If there is a need for more brine shrimp add more brine shrimp cysts to cone and leave a note for the next person. Increase the amount in 30 ml increments.
     :::
 
-3.  If enriching with a High-Carotenoid Marine Algae see Brine Shrimp Enrichment SOP.
+4.  If enriching with a High-Carotenoid Marine Algae see Brine Shrimp Enrichment SOP.
 
-4.  Wait 24 hours and repeat.
+5.  Wait 24 hours and repeat.
 
 ## Associated Papers
 
@@ -50,4 +49,3 @@ The amount of brine shrimp needed will vary depending on the number of juvenile 
 -   xxx
 -   xxx
 -   xxx
-
