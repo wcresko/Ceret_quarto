@@ -82,6 +82,25 @@ book:
         - 05_Vertebrate_Experiment/VertExperiment_Field_Collection_Syngnathid.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Field_Collection_Stickleback.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Dechorionating_Zebrafish_Embryos.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_General_Fish_Blood.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_General_Needle_Pulling.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Back_Fill_Neurons.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Cybrid_Creation.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Embryo_Injections.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Germ_Free.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Live_Alizarin_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Live_Calcein_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Live_Daspei_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Live_Fin_Clipping.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Monoassociation.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Salinity_Treatment.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Sex_Determ.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Steroid_Measure.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Back_Fill_Neurons.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Alizarin_Staining.qmd 
+        - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Calcein_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Daspei_Staining.qmd
 
     - part: Part6_Invertebrate_Husbandry.qmd
       chapters:
@@ -94,6 +113,7 @@ book:
         - 07_Recipes/Recipe_Husbandry_ginzbergs_ringers.qmd
         - 07_Recipes/Recipe_Husbandry_mesab_stock.qmd
         - 07_Recipes/Recipe_Husbandry_testes_solution.qmd
+        - 07_Recipes/Recipe_Husbandry_PFA.qmd
         
     - part: Part8_Bioinformatic.qmd
       chapters:

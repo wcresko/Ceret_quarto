@@ -1,0 +1,106 @@
+# Germ Free Stickleback {#sec-vert_exp_gremfree_SB}
+
+## Introduction
+
+-   **Purpose**: This procedure describes the creation of germ-free threespine stickleback.
+-   **Procedure Type**: Vert Experiment
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Mark Currey
+-   **Date Created**: January 01, 2024
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+- filter sterilizer
+- 3 sterile 50 ml beakers with foil tops
+- Hood
+- Individually wrapped, sterile transfer pipettes
+
+## Solutions
+
+-   embryo medium {#sec-general_recipe_embryo_medium}
+-   100mg/ml Ampicillin
+-   50mg/ml Kanamycin
+-   8mg/ml Amphotericin
+
+::: {.callout-note title="NOTES"}
+All stored at -20C
+:::
+
+::: {.callout-warning title="NOTES"}
+Make the following solutions fresh for each use.
+:::
+
+### Antibiotic Stickleback Medium
+-   250ul Ampicillin 100mg/ml (100ug/ml final)
+-   25ul Kanamycin 50mg/ml (5ug/ml final)
+-   7.8ul Amphotericin B 8mg/ml (250ng/ml final)
+-   250 ml Stickleback medium
+-   Filter sterilize
+
+### 0.003% Bleach solution
+-   125ul 6.0% bleach solution
+-   250ml SM
+-   Filter sterilize
+
+### 0.2% PVP-I solution (Polyvinylpyrrolidone-iodine \[0.01% free iodine\] Western Chemical Inc.)
+-   5ml 10% PVP-I stock
+-   245ml SM
+-   Filter sterilize
+
+
+
+## Procedure
+
+1. Make crosses as in {#sec-husbandry_stickleback_crossing} except spray the outside of the euthanized male with 95% ethanol prior to dissection.
+2.	Incubate eggs at 20°C until eggs reach 2 cell stage ~2 hours post fertilization, remove non-viable embryos from 2 cell stage eggs, and rinse viable embryos with fresh antibiotic stickleback medium 2X.
+3.	About 6 hours post fertilization, transfer viable embryos into 50 ml beakers
+
+::: {.callout-note title="NOTES"}
+To increase the probability of maintaining sterility wear standard latex laboratory gloves for subsequent steps of protocol.
+:::
+
+4.	Transfer the following into the hood to minimize number of times entering and exiting the hood (per 100 embryos cleaned)
+    •	3 sterile 50ml beakers with foil tops
+    •	Individually wrapped, sterile transfer pipettes
+    •	1L filter sterilized stickleback medium
+    •	0.003% bleach
+    •	0.2-0.4% PVP-I (some flasks may be contaminated with 0.2% PVP-I, but more fish are likely to die in the 0.4% PVP-I)
+    •	10 sterile flasks – 250 or 500cm2 with screw topped caps (in hood, add 48ml sterile
+    •	stickleback medium per 250cm2 flask or 98ml per 500cm2 prior to adding embryos)
+    •	25ml or 50ml pipettes, sterile, individually wrapped Pipette aid 
+    •	Embryos in 50ml covered beaker
+    •	Large beaker for collecting liquid waste
+5.	Transfer embryos to clean beaker
+6.	Pour off all but ~10ml SM carefully into waste container
+7.	Transfer remaining 10ml SM with eggs into clean 50ml beaker
+8.	Add ~20ml sterile SM to old beaker to get remaining eggs
+9.	Transfer remaining eggs to beaker
+10.	Bring volume in new beaker up to 50ml with sterile SM
+11.	Rinse embryos 3X with 50ml filter sterilized SM
+12.	Immerse embryos in ~50ml 0.2-0.4% PVP-I solution for 10 minutes
+13.	Rinse embryos with sterile SM 1X
+14.	Transfer embryos to fresh beaker as in step b
+15.	Rinse embryos in sterile SM additional 2X
+16.	Immerse embryos in 0.003% bleach for 10 minutes. 
+17.	Rinse embryos in sterile SM 1X
+18.	Transfer embryos to fresh beaker. 
+19.	Rinse embryos additional 2X in sterile SM
+20.	Transfer 20-40 embryos to flasks containing sterile SM using sterile, individually wrapped pipettes
+21. Incubate embryos at 20°C in incubator in the Cresko Lab, room 324 Pacific.
+
+**Post sterilization care
+22. At 9 dpf, upon yolk absorption, feed larva and change and test water for     
+contamination.
+23.	On the daily checklist record the number of fish dead or not moving in response     
+	to external stimuli. In tissue culture hood, remove dead or not responsive (sick) fish. Euthanize sick fish with tricaine {#sec-husbandry_euthanasia_stickleback}.
+24.	In tissue culture hood, remove 70% of fish water with sterile pipette
+25.	Replace water with sterile stickleback medium
+26.	Add one scoop of irradiated Ziegler dry food to flask
+27.	Plate 50ul to 100ul of water on TSA plates to check for contamination of bacteria.
+
+

@@ -1,0 +1,50 @@
+# Fish Blood Collection {#sec-VertExperiment_blood_collection}
+
+## Introduction
+
+-   **Purpose**: Describe procedures for the collection of fish blood
+-   **Procedure Type**: Vert Experiment
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Bay pipefish, (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+    -   Zebrafish, (*Danio rerio*)
+-   **Author**: Ann Petersen
+-   **Date Created**: August 1, 2011
+
+::: {.callout-warning title="HUMAN SAFETY MEASURES"}
+-   Wear gloves at all times when handling blood collection equiptment. While this will not prevent accidents, it may reduce the risk of contamination.
+-   Never attempt to re-sheath needles. Always discard them into a sharps container immediately after use.
+-   Never overfill the sharps container.
+-   Place the sharps container in the area you are working to avoid transporting needles outside of your work area.
+-   Ensure the work area is clean.
+-   Wash hands after handling fish blood.
+:::
+
+## Materials: {#materials .head}
+
+-   Gloves to be worn when handling fish, anesthesia water, blood samples
+-   Disinfectant for cleaning after blood sample
+-   Scalpal or sharp knife for tail ablation
+-   Sterile needles or vacutainer needles from 14-30 gauge
+-   Syringe for collecting samples
+-   Hematocrit tubes
+-   Critoseal
+-   Sharps container for needles
+-   Whatman 903 Specimen collection paper
+
+## Solutions
+
+-   Euthanisia MS-222 (tricaine-methanosulfanate) {#sec-husb-adutl_sb_euthanasia}
+
+
+## Procedure
+
+1.	Place fish in beaker containing MS-222 euthanasia dose (300 mg/L). 
+2.	Wait for fish to slow and become unresponsive to taps on the container to ensure it is fully euthanized
+3.	Sever the caudal peduncle with a scalpel blade or sharp knife
+4.	Fill a heparnized hematocrit tube/capillary tube with the blood as it flows from the caudal vein. Plug one end of the hematocrit tube with critoseal. Spin on microhematocrit centrifuge to separate plasma from red blood cells. Measure hematocrit volume %, Use a pipette or break the capillary to extract the plasma or packed cells as needed.
+5.	Alternatively, collect a 25μL drop of blood at the tail and allow it to drop onto Whatman specimen collection filter paper for some endocrinological downstream applications. Blood spotted filter paper must be dried for 4 hours on the bench away from heat and light, and then may be stored at -20C in a sealed bag with desiccant packs.
+6.	Dispose of fish soma and tail in fish morgue.
+7.	Clean and disinfect area where blood was collected.
+

@@ -1,0 +1,55 @@
+# Stickleback Sex Determination with PCR {#sec-vert_exp_SB_sex_PCR}
+
+## Introduction
+
+-   **Purpose**: This protocol describes how to determine the genotypic sex of threespine stickleback with PCR.
+-   **Procedure Type**: Vert Experiment
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*),
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+## Materials
+
+-   2X turbo mix
+-   GA1 F primer (10µM conc.)
+-   GA1 R primer (10µM conc.)
+-   Taq
+-   npH~2~O
+-   DNA
+
+::: {.callout-notes title="NOTES"}
+This procedure also works with GA2 and IDH primers although PCR parameters may be different.
+:::
+
+## Procedure
+
+![Image #1 - will be inserted later](./images/sd_image1.png)
+
+-   Extract DNA into 250µl final volume
+
+### PCR recipe (1X)
+
+| Reagent       | Concentration |  Volume  |
+|---------------|---------------|:--------:|
+| 2X turbo mix  |               |   10µl   |
+| GA1 F primer  | 10µM          |  .25µl   |
+| GA1 R primer  | 10µM          |  .25µl   |
+| Taq           |               |  .25µl   |
+| npH~2~O       |               |  7.25µl  |
+| DNA           |               |  2.0µl   |
+| **TOTAL**     |               | **20µl** |
+
+-   After all ingredients are added to a PCR tube put a 10µl drop of mineral oil on top.
+
+### PCR reaction protocol
+
+-   94˙C -- 5 minutes
+-   94˙C -- 50 seconds
+-   44˙C -- 50 seconds (44 cycles)
+-   72˙C -- 1:20 minutes
+-   72˙C -- 10 minutes
+
+### Run PCR products on a 2% gel
+
+![Image #2 - will be inserted later](./images/sd_image2.png)

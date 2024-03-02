@@ -1,0 +1,30 @@
+# Needle Pulling for Injections {#sec-vertexp_needle_pulling}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to pull needles for injections.
+-   **Procedure Type**: Vert Experiment
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Zebrafish, (*Danio rerio*)
+-   **Author**: Susie Bassham
+-   **Date Created**: March 1, 2024
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+-   filament capillaries (1.2OD/0.69ID)
+-   needle puller
+-   glass
+
+## Solutions
+
+## Procedure
+
+-   use zebrafish filament capillaries (1.2OD/0.69ID)
+-   needle puller
+-   Program 1, range from 140 to 200 PSI by 20PSI steps
+-   Mark Appropriately

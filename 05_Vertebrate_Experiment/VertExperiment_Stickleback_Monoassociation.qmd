@@ -1,0 +1,37 @@
+# Stickleback Bacterial Monoassociation {#sec-vert_exp_mono_ass_SB}
+
+## Introduction
+
+-   **Purpose**: This protocol is used to determine whether the microbial community of one strain of stickleback can colonize the gut of another strain that is evolutionarily different. This protocol has been adapted for use in stickleback from an established, approved zebrafish protocol.
+-   **Procedure Type**: Vert Experiment
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+
+
+## Materials
+
+-   xxx
+-   xxx
+
+## Solutions
+
+-   xxx
+-   xxx
+
+## Procedure
+
+::: {.callout-notes title="NOTES"}
+The bacterial inoculums should be determined empirically for each species used.  For many bacteria 104 Colony Forming Units (CFUs) per milliliter of stickleback medium will suffice for full colonization of the intestine and minimal toxicity to the fish. Dead larvae in the flask will be removed as this will often result in increased bacterial growth that can ultimately be fatal to the remaining larvae.  The method below is used for several proteobacteria strains.  
+:::
+
+1.  Raise fish in a germ-free environment as described here: {#sec-vert_exp_gremfree_SB}
+2.  Incubate bacteria for 16 hours in 50 ml of growth medium in 250 ml flask at 25°C, 200 RPM. These bacteria will originate from the intestine of a healthy stickleback to ensure that the bacteria are not pathogens.
+3.  Measure the Optical Density~600~ (OD~600~) of the culture.
+4.  Calculate the original culture density, assuming 1 OD~600~ = 109 CFU / ml.
+5.  Dilute the culture to pre-determined concentration as needed in filter sterilized stickleback medium, and inoculate flask in tissue culture hood. The fish will be exposed to the bacteria in the water after their digestive system is open and they have been shown to consume food, which occurs between 9 and 13 days post fertilization. The inoculums will be determined in a manner similar to those already established for zebrafish and used regularly in the Guillemin laboratory. Germ-free fish water is inoculated between 1000 and 1000000 bacteria per milliliter so the concentration the concentration can be chosen that results in healthy fish surviving to three days post-exposure.
+6.  Plate dilutions of the original bacterial culture in order to verify the CFU/ml of the inoculum.
+7.  Monitor fish daily for signs of illness, including lack of motility, response to external stimuli, rapid movement of opercular (gill) cover and any other sign of non-normal behavior.
+8.  At the end of the experiment, euthanize fish by established and approved protocols {#sec-husb-adutl_sb_euthanasia}.

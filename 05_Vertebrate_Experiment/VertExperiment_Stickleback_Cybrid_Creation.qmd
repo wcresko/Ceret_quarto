@@ -1,0 +1,35 @@
+# Stickleback Creation of Cybrids  {#sec-Vert_Exp_stickleback_cybrid}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to generate cytoplasmic hybrids (cybrids). Cytoplasm Transfer (CT) protocols have been established for a long time in vertebrates with the first human born from cytoplasm transfer in 1997. Methods follow similar protocols to somatic cell nuclear transfer in zebrafish and include the donation of approximately 20% of the donor egg cytoplasm into recipients at the single cell stage.
+-   **Procedure Type**: Vert Experimental
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Emily Beck
+-   **Date Created**: January 01, 2024
+
+## Materials
+
+-   Petri dish with specialized trough rig
+-   Injection rig
+-   Transfer pipette
+
+## Solutions
+
+-   Embryo medium
+
+## Procedure
+
+1.  Collect eggs and sperm from one mitochondrial line (recipient) and fertilize {#sec-husbandry_stickleback_crossing}.
+2.  Collect eggs from alternate (donor) mitochondrial line.
+3.  Use microinjector to draw 20% of cytoplasm from donor egg {#sec-vert_exp_embryo_injections}.
+4.  Use microinjector to inject recipient embryo at single cell stage, \~ 1 hour post fertilization.
+5.  Rear animals until 10 days post fertilization, euthanize {#sec-vert_husb-euthanasia_syngnathid} animal, and use a restriction digest to test for heteroplasmy.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx
