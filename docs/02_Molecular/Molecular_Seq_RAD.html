@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Cresko Laboratory Procedures and Protocols - 61&nbsp; Whole Mount In situ</title>
+<title>Cresko Laboratory Procedures and Protocols - 14&nbsp; Sequenced RAD Tags</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html" rel="next">
-<link href="../05_Vertebrate_Experiment/VertExperiment_General_Needle_Pulling.html" rel="prev">
+<link href="../02_Molecular/Molecular_T_overhang.html" rel="next">
+<link href="../02_Molecular/Molecular_Insert_Screen.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../Part5_Vertebrate_Experiment.html">Vertebrate Experiment</a></li><li class="breadcrumb-item"><a href="../05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html"><span class="chapter-number">61</span>&nbsp; <span class="chapter-title">Whole Mount *In situ*</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../Part2_Molecular.html">Molecular Protocols</a></li><li class="breadcrumb-item"><a href="../02_Molecular/Molecular_Seq_RAD.html"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Sequenced RAD Tags</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -229,7 +229,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../02_Molecular/Molecular_Seq_RAD.html" class="sidebar-item-text sidebar-link">
+  <a href="../02_Molecular/Molecular_Seq_RAD.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Sequenced RAD Tags</span></span></a>
   </div>
 </li>
@@ -544,7 +544,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html" class="sidebar-item-text sidebar-link active">
+  <a href="../05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">61</span>&nbsp; <span class="chapter-title">Whole Mount <em>In situ</em></span></span></a>
   </div>
 </li>
@@ -892,15 +892,32 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
-  <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials">Materials</a></li>
-  <li><a href="#solutions" id="toc-solutions" class="nav-link" data-scroll-target="#solutions">Solutions</a></li>
-  <li><a href="#procedure" id="toc-procedure" class="nav-link" data-scroll-target="#procedure">Procedure</a>
+  <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials">Materials</a>
   <ul class="collapse">
-  <li><a href="#fixation" id="toc-fixation" class="nav-link" data-scroll-target="#fixation">Fixation</a></li>
-  <li><a href="#modified-antigen-retrieval" id="toc-modified-antigen-retrieval" class="nav-link" data-scroll-target="#modified-antigen-retrieval">Modified Antigen-Retrieval</a></li>
-  <li><a href="#acetone-permeabilization" id="toc-acetone-permeabilization" class="nav-link" data-scroll-target="#acetone-permeabilization">Acetone Permeabilization</a></li>
+  <li><a href="#dna-extraction-and-rnase-a-treatment" id="toc-dna-extraction-and-rnase-a-treatment" class="nav-link" data-scroll-target="#dna-extraction-and-rnase-a-treatment">DNA extraction and RNase A treatment</a></li>
+  <li><a href="#restriction-endonuclease-digestion" id="toc-restriction-endonuclease-digestion" class="nav-link" data-scroll-target="#restriction-endonuclease-digestion">Restriction endonuclease digestion</a></li>
+  <li><a href="#p1-adapter-ligation" id="toc-p1-adapter-ligation" class="nav-link" data-scroll-target="#p1-adapter-ligation">P1 Adapter ligation</a></li>
+  <li><a href="#purification-steps" id="toc-purification-steps" class="nav-link" data-scroll-target="#purification-steps">Purification steps</a></li>
+  <li><a href="#dna-shearing" id="toc-dna-shearing" class="nav-link" data-scroll-target="#dna-shearing">DNA shearing</a></li>
+  <li><a href="#size-selectionagarose-gel-extraction" id="toc-size-selectionagarose-gel-extraction" class="nav-link" data-scroll-target="#size-selectionagarose-gel-extraction">Size selection/agarose gel extraction</a></li>
+  <li><a href="#perform-end-repair" id="toc-perform-end-repair" class="nav-link" data-scroll-target="#perform-end-repair">Perform end repair</a></li>
+  <li><a href="#da-overhang-addition" id="toc-da-overhang-addition" class="nav-link" data-scroll-target="#da-overhang-addition">3´-dA overhang addition</a></li>
+  <li><a href="#p2-adapter-ligation" id="toc-p2-adapter-ligation" class="nav-link" data-scroll-target="#p2-adapter-ligation">P2 Adapter ligation</a></li>
+  <li><a href="#rad-tag-amplificationenrichment" id="toc-rad-tag-amplificationenrichment" class="nav-link" data-scroll-target="#rad-tag-amplificationenrichment">RAD tag Amplification/Enrichment</a></li>
   </ul></li>
-  <li><a href="#immuno-histochemistry" id="toc-immuno-histochemistry" class="nav-link" data-scroll-target="#immuno-histochemistry">Immuno-histochemistry</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a>
+  <ul class="collapse">
+  <li><a href="#dna-extraction-and-rnase-a-treatment-1" id="toc-dna-extraction-and-rnase-a-treatment-1" class="nav-link" data-scroll-target="#dna-extraction-and-rnase-a-treatment-1">DNA extraction and RNase A treatment</a></li>
+  <li><a href="#restriction-endonuclease-digestion-1" id="toc-restriction-endonuclease-digestion-1" class="nav-link" data-scroll-target="#restriction-endonuclease-digestion-1">Restriction endonuclease digestion</a></li>
+  <li><a href="#p1-adapter-ligation-1" id="toc-p1-adapter-ligation-1" class="nav-link" data-scroll-target="#p1-adapter-ligation-1">P1 Adapter ligation</a></li>
+  <li><a href="#sample-multiplexing" id="toc-sample-multiplexing" class="nav-link" data-scroll-target="#sample-multiplexing">Sample multiplexing</a></li>
+  <li><a href="#dna-shearing-1" id="toc-dna-shearing-1" class="nav-link" data-scroll-target="#dna-shearing-1">DNA shearing</a></li>
+  <li><a href="#size-selectionagarose-gel-extraction-1" id="toc-size-selectionagarose-gel-extraction-1" class="nav-link" data-scroll-target="#size-selectionagarose-gel-extraction-1">Size selection/agarose gel extraction</a></li>
+  <li><a href="#perform-end-repair-1" id="toc-perform-end-repair-1" class="nav-link" data-scroll-target="#perform-end-repair-1">Perform end repair</a></li>
+  <li><a href="#da-overhang-addition-1" id="toc-da-overhang-addition-1" class="nav-link" data-scroll-target="#da-overhang-addition-1">3´-dA overhang addition</a></li>
+  <li><a href="#p2-adapter-ligation-1" id="toc-p2-adapter-ligation-1" class="nav-link" data-scroll-target="#p2-adapter-ligation-1">P2 Adapter ligation</a></li>
+  <li><a href="#rad-tag-amplificationenrichment-1" id="toc-rad-tag-amplificationenrichment-1" class="nav-link" data-scroll-target="#rad-tag-amplificationenrichment-1">RAD tag Amplification/Enrichment</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -909,7 +926,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span id="sec-VertExp_insitu_whole_mount" class="quarto-section-identifier"><span class="chapter-number">61</span>&nbsp; <span class="chapter-title">Whole Mount <em>In situ</em></span></span></h1>
+<h1 class="title"><span id="sec-xxx-xxx" class="quarto-section-identifier"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Sequenced RAD Tags</span></span></h1>
 </div>
 
 
@@ -927,131 +944,251 @@ ul.task-list li input[type="checkbox"] {
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <ul>
-<li><strong>Purpose</strong>: This procedure describes how to perform insitus on whole mount embryos.</li>
-<li><strong>Procedure Type</strong>: Vert Experiment</li>
-<li><strong>Species</strong>:
-<ul>
-<li>Threespine stickleback, (<em>Gasterosteus aculeatus</em>)</li>
-<li>Bay pipefish, (<em>Syngnathus leptorhyncus</em>)</li>
-<li>Gulf pipefish (<em>Syngnathus scovelli</em>)</li>
-</ul></li>
-<li><strong>Author</strong>: Susan Bassham</li>
-<li><strong>Date Created</strong>: March 1, 2024</li>
+<li><strong>Purpose</strong>: To produce Illumina Libraries of Sequenced RAD tags</li>
+<li><strong>Procedure Type</strong>: Molecular</li>
+<li><strong>Species</strong>: N/A</li>
+<li><strong>Author</strong>: xxx</li>
+<li><strong>Date Created</strong>: xxx</li>
 </ul>
-<div class="callout callout-style-default callout-warning callout-titled" title="Chemical Warning">
+<div class="callout callout-style-default callout-warning callout-titled" title="NOTES">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Chemical Warning
+NOTES
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Wear PPE when handling PFA.</p>
+<p>xxxx</p>
 </div>
 </div>
 </section>
 <section id="materials" class="level2">
 <h2 class="anchored" data-anchor-id="materials">Materials</h2>
-<ul>
-<li>ice</li>
-<li>distilled water</li>
-<li>primary antibody (eg. mouse anti-fish)</li>
-<li>secondary antibody (eg. goat anti-mouse)</li>
-<li>tertiary antibody (ie mouse PAP)</li>
-</ul>
-</section>
-<section id="solutions" class="level2">
-<h2 class="anchored" data-anchor-id="solutions">Solutions</h2>
-<ul>
-<li>8% PFA {#sec-general_recipe_8%PFA}</li>
-<li>BT fix, 4% paraformaldehyde in PBS</li>
-<li>0.1 M sodium citrate buffer, pH 6.4</li>
-<li>citrate buffer containing 0.1% sodium azide</li>
-<li>acetone</li>
-<li>blocking solution (2% normal goat serum in wash solution -- PBS containing 1% BSA, 1% DMSO, 0.2% triton-X 100)</li>
-</ul>
-</section>
-<section id="procedure" class="level2">
-<h2 class="anchored" data-anchor-id="procedure">Procedure</h2>
-<section id="fixation" class="level3">
-<h3 class="anchored" data-anchor-id="fixation">Fixation</h3>
+<section id="dna-extraction-and-rnase-a-treatment" class="level3">
+<h3 class="anchored" data-anchor-id="dna-extraction-and-rnase-a-treatment">DNA extraction and RNase A treatment</h3>
 <ol type="1">
-<li>Fix embryos in BT Fix for 4 to 6 hours on ice or at 4°C (see notes below).</li>
+<li>DNeasy Blood &amp; Tissue Kit (Qiagen).</li>
+<li>RNaseA (Qiagen).</li>
 </ol>
 </section>
-<section id="modified-antigen-retrieval" class="level3">
-<h3 class="anchored" data-anchor-id="modified-antigen-retrieval">Modified Antigen-Retrieval</h3>
-<ol start="2" type="1">
-<li>Wash in 0.1 M sodium citrate buffer, pH 6.4, 5 min.</li>
-<li>Replace with fresh citrate buffer containing 0.1% sodium azide.</li>
-<li>Incubate overnight in 35-40°C water bath. (see note below).</li>
+<section id="restriction-endonuclease-digestion" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="restriction-endonuclease-digestion">Restriction endonuclease digestion</h3>
+<ol type="1">
+<li>Restriction enzyme (NEB).</li>
+<li>Clean, intact high-quality genomic DNA: 25 ng/μl.</li>
 </ol>
 </section>
-<section id="acetone-permeabilization" class="level3">
-<h3 class="anchored" data-anchor-id="acetone-permeabilization">Acetone Permeabilization</h3>
-<ol start="5" type="1">
-<li>Wash in DW 5 min.</li>
-<li>Freeze in acetone at -20°C for 7 min. to permeabilize the tissue (see note below).</li>
-<li>Wash in DW 5 min.</li>
-<li>Wash in 0.1 M citrate buffer 5 min.</li>
+<section id="p1-adapter-ligation" class="level3">
+<h3 class="anchored" data-anchor-id="p1-adapter-ligation">P1 Adapter ligation</h3>
+<ol type="1">
+<li><p>NEB Buffer 2.</p></li>
+<li><p>rATP (Promega): 100 mM.</p></li>
+<li><p>P1 Adapter: 100 nM. A modified Solexa© adapter (2006 Illumina, Inc., all rights reserved). Prepare 100nM stocks of P1 adapters in 1X Annealing Buffer (AB, see Note 4). Below, example barcoded EcoRI P1 adapter sequences. “P” denotes a phosphate group and “x” refers to barcode nucleotides.</p></li>
 </ol>
-</section>
-</section>
-<section id="immuno-histochemistry" class="level2">
-<h2 class="anchored" data-anchor-id="immuno-histochemistry">Immuno-histochemistry</h2>
-<ol start="9" type="1">
-<li>Treat with blocking solution (2% normal goat serum in wash solution -- PBS containing 1% BSA, 1% DMSO, 0.2% triton-X 100) to block nonspecific binding sites for 30 min.</li>
-<li>Treat with primary antibody (eg. mouse anti-fish) diluted in blocking solution for 5 hours at RT or overnight at 4°C. A shaker may be used to facilitate process.</li>
-<li>Wash for about 2 hours with frequent changes of wash solution.</li>
-<li>Treat with secondary antibody (eg. goat anti-mouse) diluted in wash solution overnight at 4°C or for 5 hours at RT.</li>
-<li>Repeat wash step.</li>
-<li>If required, treat with tertiary antibody (ie mouse PAP) diluted in wash buffer overnight at 4°C or for 5 hours at RT.</li>
-<li>Repeat wash step.</li>
-<li>If required, develop enzyme-mediated stain.</li>
-</ol>
-<div class="callout callout-style-default callout-note callout-titled" title="Composition of fixative">
+<div class="callout callout-style-default callout-warning callout-titled" title="NOTES">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Composition of fixative
+NOTES
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>I simultaneously fixed fish in three different aldehyde fixatives: BT fix, 4% paraformaldehyde in PBS, or 4% paraformaldehyde in 0.1 M phosphate, pH 7.3. - Those fish fixed in 4% paraformaldehyde in phosphate buffer were poorly and incompletely stained. - Those fish fixed in BT fix or in 4% pf in PBS demonstrated robust staining throughout the head and trunk of the fish (the staining in the BT-fixed fish may have been slightly better). - I also tested the components in the BT fix. The 4% sucrose in this fix was required for high-quality staining. - In contrast, the quality of the staining in fish fixed in BT fixative without calcium was comparable to that of fish fixed in BT fix containing 0.15 mM calcium chloride.</p>
+<p>P1 top:</p>
+<pre><code>5´- AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCTxxxxx -3</code></pre>
+<p>P1 bottom:</p>
+<pre><code>5´- P-AATTxxxxxAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT -3</code></pre>
 </div>
 </div>
-<div class="callout callout-style-default callout-note callout-titled" title="Modified Antigen Retrieva">
+<ol start="4" type="1">
+<li>Concentrated T4 DNA Ligase (NEB): 2,000,000 U/ml; or 10,000 U/ml T4 DNA ligase (Epicentre)</li>
+</ol>
+</section>
+<section id="purification-steps" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="purification-steps">Purification steps</h3>
+<ol type="1">
+<li>QIAquick or MinElute PCR Purification Kit (Qiagen), or DNA Clean and Concentrator-5 (Zymo)</li>
+</ol>
+</section>
+<section id="dna-shearing" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="dna-shearing">DNA shearing</h3>
+<ol type="1">
+<li>Bioruptor, nebulizer or Branson sonicator 450.</li>
+</ol>
+</section>
+<section id="size-selectionagarose-gel-extraction" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="size-selectionagarose-gel-extraction">Size selection/agarose gel extraction</h3>
+<ol type="1">
+<li>Agarose (Sigma)</li>
+<li>5X TBE: 0.45 M Tris-Borate, 0.01 M EDTA, pH 8.3.</li>
+<li>6X Orange Loading Dye Solution (Fermentas).</li>
+<li>GeneRuler 100 bp DNA Ladder Plus (Fermentas).</li>
+<li>Razor blades.</li>
+<li>MinElute Gel Purification Kit (Qiagen).</li>
+</ol>
+</section>
+<section id="perform-end-repair" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="perform-end-repair">Perform end repair</h3>
+<ol type="1">
+<li>Quick Blunting Kit (NEB).</li>
+</ol>
+</section>
+<section id="da-overhang-addition" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="da-overhang-addition">3´-dA overhang addition</h3>
+<ol type="1">
+<li>NEB Buffer 2.</li>
+<li>dATP (Fermentas): 10 mM.</li>
+<li>Klenow Fragment (3´ to 5´ exo-, NEB or Epicentre): 5,000 U/ml.</li>
+</ol>
+</section>
+<section id="p2-adapter-ligation" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="p2-adapter-ligation">P2 Adapter ligation</h3>
+<ol type="1">
+<li><p>NEB Buffer 2.</p></li>
+<li><p>rATP: 100 mM.</p></li>
+<li><p>P2 Adapter: 10 μM. A modified Solexa© adapter (2006 Illumina, Inc., all rights reserved). Prepare 10 μM double-stranded adapter in 1X AB (see Note 4). Asterisk denotes a phosphorothioate bond introduced to confer nuclease resistance to the double-stranded oligo (14).</p></li>
+</ol>
+<div class="callout callout-style-default callout-warning callout-titled" title="NOTES">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Modified Antigen Retrieva
+NOTES
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li>First introduced in the early 1990s, antigen-retrieval methods have been widely adopted by the clinical community as a way to recover antigenicity in paraffin sections.</li>
-<li>Several authors have demonstrated that heat is one of the most important variables in antigen retrieval (Brain Res 632, 105-113, 1993; Pathol Int 44, 759-764, 1994; APMIS 102, 295-307, 1994). In my initial experiments,</li>
-<li>I performed overnight incubations in citrate buffer at one of 4 temperatures: 4C, room temperature, 37C or 44C.</li>
-<li>The 5-day embryos incubated overnight at 4C or room temperature were poorly and incompletely stained, whereas those incubated at 37C and 44C were stained robustly throughout the head and trunk of the fish.</li>
-<li>However, the background staining in embryos incubated at 44C was quite high.</li>
-<li>This background staining was not present in embryos incubated at 37C.</li>
-<li>Since these initial experiments, I have been using embryos incubated overnight at 4C as my negative control.</li>
-<li>The quality of the staining in the negative control varies tremendously from experiment to experiment, whereas there is little or no experiment-to-experiment variation in the quality of staining in my positive controls using the above protocol.</li>
-</ul>
+<p>P2 top:</p>
+<pre><code>5´- P-CTCAGGCATCACTCGATTCCTCCGAGAACAA -3</code></pre>
+<p>P2 bottom:</p>
+<pre><code>5´- CAAGCAGAAGACGGCATACGACGGAGGAATCGAGTGATGCCTGAG\*T -3</code></pre>
 </div>
 </div>
-<p>##Papers</p>
+<ol start="4" type="1">
+<li>Concentrated T4 DNA Ligase.</li>
+</ol>
+</section>
+<section id="rad-tag-amplificationenrichment" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="rad-tag-amplificationenrichment">RAD tag Amplification/Enrichment</h3>
+<ol type="1">
+<li>Phusion High-Fidelity PCR Master Mix with HF Buffer (NEB).</li>
+<li>Modified Solexa© Amplification primer mix (2006 Illumina, Inc., all rights reserved): 10 μM.</li>
+</ol>
+</section>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
 <ul>
-<li>Antigen Retrieval Techniques: Immunohistochemistry and Molecular Morphology*, S-R Shi, J Gu and CR Taylor, Eds., Eaton Publishing, Natick, MA, 2000.</li>
+<li>The protocol described below, outlined in Fig. 1, prepares RAD tag libraries for high-throughput Illumina sequencing (see Note 1).</li>
+<li>In short, genomic DNA is digested with a restriction enzyme and an adapter (P1) is ligated to the fragment’s compatible ends (Fig. 1A).</li>
+<li>This adapter contains forward amplification and Illumina sequencing primer sites, as well as a nucleotide barcode 4 or 5 bp long for sample identification.</li>
+<li>To reduce erroneous sample assignment due to sequencing error, all barcodes differ by at least two nucleotides.</li>
+<li>The adapter-ligated fragments are subsequently pooled, randomly sheared, and size-selected (Fig. 1B). DNA is then ligated to a second adapter (P2), a Y adapter (13) that has divergent ends (Fig. 1C).</li>
+<li>The reverse amplification primer is unable to bind to P2 unless the complementary sequence is filled in during the first round of forward elongation originating from the P1 amplification primer.</li>
+<li>The structure of this adapter ensures that only P1 adapter-ligated RAD tags will be amplified during the final PCR amplification step (Fig. 1D).</li>
+<li>The protocol for mapping of the lateral plate locus in stickleback using EcoRI RAD markers used in Baird et al., 2008 (12) is described here in detail as an example of the multiplexing approach.</li>
+<li>For bulk-segregant analysis pooled samples are combined prior to digestion and treated as a single library with one barcode.</li>
 </ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/seq_radmark_fig1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">IMAGE TO BE INCLUDED LATER</figcaption>
+</figure>
+</div>
+<p>Fig. 1. RAD tag library generation. (A) Genomic DNA is digested with a restriction enzyme and a barcoded P1 adapter is ligated to the fragments. The P1 adapter contains a forward amplification primer site, an Illumina sequencing primer site, and a barcode (colored boxes represent P1 adapters with different barcodes). (B) Adapter-ligated fragments are combined (if multiplexing), sheared and (C) ligated to a second adapter (P2, white boxes). The P2 adapter is a divergent “Y” adapter, containing the reverse complement of the P2 reverse amplification primer site, preventing amplification of genomic fragments lacking a P1 adapter. (D) RAD tags, which have a P1 adapter, are selectively and robustly enriched by PCR amplification. (Reproduced from ref. 12 with permission from PLoS). (ref. 9 with permission from Elsevier Science). [Baird et al., 2008]</p>
+<section id="dna-extraction-and-rnase-a-treatment-1" class="level3 subhead">
+<h3 class="subhead anchored" data-anchor-id="dna-extraction-and-rnase-a-treatment-1">DNA extraction and RNase A treatment</h3>
+<ul>
+<li>We recommend extracting genomic DNA samples using the DNeasy Blood &amp; Tissue Kit (Qiagen) or a similar product that produces very pure, high molecular weight, RNA-free DNA.</li>
+<li>High-quality DNA is required for optimal restriction endonuclease digestion and is of utmost importance for the overall success of the protocol.</li>
+<li>Follow the manufacturers instructions for extraction from your tissue type.</li>
+<li>Be sure to treat samples with RNase A following manufacturer’s instructions to remove residual RNA.</li>
+<li>Quantify the DNA using a fluorimeter to get the most accurate concentration readings (see Note 3).</li>
+<li>The optimal concentration after elution is 25 ng/μl or greater.</li>
+</ul>
+</section>
+<section id="restriction-endonuclease-digestion-1" class="level3">
+<h3 class="anchored" data-anchor-id="restriction-endonuclease-digestion-1">Restriction endonuclease digestion</h3>
+<ol type="1">
+<li><p>Digest 1μg genomic DNA for each individual sample, or a mix of pooled individuals sharing a common phenotype, with appropriate restriction enzyme in a 50 μl reaction volume, following the manufacturers instructions.</p></li>
+<li><p>In a microcentrifuge tube combine: 5.0 μl 10X NEB Buffer 2, 0.5 μl EcoRI, DNA and H2O to 50.0 μl.</p></li>
+<li><p>Use NEB Buffer 4 with High Fidelity enzymes, e.g., SbfI-HF. Set up larger reaction if necessary because of dilute DNA – concentrate with a Zymo column before proceeding to ligation or adjust ligation volumes. 1.5 hours SbfI incubation. Heat inactivate 65°C for 25 min.]</p></li>
+<li><p>Heat-inactivate the restriction enzyme following manufacturer’s instructions. Allow reaction to cool slowly to ambient temperature (30-60 min). If the enzyme cannot be heat-inactivated, purify with a QIAquick or Zymo column following manufacturer’s instructions prior to ligation.</p></li>
+</ol>
+</section>
+<section id="p1-adapter-ligation-1" class="level3">
+<h3 class="anchored" data-anchor-id="p1-adapter-ligation-1">P1 Adapter ligation</h3>
+<ol type="1">
+<li>This step in the protocol ligates barcoded, restriction-site overhang specific P1 adapters onto complementary compatible ends on the genomic DNA created in the previous step (see Note 5). In Baird et al., 2008 (12) 60 different barcoded P1 adapters were used to make EcoRI RAD tag libraries for 96 F2 individuals (see Note 7).</li>
+<li>To each inactivated digest, add: 1.0 μl 10X NEB Buffer 2, 5.0 μl Barcoded P1 Adapter (100 nM), 0.6 μl rATP (100 mM), 0.5 μl concentrated T4 DNA Ligase (2,000,000 U/ml), 2.9 μl H2O; 60.0 μl total volume. Be sure to add P1 adapters to the reaction before the Ligase to avoid re-ligation of the genomic DNA. Incubate reaction at room temperature for at least 30 min. or 1 hr at RT then overnight at 4C (ligase will still be active, but slow at 4C – the longer incubation time assumes that there is no exonuclease activity in the ligase).</li>
+<li>NEB Buffer 2 is used in the ligation reactions in this protocol instead of ligase buffer because the salt it contains (50 mM NaCl) ensures the double-stranded adapters remain annealed during the reactions (see Note 4). T4 DNA Ligase is active in all 4 NEB Buffers if supplemented with 1mM rATP, but doesn’t work at maximum efficiency in NEB 3. If the restriction buffer used for digestion does not contain at least 50 mM potassium or sodium ions, or if the endonuclease cannot be heat-inactivated and the reaction must be purified in a column prior to P1 ligation, add 6.0 μl NEB Buffer 2.</li>
+<li>Reduce the amount of P1 used in the ligation reaction if starting with less than 1μg genomic DNA or if cutting with an enzyme that cuts less frequently than EcoRI (e.g., use 2.5 µl adapter if using SbfI in stickleback). It is critical to optimize the amount of P1 adapter added when a given restriction enzyme is used for the first time in an organism (see Note 6).</li>
+<li>Heat-inactivate T4 DNA Ligase for 20 (25) min at 65° C. Allow reaction to cool slowly to ambient temperature (30 min).</li>
+</ol>
+</section>
+<section id="sample-multiplexing" class="level3">
+<h3 class="anchored" data-anchor-id="sample-multiplexing">Sample multiplexing</h3>
+<ol type="1">
+<li>This step allows multiple individually barcoded samples to be combined and processed as one to cut down on cost, work time, and differences in amplification efficiency that may arise between different library preparations when processing many at once.</li>
+<li>Combine barcoded samples at desired ratio. Use a 100-300 μl aliquot containing 1-2 μg DNA total to complete the protocol and freeze the rest at -20° C. In Baird et al., 2008 (12) F0 parent samples, as well as the F2 pools used for bulk-segregant analysis, were combined at equal volumes to create one library (see Fig. 2, lanes 2, 3 &amp; 5). EcoRI libraries containing barcoded samples from F2 individuals sharing a given lateral plate phenotype were pooled and processed as separate libraries after P1 ligation (see Note 7).</li>
+</ol>
+</section>
+<section id="dna-shearing-1" class="level3">
+<h3 class="anchored" data-anchor-id="dna-shearing-1">DNA shearing</h3>
+<ol type="1">
+<li>Shear DNA samples to an average size of 500 bp to create a library of P1/restriction-site-ligated molecules with random variable ends for amplification. This step requires some optimization for different DNA concentrations and each time a different restriction endonuclease is used. The following protocol has been optimized to shear Stickleback DNA digested with either EcoRI or SbfI using the Bioruptor and is a good starting point for any study. The goal is to create sheared product that is predominantly smaller than 1 kb in size (see Fig. 2).</li>
+<li>Dilute ligation reaction to 100 μl in water (or take 100-300 μl aliquot from multiplexed samples) and shear in Bioruptor 10 times for 30 sec on high following manufacturer’s instructions. Make sure the tank water in the Bioruptor is cold (4 C) before starting – bail out and replace with chilled water if necessary. All other positions in the Bioruptor holder that are not filled by your sample/s should be filled with balance tubes containing 100 microliters of water.</li>
+<li>Clean up sheared DNA sample(s) using a MinElute or Zymo column following manufacturer’s instructions. This purification is performed in order to remove the ligase and restriction enzymes, and to concentrate the DNA so that the entire sample can be loaded in a single lane on an agarose gel. Elute in 20 μl EB.</li>
+</ol>
+</section>
+<section id="size-selectionagarose-gel-extraction-1" class="level3">
+<h3 class="anchored" data-anchor-id="size-selectionagarose-gel-extraction-1">Size selection/agarose gel extraction</h3>
+<ol type="1">
+<li>This step in the protocol removes free un-ligated or concatamerized P1 adapters and restricts the size range of tags to that which can be sequenced efficiently on an Illumina Genome Analyzer flow cell. Run the entire sheared sample in 1X Orange Loading Dye on a 1.25% agarose, 0.5X TBE gel for 45 min at 100 V, next to 2.0 μl GeneRuler 100 bp DNA Ladder Plus for size reference (see Fig. 2, Note 8).</li>
+<li>Being careful to exclude any free P1 adapters and P1 dimers running at ~130 bp and below, use a fresh razor blade to cut a slice of the gel spanning 300-500 bp. Extract DNA using MinElute Gel Purification Kit following manufacturer’s instructions with the following modification: to improve representation of A + T-rich sequences, melt agarose gel slices in the supplied buffer at room temperature (18-22°C) with agitation for 30 min (14). Elute in 20 μl EB into eppendorf tube containing 2.5 μl 10X Blunting Buffer from Quick Blunting Kit used in the following step. [Use MinElute columns and not Qiaquick columns, which require a larger elution volume]</li>
+</ol>
+</section>
+<section id="perform-end-repair-1" class="level3">
+<h3 class="anchored" data-anchor-id="perform-end-repair-1">Perform end repair</h3>
+<ol type="1">
+<li>The Quick Blunting Kit protocol converts 5´ or 3´ overhangs, created by shearing, into phosphorylated blunt ends using T4 DNA Polymerase and T4 Polynucleotide Kinase.</li>
+<li>To the eluate from the previous step, add: 2.5 μl dNTP mix (1mM), 1.0 μl Blunt Enzyme Mix. Incubate at RT for 30 min.</li>
+<li>Purify with QIAquick or Zymo column. Elute in 43 μl EB (42 µl if using Zymo column) into eppendorf tube containing 5.0 μl 10X NEB Buffer 2.</li>
+</ol>
+</section>
+<section id="da-overhang-addition-1" class="level3">
+<h3 class="anchored" data-anchor-id="da-overhang-addition-1">3´-dA overhang addition</h3>
+<ol type="1">
+<li>This step in the protocol adds an ‘A’ base to the 3´ ends of the blunt phosphorylated DNA gfragments, using the polymerase activity of Klenow Fragment (3´ to 5´ exo-). This prepares the DNA fragments for ligation to the P2 adapter, which possesses a single ‘T’ base overhang at the 3´ end of its bottom strand.</li>
+<li>To the eluate from the previous step, add: 1.0 μl dATP (10mM), 3.0 μl Klenow (exo-). Incubate at 37º C for 30 min. Allow reaction to cool slowly to ambient temperature (15 min).</li>
+<li>Purify with QIAquick or Zymo column. Elute in 45 μl EB (44 µl if using Zymo) into eppendorf tube containing 5.0 μl 10X NEB Buffer 2</li>
+</ol>
+</section>
+<section id="p2-adapter-ligation-1" class="level3">
+<h3 class="anchored" data-anchor-id="p2-adapter-ligation-1">P2 Adapter ligation</h3>
+<ol type="1">
+<li>This step in the protocol ligates the P2 adapter, a “Y” adapter with divergent ends that contains a 3´ dT overhang, onto the ends of blunt DNA fragments with 3´ dA overhangs.</li>
+<li>To the eluate from previous step, add: 1.0 μl P2 Adapter (10 μM), 0.5 μl rATP (100 mM), 0.5 μl concentrated T4 DNA Ligase. Incubate reaction at room temperature for 30 min. to 1 hour at RT then overnight (the longer incubation time assumes that there is no exonuclease activity in the ligase).</li>
+<li>Purify with QIAquick or Zymo column. Elute in 52 μl EB (or 2 x 10 µl, for more concentrated sample).</li>
+</ol>
+</section>
+<section id="rad-tag-amplificationenrichment-1" class="level3">
+<h3 class="anchored" data-anchor-id="rad-tag-amplificationenrichment-1">RAD tag Amplification/Enrichment</h3>
+<ol type="1">
+<li>In this step you will perform high-fidelity PCR amplification on P1 and P2 adapter-ligated DNA fragments, enriching for RAD tags that contain both a P1 and P2 and preparing them to be hybridized to an Illumina Genome Analyzer flow cell (see Fig. 1).</li>
+<li>Perform a test amplification to determine library quality. In thin-walled PCR tube, combine: 10.5 μl H2O, 12.5 μl Phusion High-Fidelity Master Mix, 1.0 μl Solexa primer mix (10 μM), 1.0 μl RAD library template (eluate from last step). If using concentrated Phusion enzyme (i.e., not Master Mix), instead combine: 17.25 µl H2O, 5 µl Phusion HF buffer, 0.5 µl 10 mM dNTPs, 1 µl primer mix, 1 µl template, 0.25 µl Phusion DNA polymerase. Perform 18 cycles of amplification in thermal cycler: 30 sec 98° C, 18X (or 14X) [10 sec 98° C, 30 sec 65° C, 30 sec 72° C], 5 min 72° C, hold 4° C. Run 5.0 μl PCR product in 1X Orange Loading Dye out on 1.0% agarose gel next to 1.0 μl RAD library template and 2.0 μl GeneRuler 100 bp DNA Ladder Plus (Fig. 3), (or clean whole reaction with Zymo column, elute in 2 x 10 µl EB and run all on gel).</li>
+<li>If the amplified product is at least twice as bright as the template, perform a larger volume amplification (typically 50-100 μl) but with fewer cycles (10-14, usually 12, to minimize bias), to create enough to retrieve a large amount of the RAD tag library from the final gel extraction in the protocol. If amplification looks poor, use more library template in a second test PCR reaction (see Note 9). Fig. 3 shows three libraries that amplified well, which is apparent when comparing the amplified product to the amount of template loaded in the lane to the right of each sample. Template should be dim, yet visible on the gel. Purify large volume reaction with a MinElute or Zymo column. Elute in 20 μl EB (or 2 x 10 µl)</li>
+<li>This purification step is performed to eliminate any contaminant bands that may appear due to an improper ratio of P1 adapter to restriction-site compatible ends (see Note 6). Load entire sample in 1X Orange Loading Dye on a 1.25% agarose, 0.5X TBE gel and run for 45 min at 100 V, next to 2.0 μl GeneRuler 100 bp DNA Ladder Plus for size reference (Fig. 4). Being careful to exclude any free adapters or P1 dimer contaminants running at ~130 bp and below, use a fresh razor blade to cut a slice of the gel spanning 300-500 bp (or rather, 385-585 bp, which accounts for extra length of post-amplification adapters). Extract DNA using MinElute Gel Purification Kit following manufacturer’s instructions. Melt agarose gel slices in the supplied buffer at room temperature. Elute in 20 μl EB.</li>
+<li>Quantify the DNA using a fluorimeter to get the most accurate concentration readings. Concentrations will range from 1-20 ng/μl. Determine the molar concentration of the library by examining the gel image and estimating the median size of the library smear, which should be around 400 bp. Multiply this size by 650 (the molecular mass of a base-pair) to get the molecular weight of the library. Use this number to calculate the molar concentration of the library (see Note 10)</li>
+<li>Validate library by cloning 1.0 μl of the gel purified library into a blunt-end compatible sequencing vector. Sequence individual clones by conventional Sanger sequencing. Verify that the insert sequences are from the genomic source DNA.</li>
+<li>Sequence libraries on Illumina Genome Analyzer following manufacturer’s instructions.</li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -1290,13 +1427,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../05_Vertebrate_Experiment/VertExperiment_General_Needle_Pulling.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">60</span>&nbsp; <span class="chapter-title">Needle Pulling for Injections</span></span>
+      <a href="../02_Molecular/Molecular_Insert_Screen.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Insert Screen of Clones</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">62</span>&nbsp; <span class="chapter-title">Alcian and Alizarin double stain - No Acid No Pain Double Stain</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../02_Molecular/Molecular_T_overhang.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">T-overhang addition</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

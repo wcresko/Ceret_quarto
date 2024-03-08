@@ -1,0 +1,150 @@
+# Live Food Culture - Rotifers {#sec-xxx-xxx}
+
+## Introduction
+
+-   **Purpose**: This procedure describes standard practices for culturing live foods, rotifers, for pipefish and threespine stickleback.
+-   **Procedure Type**: Husbandry
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+    -   ADD SPECIES OF ROTIFERS AND SUPPLIER INFO
+-   **Author**: Tiffany Thornton
+-   **Date Created**: 2023
+
+## Materials
+
+-   Fish-safe gloves (e.g., blue nitrile "clean room" gloves)
+
+-   70% ethanol used to disinfect surfaces
+
+-   Germicidal bleach (minimum 5.25% sodium hypochlorite)
+
+-   Sodium thiosulfate crystals
+
+-   Reverse-osmosis filtered water ("RO" water)
+
+-   Reed Mariculture "Rotigrow Plus" rotifer food
+
+-   Reed Mariculture "N-rich" gut-loading food
+
+    ::: {.callout-warning title="NOTES"}
+    Not used by zebrafish facility- has a short shelf life
+    :::
+
+-   Straining sieves, 20 µm pore size
+
+-   Salinity test pen (e.g., Oakton SaltTestr 11 pocket meter)
+
+    ::: {.callout-warning title="NOTES"}
+    Use refractometer for saltwater system. The stickleback facility uses a refractometer for salinity testing
+    :::
+
+-   Harvesting pail (e.g., plastic 3-gallon bucket, with graduated lines showing gallons)
+
+-   Sink or wastewater bucket (e.g., plastic 5-gallon bucket)
+
+-   Brackish water mixing bucket (e.g., clean, plastic 5-gallon bucket)
+
+-   Sea salt (e.g., Instant Ocean commercial sea salt mix)
+
+-   Stir stick (e.g., clean, plastic stir rod approximately 18 inches to 24 inches long)
+
+-   Clean 1-Liter beaker for holding harvested rotifers
+
+-   Clean measuring cups (green and blue) or graduated cylinder or calibrated balance to measure sea salt mix
+
+-   Disposable graduated transfer pipettes
+
+## Solutions:
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx
+
+## Procedure:
+
+::: {.callout-warning title="NOTES"}
+Wear clean fish-safe gloves.
+:::
+
+**Rotifer Harvest**
+
+1.  Prepare two gallons of 25-27 part-per-thousand (ppt) brackish water (E5).
+
+    1.  Ensure RO water source is clean.
+        1.  Use 70% ethanol to disinfect RO water hose end, if using RO hose.
+        2.  Use dedicated, clean RO vessels (carboys), if using vessels.
+    2.  Add 2 gallons clean RO water to harvesting pail.
+        1.  Use 2-gallon graduated mark to ensure volume.
+    3.  Add up to 210 grams Instant Ocean to harvesting pail.
+        1.  Use graduated beaker to measure Instant Ocean.
+        2.  Alternatively, use provided labeled and color-coded tool specific to making 25-27 ppt brackish water.
+    4.  Use stir stick to mix and dissolve salt mix into RO water.
+    5.  Test the salinity using the refractometer to ensure 25-27 ppt salinity has been achieved.
+
+2.  Harvest rotifers.
+
+    1.  Strain 40% of the rotifer culture through the 20?m sieve.
+    2.  Transfer the collected rotifers from the sieve to the pail of 25-27 ppt brackish water: place sieve in brackish water
+
+3.  Concentrate rotifers.
+
+    1.  Pour rotifers through 20µm sieve, fill sieve with brackish water and gently pour into 1 L beaker.
+    2.  IMPORTANT - Keep sieve wet at all times.
+        1.  Use RO water to loosen rotifers from sieve into beaker, if necessary.
+
+4.  Gut-load the rotifers.
+
+    1.  Add 2 ml "Rotigrow Plus" rotifer food to the beaker and aerate.
+
+    2.  Allow the rotifers to feed for 15 minutes to 1 hour before feeding to the fish.
+
+        ::: {.callout-warning title="NOTES"}
+        Adjust down for smaller harvests
+        :::
+
+    3.  Test the salinity with the refractometer and adjust using RO water or Instant Ocean sea salt mix as needed to achieve 25-27 ppt.
+
+5.  Use rotifers as food for larval fish.
+
+**Rotifer Water Replacement**
+
+1.  Replace 40% rotifer bucket water using new brackish water.
+
+    1.  Prepare 25-27 ppt brackish water.
+        1.  Pour 340 grams (need to recalculate for 5 gallons) Instant Ocean sea salt mix into a clean 5-gallon bucket. Use provided marked and color-coded green tool specific to making replacement water if balance unavailable.
+        2.  Fill bucket with RO water.
+        3.  Use clean stir stick to mix sea salt mix and RO water completely.
+    2.  Pour brackish water into rotifer buckets until full.
+
+**Rotifer Feeding**
+
+1.  Feed rotifers.
+    1.  Add 6 ml "Rotigrow Plus" rotifer food to each rotifer bucket.
+        1.  Use new graduated transfer pipette to measure and transfer food to rotifers.
+        2.  Feed in the morning and again in the afternoon.
+
+**Clean Up**
+
+1.  Sanitize equipment.
+    1.  Place sieves into harvesting pail.
+    2.  Add two capfuls of 10% bleach.
+    3.  Fill harvesting pail with municipal water.
+        1.  Ensure all equipment and bucket interior are covered by bleach water.
+    4.  Wait 10 minutes.
+    5.  Dump harvesting pail bleach water into sink.
+    6.  Add 2 tablespoons sodium thiosulfate to harvesting pail.
+    7.  Fill harvesting pail with municipal water.
+        1.  Ensure all equipment and bucket interior are covered by sodium thiosulfate water.
+    8.  Dump harvesting pail water into sink.
+    9.  Use 70% ethanol to disinfect exterior of harvesting pail and storage shelf.
+    10. Place harvesting pail now containing sanitized equipment on storage cart.
+    11. Use Facility rack washer to sanitize wastewater buckets and brackish water mixing buckets then place buckets on storage cart.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

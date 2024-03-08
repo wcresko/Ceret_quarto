@@ -1,0 +1,128 @@
+# Cleaning/concentrating DNA with magnetic beads
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to extract DNA using magnetic beads.
+-   **Procedure Type**: Molecular
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+    -   Bay pipefish (*Syngnathus leptorhynchus*)
+    -   Zebrafish (*Danio rerio*)
+-   **Author**: Susan Bassham
+-   **Date Created**: October 16, 2023; modified November 17, 2023 by Susan Bassham
+
+## Background
+
+This protocol uses magnetic beads (also known as superparamagnetic particles) and magnets to extract DNA. Magnetic beads are made of tiny (20 to 30 nm) particles of iron oxide and exhibit magnetic behavior in the presence of an external magnetic field. Using a magnetic field, magnetic beads can be separated from a suspension. In molecular biology, magnetic beads modified with different surface properties can be used to purify various types of biomolecules (genomic DNA, plasmids, mitochondrial DNA, RNA, and proteins). Below is a step-by-step overview of how DNA extraction using magnetic beads works:
+
+1.  You'll use a buffer that contains a detergent to lyse the cells open and solubilize proteins etc., while a proteinase cuts the proteins up (and deactivates enzymes like nucleases that would degrade DNA).
+2.  Then add some of the magnetic beads, mix, allow time to bind, then use a magnet to pull the beads into a pellet and get rid of the liquid.
+3.  Wash the beads with an aqueous ethanol solution to get rid of all the residual chewed up molecules from the cells, but while still retaining the DNA on the beads. Pull the beads down again with the magnet and remove the wash solution.
+4.  Allow the beads to dry a short time just to get rid of the remaining ethanol.
+5.  Add an aqueous buffer and let the DNA release from the beads (this is called "eluting" the DNA into the buffer).
+6.  Use the magnet one more time to pull down the beads, leaving the DNA in solution. Transfer this aqueous DNA to a new, clean tube.
+
+## Materials
+
+-   DNAse-free tubes, such as microcentrifuge tubes, PCR strip tubes, or plates
+
+-   Magnet (for 1.5 ml tubes, use Invitrogen DynaMag-Spin Magnetic Particle Concentrator; for PCR plate or strip tubes, use DynaMag-96 Slide magnet or Catalyst 96 Slotted Ring Magnet Plate) o
+
+    ::: {.callout-warning title="IMPORTANT"}
+    Do not use magnets if you have a pacemaker. Do not place these powerful magnets near electronic devices like laptops or cell phones.
+    :::
+
+-   Pipettes
+
+    ::: {.callout-warning title="IMPORTANT"}
+    Use filter tips for entire protocol.
+    :::
+
+-   Thermocycler
+
+## Solutions
+
+-   Tissue samples (fin, skin, or organ tissue like liver, brain, spleen are preferable to skeletal muscle). Amount of tissue might need optimization depending on preservation (e.g., fresh/frozen, in RNALater, or in ethanol) and tissue type. A good starting amount is 5-10 mg. If more DNA is needed, all solutions can be scaled up, but you might need to use microcentrifuge tubes and the magnet that can accept these tubes.
+
+-   ATL buffer (from Qiagen DNeasy Tissue kit).
+
+    ::: {.callout-warning title="IMPORTANT"}
+    Check solution for white precipitate before use. If present, warm solution in water bath for a few minutes until the solution is clear and homogenous.
+    :::
+
+-   Proteinase K (from Qiagen DNeasy Tissue kit)
+
+-   RNase A (10 mg/mL stock)
+
+-   Omega Tech paramagnetic beads (we buy through GC3F, our sequencing Core facility)
+
+-   75% ethanol
+
+-   Elution buffer of choice (e.g., EB, TE, AE-AE and TE contain EDTA, which can inhibit some enzymes, so for some applications EB will be better)
+
+## Procedure
+
+1.  Before digestion:
+
+    a.  Put pieces of tissue sample into tubes of choice depending on number of preps (96-well PCR plate/part of 96-well plate, PCR tubes in strips of 8, or 1.5 ml tubes) on ice. Either proceed to the tissue digestion or seal and refreeze the plates/tubes at -20°C until you are ready to start.
+
+2.  On the day of the digestion:
+
+    a.  Preheat a thermocycler to 56°C (choose the heated lid option).
+
+    b.  Make up 75% ethanol in water.
+
+    c.  Make up enough lysis/digestion buffer for all of your samples, plus about 5% extra (depending on how the pipetting goes, you might need to make up a bit more if you run out):
+
+        i.  Calculate the volume of lysis/digestion buffer you need: (117 µl ATL buffer + 13 µl proteinase K) all multiplied by your number of tissue samples. Calculate an additional 5%. Mix these total volumes in a clean tube at room temperature.
+
+3.  Add 130 µl lysis/digestion buffer to each of the wells or tubes with the tissue, working quickly but carefully. If you run out of this solution, make as much as you need to complete the remaining reactions.
+
+4.  Optional: add 1.3 µl RNase A to each of the wells or tubes with the tissue.
+
+5.  Seal the plate or well with plastic film or close tubes and place in thermocycler (thermomixer or oven if using microcentrifuge tubes) for 2 hours.
+
+    ::: {.callout-warning title="NOTE"}
+    Tissue digestion can take longer than 2 hours, in which case, allow the digestion to proceed until tissue is fully digested. Samples may be left on thermocycler/thermomixer/oven for more than 2 hours and even overnight.
+    :::
+
+6.  In the last half hour of the reaction, let the paramagnetic beads warm up to room temperature.
+
+7.  After the tissue digestion (step 5), remove the reactions from the thermocycler and allow them to cool to room temperature (about 15 minutes).
+
+8.  Vortex the beads to completely homogenize them.
+
+9.  Carefully unseal the plate with the digested tissue (place in a rack and hold firmly so there is no danger of splashing).
+
+10. Vortex the beads once more to be sure they haven't settled. Add 78 µl of the beads to each sample.
+
+11. Mix by aspiration, waiting a little time for the viscous solution to sheet down the inside of the tip before expelling this last drop. You will need to use 200 µl tips for aspiration, with your pipet set equal or greater than half the volume of the digest to get adequate mixing.
+
+12. Cover the plate or tubes and let the samples sit at room temperature for 10 minutes.
+
+13. Put the plate on the magnet and let the beads collect into a pellet. This will take a while.
+
+14. Pull off the supernatant carefully, trying not to disturb the beads. Discard the supernatant.
+
+15. Wash the beads with 200 µl 75% ethanol two times (3 minutes/wash). During each wash, let the beads condense to the magnet before removing the supernatant. Dspersing the beads with each wash isn't necessary.
+
+16. Discard the supernatant, trying to get as much as you can. You might want to first use a larger tip size and then switch to a smaller tip size to collect all of the ethanol.
+
+17. Allow the beads to dry for 5 minutes. If you weren't able to get all the visible liquid out after the second wash, you might have to go longer. You should not see any liquid after drying but do not let the beads dry completely (if they are starting to get lighter in color around the edges, that is long enough; if the middle of the bead pellet is turning light or if the pellet is starting to crack, that is too long for high molecular weight DNA, which has a harder time going back into solution after being dried).
+
+18. Remove plate or tubes from magnet and add desired volume of elution buffer of choice to each sample. Make sure there are no beads stranded on the wall of the tube and not submerged - pipet the buffer onto the beads to wash them down.
+
+    ::: {.callout-warning title="NOTE"}
+    For RAD-seq, it is best to use EB Buffer rather than AE buffer.
+    :::
+
+19. Incubate at room temperature for 10 minutes.
+
+20. Put the samples back on the magnet and let the beads condense.
+
+21. Transfer the supernatant with your DNA to a fresh plate or tubes.
+
+## Associated Papers
+
+-   

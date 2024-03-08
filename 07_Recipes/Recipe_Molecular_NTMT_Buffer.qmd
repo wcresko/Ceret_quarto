@@ -1,0 +1,51 @@
+# NTMT Buffer
+
+## Introduction
+
+-   **Purpose**: Recipe for making 25 ml of NTMT buffer.
+-   **Procedure Type**: Recipe
+-   **Author**: Micah Woods
+-   **Date Created**: March 5, 2024
+
+## Solutions
+
+-   5 M NaCl (0.5 ml)
+    -   Purchase pre-made from Chem Stores.
+-   1 M MgCl~2~ (1.25 ml)
+    -   Purchase pre-made from Chem Stores.
+-   1 M TRIS pH 9.5 (2.5 ml)
+    -   Purchase pre-made from Chem Stores.
+-   20% Tween-20 (62.5 ul)
+    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf. 
+-   Nanopure water
+    -   Located in the Nalgene at the north sink. 
+
+## Materials
+
+-   50 ml Falcon tube
+-   Pipettes
+-   Pipette tips
+
+## Procedure
+
+1.  Add 0.5 ml of 5 M NaCl to the 25 ml Falcon tube.
+
+2.  Add 1.25 ml of 1 M MgCl~2~ to the tube.
+
+3.  Add 2.5 ml of 1 M TRIS pH 9.5 to the tube.
+
+4.  Add 62.5 ul of 20% Tween-20
+
+    ::: {.callout-important title="NOTE"}
+    Tween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the tube.
+    :::
+
+5.  Fill tube to 25 ml with nanopure water.
+
+6.  Mix the solution by gently inverting the tube a few times. Store at room temperature.
+
+## Associated Papers
+
+-   x
+-   x
+-   x

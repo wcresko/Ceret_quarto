@@ -1,0 +1,43 @@
+# Blocking Buffer for in situ Hybridizations
+
+## Introduction
+
+-   **Purpose**: Recipe for making 10 ml of blocking buffer for in situ hybridizations.
+-   **Procedure Type**: Recipe
+-   **Author**: Micah Woods
+-   **Date Created**: March 5, 2024
+
+## Solutions
+
+-   Goat or sheep serum (200 ul)
+    -   Located in the "Pistol Frog Pond" freezer in 1.5 ml aliquots. 
+-   BSA (0.02 g)
+    -   Located in the "Cruella Cooper" fridge in a white bottle with a red lid. 
+-   PBT (10 ml)
+
+## Materials
+
+-   15 ml plastic Falcon tube
+-   Pipettess
+-   Pipette tips
+-   Analytical balance 
+-   Weigh paper
+
+## Procedure
+
+1.  Warm the goat or sheep serum to room temperature. Once melted and warmed to room temperature, flick the tube to mix and ensure the serum is homogenized. 
+
+2.  Add 200 ul of the goat or sheep serum to the 15 ml Falcon tube. 
+
+3.  Weigh 0.02 g of BSA using the analytical balance. Add the 0.02 g of BSA to the tube. 
+
+4.  Fill tube to 10 ml with PBT. 
+
+5.  Mix the solution by gently inverting the tube a few times. Store in the fridge. 
+
+
+## Associated Papers
+
+-   x
+-   x
+-   x

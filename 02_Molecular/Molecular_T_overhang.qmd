@@ -1,0 +1,136 @@
+# T-overhang addition {#sec-xxx-xxx}
+
+## Introduction
+
+-   **Purpose**: This protocol will add a t-overhang to PCR or other genomic DNA fragments for the purposes of cloning or Illumina sequencing.
+-   **Procedure Type**: Molecular
+-   **Species**: N/A
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+
+## Materials:
+
+-   2.5 µl 10 X buffer
+-   2.5 µl 1 mM dNTP mix
+-   1 µl enzyme
+-   5 µl 10x Klenow Exo- buffer (Epicentre)
+-   1 µl dATP 10 mM
+-   3 µl 5 u/µl Klenow Exo- (Epicentre)
+-   5 µl 10x NEB buffer 2
+-   0.5 µl rATP 100 mM
+-   x µl of 10 µm\* T-overhang PE adapter
+-   x µl water to 49.5 µl total
+-   0.5 µl T4 DNA ligase (10 u/µl, Epicentre)
+-   2.5 % agarose gel
+-   QG
+-   Qiagen gel extraction kit
+-   MinElute columns
+-   Zymo DNA column
+
+
+## Procedure
+
+### Shearing:
+
+-   Up to 1 µg^†^ DNA in 100 microliters in EB (in 0.6 ml tubes, Axygen)
+    -- fill all other positions in Bioruptor holder with tubes
+    containing 100 µl water. Before beginning, make sure Bioruptor tank
+    water is 4°C or less -- bail out and replace with chilled water if
+    necessary and add a little crushed ice to the tank.
+-   Set the controls to shear 30 sec. on, 30 sec. off for 15 cycles
+-   After cycling, replace tank water with cold water and a little ice
+-   Repeat shearing (i.e., another 15 cycles)
+-   Zymo column concentrate -- elute 2 times with 10.5 µl EB.
+
+::: {.callout-warning title="NOTES"}
+If you start with greater than 1 µg (up to 2 µg), you will either have
+to scale up the volume of the ligation, decrease the amount of EB used
+in the elution after addition of A overhangs, or make a batch of
+annealed adapter that is greater than 10 µM in order to maintain a 10:1
+ratio of adapter to fragmented DNA in the ligation reaction.
+:::
+
+
+### End repair: {#end-repair .subhead}
+
+To eluate, add NEB Quick Blunting kit reagents:
+
+-   2.5 µl 10 X buffer
+-   2.5 µl 1 mM dNTP mix
+-   1 µl enzyme
+
+Then:
+
+-   30 min at room temperature
+-   Clean with Zymo column, elute 2 times with 21 µl EB.
+
+### Addition of A overhangs: {#addition-of-a-overhangs .subhead}
+
+To eluate, add:
+
+-   5 µl 10x Klenow Exo- buffer (Epicentre)
+-   1 µl dATP 10 mM
+-   3 µl 5 u/µl Klenow Exo- (Epicentre)
+
+Then:
+
+-   30 min at 37°C
+-   Clean with Zymo column, elute 2 times with 20 µl EB
+
+### Ligation: {#ligation .subhead}
+
+To eluate, add:
+
+-   5 µl 10x NEB buffer 2
+-   0.5 µl rATP 100 mM
+-   x µl of 10 µm\* T-overhang PE adapter
+-   x µl water to 49.5 µl total
+-   0.5 µl T4 DNA ligase (10 u/µl, Epicentre)
+-   1 hour to overnight at RT
+
+::: {.callout-warning title="NOTES"}
+You should scale the adapter concentration to the amount of DNA used,
+maintaining an approximate 10:1 molar ratio of adapter to fragments.
+Assuming the average size of sheared fragments is 350 bp, 228 ng should
+equal about 1 pmol. Starting with 1 µg, then, we'd have about 4.4 pmol.
+10 times that would be 44 pmol of adapter or 4.4 µl of 10 µM adapter. In
+reality, there is probably some loss of a percentage of cDNA during
+cleanups, incomplete efficiency of blunting and A-overhang addition and
+less than ideal shearing, all driving down the molarity of ligatable
+fragments, so you can probably get away with adding less adapter than
+calculated from the ideal. If you see a faint band of unincorporated
+adapter in your size fractionation gel, that is probably a good
+indication that you have saturated but not grossly exceeded the amount
+of adapter needed.
+:::
+
+## Alternatives
+
+### Alternative A. 
+
+- Zymo column purify, elute 2 times with 6 µl and
+proceed to amplification before size fractionation. 
+- Only do this if
+there is a vanishingly small amount of material. It is probably better
+to size-fractionate before amplification. 
+
+### Alternative B. 
+
+- Zymo column purify, elute 2 times with 10 µl and size fractionate (see below)
+- Size fractionation: 2.5 % agarose gel Cut 200 -- 500, carefully avoiding
+any unincorporated adaptor. 
+- If desired, also cut 500-700 bp fraction.
+- These two fractions should constitute most of the sheared cDNA. 
+- The
+smaller size range may be less biased against short transcripts. Recover
+DNA with Qiagen gel extraction kit and MinElute columns. 
+- Dissolve gel at
+room temperature in 6 volumes QG. Follow manufacturer instructions,
+being sure to let wash buffer stand on column for at least 5 min. before
+spinning through. 
+- Elute 2 times with 10 µl EB. Check concentration on Qubit fluorometer using Quant-It HS (high sensitivity) kit.

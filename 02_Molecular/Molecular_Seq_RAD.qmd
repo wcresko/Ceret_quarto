@@ -1,0 +1,186 @@
+# Sequenced RAD Tags {#sec-xxx-xxx}
+
+## Introduction
+
+-   **Purpose**: To produce Illumina Libraries of Sequenced RAD tags
+-   **Procedure Type**: Molecular
+-   **Species**: N/A
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+### DNA extraction and RNase A treatment
+
+1.  DNeasy Blood & Tissue Kit (Qiagen).
+2.  RNaseA (Qiagen).
+
+### Restriction endonuclease digestion {#restriction-endonuclease-digestion .subhead}
+
+1.  Restriction enzyme (NEB).
+2.  Clean, intact high-quality genomic DNA: 25 ng/μl.
+
+### P1 Adapter ligation
+
+1.  NEB Buffer 2.
+
+2.  rATP (Promega): 100 mM.
+
+3.  P1 Adapter: 100 nM. A modified Solexa© adapter (2006 Illumina, Inc., all rights reserved). Prepare 100nM stocks of P1 adapters in 1X Annealing Buffer (AB, see Note 4). Below, example barcoded EcoRI P1 adapter sequences. "P" denotes a phosphate group and "x" refers to barcode nucleotides.
+
+::: {.callout-warning title="NOTES"}
+P1 top:
+```
+5´- AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCTxxxxx -3
+```
+P1 bottom:
+```
+5´- P-AATTxxxxxAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT -3
+```
+:::
+
+4.  Concentrated T4 DNA Ligase (NEB): 2,000,000 U/ml; or 10,000 U/ml T4 DNA ligase (Epicentre)
+
+### Purification steps {#purification-steps .subhead}
+
+1.  QIAquick or MinElute PCR Purification Kit (Qiagen), or DNA Clean and Concentrator-5 (Zymo)
+
+### DNA shearing {#dna-shearing .subhead}
+
+1.  Bioruptor, nebulizer or Branson sonicator 450.
+
+### Size selection/agarose gel extraction {#size-selectionagarose-gel-extraction .subhead}
+
+1.  Agarose (Sigma)
+2.  5X TBE: 0.45 M Tris-Borate, 0.01 M EDTA, pH 8.3.
+3.  6X Orange Loading Dye Solution (Fermentas).
+4.  GeneRuler 100 bp DNA Ladder Plus (Fermentas).
+5.  Razor blades.
+6.  MinElute Gel Purification Kit (Qiagen).
+
+### Perform end repair {#perform-end-repair .subhead}
+
+1.  Quick Blunting Kit (NEB).
+
+### 3´-dA overhang addition {#da-overhang-addition .subhead}
+
+1.  NEB Buffer 2.
+2.  dATP (Fermentas): 10 mM.
+3.  Klenow Fragment (3´ to 5´ exo-, NEB or Epicentre): 5,000 U/ml.
+
+### P2 Adapter ligation {#p2-adapter-ligation .subhead}
+
+1.  NEB Buffer 2.
+
+2.  rATP: 100 mM.
+
+3.  P2 Adapter: 10 μM. A modified Solexa© adapter (2006 Illumina, Inc., all rights reserved). Prepare 10 μM double-stranded adapter in 1X AB (see Note 4). Asterisk denotes a phosphorothioate bond introduced to confer nuclease resistance to the double-stranded oligo (14).
+
+::: {.callout-warning title="NOTES"}
+P2 top:
+```
+5´- P-CTCAGGCATCACTCGATTCCTCCGAGAACAA -3
+```
+P2 bottom:
+```
+5´- CAAGCAGAAGACGGCATACGACGGAGGAATCGAGTGATGCCTGAG\*T -3
+```
+:::
+
+4.  Concentrated T4 DNA Ligase.
+
+### RAD tag Amplification/Enrichment {#rad-tag-amplificationenrichment .subhead}
+
+1.  Phusion High-Fidelity PCR Master Mix with HF Buffer (NEB).
+2.  Modified Solexa© Amplification primer mix (2006 Illumina, Inc., all rights reserved): 10 μM.
+
+## Methods
+
+-   The protocol described below, outlined in Fig. 1, prepares RAD tag libraries for high-throughput Illumina sequencing (see Note 1).
+-   In short, genomic DNA is digested with a restriction enzyme and an adapter (P1) is ligated to the fragment's compatible ends (Fig. 1A).
+-   This adapter contains forward amplification and Illumina sequencing primer sites, as well as a nucleotide barcode 4 or 5 bp long for sample identification.
+-   To reduce erroneous sample assignment due to sequencing error, all barcodes differ by at least two nucleotides.
+-   The adapter-ligated fragments are subsequently pooled, randomly sheared, and size-selected (Fig. 1B). DNA is then ligated to a second adapter (P2), a Y adapter (13) that has divergent ends (Fig. 1C).
+-   The reverse amplification primer is unable to bind to P2 unless the complementary sequence is filled in during the first round of forward elongation originating from the P1 amplification primer.
+-   The structure of this adapter ensures that only P1 adapter-ligated RAD tags will be amplified during the final PCR amplification step (Fig. 1D).
+-   The protocol for mapping of the lateral plate locus in stickleback using EcoRI RAD markers used in Baird et al., 2008 (12) is described here in detail as an example of the multiplexing approach.
+-   For bulk-segregant analysis pooled samples are combined prior to digestion and treated as a single library with one barcode.
+
+![IMAGE TO BE INCLUDED LATER](./images/seq_radmark_fig1.png)
+
+Fig. 1. RAD tag library generation. (A) Genomic DNA is digested with a restriction enzyme and a barcoded P1 adapter is ligated to the fragments. The P1 adapter contains a forward amplification primer site, an Illumina sequencing primer site, and a barcode (colored boxes represent P1 adapters with different barcodes). (B) Adapter-ligated fragments are combined (if multiplexing), sheared and (C) ligated to a second adapter (P2, white boxes). The P2 adapter is a divergent "Y" adapter, containing the reverse complement of the P2 reverse amplification primer site, preventing amplification of genomic fragments lacking a P1 adapter. (D) RAD tags, which have a P1 adapter, are selectively and robustly enriched by PCR amplification. (Reproduced from ref. 12 with permission from PLoS). (ref. 9 with permission from Elsevier Science). \[Baird et al., 2008\]
+
+### DNA extraction and RNase A treatment {#dna-extraction-and-rnase-a-treatment-1 .subhead}
+
+-   We recommend extracting genomic DNA samples using the DNeasy Blood & Tissue Kit (Qiagen) or a similar product that produces very pure, high molecular weight, RNA-free DNA.
+-   High-quality DNA is required for optimal restriction endonuclease digestion and is of utmost importance for the overall success of the protocol.
+-   Follow the manufacturers instructions for extraction from your tissue type.
+-   Be sure to treat samples with RNase A following manufacturer's instructions to remove residual RNA.
+-   Quantify the DNA using a fluorimeter to get the most accurate concentration readings (see Note 3).
+-   The optimal concentration after elution is 25 ng/μl or greater.
+
+### Restriction endonuclease digestion
+
+1.  Digest 1μg genomic DNA for each individual sample, or a mix of pooled individuals sharing a common phenotype, with appropriate restriction enzyme in a 50 μl reaction volume, following the manufacturers instructions.
+
+2.  In a microcentrifuge tube combine: 5.0 μl 10X NEB Buffer 2, 0.5 μl EcoRI, DNA and H2O to 50.0 μl.
+
+3.  Use NEB Buffer 4 with High Fidelity enzymes, e.g., SbfI-HF. Set up larger reaction if necessary because of dilute DNA -- concentrate with a Zymo column before proceeding to ligation or adjust ligation volumes. 1.5 hours SbfI incubation. Heat inactivate 65°C for 25 min.\]
+
+4.  Heat-inactivate the restriction enzyme following manufacturer's instructions. Allow reaction to cool slowly to ambient temperature (30-60 min). If the enzyme cannot be heat-inactivated, purify with a QIAquick or Zymo column following manufacturer's instructions prior to ligation.
+
+### P1 Adapter ligation
+
+1.  This step in the protocol ligates barcoded, restriction-site overhang specific P1 adapters onto complementary compatible ends on the genomic DNA created in the previous step (see Note 5). In Baird et al., 2008 (12) 60 different barcoded P1 adapters were used to make EcoRI RAD tag libraries for 96 F2 individuals (see Note 7).
+2.  To each inactivated digest, add: 1.0 μl 10X NEB Buffer 2, 5.0 μl Barcoded P1 Adapter (100 nM), 0.6 μl rATP (100 mM), 0.5 μl concentrated T4 DNA Ligase (2,000,000 U/ml), 2.9 μl H2O; 60.0 μl total volume. Be sure to add P1 adapters to the reaction before the Ligase to avoid re-ligation of the genomic DNA. Incubate reaction at room temperature for at least 30 min. or 1 hr at RT then overnight at 4C (ligase will still be active, but slow at 4C -- the longer incubation time assumes that there is no exonuclease activity in the ligase).
+3.  NEB Buffer 2 is used in the ligation reactions in this protocol instead of ligase buffer because the salt it contains (50 mM NaCl) ensures the double-stranded adapters remain annealed during the reactions (see Note 4). T4 DNA Ligase is active in all 4 NEB Buffers if supplemented with 1mM rATP, but doesn't work at maximum efficiency in NEB 3. If the restriction buffer used for digestion does not contain at least 50 mM potassium or sodium ions, or if the endonuclease cannot be heat-inactivated and the reaction must be purified in a column prior to P1 ligation, add 6.0 μl NEB Buffer 2.
+4.  Reduce the amount of P1 used in the ligation reaction if starting with less than 1μg genomic DNA or if cutting with an enzyme that cuts less frequently than EcoRI (e.g., use 2.5 µl adapter if using SbfI in stickleback). It is critical to optimize the amount of P1 adapter added when a given restriction enzyme is used for the first time in an organism (see Note 6).
+5.  Heat-inactivate T4 DNA Ligase for 20 (25) min at 65° C. Allow reaction to cool slowly to ambient temperature (30 min).
+
+### Sample multiplexing
+
+1.  This step allows multiple individually barcoded samples to be combined and processed as one to cut down on cost, work time, and differences in amplification efficiency that may arise between different library preparations when processing many at once.
+2.  Combine barcoded samples at desired ratio. Use a 100-300 μl aliquot containing 1-2 μg DNA total to complete the protocol and freeze the rest at -20° C. In Baird et al., 2008 (12) F0 parent samples, as well as the F2 pools used for bulk-segregant analysis, were combined at equal volumes to create one library (see Fig. 2, lanes 2, 3 & 5). EcoRI libraries containing barcoded samples from F2 individuals sharing a given lateral plate phenotype were pooled and processed as separate libraries after P1 ligation (see Note 7).
+
+### DNA shearing
+
+1.  Shear DNA samples to an average size of 500 bp to create a library of P1/restriction-site-ligated molecules with random variable ends for amplification. This step requires some optimization for different DNA concentrations and each time a different restriction endonuclease is used. The following protocol has been optimized to shear Stickleback DNA digested with either EcoRI or SbfI using the Bioruptor and is a good starting point for any study. The goal is to create sheared product that is predominantly smaller than 1 kb in size (see Fig. 2).
+2.  Dilute ligation reaction to 100 μl in water (or take 100-300 μl aliquot from multiplexed samples) and shear in Bioruptor 10 times for 30 sec on high following manufacturer's instructions. Make sure the tank water in the Bioruptor is cold (4 C) before starting -- bail out and replace with chilled water if necessary. All other positions in the Bioruptor holder that are not filled by your sample/s should be filled with balance tubes containing 100 microliters of water.
+3.  Clean up sheared DNA sample(s) using a MinElute or Zymo column following manufacturer's instructions. This purification is performed in order to remove the ligase and restriction enzymes, and to concentrate the DNA so that the entire sample can be loaded in a single lane on an agarose gel. Elute in 20 μl EB.
+
+### Size selection/agarose gel extraction
+
+1.  This step in the protocol removes free un-ligated or concatamerized P1 adapters and restricts the size range of tags to that which can be sequenced efficiently on an Illumina Genome Analyzer flow cell. Run the entire sheared sample in 1X Orange Loading Dye on a 1.25% agarose, 0.5X TBE gel for 45 min at 100 V, next to 2.0 μl GeneRuler 100 bp DNA Ladder Plus for size reference (see Fig. 2, Note 8).
+2.  Being careful to exclude any free P1 adapters and P1 dimers running at \~130 bp and below, use a fresh razor blade to cut a slice of the gel spanning 300-500 bp. Extract DNA using MinElute Gel Purification Kit following manufacturer's instructions with the following modification: to improve representation of A + T-rich sequences, melt agarose gel slices in the supplied buffer at room temperature (18-22°C) with agitation for 30 min (14). Elute in 20 μl EB into eppendorf tube containing 2.5 μl 10X Blunting Buffer from Quick Blunting Kit used in the following step. \[Use MinElute columns and not Qiaquick columns, which require a larger elution volume\]
+
+### Perform end repair
+
+1.  The Quick Blunting Kit protocol converts 5´ or 3´ overhangs, created by shearing, into phosphorylated blunt ends using T4 DNA Polymerase and T4 Polynucleotide Kinase.
+2.  To the eluate from the previous step, add: 2.5 μl dNTP mix (1mM), 1.0 μl Blunt Enzyme Mix. Incubate at RT for 30 min.
+3.  Purify with QIAquick or Zymo column. Elute in 43 μl EB (42 µl if using Zymo column) into eppendorf tube containing 5.0 μl 10X NEB Buffer 2.
+
+### 3´-dA overhang addition
+
+1.  This step in the protocol adds an 'A' base to the 3´ ends of the blunt phosphorylated DNA gfragments, using the polymerase activity of Klenow Fragment (3´ to 5´ exo-). This prepares the DNA fragments for ligation to the P2 adapter, which possesses a single 'T' base overhang at the 3´ end of its bottom strand.
+2.  To the eluate from the previous step, add: 1.0 μl dATP (10mM), 3.0 μl Klenow (exo-). Incubate at 37º C for 30 min. Allow reaction to cool slowly to ambient temperature (15 min).
+3.  Purify with QIAquick or Zymo column. Elute in 45 μl EB (44 µl if using Zymo) into eppendorf tube containing 5.0 μl 10X NEB Buffer 2
+
+### P2 Adapter ligation
+
+1.  This step in the protocol ligates the P2 adapter, a "Y" adapter with divergent ends that contains a 3´ dT overhang, onto the ends of blunt DNA fragments with 3´ dA overhangs.
+2.  To the eluate from previous step, add: 1.0 μl P2 Adapter (10 μM), 0.5 μl rATP (100 mM), 0.5 μl concentrated T4 DNA Ligase. Incubate reaction at room temperature for 30 min. to 1 hour at RT then overnight (the longer incubation time assumes that there is no exonuclease activity in the ligase).
+3.  Purify with QIAquick or Zymo column. Elute in 52 μl EB (or 2 x 10 µl, for more concentrated sample).
+
+### RAD tag Amplification/Enrichment
+
+1.  In this step you will perform high-fidelity PCR amplification on P1 and P2 adapter-ligated DNA fragments, enriching for RAD tags that contain both a P1 and P2 and preparing them to be hybridized to an Illumina Genome Analyzer flow cell (see Fig. 1).
+2.  Perform a test amplification to determine library quality. In thin-walled PCR tube, combine: 10.5 μl H2O, 12.5 μl Phusion High-Fidelity Master Mix, 1.0 μl Solexa primer mix (10 μM), 1.0 μl RAD library template (eluate from last step). If using concentrated Phusion enzyme (i.e., not Master Mix), instead combine: 17.25 µl H2O, 5 µl Phusion HF buffer, 0.5 µl 10 mM dNTPs, 1 µl primer mix, 1 µl template, 0.25 µl Phusion DNA polymerase. Perform 18 cycles of amplification in thermal cycler: 30 sec 98° C, 18X (or 14X) \[10 sec 98° C, 30 sec 65° C, 30 sec 72° C\], 5 min 72° C, hold 4° C. Run 5.0 μl PCR product in 1X Orange Loading Dye out on 1.0% agarose gel next to 1.0 μl RAD library template and 2.0 μl GeneRuler 100 bp DNA Ladder Plus (Fig. 3), (or clean whole reaction with Zymo column, elute in 2 x 10 µl EB and run all on gel).
+3.  If the amplified product is at least twice as bright as the template, perform a larger volume amplification (typically 50-100 μl) but with fewer cycles (10-14, usually 12, to minimize bias), to create enough to retrieve a large amount of the RAD tag library from the final gel extraction in the protocol. If amplification looks poor, use more library template in a second test PCR reaction (see Note 9). Fig. 3 shows three libraries that amplified well, which is apparent when comparing the amplified product to the amount of template loaded in the lane to the right of each sample. Template should be dim, yet visible on the gel. Purify large volume reaction with a MinElute or Zymo column. Elute in 20 μl EB (or 2 x 10 µl)
+4.  This purification step is performed to eliminate any contaminant bands that may appear due to an improper ratio of P1 adapter to restriction-site compatible ends (see Note 6). Load entire sample in 1X Orange Loading Dye on a 1.25% agarose, 0.5X TBE gel and run for 45 min at 100 V, next to 2.0 μl GeneRuler 100 bp DNA Ladder Plus for size reference (Fig. 4). Being careful to exclude any free adapters or P1 dimer contaminants running at \~130 bp and below, use a fresh razor blade to cut a slice of the gel spanning 300-500 bp (or rather, 385-585 bp, which accounts for extra length of post-amplification adapters). Extract DNA using MinElute Gel Purification Kit following manufacturer's instructions. Melt agarose gel slices in the supplied buffer at room temperature. Elute in 20 μl EB.
+5.  Quantify the DNA using a fluorimeter to get the most accurate concentration readings. Concentrations will range from 1-20 ng/μl. Determine the molar concentration of the library by examining the gel image and estimating the median size of the library smear, which should be around 400 bp. Multiply this size by 650 (the molecular mass of a base-pair) to get the molecular weight of the library. Use this number to calculate the molar concentration of the library (see Note 10)
+6.  Validate library by cloning 1.0 μl of the gel purified library into a blunt-end compatible sequencing vector. Sequence individual clones by conventional Sanger sequencing. Verify that the insert sequences are from the genomic source DNA.
+7.  Sequence libraries on Illumina Genome Analyzer following manufacturer's instructions.

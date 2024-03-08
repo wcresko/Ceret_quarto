@@ -1,27 +1,26 @@
-# Alizarin Staining {#sec-molec-aliz}
+# Alizarin Staining {#sec-molec_aliz}
 
 ## Introduction
 
--   **Purpose**: Alizarin staining of fixed adult stickleback.
+-   **Purpose**: Alizarin staining of fixed adult fish.
 -   **Procedure Type**: Molecular
 -   **Species**:
     -   Threespine stickleback, *Gasterosteus aculeatus*
-    -   xxx
--   **Authors**
-    -   xxx
+    -   Gulf pipefish (*Syngnathus scovelli*)
+    -   and others
+-   **Author**: 
+-   **Date Created**: 
 
-::: {.callout-warning title="Schedule for Cleaning"}
-PLACEHOLDER
-:::
+
 
 ## Materials:
 
 -   Alizarin red S
 -   KOH
--   H~2~O~2~
+-   6% or 30% H~2~O~2~
 -   NaOH
--   MESAB
--   PFA
+-   containers for solutions
+-   shaker
 
 ## Solutions:
 
@@ -31,31 +30,51 @@ PLACEHOLDER
     -   To make 100 mls: Add 500µl 0.5% alizarin red S (stock) to 99.5ml 1% KOH
     -   1 Liter: Add 5ml 0.5% alizarin red S (stock) to 9950ml (1 liter) 1%KOH
 -   **3% H202/0.5%KOH**: Mix and keep at 4C; Before using, bring to room temperature to hold down introducing bubbles under the skin: 0.5ml 6%H202 & 0.5ml 1%KOH.
--   MESAB: Tricaine: 3-amino benzoic acid ethyl ester from Sigma (Cat \# A-5040). Mix in fish safe container with a stir bar:
-    -   400 mg tricaine powder
-    -   800 mg Na2HPO4 (anhydrous)
-    -   100 ml glass distilled water
-    -   Adjust to \~pH 7 with a drop at a time of 1N NaOH or 1N HCl if needed but it's usually right if you weigh the sodium phosphate carefully and measure the water with a graduated cylinder.
-    -   For storage: Aliquot into 6 x 25 ml fish safe plastic bottles and store at 4C. Label with date made and use within a couple of weeks.
--   **8% PFA**:
-    -   8 g Pelleted PFA (Ted Pella, Inc.; cat# 18501)
-    -   90 ml dH2O
-    -   25 drops 1N NaOH
-    -   Heat at very low heat and stir until solution clears.
-    -   Add 25 drops 1N HCl. pH should be 7.0-7.2.
-    -   Filter and store at 4C not more than 1 week.
-    -   Use as 4% PFA: dilute 1:1 with 2X PBS, do not store solution more than a few hours.
+-   **Euthanasia strength Mesab** {#sec-husb-adutl_sb_euthanasia}
+-   **8% PFA**: {#sec-molec-para}
 -   **2X PBS**
     -   1.6% NaCl
     -   0.04% KCl
     -   0.04 M PO4 pH 7.0- 7.3
+-  **Isopropanol**
+
+::: {.callout-warning title="Chemical Warning"}
+Please use appropriate PPE when handling chemicals. 
+:::
 
 ## Procedure:
 
--   **Day One**
-    -   2h-8h at R/T depending on size on shaker.
-    -   Without agitation and with lid open until eyes start to lighten and all skin pigment is gone (usually about an hour or more)
--   **Day Two**
+   1. Fix in 4% PFA 2h to overnight depending on the size of the fish. 
+
+::: {.callout-note title="Note"}
+We've found that adult fish should be fixed overnight.
+:::
+
+   2. Wash with 1% KoH 1 hour or longe on shaker. 
+ 
+::: {.callout-note title="Note"}
+If found that a longer KoH wash results in better staining. 
+:::  
+   
+   3. Bleach with 3% H202 : 1% KoH solution for 1-4 hours until the eyes and skin lose most of the pigment. 
+   
+::: {.callout-note title="Warning"}
+This step produces a gas. Do not put lids on containers while bleaching. 
+:::  
+
+   4. Wash with 1% KoH 2 hour on shaker. 
+   
+   5. Stain with 0.025% Alizarin Red solution for 2 h or longer. 
+   
+::: {.callout-note title="Note"}
+Check for the strenght of staining often. I prefer to slightly over stain as slight non-specific (muscles and etc) will clear in the following steps.
+::  
+   
+   6. Wash with 1% KoH 2 hour or longer on shaker depending on clearing of non-specific tissues. 
+   
+   7. Store in 50% Isopropanol. 
+   
+## Papers:
     -   xxx
     -   xxx
     -   xxx

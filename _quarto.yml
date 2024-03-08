@@ -32,7 +32,16 @@ book:
         - 02_Molecular/Molecular_Para.qmd
         - 02_Molecular/Molecular_Alizarin.qmd
         - 02_Molecular/Molecular_Pouring_and_Running_a_Gel.qmd
-        
+        - 02_Molecular/Molecular_Alizarin.qmd
+        - 02_Molecular/Molecular_cDNA_eRAD.qmd
+        - 02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.qmd
+        - 02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.qmd
+        - 02_Molecular/Molecular_Insert_Screen.qmd
+        - 02_Molecular/Molecular_Pouring_and_Running_a_Gel.qmd
+        - 02_Molecular/Molecular_Seq_RAD.qmd
+        - 02_Molecular/Molecular_T_overhang.qmd
+        - 02_Molecular/Molecular_Topo_Clone.qmd
+
     - part: Part3_Microbiology.qmd
       chapters:
         - 03_Microbiology/Placeholder_Microbiology.qmd
@@ -50,7 +59,6 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_General_Mysid_live_food_culture.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_DB_use.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_UV_Bulb.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding_Health_Checks.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Adult_Euthanasia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Syngnathid_Embryo_and_Larval_Euthanasia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Dishwasher_Use.qmd
@@ -59,6 +67,8 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_General_Program_Light.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Room_Clean.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Anesthesia.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Density_Standards.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Cross.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Dry_Food_Mix.qmd
@@ -85,6 +95,7 @@ book:
         - 05_Vertebrate_Experiment/VertExperiment_General_Fish_Blood.qmd
         - 05_Vertebrate_Experiment/VertExperiment_General_Needle_Pulling.qmd
         - 05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Back_Fill_Neurons.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Cybrid_Creation.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Embryo_Injections.qmd
@@ -101,6 +112,9 @@ book:
         - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Alizarin_Staining.qmd 
         - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Calcein_Staining.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Daspei_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_double_haploid.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_egg_storage.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.qmd
 
     - part: Part6_Invertebrate_Husbandry.qmd
       chapters:
@@ -114,6 +128,20 @@ book:
         - 07_Recipes/Recipe_Husbandry_mesab_stock.qmd
         - 07_Recipes/Recipe_Husbandry_testes_solution.qmd
         - 07_Recipes/Recipe_Husbandry_PFA.qmd
+        - 07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.qmd
+        - 07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.qmd
+        - 07_Recipes/Recipe_Molecular_Fake_Hyb.qmd
+        - 07_Recipes/Recipe_Molecular_NTMT_Buffer.qmd
+        - 07_Recipes/Recipe_Molecular_PBT.qmd
+        - 07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.qmd
+        - 07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.qmd
+        - 07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.qmd
+        - 07_Recipes/Recipe_Molecular_Fake_Hyb.qmd
+        - 07_Recipes/Recipe_Molecular_NTMT_Buffer.qmd
+        - 07_Recipes/Recipe_Molecular_PBT.qmd
+        - 07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.qmd
+        - 07_Recipes/Recipe_Husbandry_Hanks.qmd
+        - 07_Recipes/Recipe_Husbandry_holtfreiters.qmd
         
     - part: Part8_Bioinformatic.qmd
       chapters:

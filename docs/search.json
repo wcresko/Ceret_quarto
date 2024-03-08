@@ -103,5 +103,845 @@
     "title": "20  Weekday Feeding & Health Checks",
     "section": "Associated Papers",
     "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Alizarin.html#introduction",
+    "href": "02_Molecular/Molecular_Alizarin.html#introduction",
+    "title": "6  Alizarin Staining",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Alizarin staining of fixed adult fish.\nProcedure Type: Molecular\nSpecies:\n\nThreespine stickleback, Gasterosteus aculeatus\nGulf pipefish (Syngnathus scovelli)\nand others\n\nAuthor:\nDate Created:"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Alizarin.html#materials",
+    "href": "02_Molecular/Molecular_Alizarin.html#materials",
+    "title": "6  Alizarin Staining",
+    "section": "Materials:",
+    "text": "Materials:\n\nAlizarin red S\nKOH\n6% or 30% H2O2\nNaOH\ncontainers for solutions\nshaker"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Alizarin.html#solutions",
+    "href": "02_Molecular/Molecular_Alizarin.html#solutions",
+    "title": "6  Alizarin Staining",
+    "section": "Solutions:",
+    "text": "Solutions:\n\n0.5% Alizarin red S Stock:\n\nTo make 50 mls add 0.25g alizarin red S powder to 50 ml water.\n\n0.025% Alizarin Stain\n\nTo make 100 mls: Add 500µl 0.5% alizarin red S (stock) to 99.5ml 1% KOH\n1 Liter: Add 5ml 0.5% alizarin red S (stock) to 9950ml (1 liter) 1%KOH\n\n3% H202/0.5%KOH: Mix and keep at 4C; Before using, bring to room temperature to hold down introducing bubbles under the skin: 0.5ml 6%H202 & 0.5ml 1%KOH.\nEuthanasia strength Mesab {#sec-husb-adutl_sb_euthanasia}\n8% PFA: {#sec-molec-para}\n2X PBS\n\n1.6% NaCl\n0.04% KCl\n0.04 M PO4 pH 7.0- 7.3\n\nIsopropanol\n\n\n\n\n\n\n\nChemical Warning\n\n\n\nPlease use appropriate PPE when handling chemicals."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Alizarin.html#procedure",
+    "href": "02_Molecular/Molecular_Alizarin.html#procedure",
+    "title": "6  Alizarin Staining",
+    "section": "Procedure:",
+    "text": "Procedure:\n\nFix in 4% PFA 2h to overnight depending on the size of the fish.\n\n\n\n\n\n\n\nNote\n\n\n\nWe’ve found that adult fish should be fixed overnight.\n\n\n\nWash with 1% KoH 1 hour or longe on shaker.\n\n\n\n\n\n\n\nNote\n\n\n\nIf found that a longer KoH wash results in better staining.\n\n\n\nBleach with 3% H202 : 1% KoH solution for 1-4 hours until the eyes and skin lose most of the pigment.\n\n\n\n\n\n\n\nWarning\n\n\n\nThis step produces a gas. Do not put lids on containers while bleaching.\n\n\n\nWash with 1% KoH 2 hour on shaker.\nStain with 0.025% Alizarin Red solution for 2 h or longer.\n\n::: {.callout-note title=“Note”} Check for the strenght of staining often. I prefer to slightly over stain as slight non-specific (muscles and etc) will clear in the following steps. ::\n\nWash with 1% KoH 2 hour or longer on shaker depending on clearing of non-specific tissues.\nStore in 50% Isopropanol."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Alizarin.html#papers",
+    "href": "02_Molecular/Molecular_Alizarin.html#papers",
+    "title": "6  Alizarin Staining",
+    "section": "Papers:",
+    "text": "Papers:\n-   xxx\n-   xxx\n-   xxx"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#introduction",
+    "href": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#introduction",
+    "title": "7  Pouring and Running a Gel",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to pour and run a gel to visualize DNA.\nProcedure Type: Molecular\nAuthor: Micah Woods\nDate Created: February 14, 2024"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#background",
+    "href": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#background",
+    "title": "7  Pouring and Running a Gel",
+    "section": "Background",
+    "text": "Background\nGel electrophoresis is a technique used to separate mixtures of DNA, RNA, or proteins based on their molecular size. During gel electrophoresis, an electrical field is used to help molecules travel through the pores of an agarose gel matrix. At one end of the gel, furthest away from where the samples are loaded, is a positive charge, and at the other end is a negative charge. Since DNA and RNA are both negatively charged molecules, they are pulled through the gel matrix towards the positive charge. Since proteins do not have a negative charge, researchers must first mix them with a sodium dodecyl sulfate detergent which gives them the negative charge needed to migrate towards the positive end of the gel. The speed at which molecules travel through the gel is inversely related to their molecular size. For example, small DNA molecules have a low molecular weight, enabling them to travel further through the gel matrix than a larger DNA molecule. When a gel is stained with DNA/RNA/protein-binding dye, these molecules can be seen as bands, whose location along the length of the gel represents the molecule?s size in terms of number of base pairs. When dye-stained DNA/RNA/protein is run beside a ladder with known fragment size, one can estimate the size of the assayed molecule. After the DNA/RNA/protein molecules have been separated using gel electrophoresis, the gel is imaged under UV light, visualizing the DNA/RNA/proteins present across the length of the gel."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#materials",
+    "href": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#materials",
+    "title": "7  Pouring and Running a Gel",
+    "section": "Materials",
+    "text": "Materials\n\n500 ml Corning glass bottle labeled “Agarose Gels”\nScale\nWeigh paper\nMicrowave\nGel comb\nGel tray\nPipets\nPipet tips\nParafilm or PCR strip tubes for mixing DNA samples and Loading Dye\nGel box with enough buffer inside to cover gel\nElectrodes attached to power supply (Bio-Rad PowerPac)\nGel transferring tray\nDevice for visualizing gel\n\nAzure Biosystems c200, located in Pacific 314\n\nGel image printer\nKimwipes"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#solutions",
+    "href": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#solutions",
+    "title": "7  Pouring and Running a Gel",
+    "section": "Solutions",
+    "text": "Solutions\n\n0.5X TBE\nSafe View\nMolecular Biology Grade Agarose\n6X Loading Dye\nLadder of choice\nEB Buffer"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#procedure",
+    "href": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#procedure",
+    "title": "7  Pouring and Running a Gel",
+    "section": "Procedure",
+    "text": "Procedure\n\n\n\n\n\n\nThis is important\n\n\n\nBefore beginning this procedure, read the section “Electrophoresis Tips” at the bottom of this procedure for more background information and to understand and anticipate the mistakes commonly associated with this protocol.\n\n\n\nWeigh desired amount of Molecular Biology Grade Agarose - scale, weigh paper, and Agarose located on the common use bench on the north end of the laboratory - and pour it into the 500 ml Corning glass bottle labeled “Agarose Gels” (located on top of or inside the microwave on the south end of the laboratory).\n\n1-1.2% Agarose (1 g-1.2 g) is a good starting amount of Agarose for DNA samples, though the amount of Agarose can vary depending on your particular samples and goals. The concentration of Agarose in a gel depends on the sizes of DNA fragments to be separated, with most gels ranging between 0.5%-2% Agarose.\n\nFill bottle with 0.5X TBE buffer, located in the 20-liter Nalgene located at the south sink. The volume of TBE buffer used will be based on the size of the gel mold. For example, for a 14”x10” gel tray, use 100 ml of 0.5X TBE buffer. 3. Put bottle in microwave and microwave for one minute.\nUsing the heat mittens located on top of the microwave, remove the bottle from the microwave, swirl the mixture around, and put it back in the microwave for 30 seconds. By the end of this step, the Agarose should be melted into the TBE and there should be no remaining solid Agarose particles.\nUsing the heat mittens, remove the bottle from the microwave and carry it to the fume hood.\nSelect a gel tray from the drawer under the gel boxes. Put tape around the two longest sides of the gel tray, pressing tape on firmly so it is air-tight with the tray. The distance between the top of the tape and the bottom of the tray should be at least half-an-inch tall so that it can hold all of the liquid from the Agarose Gel bottle without it spilling over the sides or leaking through any air gaps in the tape.\nSelect a gel comb from the drawer under the gel boxes. Different combs make different sized wells that can hold different volumes, so select a comb based on your specific experiment. Place the gel comb in the notches of the gel tray. The combs should not touch the bottom of the tray but be slightly above it.\nLet the agarose solution cool for a few minutes. Using the heat mittens, swirl the Agarose Gel bottle again. Add 5 ul of Safe View (located in the Styrofoam box in the fume hood) to the Agarose Gel bottle. Gently swirl the bottle to mix in the Safe View; try to avoid creating bubbles while swirling.\nSlowly pour the Agarose Gel mixture into the gel tray with gel comb. Be careful not to create bubbles in the gel mixture while pouring. If there are bubbles, pop or move them to the bottom of the tray, away from the comb. Slowly lift the comb up and down a few times to ensure there are no bubbles around the comb.\nLet the gel mixture sit in the tray under the hood until it solidifies (usually takes around 20 minutes).\nWhile you are waiting for the gel to solidify, clean the Agarose Gel bottle. Fill the bottle halfway with water, swirl the water, microwave for 30 seconds, swirl again and microwave for another 30 seconds. Pour out the water and set the bottle out to dry next to the microwave.\nOnce the agarose mixture has solidified, carefully remove the tape from the sides of the tray.\n\n\n\n\n\n\nThis is important\n\n\n\nTape should be removed from the tray while held under the fume hood. Tape should be removed slowly to prevent any splattering of residual liquid on the top of the solidified gel.\n\n\nCarefully remove the comb from the gel matrix by slowly pulling it straight up.\nCarry the gel in the gel plate to the gel boxes, remove gel box lid, and slowly lower the gel and plate into gel boxes.\nLoad ladder of choice into the left-most well of the gel. The volume of ladder you load will vary depending on your experiment.\n\n\n\n\n\n\nThis is important\n\n\n\nWhen expelling the ladder into the well, only pipet to the first stop. Pipetting to the second stop risks expelling bubbles into the well which could interfere with the experiment.\n\n\n\n\n\n\n\n\nNOTES\n\n\n\n*The ladder is made of DNA and needs a gel loading dye. When selecting a ladder to use, make sure that the ladder is not clear but has been mixed with a loading dye (should be a bright color like blue, orange, green, or purple).\n\n\nPrepare DNA samples to be loaded into the wells of the gel. Pipet out 10 ul of DNA from each sample onto a piece of parafilm or into a PCR strip tube, using a fresh pipet tip for each sample to avoid cross contamination.\n\n\n\n\n\n\nNOTES\n\n\n\n*The volume of DNA you mix load into each well depends on the concentration of DNA and how much of DNA of your total you can afford to use for the gel, though a generally good concentration range is 10-100 ng/ul to ensure the DNA can be visualized on the gel. If you are aiming to load a specific concentration of DNA into each well, calculate the concentration of your DNA sample and find that the corresponding volume is less than 10 ul, you can add the appropriate volume of EB Buffer to bring the sample’s volume up to 10 ul.\n\n\nAdd 2 ul of 6X Loading Dye to each DNA sample. Thoroughly mix the dye and DNA sample by aspiration, but mix slowly to avoid creating bubbles. Be sure to use a fresh pipet tip in between DNA samples.\n\n\n\n\n\n\nNOTES\n\n\n\n*The exact volume of loading dye you add to each sample can change depending on the amount of DNA you add, but the final dilution should be 1 part 6X Loading Dye to 5 parts DNA sample.\n\n\nLoad 10 ul of the DNA sample/dye mixture into the next available well in the gel.\n\n\n\n\n\n\nThis is important\n\n\n\n*When expelling the DNA sample/dye mixture into the well, only pipet to the first stop. Pipetting to the second stop risks expelling bubbles into the well which could interfere with the experiment.\n\n\nPut gel box cover on. Attach the electrodes to the metal posts at the top and bottom of gel box; the black electrode (-) attaches to the metal post on the top of the box and the red electrode (+) attaches to the metal post on the bottom of the box.\n\n\n\n\n\n\nNOTES\n\n\n\nSince DNA is a negatively charged molecule, it will run through the gel matrix towards a positive charge. A helpful way to remember electrode placement, then, is “Run to red,” since the red electrode has a positive charge and should be placed furthest away from the DNA samples.\n\n\nTurn on the Bio-Rad PowerPac and set it to your desired voltage. Press “Run.” You can check to see if an electric current is running through the gel box by looking for a stream of small bubbles rising up the back of the gel box.\nRun samples for desired time.\nPress the “Stop” button on the Bio-Rad PowerPac and turn off the power. Remove the electrodes from either end of the gel box, loosely wind them up and place them above or next to the Bio-Rad PowerPac.\nRemove the lid from the gel box. Carefully lift the gel tray out of the gel box, ensuring that the gel does not slide off the tray. Place the gel tray and gel onto the gel transferring tray (located behind the faucet on the south sink). Carry the gel to the gel imaging station (Azure Biosystems c200) in the Phillips Microfluidics Laboratory (Pacific 314).\nTo image the gel,\n\nOpen the door of the c200 Azure Biosystems gel imaging station, and carefully slide the gel inside. The long side of the gel should be facing the opening of the imaging station. Position the gel so that it is centered inside the imaging platform, and the short sides of the gel are parallel to the sides of the imaging platform. Close the door.\nSelect the “cSeries Capture Software” on the screen.\nSelect the “GEL” option in the top left corner, to the right of the “GALLERY” option.\nSelect the “BRIGHT BANDS” option in the bottom right corner.\nSelect “CAPTURE” to take an image of the gel.\nOnce your image has been captured, you may rotate, flip, crop, or zoom in/out of the image.\nTo print the image, select “PRINT” and choose the number of copies you would like to print.\n\nOpen the door of the c200 Azure Biosystems gel imaging station and carefully remove the gel. Wipe down the gel platform using a Kimwipe and close the door.\nCarry your gel and printed images back to the lab. You may either dispose of your gel in the trash or store the gel in a plastic bag in the refrigerator for future use.\nRise off the gel transferring tray and set it to dry behind the south sink faucets. Rinse off the gel tray and the gel comb, ensuring that there is no remaining agarose between the tines of the gel comb. Set the comb and the tray to dry on the drying rack hanging above the south sink."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#electrophoresis-tips",
+    "href": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#electrophoresis-tips",
+    "title": "7  Pouring and Running a Gel",
+    "section": "Electrophoresis Tips",
+    "text": "Electrophoresis Tips\nBackground\nThe effect of electrophoresis is to separate DNA fragments by size in an agarose matrix and buffer using an electrical current. DNA is negatively charged and will migrate toward the positive pole. Many parameters can affect how the DNA moves through the gel: buffer composition, voltage, length of the gel, percentage of agarose in the gel (in other words, the density of the gel matrix), presence of salt in the DNA, protein bound to DNA, and other factors. Some of these conditions also affect which size ranges of DNA will effectively be “resolved” (i.e., separated enough from one another so you can see them as distinct fragment sizes). “Safeview” is a dye we use in the gel that fluoresces under UV or blue light when bound to DNA, allowing us to see and photograph it when viewed through a special orange filter to cut out the background light. The research goals of using electrophoresis might include:\n\nmeasuring the size of fragments in a DNA sample such as the products of PCR or assessing the intactness of the purified DNA from a tissue extraction\nseparating fragments from one another so that a particular amplicon or size range of DNA can be purified out of the gel for other downstream applications (such as for cloning a PCR fragment for making probes or for Sanger sequencing, or for size selecting a smear of fragments for making a RAD library) while excluding the other fragment sizes\nchecking for the presence or absence of a particular product of PCR as in a screen for orientation of a cloned fragment in a plasmid present in different bacterial colonies, a screen for an insertion in a transgenic animal, a screen to determine the genetic sex or the mitotype of a fish.\n\nCommon Mistakes\n\nBoiling over the agarose when making a gel. Result: failure to monitor the agarose when you are trying to dissolve it in the microwave can easily cause it to boil over because powdered substances create a lot of “nodes of nucleation” for bubbles to form. This is especially easy to accidentally do with higher percentages of agarose. It wastes expensive agarose and creates a mess in the microwave. What remains in the bottle will be of an indeterminate percentage/gel stiffness.\nNot making sure the tape is adhering well to the mold before casting a gel. Result: liquid agarose will leak out causing a mess and reagent waste. Make sure the mold is dry beforehand, and use the back edge of a comb, e.g., to run across the tape and make sure it has firm contact.\nPositioning the comb teeth too close to one side or to the bottom of the mold when setting up for pouring a gel. Result: the bottoms (or that side) of wells may be torn when the comb is pulled out, causing the loaded samples to leak out into the buffer during gel loading.\n\n\n\n\n\n\nNOTE\n\n\n\nEven when the comb teeth are not too close to the bottom, low percentage gels are soft and will benefit from having the comb pulled while submerged in the tank - otherwise the suction created by surface tension between the comb plastic and the agarose as you pull up on the comb can tear the bottoms out of the wells, causing loss of samples during loading.\n\n\nNot using the right % of agarose for your DNA size range of interest. Result: bands you care about won’t resolve optimally (i.e., you might not be able to accurately measure the sizes of your bands and might not be able to tell if something is one band or multiple bands). Pour a higher percentage gel to resolve large fragments (e.g. less than 1%) or a lower percentage gel (i.e. between 1 and 4%) to resolve small to very small ones, depending on your needs/expectations for what size bands you will see, how many of them, or how important it is to accurately estimate their sizes.\nNot homogeneously mixing the Safeview into the agarose before pouring. Result: DNA might not be visible in all parts of the gel.\nOver-cooling the agarose before pouring. Result: Safeview will not be evenly distributed in the gel, and/or the gel will have lumps and not be of uniform thickness because some of the agarose will have already started polymerizing.\nRunning a gel with a lot of bubbles in it. Result: DNA migration can be impeded/distorted by bubbles in the gel. Usually as a gel is cooling, bubbles will migrate to the top where (usually) they will be out of the path of the DNA unless the DNA volume fills the wells to the top. But bubbles can sometimes occur deeper in the gel – particularly in a very high % agarose gel. Try to nudge bubbles out of the way before the gel solidifies, either by raking them with a comb that is not on a holder or nudging individual bubbles with a pipette tip before the gel congeals. If the gel is already solid, avoid loading in lanes that will run across a bubble.\nRunning a gel that wasn’t mixed homogeneously before pouring in the mold. Result: there will be lumps in the gel of more dense agarose that will cause distortion of how the DNA migrates.\nAccidentally contacting the agarose with a pipette tip. Result: the bottom or side of the well can become perforated, causing the sample to leak out the bottom or into the next well. If the tip is pressed against the agarose, the sample can be forcefully and suddenly expelled and blast out of the well.\nOverloading the wells with too much sample volume. Result: samples can become cross-contaminated by DNA from adjacent wells.\nOverloading the lane with too much DNA. Result: DNA can become retarded during running and the apparent size will not be accurately gauged by the ladder.\nForgetting to load a DNA ladder. Result: you won’t know if your DNA bands are the right size when you look at and photograph your gel.\nNot adjusting the amount of ladder for the comb width. Result: if you use a wider comb, you need to increase the amount of ladder or it will appear dimmer (because ladder DNA is more dilute across the span of the lane).\nNot using gel loading mix in the DNA or using ladder that isn’t premixed with gel loading mix. The DNA or ladder (which is also DNA) will be lost mostly during loading without the gel loading mix that makes it sink to the bottom of the wells in the gel and stay there while you are loading. Both your samples and the ladder are DNA in an aqueous solution that is about the same density as the buffer (usually) – therefore they both should have gel loading mix in them in order to be denser than the tank buffer. The gel loading mix also includes convenient, charged dyes that migrate at different rates to help you see that your gel is running and how far it has progressed. The gel loading mix types only really matter if one type happens to have a dye that migrates exactly like your band of interest - in that case, you may want to switch to a different mix so that the dye doesn’t block the fluorescence of your band during visualization.\nNot thoroughly mixing gel loading mix into your DNA before loading. Result: you could lose part of your DNA to floating out of the well during loading. (This can also happen if there are other reasons your DNA is not very dense, such as if there is residual ethanol in it from preceding processing. In that case, you will see your DNA rapidly floating up to the surface as soon as you start expelling it from the tip).\nAdding premixed DNA ladder to your samples instead of gel loading mix. Result: ladder will appear in every lane, obscuring your bands and wasting expensive ladder.\nForgetting to start the current on your loaded gel. Result: DNA will diffuse both out of the wells and into the gel in all directions causing loss of some of the DNA and blurriness of the remaining DNA once the gel is run. Diffusion can also happen if it takes a long time to load the gel. If there are a great number of samples to load – such as in a two- or three-comb gel, it is often best to load one tier and run the gel for 5 minutes so the DNA enters the gel and diffuses more slowly before moving on to load the next tier. Diffusion can happen more quickly if the buffer is warm from a previous run. If the buffer is warm, replace it before trying to load another gel in the same box.\nNot keeping track of the order of sample loading. Result: you won’t know which lane corresponds to which sample. This can happen, for example, when loading samples from a strip of PCR tubes, where their order can accidentally be rotated 180 degrees, or when loading from a PCR plate, where the plate orientation can be rotated 180 or 90 degrees (e.g., wells are loaded with respect to rows versus columns).\nRunning your gel backwards by accidentally reversing the positive and negative electrodes. Result, your DNA will migrate out of the end of the gel nearest the wells (the “top” of the gel) and be lost into the tank buffer. Always check that your electrodes are hooked up to the correct leads relative to the terminals at the power source, that your gel is oriented so that the DNA will run toward the positive pole. If you have already loaded your gel in the wrong orientation, do not lift the gel out of the tank, but just reverse the leads (red to black) to correct the current. Remember that DNA is negatively charged and will run to the positive (red) pole. When you start the current, the negative electrode (anode) at the well end of the gel should be making noticeably more bubbles than the positive electrode (cathode) at the bottom end of the gel. That’s because electrolysis of water (H2O) will produce twice as much free hydrogen at the anode than the cathode makes free oxygen. Making a habit of checking that tells you two things: that current is really flowing and that you do have the right orientation of poles.\nRunning a gel at too low a voltage. Result: low molecular weight bands may look fuzzy and faint because they will be diffusing in random directions as they migrate.\nRunning DNA that is too salty - e.g., DNA in Phusion buffer or in NEB restriction buffer 3 (or 3.1) etc. Result: a “salt front” will form where DNA in those salty buffers will be slowed (“retarded”) relative to the ladder, making the ladder a useless measure of the actual size of the DNA. Bands will be compressed at a “front” and will be a weird shape like a smile or a frown rather than a straight band. If you know your DNA is in a salty buffer, you can remove this problem by cleaning the DNA first (i.e., via a cleanup column or with paramagnetic beads), or you can mitigate the problem by diluting only a few microliters (e.g. 5 µl) of your DNA into water and gel loading mix before loading (assuming you have a high enough concentration of DNA that it can still be seen if you load only a small fraction of it).\nRunning a gel made up in a different buffer (or different concentration of buffer) than the buffer in the gel tank; this includes using old buffer that has been evaporating in the tank through multiple runs or over time. Result: bands will not migrate as expected. “Fronts” may form where the leading edge of the migrating DNA is compressed.\nLosing your gel off the end of the gel mold/gel sliding off the end of the gel mold when you are taking it out of the gel box. Result: the gel could shatter and be unsalvageable. Solution: transport gels in a dish and be especially careful when moving flabby, low percentage agarose gels (under 1%).\n\nPotentially Dangerous and/or Destructive Mistakes\n\nHeating a bottle with a lid on it. Result: possible explosion. Just leave the lid off when heating agarose.\nAdding Safeview to molten agarose that is too hot. Result: much of the Safeview will be degraded by heat, causing your DNA to be hard to see or image. The plastic gel mold could be permanently warped if the agarose is too hot. The tape may fail, causing a mess in the fume hood and reagent wastage. A swirled bottle should be just comfortable (70°C or a bit less).\nRunning a gel at too high a voltage. Result: buffer could overheat during running and permanently warp the plastic of the gel box. Bands might look smear and not be well resolved.\nDissolving agarose in water instead of electrophoresis buffer or putting water in the electrophoresis tank instead of buffer. Result - total failure for DNA to migrate into the gel, loss of samples. If there is only water and not buffer in the tank, it could overheat and permanently warp the plastic of the gel box.\nOver-running your gel. Result: the DNA might run off the bottom of the gel and be lost. If you had more than one tier of wells in the gel, the DNA in the top tier will run into the zone of the next tier down, causing distortion and blurriness of the bands as they cross the wells of the lower tier and creating confusion in interpretation because very small fragments from the top tier will be overlapping very large fragments of the lower tier. If the gel runs for a long time, the buffer could overheat and permanently warp the plastic of the gel box.\n\nConscientiousness\nPlease really clean the gel molds and combs after use. The next person shouldn’t have to fish another lab mate’s combs and molds out of the sink and clean and dry them before they can pour their gel. After pulling combs from a polymerized gel, make sure to really rub them under a flow of water; a skin of polymerized agarose left on the combs (higher percentages of agarose are especially prone to this) will mean the next person has to clean this off before they can pour a gel. Likewise, make sure the gel melting bottle is rinsed immediately after you pour your gel. If residual agarose is allowed to dry in the bottle, it can create an almost insoluble blob in the gel of the next person to use the bottle. If you see that some of your agarose has polymerized in the bottle, add water to the bottle and microwave it for a few minutes to dissolve and discard the residue."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#associated-papers",
+    "href": "02_Molecular/Molecular_Pouring_and_Running_a_Gel.html#associated-papers",
+    "title": "7  Pouring and Running a Gel",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nLee PY, Costumbrado J, Hsu CY, Kim YH. Agarose gel electrophoresis for the separation of DNA fragments. J Vis Exp. 2012 Apr 20;(62):3923. doi: 10.3791/3923. PMID: 22546956; PMCID: PMC4846332.\nGel electrophoresis. Scitable by Nature Education. https://www.nature.com/scitable/definition/gel-electrophoresis-286/#:~:text=Gel%20electrophoresis%20is%20a%20laboratory,gel%20that%20contains%20small%20pores."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_cDNA_eRAD.html#introduction",
+    "href": "02_Molecular/Molecular_cDNA_eRAD.html#introduction",
+    "title": "9  cDNA for eRAD",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to synthesis cDNA for use with eRAD.\nProcedure Type: Molecular\nSpecies:\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_cDNA_eRAD.html#materials",
+    "href": "02_Molecular/Molecular_cDNA_eRAD.html#materials",
+    "title": "9  cDNA for eRAD",
+    "section": "Materials",
+    "text": "Materials\n\n2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)*\n0.8 µl 10 mM dNTP mix\nX µl up to 0.5 µg mRNA\nWater (if necessary)\n4 µl 5x First-Strand Buffer (Invitrogen)\n1 µl 0.1 mM DTT – Invitrogen\n1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)\n1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)\n15 µl 10x Second-Strand Synthesis Reaction Buffer (B6117S, NEB)\n3 µl 10 mM dNTPs\n1 µl E. coli ligase (10 u/µl)\n4 µl E. coli DNA Polymerase I (10 u/µl)\n0.4 µl E. coli RNase H (5 u/µl)\n3.3 µl (10 u) T4 DNA polymerase (3 u/µl, NEB).\n10 µl 0.5 M EDTA\nZymo DNA column"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_cDNA_eRAD.html#procedure",
+    "href": "02_Molecular/Molecular_cDNA_eRAD.html#procedure",
+    "title": "9  cDNA for eRAD",
+    "section": "Procedure",
+    "text": "Procedure\n\nFirst strand synthesis\nCombine:\n\n2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)*\n0.8 µl 10 mM dNTP mix\nX µl up to 0.5 µg mRNA\nWater (if necessary) to bring total to 12 µl\n\nHeat to 65˚C for 5 min., then ice\nCollect contents at bottom of tube by brief centrifugation.\nAdd:\n\n4 µl 5x First-Strand Buffer (Invitrogen)\n1 µl 0.1 mM DTT – Invitrogen\n1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)\n1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)\n\nMix by gentle aspiration\n\n25°C for 10 min.\n\n\n\n\n\n\n\nNOTES\n\n\n\nReaction can be scaled up to accommodate more starting RNA\n\n\nSynthesis: Incubate at 50°C for 50 min.\nInactivation: 85°C for 5 min. Chill on ice, collect contents to bottom by short spin."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#introduction",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#introduction",
+    "title": "10  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to concentrate DNA or to clean DNA using magnetic beads. You might use this to elute the DNA from a larger volume to a smaller one, or to remove oligo DNA such as primers, remove very short fragments of DNA, remove salts and other soluble impurities, or to change the buffer type the DNA is dissolved in (e.g., TE, AE, or EB).\nProcedure Type: Molecular\nSpecies:\nAuthor: Susan Bassham\nDate Created: November 27, 2023\nDate Updated: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#materials",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#materials",
+    "title": "10  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Materials",
+    "text": "Materials\n\nDNAse-free tubes, such as microcentrifuge tubes, PCR strip tubes, or plates\nMagnet (for 1.5 ml tubes, use Invitrogen DynaMag-Spin Magnetic Particle Concentrator; for PCR plate or strip tubes, use DynaMag-96 Slide magnet or Catalyst 96 Slotted Ring Magnet Plate)\n\n\n\n\n\n\nThis is important\n\n\n\ndo not use magnets if you have a pacemaker. Do not use these powerful magnets near electronic devices like laptops or cell phones.\n\n\nPipettes\nPipette tips"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#solutions",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#solutions",
+    "title": "10  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Solutions",
+    "text": "Solutions\n\nDNA in solution\nOmega Tech paramagnetic beads (we buy through GC3F, our sequencing Core facility)\n80% ethanol\nElution buffer of choice for re-elution"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#procedure",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#procedure",
+    "title": "10  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Procedure",
+    "text": "Procedure\n\nDetermine the volume of beads you need to add based on starting volume of DNA.\n\nFor genomic and higher molecular weight DNA, calculate 60% of the starting volume of DNA; this is the volume of beads that will be added to each tube (e.g., if the starting volume of DNA in buffer is 100 uL, then 60 uL of beads will be added to that sample in step 4). For purifying lower molecular weight DNA, you might need a higher proportion of beads. Consult the attached figure provided by UO GC3F or consult manufacturer’s instructions (Omega Tech; Total Pure NGS beads).\n\nMake up 80% ethanol solution.\nBring beads to room temperature. Fully homogenize beads via vortexing.\nAdd appropriate volume of homogenized room temperature beads calculated in step 1 to each DNA sample. Mix by aspiration using a pipette set at a volume at least double the volume of beads added to allow for adequate mixing.\nCover the plate or close the tubes and let samples incubate for 10 minutes at room temperature.\nPut samples on magnet. Wait until mix clears and beads condense to the magnet.\nPull off supernatant, careful not to disturb the beads. Discard supernatant.\nWash the beads with 200 ul 80% ethanol two times (3 minutes/wash). During each wash, let the beads condense to the magnet before removing the supernatant. Dispersing the beads with each wash isn’t necessary.\nDiscard the supernatant, trying to get as much as you can. You might want to first use a larger tip size and then switch to a smaller tip size to collect all of the ethanol.\nAllow the beads to dry for 5 minutes. If you weren’t able to get all the visible liquid out after the second wash, you might have to go longer. You should not see any liquid after drying but do not let the beads dry completely (if they are starting to get lighter in color around the edges, that is long enough; if the middle of the bead pellet is turning light or if the pellet is starting to crack, that is too long for high molecular weight DNA, which has a harder time going back into solution after being dried).\nRemove plate or tubes from magnet and add desired volume of elution buffer of choice to each sample. Make sure there are no beads out of the solution. Pipet the buffer onto the beads to wash them down.\nIncubate at room temperature for 10 minutes.\nPut the samples back on the magnet and let the beads condense.\nTransfer the supernatant with your DNA to a fresh plate or tubes.\n\n\n\n\nDNA Molecular Weight to Bead Proportion, UO GC3F"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#associated-papers",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.html#associated-papers",
+    "title": "10  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Associated Papers",
+    "text": "Associated Papers"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#introduction",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#introduction",
+    "title": "11  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to extract DNA using magnetic beads.\nProcedure Type: Molecular\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nGulf pipefish (Syngnathus scovelli)\nBay pipefish (Syngnathus leptorhynchus)\nZebrafish (Danio rerio)\n\nAuthor: Susan Bassham\nDate Created: October 16, 2023; modified November 17, 2023 by Susan Bassham"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#background",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#background",
+    "title": "11  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Background",
+    "text": "Background\nThis protocol uses magnetic beads (also known as superparamagnetic particles) and magnets to extract DNA. Magnetic beads are made of tiny (20 to 30 nm) particles of iron oxide and exhibit magnetic behavior in the presence of an external magnetic field. Using a magnetic field, magnetic beads can be separated from a suspension. In molecular biology, magnetic beads modified with different surface properties can be used to purify various types of biomolecules (genomic DNA, plasmids, mitochondrial DNA, RNA, and proteins). Below is a step-by-step overview of how DNA extraction using magnetic beads works:\n\nYou’ll use a buffer that contains a detergent to lyse the cells open and solubilize proteins etc., while a proteinase cuts the proteins up (and deactivates enzymes like nucleases that would degrade DNA).\nThen add some of the magnetic beads, mix, allow time to bind, then use a magnet to pull the beads into a pellet and get rid of the liquid.\nWash the beads with an aqueous ethanol solution to get rid of all the residual chewed up molecules from the cells, but while still retaining the DNA on the beads. Pull the beads down again with the magnet and remove the wash solution.\nAllow the beads to dry a short time just to get rid of the remaining ethanol.\nAdd an aqueous buffer and let the DNA release from the beads (this is called “eluting” the DNA into the buffer).\nUse the magnet one more time to pull down the beads, leaving the DNA in solution. Transfer this aqueous DNA to a new, clean tube."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#materials",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#materials",
+    "title": "11  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Materials",
+    "text": "Materials\n\nDNAse-free tubes, such as microcentrifuge tubes, PCR strip tubes, or plates\nMagnet (for 1.5 ml tubes, use Invitrogen DynaMag-Spin Magnetic Particle Concentrator; for PCR plate or strip tubes, use DynaMag-96 Slide magnet or Catalyst 96 Slotted Ring Magnet Plate) o\n\n\n\n\n\n\nIMPORTANT\n\n\n\nDo not use magnets if you have a pacemaker. Do not place these powerful magnets near electronic devices like laptops or cell phones.\n\n\nPipettes\n\n\n\n\n\n\nIMPORTANT\n\n\n\nUse filter tips for entire protocol.\n\n\nThermocycler"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#solutions",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#solutions",
+    "title": "11  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Solutions",
+    "text": "Solutions\n\nTissue samples (fin, skin, or organ tissue like liver, brain, spleen are preferable to skeletal muscle). Amount of tissue might need optimization depending on preservation (e.g., fresh/frozen, in RNALater, or in ethanol) and tissue type. A good starting amount is 5-10 mg. If more DNA is needed, all solutions can be scaled up, but you might need to use microcentrifuge tubes and the magnet that can accept these tubes.\nATL buffer (from Qiagen DNeasy Tissue kit).\n\n\n\n\n\n\nIMPORTANT\n\n\n\nCheck solution for white precipitate before use. If present, warm solution in water bath for a few minutes until the solution is clear and homogenous.\n\n\nProteinase K (from Qiagen DNeasy Tissue kit)\nRNase A (10 mg/mL stock)\nOmega Tech paramagnetic beads (we buy through GC3F, our sequencing Core facility)\n75% ethanol\nElution buffer of choice (e.g., EB, TE, AE-AE and TE contain EDTA, which can inhibit some enzymes, so for some applications EB will be better)"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#procedure",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#procedure",
+    "title": "11  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Procedure",
+    "text": "Procedure\n\nBefore digestion:\n\nPut pieces of tissue sample into tubes of choice depending on number of preps (96-well PCR plate/part of 96-well plate, PCR tubes in strips of 8, or 1.5 ml tubes) on ice. Either proceed to the tissue digestion or seal and refreeze the plates/tubes at -20°C until you are ready to start.\n\nOn the day of the digestion:\n\nPreheat a thermocycler to 56°C (choose the heated lid option).\nMake up 75% ethanol in water.\nMake up enough lysis/digestion buffer for all of your samples, plus about 5% extra (depending on how the pipetting goes, you might need to make up a bit more if you run out):\n\nCalculate the volume of lysis/digestion buffer you need: (117 µl ATL buffer + 13 µl proteinase K) all multiplied by your number of tissue samples. Calculate an additional 5%. Mix these total volumes in a clean tube at room temperature.\n\n\nAdd 130 µl lysis/digestion buffer to each of the wells or tubes with the tissue, working quickly but carefully. If you run out of this solution, make as much as you need to complete the remaining reactions.\nOptional: add 1.3 µl RNase A to each of the wells or tubes with the tissue.\nSeal the plate or well with plastic film or close tubes and place in thermocycler (thermomixer or oven if using microcentrifuge tubes) for 2 hours.\n\n\n\n\n\n\nNOTE\n\n\n\nTissue digestion can take longer than 2 hours, in which case, allow the digestion to proceed until tissue is fully digested. Samples may be left on thermocycler/thermomixer/oven for more than 2 hours and even overnight.\n\n\nIn the last half hour of the reaction, let the paramagnetic beads warm up to room temperature.\nAfter the tissue digestion (step 5), remove the reactions from the thermocycler and allow them to cool to room temperature (about 15 minutes).\nVortex the beads to completely homogenize them.\nCarefully unseal the plate with the digested tissue (place in a rack and hold firmly so there is no danger of splashing).\nVortex the beads once more to be sure they haven’t settled. Add 78 µl of the beads to each sample.\nMix by aspiration, waiting a little time for the viscous solution to sheet down the inside of the tip before expelling this last drop. You will need to use 200 µl tips for aspiration, with your pipet set equal or greater than half the volume of the digest to get adequate mixing.\nCover the plate or tubes and let the samples sit at room temperature for 10 minutes.\nPut the plate on the magnet and let the beads collect into a pellet. This will take a while.\nPull off the supernatant carefully, trying not to disturb the beads. Discard the supernatant.\nWash the beads with 200 µl 75% ethanol two times (3 minutes/wash). During each wash, let the beads condense to the magnet before removing the supernatant. Dspersing the beads with each wash isn’t necessary.\nDiscard the supernatant, trying to get as much as you can. You might want to first use a larger tip size and then switch to a smaller tip size to collect all of the ethanol.\nAllow the beads to dry for 5 minutes. If you weren’t able to get all the visible liquid out after the second wash, you might have to go longer. You should not see any liquid after drying but do not let the beads dry completely (if they are starting to get lighter in color around the edges, that is long enough; if the middle of the bead pellet is turning light or if the pellet is starting to crack, that is too long for high molecular weight DNA, which has a harder time going back into solution after being dried).\nRemove plate or tubes from magnet and add desired volume of elution buffer of choice to each sample. Make sure there are no beads stranded on the wall of the tube and not submerged - pipet the buffer onto the beads to wash them down.\n\n\n\n\n\n\nNOTE\n\n\n\nFor RAD-seq, it is best to use EB Buffer rather than AE buffer.\n\n\nIncubate at room temperature for 10 minutes.\nPut the samples back on the magnet and let the beads condense.\nTransfer the supernatant with your DNA to a fresh plate or tubes."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#associated-papers",
+    "href": "02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.html#associated-papers",
+    "title": "11  Cleaning/concentrating DNA with magnetic beads",
+    "section": "Associated Papers",
+    "text": "Associated Papers"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Insert_Screen.html#introduction",
+    "href": "02_Molecular/Molecular_Insert_Screen.html#introduction",
+    "title": "12  Insert Screen of Clones",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to do a insert screen of clones using PCR.\nProcedure Type: xxx\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\nZebrafish, (Danio rerio)\n\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Insert_Screen.html#materials",
+    "href": "02_Molecular/Molecular_Insert_Screen.html#materials",
+    "title": "12  Insert Screen of Clones",
+    "section": "Materials",
+    "text": "Materials\n\n10 ul 2X Turbo\n0.1 ul T7\n0.1 ul M13R\n0.1 ul Taq\n7.7 ul npH20"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Insert_Screen.html#procedure",
+    "href": "02_Molecular/Molecular_Insert_Screen.html#procedure",
+    "title": "12  Insert Screen of Clones",
+    "section": "Procedure",
+    "text": "Procedure\n\n94-5min\n94-1:15\n55-1:15\n72-2:30\ncycle 2 for 36x\n72-10min"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Seq_RAD.html#introduction",
+    "href": "02_Molecular/Molecular_Seq_RAD.html#introduction",
+    "title": "14  Sequenced RAD Tags",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: To produce Illumina Libraries of Sequenced RAD tags\nProcedure Type: Molecular\nSpecies: N/A\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Seq_RAD.html#materials",
+    "href": "02_Molecular/Molecular_Seq_RAD.html#materials",
+    "title": "14  Sequenced RAD Tags",
+    "section": "Materials",
+    "text": "Materials\n\nDNA extraction and RNase A treatment\n\nDNeasy Blood & Tissue Kit (Qiagen).\nRNaseA (Qiagen).\n\n\n\nRestriction endonuclease digestion\n\nRestriction enzyme (NEB).\nClean, intact high-quality genomic DNA: 25 ng/μl.\n\n\n\nP1 Adapter ligation\n\nNEB Buffer 2.\nrATP (Promega): 100 mM.\nP1 Adapter: 100 nM. A modified Solexa© adapter (2006 Illumina, Inc., all rights reserved). Prepare 100nM stocks of P1 adapters in 1X Annealing Buffer (AB, see Note 4). Below, example barcoded EcoRI P1 adapter sequences. “P” denotes a phosphate group and “x” refers to barcode nucleotides.\n\n\n\n\n\n\n\nNOTES\n\n\n\nP1 top:\n5´- AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCTxxxxx -3\nP1 bottom:\n5´- P-AATTxxxxxAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT -3\n\n\n\nConcentrated T4 DNA Ligase (NEB): 2,000,000 U/ml; or 10,000 U/ml T4 DNA ligase (Epicentre)\n\n\n\nPurification steps\n\nQIAquick or MinElute PCR Purification Kit (Qiagen), or DNA Clean and Concentrator-5 (Zymo)\n\n\n\nDNA shearing\n\nBioruptor, nebulizer or Branson sonicator 450.\n\n\n\nSize selection/agarose gel extraction\n\nAgarose (Sigma)\n5X TBE: 0.45 M Tris-Borate, 0.01 M EDTA, pH 8.3.\n6X Orange Loading Dye Solution (Fermentas).\nGeneRuler 100 bp DNA Ladder Plus (Fermentas).\nRazor blades.\nMinElute Gel Purification Kit (Qiagen).\n\n\n\nPerform end repair\n\nQuick Blunting Kit (NEB).\n\n\n\n3´-dA overhang addition\n\nNEB Buffer 2.\ndATP (Fermentas): 10 mM.\nKlenow Fragment (3´ to 5´ exo-, NEB or Epicentre): 5,000 U/ml.\n\n\n\nP2 Adapter ligation\n\nNEB Buffer 2.\nrATP: 100 mM.\nP2 Adapter: 10 μM. A modified Solexa© adapter (2006 Illumina, Inc., all rights reserved). Prepare 10 μM double-stranded adapter in 1X AB (see Note 4). Asterisk denotes a phosphorothioate bond introduced to confer nuclease resistance to the double-stranded oligo (14).\n\n\n\n\n\n\n\nNOTES\n\n\n\nP2 top:\n5´- P-CTCAGGCATCACTCGATTCCTCCGAGAACAA -3\nP2 bottom:\n5´- CAAGCAGAAGACGGCATACGACGGAGGAATCGAGTGATGCCTGAG\\*T -3\n\n\n\nConcentrated T4 DNA Ligase.\n\n\n\nRAD tag Amplification/Enrichment\n\nPhusion High-Fidelity PCR Master Mix with HF Buffer (NEB).\nModified Solexa© Amplification primer mix (2006 Illumina, Inc., all rights reserved): 10 μM."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Seq_RAD.html#methods",
+    "href": "02_Molecular/Molecular_Seq_RAD.html#methods",
+    "title": "14  Sequenced RAD Tags",
+    "section": "Methods",
+    "text": "Methods\n\nThe protocol described below, outlined in Fig. 1, prepares RAD tag libraries for high-throughput Illumina sequencing (see Note 1).\nIn short, genomic DNA is digested with a restriction enzyme and an adapter (P1) is ligated to the fragment’s compatible ends (Fig. 1A).\nThis adapter contains forward amplification and Illumina sequencing primer sites, as well as a nucleotide barcode 4 or 5 bp long for sample identification.\nTo reduce erroneous sample assignment due to sequencing error, all barcodes differ by at least two nucleotides.\nThe adapter-ligated fragments are subsequently pooled, randomly sheared, and size-selected (Fig. 1B). DNA is then ligated to a second adapter (P2), a Y adapter (13) that has divergent ends (Fig. 1C).\nThe reverse amplification primer is unable to bind to P2 unless the complementary sequence is filled in during the first round of forward elongation originating from the P1 amplification primer.\nThe structure of this adapter ensures that only P1 adapter-ligated RAD tags will be amplified during the final PCR amplification step (Fig. 1D).\nThe protocol for mapping of the lateral plate locus in stickleback using EcoRI RAD markers used in Baird et al., 2008 (12) is described here in detail as an example of the multiplexing approach.\nFor bulk-segregant analysis pooled samples are combined prior to digestion and treated as a single library with one barcode.\n\n\n\n\nIMAGE TO BE INCLUDED LATER\n\n\nFig. 1. RAD tag library generation. (A) Genomic DNA is digested with a restriction enzyme and a barcoded P1 adapter is ligated to the fragments. The P1 adapter contains a forward amplification primer site, an Illumina sequencing primer site, and a barcode (colored boxes represent P1 adapters with different barcodes). (B) Adapter-ligated fragments are combined (if multiplexing), sheared and (C) ligated to a second adapter (P2, white boxes). The P2 adapter is a divergent “Y” adapter, containing the reverse complement of the P2 reverse amplification primer site, preventing amplification of genomic fragments lacking a P1 adapter. (D) RAD tags, which have a P1 adapter, are selectively and robustly enriched by PCR amplification. (Reproduced from ref. 12 with permission from PLoS). (ref. 9 with permission from Elsevier Science). [Baird et al., 2008]\n\nDNA extraction and RNase A treatment\n\nWe recommend extracting genomic DNA samples using the DNeasy Blood & Tissue Kit (Qiagen) or a similar product that produces very pure, high molecular weight, RNA-free DNA.\nHigh-quality DNA is required for optimal restriction endonuclease digestion and is of utmost importance for the overall success of the protocol.\nFollow the manufacturers instructions for extraction from your tissue type.\nBe sure to treat samples with RNase A following manufacturer’s instructions to remove residual RNA.\nQuantify the DNA using a fluorimeter to get the most accurate concentration readings (see Note 3).\nThe optimal concentration after elution is 25 ng/μl or greater.\n\n\n\nRestriction endonuclease digestion\n\nDigest 1μg genomic DNA for each individual sample, or a mix of pooled individuals sharing a common phenotype, with appropriate restriction enzyme in a 50 μl reaction volume, following the manufacturers instructions.\nIn a microcentrifuge tube combine: 5.0 μl 10X NEB Buffer 2, 0.5 μl EcoRI, DNA and H2O to 50.0 μl.\nUse NEB Buffer 4 with High Fidelity enzymes, e.g., SbfI-HF. Set up larger reaction if necessary because of dilute DNA – concentrate with a Zymo column before proceeding to ligation or adjust ligation volumes. 1.5 hours SbfI incubation. Heat inactivate 65°C for 25 min.]\nHeat-inactivate the restriction enzyme following manufacturer’s instructions. Allow reaction to cool slowly to ambient temperature (30-60 min). If the enzyme cannot be heat-inactivated, purify with a QIAquick or Zymo column following manufacturer’s instructions prior to ligation.\n\n\n\nP1 Adapter ligation\n\nThis step in the protocol ligates barcoded, restriction-site overhang specific P1 adapters onto complementary compatible ends on the genomic DNA created in the previous step (see Note 5). In Baird et al., 2008 (12) 60 different barcoded P1 adapters were used to make EcoRI RAD tag libraries for 96 F2 individuals (see Note 7).\nTo each inactivated digest, add: 1.0 μl 10X NEB Buffer 2, 5.0 μl Barcoded P1 Adapter (100 nM), 0.6 μl rATP (100 mM), 0.5 μl concentrated T4 DNA Ligase (2,000,000 U/ml), 2.9 μl H2O; 60.0 μl total volume. Be sure to add P1 adapters to the reaction before the Ligase to avoid re-ligation of the genomic DNA. Incubate reaction at room temperature for at least 30 min. or 1 hr at RT then overnight at 4C (ligase will still be active, but slow at 4C – the longer incubation time assumes that there is no exonuclease activity in the ligase).\nNEB Buffer 2 is used in the ligation reactions in this protocol instead of ligase buffer because the salt it contains (50 mM NaCl) ensures the double-stranded adapters remain annealed during the reactions (see Note 4). T4 DNA Ligase is active in all 4 NEB Buffers if supplemented with 1mM rATP, but doesn’t work at maximum efficiency in NEB 3. If the restriction buffer used for digestion does not contain at least 50 mM potassium or sodium ions, or if the endonuclease cannot be heat-inactivated and the reaction must be purified in a column prior to P1 ligation, add 6.0 μl NEB Buffer 2.\nReduce the amount of P1 used in the ligation reaction if starting with less than 1μg genomic DNA or if cutting with an enzyme that cuts less frequently than EcoRI (e.g., use 2.5 µl adapter if using SbfI in stickleback). It is critical to optimize the amount of P1 adapter added when a given restriction enzyme is used for the first time in an organism (see Note 6).\nHeat-inactivate T4 DNA Ligase for 20 (25) min at 65° C. Allow reaction to cool slowly to ambient temperature (30 min).\n\n\n\nSample multiplexing\n\nThis step allows multiple individually barcoded samples to be combined and processed as one to cut down on cost, work time, and differences in amplification efficiency that may arise between different library preparations when processing many at once.\nCombine barcoded samples at desired ratio. Use a 100-300 μl aliquot containing 1-2 μg DNA total to complete the protocol and freeze the rest at -20° C. In Baird et al., 2008 (12) F0 parent samples, as well as the F2 pools used for bulk-segregant analysis, were combined at equal volumes to create one library (see Fig. 2, lanes 2, 3 & 5). EcoRI libraries containing barcoded samples from F2 individuals sharing a given lateral plate phenotype were pooled and processed as separate libraries after P1 ligation (see Note 7).\n\n\n\nDNA shearing\n\nShear DNA samples to an average size of 500 bp to create a library of P1/restriction-site-ligated molecules with random variable ends for amplification. This step requires some optimization for different DNA concentrations and each time a different restriction endonuclease is used. The following protocol has been optimized to shear Stickleback DNA digested with either EcoRI or SbfI using the Bioruptor and is a good starting point for any study. The goal is to create sheared product that is predominantly smaller than 1 kb in size (see Fig. 2).\nDilute ligation reaction to 100 μl in water (or take 100-300 μl aliquot from multiplexed samples) and shear in Bioruptor 10 times for 30 sec on high following manufacturer’s instructions. Make sure the tank water in the Bioruptor is cold (4 C) before starting – bail out and replace with chilled water if necessary. All other positions in the Bioruptor holder that are not filled by your sample/s should be filled with balance tubes containing 100 microliters of water.\nClean up sheared DNA sample(s) using a MinElute or Zymo column following manufacturer’s instructions. This purification is performed in order to remove the ligase and restriction enzymes, and to concentrate the DNA so that the entire sample can be loaded in a single lane on an agarose gel. Elute in 20 μl EB.\n\n\n\nSize selection/agarose gel extraction\n\nThis step in the protocol removes free un-ligated or concatamerized P1 adapters and restricts the size range of tags to that which can be sequenced efficiently on an Illumina Genome Analyzer flow cell. Run the entire sheared sample in 1X Orange Loading Dye on a 1.25% agarose, 0.5X TBE gel for 45 min at 100 V, next to 2.0 μl GeneRuler 100 bp DNA Ladder Plus for size reference (see Fig. 2, Note 8).\nBeing careful to exclude any free P1 adapters and P1 dimers running at ~130 bp and below, use a fresh razor blade to cut a slice of the gel spanning 300-500 bp. Extract DNA using MinElute Gel Purification Kit following manufacturer’s instructions with the following modification: to improve representation of A + T-rich sequences, melt agarose gel slices in the supplied buffer at room temperature (18-22°C) with agitation for 30 min (14). Elute in 20 μl EB into eppendorf tube containing 2.5 μl 10X Blunting Buffer from Quick Blunting Kit used in the following step. [Use MinElute columns and not Qiaquick columns, which require a larger elution volume]\n\n\n\nPerform end repair\n\nThe Quick Blunting Kit protocol converts 5´ or 3´ overhangs, created by shearing, into phosphorylated blunt ends using T4 DNA Polymerase and T4 Polynucleotide Kinase.\nTo the eluate from the previous step, add: 2.5 μl dNTP mix (1mM), 1.0 μl Blunt Enzyme Mix. Incubate at RT for 30 min.\nPurify with QIAquick or Zymo column. Elute in 43 μl EB (42 µl if using Zymo column) into eppendorf tube containing 5.0 μl 10X NEB Buffer 2.\n\n\n\n3´-dA overhang addition\n\nThis step in the protocol adds an ‘A’ base to the 3´ ends of the blunt phosphorylated DNA gfragments, using the polymerase activity of Klenow Fragment (3´ to 5´ exo-). This prepares the DNA fragments for ligation to the P2 adapter, which possesses a single ‘T’ base overhang at the 3´ end of its bottom strand.\nTo the eluate from the previous step, add: 1.0 μl dATP (10mM), 3.0 μl Klenow (exo-). Incubate at 37º C for 30 min. Allow reaction to cool slowly to ambient temperature (15 min).\nPurify with QIAquick or Zymo column. Elute in 45 μl EB (44 µl if using Zymo) into eppendorf tube containing 5.0 μl 10X NEB Buffer 2\n\n\n\nP2 Adapter ligation\n\nThis step in the protocol ligates the P2 adapter, a “Y” adapter with divergent ends that contains a 3´ dT overhang, onto the ends of blunt DNA fragments with 3´ dA overhangs.\nTo the eluate from previous step, add: 1.0 μl P2 Adapter (10 μM), 0.5 μl rATP (100 mM), 0.5 μl concentrated T4 DNA Ligase. Incubate reaction at room temperature for 30 min. to 1 hour at RT then overnight (the longer incubation time assumes that there is no exonuclease activity in the ligase).\nPurify with QIAquick or Zymo column. Elute in 52 μl EB (or 2 x 10 µl, for more concentrated sample).\n\n\n\nRAD tag Amplification/Enrichment\n\nIn this step you will perform high-fidelity PCR amplification on P1 and P2 adapter-ligated DNA fragments, enriching for RAD tags that contain both a P1 and P2 and preparing them to be hybridized to an Illumina Genome Analyzer flow cell (see Fig. 1).\nPerform a test amplification to determine library quality. In thin-walled PCR tube, combine: 10.5 μl H2O, 12.5 μl Phusion High-Fidelity Master Mix, 1.0 μl Solexa primer mix (10 μM), 1.0 μl RAD library template (eluate from last step). If using concentrated Phusion enzyme (i.e., not Master Mix), instead combine: 17.25 µl H2O, 5 µl Phusion HF buffer, 0.5 µl 10 mM dNTPs, 1 µl primer mix, 1 µl template, 0.25 µl Phusion DNA polymerase. Perform 18 cycles of amplification in thermal cycler: 30 sec 98° C, 18X (or 14X) [10 sec 98° C, 30 sec 65° C, 30 sec 72° C], 5 min 72° C, hold 4° C. Run 5.0 μl PCR product in 1X Orange Loading Dye out on 1.0% agarose gel next to 1.0 μl RAD library template and 2.0 μl GeneRuler 100 bp DNA Ladder Plus (Fig. 3), (or clean whole reaction with Zymo column, elute in 2 x 10 µl EB and run all on gel).\nIf the amplified product is at least twice as bright as the template, perform a larger volume amplification (typically 50-100 μl) but with fewer cycles (10-14, usually 12, to minimize bias), to create enough to retrieve a large amount of the RAD tag library from the final gel extraction in the protocol. If amplification looks poor, use more library template in a second test PCR reaction (see Note 9). Fig. 3 shows three libraries that amplified well, which is apparent when comparing the amplified product to the amount of template loaded in the lane to the right of each sample. Template should be dim, yet visible on the gel. Purify large volume reaction with a MinElute or Zymo column. Elute in 20 μl EB (or 2 x 10 µl)\nThis purification step is performed to eliminate any contaminant bands that may appear due to an improper ratio of P1 adapter to restriction-site compatible ends (see Note 6). Load entire sample in 1X Orange Loading Dye on a 1.25% agarose, 0.5X TBE gel and run for 45 min at 100 V, next to 2.0 μl GeneRuler 100 bp DNA Ladder Plus for size reference (Fig. 4). Being careful to exclude any free adapters or P1 dimer contaminants running at ~130 bp and below, use a fresh razor blade to cut a slice of the gel spanning 300-500 bp (or rather, 385-585 bp, which accounts for extra length of post-amplification adapters). Extract DNA using MinElute Gel Purification Kit following manufacturer’s instructions. Melt agarose gel slices in the supplied buffer at room temperature. Elute in 20 μl EB.\nQuantify the DNA using a fluorimeter to get the most accurate concentration readings. Concentrations will range from 1-20 ng/μl. Determine the molar concentration of the library by examining the gel image and estimating the median size of the library smear, which should be around 400 bp. Multiply this size by 650 (the molecular mass of a base-pair) to get the molecular weight of the library. Use this number to calculate the molar concentration of the library (see Note 10)\nValidate library by cloning 1.0 μl of the gel purified library into a blunt-end compatible sequencing vector. Sequence individual clones by conventional Sanger sequencing. Verify that the insert sequences are from the genomic source DNA.\nSequence libraries on Illumina Genome Analyzer following manufacturer’s instructions."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_T_overhang.html#introduction",
+    "href": "02_Molecular/Molecular_T_overhang.html#introduction",
+    "title": "15  T-overhang addition",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This protocol will add a t-overhang to PCR or other genomic DNA fragments for the purposes of cloning or Illumina sequencing.\nProcedure Type: Molecular\nSpecies: N/A\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_T_overhang.html#materials",
+    "href": "02_Molecular/Molecular_T_overhang.html#materials",
+    "title": "15  T-overhang addition",
+    "section": "Materials:",
+    "text": "Materials:\n\n2.5 µl 10 X buffer\n2.5 µl 1 mM dNTP mix\n1 µl enzyme\n5 µl 10x Klenow Exo- buffer (Epicentre)\n1 µl dATP 10 mM\n3 µl 5 u/µl Klenow Exo- (Epicentre)\n5 µl 10x NEB buffer 2\n0.5 µl rATP 100 mM\nx µl of 10 µm* T-overhang PE adapter\nx µl water to 49.5 µl total\n0.5 µl T4 DNA ligase (10 u/µl, Epicentre)\n2.5 % agarose gel\nQG\nQiagen gel extraction kit\nMinElute columns\nZymo DNA column"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_T_overhang.html#procedure",
+    "href": "02_Molecular/Molecular_T_overhang.html#procedure",
+    "title": "15  T-overhang addition",
+    "section": "Procedure",
+    "text": "Procedure\n\nShearing:\n\nUp to 1 µg† DNA in 100 microliters in EB (in 0.6 ml tubes, Axygen) – fill all other positions in Bioruptor holder with tubes containing 100 µl water. Before beginning, make sure Bioruptor tank water is 4°C or less – bail out and replace with chilled water if necessary and add a little crushed ice to the tank.\nSet the controls to shear 30 sec. on, 30 sec. off for 15 cycles\nAfter cycling, replace tank water with cold water and a little ice\nRepeat shearing (i.e., another 15 cycles)\nZymo column concentrate – elute 2 times with 10.5 µl EB.\n\n\n\n\n\n\n\nNOTES\n\n\n\nIf you start with greater than 1 µg (up to 2 µg), you will either have to scale up the volume of the ligation, decrease the amount of EB used in the elution after addition of A overhangs, or make a batch of annealed adapter that is greater than 10 µM in order to maintain a 10:1 ratio of adapter to fragmented DNA in the ligation reaction.\n\n\n\n\nEnd repair:\nTo eluate, add NEB Quick Blunting kit reagents:\n\n2.5 µl 10 X buffer\n2.5 µl 1 mM dNTP mix\n1 µl enzyme\n\nThen:\n\n30 min at room temperature\nClean with Zymo column, elute 2 times with 21 µl EB.\n\n\n\nAddition of A overhangs:\nTo eluate, add:\n\n5 µl 10x Klenow Exo- buffer (Epicentre)\n1 µl dATP 10 mM\n3 µl 5 u/µl Klenow Exo- (Epicentre)\n\nThen:\n\n30 min at 37°C\nClean with Zymo column, elute 2 times with 20 µl EB\n\n\n\nLigation:\nTo eluate, add:\n\n5 µl 10x NEB buffer 2\n0.5 µl rATP 100 mM\nx µl of 10 µm* T-overhang PE adapter\nx µl water to 49.5 µl total\n0.5 µl T4 DNA ligase (10 u/µl, Epicentre)\n1 hour to overnight at RT\n\n\n\n\n\n\n\nNOTES\n\n\n\nYou should scale the adapter concentration to the amount of DNA used, maintaining an approximate 10:1 molar ratio of adapter to fragments. Assuming the average size of sheared fragments is 350 bp, 228 ng should equal about 1 pmol. Starting with 1 µg, then, we’d have about 4.4 pmol. 10 times that would be 44 pmol of adapter or 4.4 µl of 10 µM adapter. In reality, there is probably some loss of a percentage of cDNA during cleanups, incomplete efficiency of blunting and A-overhang addition and less than ideal shearing, all driving down the molarity of ligatable fragments, so you can probably get away with adding less adapter than calculated from the ideal. If you see a faint band of unincorporated adapter in your size fractionation gel, that is probably a good indication that you have saturated but not grossly exceeded the amount of adapter needed."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_T_overhang.html#alternatives",
+    "href": "02_Molecular/Molecular_T_overhang.html#alternatives",
+    "title": "15  T-overhang addition",
+    "section": "Alternatives",
+    "text": "Alternatives\n\nAlternative A.\n\nZymo column purify, elute 2 times with 6 µl and proceed to amplification before size fractionation.\nOnly do this if there is a vanishingly small amount of material. It is probably better to size-fractionate before amplification.\n\n\n\nAlternative B.\n\nZymo column purify, elute 2 times with 10 µl and size fractionate (see below)\nSize fractionation: 2.5 % agarose gel Cut 200 – 500, carefully avoiding any unincorporated adaptor.\nIf desired, also cut 500-700 bp fraction.\nThese two fractions should constitute most of the sheared cDNA.\nThe smaller size range may be less biased against short transcripts. Recover DNA with Qiagen gel extraction kit and MinElute columns.\nDissolve gel at room temperature in 6 volumes QG. Follow manufacturer instructions, being sure to let wash buffer stand on column for at least 5 min. before spinning through.\nElute 2 times with 10 µl EB. Check concentration on Qubit fluorometer using Quant-It HS (high sensitivity) kit."
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Topo_Clone.html#introduction",
+    "href": "02_Molecular/Molecular_Topo_Clone.html#introduction",
+    "title": "16  Topo Cloning",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to TOPO Clone with pCR4 Vector.\nProcedure Type: xxx\nSpecies: N/A\nAuthor: xxx\nDate Created: xxx\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Topo_Clone.html#materials",
+    "href": "02_Molecular/Molecular_Topo_Clone.html#materials",
+    "title": "16  Topo Cloning",
+    "section": "Materials:",
+    "text": "Materials:\n\n1 μl of salt solution\n0.5 μl of vector\n20 μl of TOP10 chemically competent cells\nice\n400 μl of room temp SOC\nbacterial plates\n50 μl LB-Amp in round bottom plates\n10.0 μl Lab PCR mix\n0.25 μl T3/T7 Primer Pair\n0.1 μl Taq\n50 μl LB-Amp\n14% Glycerol"
+  },
+  {
+    "objectID": "02_Molecular/Molecular_Topo_Clone.html#procedure",
+    "href": "02_Molecular/Molecular_Topo_Clone.html#procedure",
+    "title": "16  Topo Cloning",
+    "section": "Procedure:",
+    "text": "Procedure:\n\nTOPO Clone With pCR4 Vector\n\nCut PCR bands from gels, freeze\nVortex band tubes, then spin at 14000RPM for 10 min\nplace at room temperature for 20 min\nadd 20 μl of TOP10 chemically competent cells\nback on ice for 30 min\nheat shock at 42°C for 30 sec\nadd 400 μl of room temp SOC, place at 37°C for one hour\nspread onto plates\nincubate overnight at 37°C\n\n\n\nPCR screen for Inserts\n\nPick colonies from each plate with toothpick\nInto 50 μl LB-Amp in round bottom plates, 37°C for one hour\nUse 2 μl as template for PCR reaction, put plate back at 37°C\n\n\n\n\nStep 1\n-\n94°C -\n5 min\n\n\n\nStep 2\n-\n94°C -\n45 sec\n\n\n\nStep 3\n-\n56°C -\n45 sec\n\n\n\nStep 4\n-\n72°C -\n1 min\n37X for steps 2-4\n\n\nStep 5\n-\n72°C -\n5 min\n\n\n\nStep 6\n-\n12°C -\nindef\n\n\n\n\n\n\nOvernight:\n\nUse 2 μl to inoculate 5 ml of LB-Amp, shake at 37°C overnight\nQiagen miniprep next day, ready to sequence\n\n\n\nStorage of Clones:\n\nGrow clone plates overnight at 37°C\nNext morning, add 50 μl LB-Amp, 14% Glycerol to each well (7% final)\nFreeze for long term storage"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#introduction",
+    "title": "37  Live Food Culture - Rotifers",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes standard practices for culturing live foods, rotifers, for pipefish and threespine stickleback.\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nGulf pipefish (Syngnathus scovelli)\nADD SPECIES OF ROTIFERS AND SUPPLIER INFO\n\nAuthor: Tiffany Thornton\nDate Created: 2023"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#materials",
+    "title": "37  Live Food Culture - Rotifers",
+    "section": "Materials",
+    "text": "Materials\n\nFish-safe gloves (e.g., blue nitrile “clean room” gloves)\n70% ethanol used to disinfect surfaces\nGermicidal bleach (minimum 5.25% sodium hypochlorite)\nSodium thiosulfate crystals\nReverse-osmosis filtered water (“RO” water)\nReed Mariculture “Rotigrow Plus” rotifer food\nReed Mariculture “N-rich” gut-loading food\n\n\n\n\n\n\nNOTES\n\n\n\nNot used by zebrafish facility- has a short shelf life\n\n\nStraining sieves, 20 µm pore size\nSalinity test pen (e.g., Oakton SaltTestr 11 pocket meter)\n\n\n\n\n\n\nNOTES\n\n\n\nUse refractometer for saltwater system. The stickleback facility uses a refractometer for salinity testing\n\n\nHarvesting pail (e.g., plastic 3-gallon bucket, with graduated lines showing gallons)\nSink or wastewater bucket (e.g., plastic 5-gallon bucket)\nBrackish water mixing bucket (e.g., clean, plastic 5-gallon bucket)\nSea salt (e.g., Instant Ocean commercial sea salt mix)\nStir stick (e.g., clean, plastic stir rod approximately 18 inches to 24 inches long)\nClean 1-Liter beaker for holding harvested rotifers\nClean measuring cups (green and blue) or graduated cylinder or calibrated balance to measure sea salt mix\nDisposable graduated transfer pipettes"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#solutions",
+    "title": "37  Live Food Culture - Rotifers",
+    "section": "Solutions:",
+    "text": "Solutions:\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#procedure",
+    "title": "37  Live Food Culture - Rotifers",
+    "section": "Procedure:",
+    "text": "Procedure:\n\n\n\n\n\n\nNOTES\n\n\n\nWear clean fish-safe gloves.\n\n\nRotifer Harvest\n\nPrepare two gallons of 25-27 part-per-thousand (ppt) brackish water (E5).\n\nEnsure RO water source is clean.\n\nUse 70% ethanol to disinfect RO water hose end, if using RO hose.\nUse dedicated, clean RO vessels (carboys), if using vessels.\n\nAdd 2 gallons clean RO water to harvesting pail.\n\nUse 2-gallon graduated mark to ensure volume.\n\nAdd up to 210 grams Instant Ocean to harvesting pail.\n\nUse graduated beaker to measure Instant Ocean.\nAlternatively, use provided labeled and color-coded tool specific to making 25-27 ppt brackish water.\n\nUse stir stick to mix and dissolve salt mix into RO water.\nTest the salinity using the refractometer to ensure 25-27 ppt salinity has been achieved.\n\nHarvest rotifers.\n\nStrain 40% of the rotifer culture through the 20?m sieve.\nTransfer the collected rotifers from the sieve to the pail of 25-27 ppt brackish water: place sieve in brackish water\n\nConcentrate rotifers.\n\nPour rotifers through 20µm sieve, fill sieve with brackish water and gently pour into 1 L beaker.\nIMPORTANT - Keep sieve wet at all times.\n\nUse RO water to loosen rotifers from sieve into beaker, if necessary.\n\n\nGut-load the rotifers.\n\nAdd 2 ml “Rotigrow Plus” rotifer food to the beaker and aerate.\nAllow the rotifers to feed for 15 minutes to 1 hour before feeding to the fish.\n\n\n\n\n\n\nNOTES\n\n\n\nAdjust down for smaller harvests\n\n\nTest the salinity with the refractometer and adjust using RO water or Instant Ocean sea salt mix as needed to achieve 25-27 ppt.\n\nUse rotifers as food for larval fish.\n\nRotifer Water Replacement\n\nReplace 40% rotifer bucket water using new brackish water.\n\nPrepare 25-27 ppt brackish water.\n\nPour 340 grams (need to recalculate for 5 gallons) Instant Ocean sea salt mix into a clean 5-gallon bucket. Use provided marked and color-coded green tool specific to making replacement water if balance unavailable.\nFill bucket with RO water.\nUse clean stir stick to mix sea salt mix and RO water completely.\n\nPour brackish water into rotifer buckets until full.\n\n\nRotifer Feeding\n\nFeed rotifers.\n\nAdd 6 ml “Rotigrow Plus” rotifer food to each rotifer bucket.\n\nUse new graduated transfer pipette to measure and transfer food to rotifers.\nFeed in the morning and again in the afternoon.\n\n\n\nClean Up\n\nSanitize equipment.\n\nPlace sieves into harvesting pail.\nAdd two capfuls of 10% bleach.\nFill harvesting pail with municipal water.\n\nEnsure all equipment and bucket interior are covered by bleach water.\n\nWait 10 minutes.\nDump harvesting pail bleach water into sink.\nAdd 2 tablespoons sodium thiosulfate to harvesting pail.\nFill harvesting pail with municipal water.\n\nEnsure all equipment and bucket interior are covered by sodium thiosulfate water.\n\nDump harvesting pail water into sink.\nUse 70% ethanol to disinfect exterior of harvesting pail and storage shelf.\nPlace harvesting pail now containing sanitized equipment on storage cart.\nUse Facility rack washer to sanitize wastewater buckets and brackish water mixing buckets then place buckets on storage cart."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#associated-papers",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.html#associated-papers",
+    "title": "37  Live Food Culture - Rotifers",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#introduction",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#introduction",
+    "title": "38  Weekend Stickleback and Pipefish Feeding and Health Checks",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to conduct weekend feedings and health checks for stickleback and pipefish\nProcedure Type: Husbandry\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: December 15, 2023; modified January 2, 2023 by Micah Woods"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#materials",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#materials",
+    "title": "38  Weekend Stickleback and Pipefish Feeding and Health Checks",
+    "section": "Materials",
+    "text": "Materials\n\nAdult stickleback food\nJuvenile stickleback food\nBrine shrimp\nSquirt bottle\nDe-capsulated brine shrimp\nRock salt\n105 μm mesh shrimp collector\nBaking soda\nFrozen mysids\n1000 ml beaker labeled “Pipefish Only”\nNet\nContainer to hold fish while being euthanized\nPostmortem fixing equipment\nMorgue"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#solutions",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#solutions",
+    "title": "38  Weekend Stickleback and Pipefish Feeding and Health Checks",
+    "section": "Solutions",
+    "text": "Solutions\n\nEuthanasia strength Mesab (located in Mark’s fridge in 324 Pacific)"
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#procedure",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#procedure",
+    "title": "38  Weekend Stickleback and Pipefish Feeding and Health Checks",
+    "section": "Procedure",
+    "text": "Procedure\n\n\n\n\n\n\nNOTES\n\n\n\nFish only need to be fed once per day on weekends. Ideally, fish will be fed on weekends around noon since they only receive one feeding, but this time can be flexible to accommodate weekend feeders? schedules.\n\n\n\nConduct health checks of all fish in Winter Room and Summer Room according to the steps described in “Husbandry_Health_Check_SOP”.\nPrepare brine cone for feeding by following the steps described in “Husbandry_Hatching_Feeding_BrineShrimp_SOP”.\n\n\n\n\n\n\n\nNOTES\n\n\n\nSince fish are only fed once per day on weekends, use the entire brine cone to feed fish.\n\n\n\nFeed Stickleback\n\nWinter Room\n\n20g tanks\n\nFeed 1 scoop of adult stickleback food.\n\n\nSummer Room\n\n20g tanks\n\nFeed 1 scoop of adult stickleback food.\n\n4.5 and 10.5 liter tanks\n\nLarval (red tags): feed small squirt of brine shrimp.\nJuvenile (green and blue tags): feed half of a scoop of juvenile food.\n\n\n\n\n\n\n\n\n\nNOTES\n\n\n\nIf there is not sufficient adult or juvenile food to conduct feedings, see “Stickleback_Dry_Food_Mix_SOP” for instructions on making more food.\n\n\nFeed Pipefish\n\nSummer Room\n\n20g tanks (adults and juveniles)\n\nAdults: feed frozen mysids\n\n\n\n\n\n\n\nNOTE FOR PREPARING AND FEEDING FROZEN MYSIDS\n\n\n\nPartially fill the 1000 ml beaker labeled “Pipefish Only” located on the pipefish rack with pipefish water. Place a dime sized piece of frozen mysids (bottom shelf in freezer) in the beaker with water, and swirl water to thaw mysids. Once thawed, feed to the adult pipefish.\n\n\n\nJuveniles: feed squirt of brine shrimp.\n\n10.5 liter tanks (mysids, pregnant males, and juvenile pipefish)\n\nJuvenile pipefish/mysids: feed small squirt of brine shrimp.\n\n\n\n\n\n\n\n\n\n\nNOTES\n\n\n\nPlease move any male that has given birth into a community (20g) adult pipefish tank\n\n\n\nReset brine shrimp cone according to steps described in “Husbandry_Hatching_Feeding_BrineShrimp_SOP”."
+  },
+  {
+    "objectID": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#associated-papers",
+    "href": "04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.html#associated-papers",
+    "title": "38  Weekend Stickleback and Pipefish Feeding and Health Checks",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#introduction",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#introduction",
+    "title": "62  Alcian and Alizarin double stain - No Acid No Pain Double Stain",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Effectively stain fixed fish with Alician Blue and Alizarin Red\nProcedure Type: Vertabrate Experiment\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\nZebrafish, (Danio rerio)\nand others\n\nAuthor: Macie B. Walker (Adapted by Mark Currey 7/9/13)\nDate Created:\n\n\n\n\n\n\n\nNOTES\n\n\n\nxxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#purpose",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#purpose",
+    "title": "62  Alcian and Alizarin double stain - No Acid No Pain Double Stain",
+    "section": "Purpose:",
+    "text": "Purpose:\nAlcian blue is a basic dye which stains acidic mucopolysaccharides. Traditionally alcian staining has utilized acidic conditions to stain cartilage. As acidic conditions negatively affect bone staining, simultaneous cartilage and bone staining is problematic. Also since acid conditions destroy DNA, embryos to be alcian stained by the acid method & also prepped for DNA have to be dissected into heads for alcians and tails for DNA. This process is laborious. The protocols below use MgCl2 rather than acid to differentiate staining. They have been tested on zebrafish embryos 4-6 dpf and on young adult zebrafish, 6 months old. For zebrafish embryos 4-6 dpf, up to 100 embryos can be stained in a 1.5ml tube, using 1ml of stain/washes per tube. For young adult zebrafish, use 8X volume of stain/washes per volume of fish (roughly 40 ml solution/ 20 fish). All steps are at room temperature, with rocking unless otherwise noted.\n\nBone stain is sensitive to changes in protocol:\nIt is easy to reduce/lose bone stain. Reduction of bone stain is apparent when certain regions of the bone do not stain well. It is common to have OP staining reduced in skirt region, Mx & den staining reduced or gone. Staining tends to remain in denser regions such as CB5. Overfixation, even by just a few hrs can reduce bone staining. Staining embryos in alizarin overnight vs 30min can reduce bone stain. (Longer is not necessarily better). Bleaching can reduce bone stain, especially if it is not washed out well, which tends to happen if a lot of embryos are stained in one tube. Trypsinizing embryos, even just a little bit, can dramatically reduce bone stain. Detergent (Tween at 0.05%) can also wipe out the bone stain. So, caution: maybe first follow protocol as is, and then make changes to suit your needs.\n\n\nDNA preps:\nRinse out 50% glycerol/0.1%KOH with 2X quick rinses in low TE plus squirt of PBSTw. Sort embryos into 96 well plate, remove excess liquid, and lyse under standard conditions. The tween in PBSTw will help prevent the embryos from getting sticky, but will also remove the bone stain.\n\n\nCartilage only stain:\nLonger fixes, even 4%PFA overnight, are fine. Cellular detail, including muscles, ligaments, and cartilage nuclei are quite good under normarski.\n\n\nBone only stain:\nPFA fixed embryos have decreased bone fluorescence. For better bone fluorescence, fix & stain in 95% ethanol/0.01% alizarin overnight (one step). Do not use MgCl2 in washes, and extend washes to 10 mins. Embryos will be soft due to light fix.\nFor a brief discussion of stain theory describing use of pH and salt to control staining see the web page: http://stainsfile.info/StainsFile/jindex.html"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#materials",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#materials",
+    "title": "62  Alcian and Alizarin double stain - No Acid No Pain Double Stain",
+    "section": "Materials",
+    "text": "Materials\n\ncontainers to hold fish and solutions\nrocker"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#solutions",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#solutions",
+    "title": "62  Alcian and Alizarin double stain - No Acid No Pain Double Stain",
+    "section": "Solutions",
+    "text": "Solutions\n\nSolutions for embryos\n\n2% PFA/1X PBS pH 7.5\nFor 1 ml, add:\n\n250ul 8% PFA\n100ul 10X PBS\n650ul water\n100mM Tris pH 7.5/10mM MgCl2\n\n0.2% alcian blue/90%ETOH\n\n\nAlcian blue will not readily dissolve in 90%ETOH. To make 100 mls add 0.2g alcian blue 8GX powder to 11.2ml 50%ETOH. Warm and occasionally swirl. When all is dissolved add 95% ETOH to 100 ml. Check clarity of solution under a microcope to make sure there are no precipitates.\n\n\n0.04% Alcian/10mM MgCl2 Stain pH 7.5 Final concentrations:\n\n0.04% alcian blue\n80 % ETOH\n100mM Tris pH 7.5\n10mM MgCl2\n\nTo make 50 mls, add:\n\n10ml 0.2% alcian blue in 90% ETOH\n5ml 1M Tris pH 7.5\n0.5ml 1M MgCl2\n32.6ml 95% ETOH\n1.9ml water\n\n\nFor Ethanol rehydrations To make 50 mls of each:\n   **80% ETOH/10mM MgCl~2~**\n  -   42.1ml 95% ETOH\n  -   5ml 1M Tris pH 7.5\n  -   0.5ml 1M MgCl~2~\n  -   2.4ml water\n  \n  **50% ETOH:**\n  -   26.3ml 95% ETOH\n  -   5ml 1M Tris pH 7.5\n  -   18.7ml water\n  \n  **25% ETOH:**\n  -   13.2ml 95% ETOH\n  -   5ml 1M Tris pH 7.5\n  -   31.8ml water\n\n**0.5% alizarin red S*\n*To make 50 mls, add:*\n- 0.25g alizarin red S powder \n- 50 ml water.\n3% H202/0.5% KOH:\n- Mix just before using: 0.5ml 6% H~2~0~2~ & 0.5ml 1% KOH (or adjust to desired final volume)\n50% Isopropanol To make 50 mls, add: - 25 ml H20 - 25 ml Isopropanol."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#procedure",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.html#procedure",
+    "title": "62  Alcian and Alizarin double stain - No Acid No Pain Double Stain",
+    "section": "Procedure",
+    "text": "Procedure\n  1.    Fix 2% PFA/1XPBS 1 hr.\n  \n\nFixing times can vary depending on the size of the specimen. We have found that for 5-10 mm stickleback and pipefish a fix of 2-3 hours is sufficient.\n\n  2.    Rinse 50% ETOH/water 10 mins.\n  3.    Double stain: Add 0.04% Alcian Blue/ 0.01% Alizarin Red S/10mM MgCl2/80% ETOH. Add Alizarin Red just before use. (add 20ul 0.5% alizarin red / 1ml of 0.04% alcian)\n\nWith very small specimens it’s very easy to over stain. Check amount of staining every 30 minutes until the desired level of staining has been achieved. Important: Store stock as 0.04% Alcian Blue/10mM MgCl2/80% ETOH.\n\n  4.    Rinse 80% ETOH/10mM MgCl2/water 10 mins to overnight.  Cleaner Alcian background with longer rinses.\n  5.    Rinse 50% ETOH/water 5 mins.\n  6.  Rinse 25% ETOH/water 5 mins.(Can fudge here, just rehydrating)\n  7.    Bleach 3% H202/0.5% KOH 10 mins, lids open.\n  8.  Rinse with water\n  9.  Rinse with 50% Isopropanol\n  10.   Store in 50% Isopropanol\n##Papers (Walker, M., Kimmel, C., 2007. A Two-Color Acid-Free Cartilage and Bone Stain For Zebrafish Larvae. Biotechnic & Histochemistry. Vol. 82, No. 1, Pages 23-28.)"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#introduction",
+    "href": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#introduction",
+    "title": "79  Production of Haploid Embryos in Stickleback",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This method allows the production of homozygous haploid embryos for the purpose of screening for recessive mutations. Haploid embryos develop fairly normally for the first few days, but eventually develop bent tails and vacuolated body cavities. They are inviable.\nProcedure Type: Vertabrate Experimental\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Mark Currey\nDate Created: xxx\nDate Updated: xxx\n\n\nThis is a general procedure for making infertile sperm that can still activate eggs for production of haploid, early pressure (EP) or heat shock (HS) embryos."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#materials",
+    "href": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#materials",
+    "title": "79  Production of Haploid Embryos in Stickleback",
+    "section": "Materials",
+    "text": "Materials\n\nWatchglass\nLarge glass Petri dish\nIce\nTwo Pasteur pipettes\nPipette bulb\nStopwatch\nUV Stratalinker® 1800 by Stratagene\n\nLatex kitchen gloves\nSafety glasses\nSmall test tube with cork marked for UV sperm"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#solutions",
+    "href": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#solutions",
+    "title": "79  Production of Haploid Embryos in Stickleback",
+    "section": "Solutions",
+    "text": "Solutions\n\nHank’s solution {#sec-general_recipe_hanks}\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#procedure",
+    "href": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#procedure",
+    "title": "79  Production of Haploid Embryos in Stickleback",
+    "section": "Procedure",
+    "text": "Procedure\n  1. Fill the bottom of the glass Petri dish with ice. \n  \n  2. Put watchglass on top of the ice in the dish. \n  \n  3. Using a Pasteur pipette, transfer the sperm from the test tube onto the watchglass. Be sure to get as much of the sperm into the pipette as possible without taking up any bubbles of air with it. Also, do not bubble the sperm in the watchglass as you are expelling them from the pipette. Expel sperm in a thin, even layer on watch glass.  \n  \n\n\n\n\n\n\nWarning\n\n\n\nDISCARD THIS PIPETTE.\n\n\n  4. Cover the sperm with the top of the Petri dish. \n  \n  5. Put on the Latex gloves and safety glasses. \n  \n  6. Place the covered Petri dish under the UV lamp. \n  \n  7. Remove the cover of the Petri dish and start the stopwatch. \n  \n  8. Gently move the dish under the lamp in a swirling motion for two minutes. \n  \n  9. After exposing the sperm to UV light for two minutes, replace the cover on the Petri dish and remove the dish from under the lamp. \n  \n  10. Using the CLEAN pipette, remove the sperm from the watchglass and transfer them to the small test tube marked for UV sperm. \n  \n  11. Put the UV sperm test tube into the ice to be used later for fertilizing eggs."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#associated-papers",
+    "href": "05_Vertebrate_Experiment/VertExperiment_double_haploid.html#associated-papers",
+    "title": "79  Production of Haploid Embryos in Stickleback",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#introduction",
+    "href": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#introduction",
+    "title": "80  Storage of stickleback eggs",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Storage of eggs for fertilization up to 24 hours post stripping.\nProcedure Type: Vertabrate Experimental\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Mark Currey\nDate Created: xxx\nDate Updated: xxx\n\n\nThis is a general procedure for making infertile sperm that can still activate eggs for production of haploid, early pressure (EP) or heat shock (HS) embryos."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#materials",
+    "href": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#materials",
+    "title": "80  Storage of stickleback eggs",
+    "section": "Materials",
+    "text": "Materials\n\nStreptomycin & Penicillin Solution (PenStrep) from Sigma (P-0906) Stock – 100%\n50ml sterile polypropylene conical tubes\n90mm petri dish"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#solutions",
+    "href": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#solutions",
+    "title": "80  Storage of stickleback eggs",
+    "section": "Solutions",
+    "text": "Solutions\n\nHoltfrieter’s Solution {#sec-general_recipe_holtfrieters}\nembryo medium {#sec-general_recipe_embryo_medium}\nxxx\nxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#procedure",
+    "href": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#procedure",
+    "title": "80  Storage of stickleback eggs",
+    "section": "Procedure",
+    "text": "Procedure\negg storage solution 1. Add PenStrep to Holtfreiter’s for a final concentration of 1% (10ml into 1 liter)\n\nStrip eggs from ripe female into a conical tube with 25ml cold egg storage solution.\n\n\n\n\n\n\n\nNote\n\n\n\nEggs can be transported on ice and fertilized up to 24 hours later (maybe longer)\n\n\n\nTo fertilize, move eggs to 90mm petri dish and allow temperature to equilibrate to 20C\nRemove egg storage solution, and rinse eggs once with embryo medium (important to make sure that salt concentration is low enough for sperm to be optimally activated).\nAdd macerated testis prep as usual, then cover eggs with embryo medium."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#associated-papers",
+    "href": "05_Vertebrate_Experiment/VertExperiment_egg_storage.html#associated-papers",
+    "title": "80  Storage of stickleback eggs",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#introduction",
+    "href": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#introduction",
+    "title": "81  CRISPR/Cas9 Technology",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes CRISPR/Cas9 Technologies used in Threespine Stickleback.\nProcedure Type: Vert Experiment\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\n\nAuthor: Sam Peterson and John H. Postlethwait, 2014, Modified by Susie 2/29/2024\nDate Created: 2014\n\n\n\n\n\n\n\nCRISPR/Cas9 Technology\n\n\n\nThis guide describes using the CRISPR/Cas9 system to induce small indels or larger deletions in fish genomes. It includes descriptions of target selection tools, generation and preparation of reagents, and mutation screening approaches. Background information can be found in the publications at the end of this protocol.\nIntroducing Cas9 enzyme and a guide RNA is used to cause double-stranded breaks at a desired target locus in the genome. DNA repair machinery of the cell seals the break, leaving a small insertion/deletion (indel) in its place. In a coding region, this indel might result in a frame shift that causes the remaining part of the mRNA to be translated incorrectly, such as by generating an early stop codon, and this breaks the function of the protein.\nThere are two ways to get Cas9 protein into cells. mRNA encoding Cas9 (particularly a version that has been codon adjusted to be translated well in fish) can be injected. In that case, the cell’s own translation machinery uses this RNA to make Cas9 protein. It is economical to generate large amounts of Cas9 RNA in vitro by using a plasmid carrying the Cas9 gene driven by an RNA polymerase promoter (like the T3 promoter). The mRNA is then cleaned, quantified, aliquoted, and stored at -80C until use. (This process is described below).\nAlternatively, commercially purified Cas9 protein can be purchased in lyophilized form and reconstituted into a liquid, aliquoted, and stored at -80C until use. We have been using protein from PNA Bio Inc. (CP01-200 200 µg, that comes in four 50 µg aliquots). It arrives lyophilized along with HEPES, KCl and sucrose so that adding 50 µl of water to one of these aliquots reconstitutes the buffer at 1x and the Cas9 at 1 mg/ml. Because we also sometimes co-inject guide RNAs with plasmid knock-in constructs, we have adopted reconstituting in 50 µl of 1 mM DTT instead of pure water, to help prevent needle clogging. 1 µl aliquots are frozen at -80C. For knock-in experiments, Cas9 protein should be preferred over Cas9 mRNA, as it is believed maternal homologous recombination machinery has a short window of opportunity, during the one-cell stage (in other words, a delay due to Cas9 mRNA needing to be translated can be avoided)."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#materials",
+    "href": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#materials",
+    "title": "81  CRISPR/Cas9 Technology",
+    "section": "Materials",
+    "text": "Materials\n\nInjection rig\nNeedle puller\n\nxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#solutions",
+    "href": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#solutions",
+    "title": "81  CRISPR/Cas9 Technology",
+    "section": "Solutions",
+    "text": "Solutions\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#procedure",
+    "href": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#procedure",
+    "title": "81  CRISPR/Cas9 Technology",
+    "section": "Procedure",
+    "text": "Procedure\n\nGeneration of Cas9 mRNA (if not using Cas9 protein)\n\n\n\n\n\n\n\nNote\n\n\n\nThere are different plasmids available that can be used to transcribe the Cas9 RNA. The one described in the Jao et al. publication works well. It is available from addgene: Plasmid 46757: pT3TS-nCas9n. Cas9 mRNA can be made by following the protocol outlined in their paper. The plasmid is linearized with XbaI and used as a template after the reaction is purified. mRNA is then synthesized with the T3 mMESSAGE kit (Invitrogen) and cleaned with column purification.\nNote: we should have aliquots frozen in strip tubes in the -80C, so it is likely you will not need to make this yourself.\n\n\n1.  Grow 5ml of bacterial culture containing the pT3TS-nCas9n plasmid (stock located in -80° freezer box “CRISPR Reagents” in ampicillin overnight at 37°.  \n\n2.  Extract plasmid DNA with the QIAprep Spin Miniprep Kit following manufacturer’s instructions. Measure concentration with the Qubit. \n\n3.  Linearize ~ 10 µg of plasmid with XbaI: \n                43 µl of plasmid DNA and water \n                5 µl NEB 10x buffer \n                2 µl XbaI \n                          \n                Incubate overnight at 37C \n\n4. Clean the restriction reaction with Zymogen DNA Clean and Concentrator 5. At this point you can check the concentration with the Qubit and confirm complete linearization by running a small amount on a 1% agarose gel. There should be a single band at around 7 kb (7,330 bp). \n\n5. Make capped Cas9 mRNA with the mMESSAGE mMACHINE® T3 Transcription Kit following manufacturer’s instructions. Use about 1 µg of linearized plasmid DNA.  Note: unlike the original CRISPR/Cas9 zebrafish paper, the mRNA is not poly-adenylated with a separate step. Let the reaction go for 2 hours at 37° followed by the 15 minute optional DNAse step. \n\n6. Clean the reaction with Zymogen RNA Clean and Concentrator 25 and elute in 15-20 µl of nuclease free water. Check the size with 1µl on an agarose gel and measure the concentration with the nanodrop or with Qubit Broad Range RNA kit. \n\n7. Based on the measured concentration, dilute the remaining product to 200 ng/µl and store 3-4 µl aliquots at -80°C in the box labeled CRISPR reagents.  \nIdentify Target Sequence\n\n\n\n\n\n\nNote\n\n\n\nThe CRISPR/Cas9 system uses the injection of a guide RNA (gRNA) in conjunction with Cas9 mRNA to create double-strand DNA breaks. Repair of these dsDNA breaks with non-homologous end joining can result in indel mutations or larger deletions spanning two simultaneously targeted sites. The recognition sequence is specified by the gRNA and can be any 20 base pairs that are upstream from NGG. Efficient transcription using a T7 promoter requires the transcript start with GG. This limits the possible recognition sites to GG-(N)18-NGG. This can be relaxed to G-(N)19-NGG if necessary and transcription of these are usually not problematic. The orientation of the target sequence relative to a target gene is not important so sense and anti-sense strands can be searched. Please note that the NGG at the end of the recognition sequence is not considered part of the target site and will not be incorporated into the transcribed gRNA.\nOnline tools for designing CRISPR targets come and go. Their criteria for scoring prospective targets differ and the different platforms will often identify non-overlapping sets of targets, or they may rank the same sites very differently. Some tools are able to take into account potential off-target sites in the stickleback genome.\nThese two sites support many species including stickleback (i.e., includes a search of off-target sites). CCtop: https://cctop.cos.uni-heidelberg.de/species.html and ChopChop: http://chopchop.cbu.uib.no\nCrisprScan currently supports zebrafish, medaka and killifish but not stickleback, however its algorithm is based on significant empirical testing and appears to perform well: https://www.crisprscan.org/sequence/\n\n\n1. To use these tools, paste in a DNA sequence that you want to search for potential target sites (e.g., an early exon or flanking region).   \n\n2. Select the T7 promoter to identify target sequences starting with GG. Select the stickleback genome (this is used to check for off-target regions), or in CrisprScan select “No search” (because otherwise the default is zebrafish). \n\nTools like CrisprScan will also select targets that might start with GN or NG, in which case it will suggest changing the N to a G. This mismatch will be OK for targeting, and will allow better guide synthesis using T7 RNA polymerase. When generating annotations of your chosen targets in your reference sequence file of the genomic region, it is helpful to designate the orientation of the annotated target (either + or -). \n\n3. Using target sequences with multiple alignments to the genome or close matches may result in unwanted off-target effects. Use BLAT at https://genome.ucsc.edu/cgi-bin/hgBlat to compare your selected 20 base pair target sequence/s to the stickleback genome to confirm it matches only a single time and BLAT to the human genome to check that there are no matches (relevant to biosafety concerns). If the design tool recommended changing one of the start nucleotides to a G, BLAT the sequence that includes that change in addition to the original genomic target sequence.  \n\n4. If you are using an Oregon stickleback source population, you can and should blast and compare the region of interest against an Oregon reference genome (like Cushman Slough) to confirm there are no polymorphisms in the targets you have selected, as these can reduce obliterate their efficacy. Alternatively, you could amplify the region of interest in the line /source population you are using and Sanger sequence it to ensure your designed target is identical. \n\n\n\n\n\n\nImportant Consideration\n\n\n\nImportant consideration: even when single guide RNAs work well, a functional protein might still be produced. For example, if an indel generated is a multiple of 3 bp, it could delete or add a small number of codons (and therefore amino acids) while not disrupting the reading frame for the rest of the coding region. Such mutations might not abolish or possibly even affect the function of the protein. In order to help circumvent this and also to make it easier to screen indels by size on an electrophoresis gel, design a pair of target sequences that can be injected at the same time to create a larger deletion. Successfully deleted alleles will be easily resolved when PCR products flanking the region are run on a gel. On the other hand, indels produced by a single gRNA might not be discernable from wild type on a gel. Indels will be created around the site of the double-strand break, which will occur three base pairs before the NGG; so, if only a single guide will be used for some reason, you can try to design a single target sequence that would disrupt a restriction enzyme recognition sequence when an indel is created in the expected location. In that case, screening is a two-step process: amplify a fragment around the predicted indel, then try to digest the fragment with the restriction enzyme. Wildtype fragments will be cut, fragments with the indel will not be cut. And, if you’ve designed the positions of your primers well, you can resolve all three fragment sizes on a gel. Alternatively, PCR products can be Sanger sequenced – an expensive way to screen large numbers of prospective CRISPR mutants.\n\n\nCreate gRNA DNA template\n\n\n\n\n\n\nNotes\n\n\n\nThere are multiple methods described for producing gRNA templates. The standard method described in initial publications involves annealing two small oligos and ligating them into a cut vector which is then cloned. I prefer a simpler method which is adapted from one published in Cell Reports (Bassett et al., 2013). It involves using two long oligos in a template-free PCR reaction. The two oligos will partially anneal to each other and the polymerase will fill in the rest yielding a short double-stranded template with a T7 recognition site. One oligo is generic in that it is used in every template production reaction. The other is sequence specific to the target sequence. It should provide essentially the same template as if you were to use the cloning method described in Jao et al., 2013 with the addgene plasmid 46759: pT7-gRNA (the last few nucleotides on the 3 prime end may be different, but these do not seem to matter). This is then used as a template for in vitro transcription. Once the base components are obtained, the only additional thing that needs to be ordered for new targets is the gene specific oligo.\n\n\n1. Obtain gRNA scaffold oligo (PAGE purified). IDT provides this service for their Ultramer DNA Oligos. A single order should provide enough for at least 100 template synthesis reactions.  \n\n\n\n\n\n\nNotes\n\n\n\nWe have a lab stock of this oligo and you should not need to order it.\n\n\n5-gatccgcaccgactcggtgccactttttcaagttgataacggactagccttattttaacttgctatttctagctctaaaac-3\n2. Order gene-specific oligo. In our hands, this oligo does not need to be PAGE purified. The sequence should be [T7 promoter]-[Target Sequence]-[start of gRNA sequence]. Note: CrisprScan provides a version of this sequence, though it is shorter by a few nucleotides at either end – it probably also works, but the Cresko lab uses the slightly extended sequence below. \n5- aattaatacgactcactata-[20 nt Target Sequence]-gttttagagctagaaatagc-3\n\n\n\n\n\n\nNotes\n\n\n\nNote: do not include the NGG (the PAM sequence).\nNote: if your target is on the minus strand, make sure to reverse complement the target sequence before plugging into this sequence above. In other words, the end facing the NGG should be to the right.\nNote: If you haven’t selected a target that already starts with GG, the design software will probably have suggested that targets starting with NG or GN should be changed to GG. Don’t forget to include this suggested change, supporting better T7 transcription.\n\n\n3. Perform PCR. The two oligos serves both as primers and template. Phusion polymerase is recommended but other polymerases should work as well. \n\n        - 4µl 5x Buffer \n        - 0.4µl dNTPs (10 mM) \n        - 1 µl of gene specific oligo (10 µM) \n        - 1 µl of gRNA scaffold oligo (10 µM) \n        - 0.2 µl Phusion \n        - 13.4 µl Water \n        \n         98° 30 seconds \n         \n         40 cycles of:  \n         98° 10 seconds \n         60° 10 seconds \n         72° 15 seconds \n         72° 10 mins \n\n \n\n4. Clean the PCR reaction with column-based method (e.g., Zymo DNA Clean and Concentrator kit) or at least 2.5x volume of Omega beads (SB). At this point, the concentration can be checked and the product can be analyzed on a gel. It should be a single 125 bp band. [Susie adds: With Zymo columns, eluting in 20 µl, this reaction yields about 25 ng/µl. For short templates, the Megascript kit recommends using 100-200 ng per reaction. So for a half reaction, you would use 2-4 µl of the PCR product]. \n\n5. Use as template for in vitro transcription with either, MAXIscript® T7 Kit or MEGAscript® T7 Kit, both by Invitrogen. Perform the optional DNAse step and clean with column based method. Both kits should produce enough RNA. However, the MEGAscript T7 Kit will produce much more. I prefer using 4 µl of the template in a half reaction of the MEGAscript T7 Kit. The reaction can be extended for several hours or overnight to increase yield if necessary. After column based purification, it usually provides around 1 µg/µl in a 25µl elution but this can be quite variable. The RNA can be checked on a gel, but the results can be difficult to interpret due to heavy secondary structure. It usually looks like one or two bands around 100 and 200 bp. \n\n \nInject Cas9 mRNA and gRNA into one-celled embryos\n\n\n\n\n\n\nNotes\n\n\n\nEmbryos should be injected at the one cell stage according to standard protocols. Briefly, as soon as feasible, separate and clean fertilized embryos and, in filter sterilized embryo medium, load them into the grooves milled into a plastic insert fitting in a square plastic dish. They need to be held securely but do not necessarily have to be pushed to the bottom of the groove. Eggs from different clutches can differ in diameter; choose the width of the milled groove and depth of embryos within the groove to hold them without applying too much compression. The blastomere should be oriented up or slightly tilted toward the direction of the injection needle. A high concentration of Cas9 mRNA (2nl of 300 ng/µl as suggested in early papers) can cause mortality (reported by JHP lab). Lower concentrations (100 ng/µl or lower) seem to be just as effective and cause less developmental defects and death. The gRNA concentration does not seem to matter as much (reported concentrations range greatly, from 1 ng/µl to almost 100 ng/µl). Higher concentrations of gRNA do not seem to cause any additional defects or mortality. I recommend starting at 100 ng/µl Cas9 with 50 ng/µl gRNA. If mutagenesis is not detected with these concentrations than check the RNA prep or consider that there may be a problem with the target location. Some target sites do not work as well as others. Additionally, it is useful to sequence the target region in the fish being used for injections to confirm that the reference genome sequence is accurate. If mutagenesis rates are successful, then the injection concentrations can be changed based on mortality/deformity percentages and mutation efficiency. The gRNA concentration can likely be lowered significantly without affecting efficiency. Checking potential off-targets is advised as well and might influence the ideal injection concentrations. If a positive control is desired, the fh (second target site) gRNA described in Hwang et al. works at a high level of efficiency.\n\n\nInject embryos\nIf using Cas9 mRNA\n1. On ice, prepare injection mixture in water with 1/10 volume phenol red*: \n  \n  100 ng/µl Cas9 mRNA (range 50 to 100 ng/µl) \n  50 ng/µl gRNA (use 50 ng/µl of each gRNA if targeting multiple sites) \nIf using Cas9 protein\n2. To preload protein, mix in these final concentrations (according the PNA Bio recommendations for zebrafish**): \n  \n  500 ng/µl Cas9 protein (range: about 200-800 ng/µl) \n  250 ng/µl gRNA (range: about 100-400 ng/µl) \n  Incubate for 5’ at 37C then put on ice. \n  Add 1/10 volume phenol red* \n\n\n\n\n\n\nNotes\n\n\n\n*Note: before thawing your other reagents, thaw and vortex the phenol red stock. Centrifuge the tube at max speed for 10 minutes to pellet any needle-clogging precipitate before adding some to your other injection reagents.\n**Note: the reason for these ranges is that different targets work with different efficiencies. Also, you might be constrained in final concentrations if, for example, you want to use more than one guide in combination, as the volume of each reagent you add dilutes the constituents.\n\n\n3. Inject into the cell at the one-cell stage (1-2 nl). \nScreen Embryos for Mutations\n::: {.callout-note title=“Notes”} Large deletions induced by using multiple gRNAs can be screened for with PCR. Mutagenesis in the form of induced indels can be detected with either the Restriction Fragment Length Polymorphism (RFLP) assay, or by Sanger sequencing of amplicons. The RFLP assay detects changes in a restriction enzyme recognition sequence. Sanger sequencing amplicons from injected embryos can detect mosaicism at the target site. Screening 48 hpf embryos that appear to be developmentally normally provides a good measure of whether or not mutations were induced and to what degree. Later stages that are developing abnormally and would not survive anyway can also be euthanized and screened. Uninjected siblings should always be used as negative controls.\n:::\nLysis-based DNA prep (this provides DNA that is not clean but accessible enough for PCR)\n  1. Collect and euthanize embryos according to standard protocols (individuals or in groups of up to 5). If they are still in chorions, they should be crushed with a blue plastic pestle or chorions can be poked or crushed with sharp foreceps. \n  \n  2. Remove water and lyse embryos with HotShot method (Meeker et al. 2007) \n  \n  3. Add 100 µl of 50mM NaOH (50 µl for an individual embryo) \n  \n  4. Heat at 95° for 20 mins \n  \n  5. Chill on ice and neutralize with 10ul of 1 M Tris-HCl, pH 8.0 (5 µl for an individual embryo) \nRFLP Assay\n::: {.callout-note title=“Notes”} This assay only works if there is a unique restriction enzyme recognition sequence located around the 3` end of the target sequence. If the recognition sequence is altered by successful mutagenesis, the restriction enzyme will no longer be able to cut the PCR product.\n:::\n1. Perform PCR (look to amplify a 300-600 bp amplicon surrounding expected mutation site), preferably with the indel location positioned off-center with respect to the expected amplicon so that two different fragment lengths will be produced after cutting \n\n2. Run 2 µl of reaction on a gel to confirm a single band at the proper length \n\n3. Clean the PCR reaction with preferred method and cut with the appropriate restriction enzyme. For many restriction enzymes, purification of the reaction is not necessary. \n\n4. Run the reaction on a gel to determine if the restriction enzyme recognition site was altered. Results from uninjected embryos should show a completely digested product. Successful mutagenesis can be qualitatively estimated by looking at the intensity of the undigested PCR product. \nSanger Sequencing\n1. Perform PCR (look to amplify a 300-600 bp amplicon surrounding expected mutation site). Run some of the reaction on a gel to confirm a correct sized product was amplified. \n\n2. Clean the rest of the reaction with preferred reaction clean-up method, elute in 50 µl, and send the reaction out for Sanger sequencing. The concentration can be measured at this point (although usually 1 µl is sufficient for Sanger sequencing).     \n\n3. Send the PCR products to Genewiz according to their recommendations. \n\n4. Analyze results to estimate mutagenesis efficiency. It is not very useful to look at the actual sequence that is returned. It is much more informative to look at the trace file with the actual peaks. \n\n5. Results from uninjected embryos should be very clean with a single peak at each nucleotide position. Occasionally there will be two peaks for one nucleotide when the individual carried a polymorphism. It is also recommended to confirm that the fish do not carry polymorphisms in the target sequence region as this could drastically lower or abolish mutagenesis efficiency. \n\n6. Sequencing results from injected embryos should show nice clean peaks until near the target region where the quality should dramatically drop off (see attached trace image). \n\n7. There are online tools (e.g., https://tide.nki.nl/#about) to try to algorithmically disentangle the alleles present and their predicted frequencies in the mosaic fish from this kind of  sequence trace file (also called a chromatogram). \nInsert image if sequence here\n\nSequence from successful mutagenesis attempt\n\nF1 Screening\n::: {.callout-note title=“Notes”} The goal of using CRISPR/Cas9 is to obtain a stable mutant line. Injected fish should be considered potential mosaic carriers of mutations at the target region. Some cells will contain the unmutated wild-type sequence while other cells will carry mutations. Also to be noted is that different cells will contain different mutations. By outcrossing potential carriers, stable heterozygous mutant carriers can be obtained and identified.\nThe process of obtaining F1 carriers can be split into a few steps. Below lists the key steps followed by a brief explanation of options and thoughts on how to minimize the time to obtain mutants, cost of screening, number of tanks used and effort required. :::\n1. Outcross injected fish to wildtype background. \n\n2. Screen outcrossed clutches to estimate efficiency of mutation inheritance.  \n\n3. Raise clutch that has decent inheritance efficiency. \n\n4. Fin clip potential F1 carriers and identify carriers. \n\n5. Sequence mutation carriers to determine exact molecular nature of mutation. \n\n6. Select fish who carry a desirable mutation. \n\n\n\n\n\n\nNotes\n\n\n\n\nUsually, 25 injected fish are put into the fry rack and raised to adulthood. Sometimes the injections cause developmental delays or issues that impact initial survival. In these cases, more than 25 fish can be put into the nursery. However, there isn’t a significant advantage raising more than 1 tank of injected fish. Injected fish should carry mutations at reasonable rates. If 25 fish are screened and none of them pass on a mutation the problem is better resolved by re-injecting at a higher concentration or using a different target site. When the fish reach a breedable age, 3 or 4 fish should be pairwise mated with wildtype stocks. These clutches should be kept separate so inheritance efficiency can be measured.\nOut-crossed fish will be raised to adulthood before they are IDd and the exact molecular nature of the mutation is determined. This takes several months and takes up tank space. Screening clutches to estimate inheritance efficiency is recommended to avoid 2 things: 1) the need to raise several tanks of different clutches to insure that a mutant carrier is obtained 2) wasting several months waiting for fish to grow to find out that none of them carry a mutation.\nRaise 25 fish from 1 or 2 clutches of F1 fish to adulthood. These should be selected based on the initial clutch screening. The F0 fish should be maintained until a stable line is obtained. Inheritance efficiency of individual clutches can be estimated by testing siblings by PCR (to detect a large deletion or via RFLP if there is an appropriate restriction enzyme site. Fish that are not carriers of mutations will give a PCR product that is completely digested by the restriction enzyme while those that carry a mutation will show a prominent undigested band.\nSanger sequencing of amplicons from carriers is used to determine the exact nature of the mutation. This is important for several reasons 1) not all mutations are predicted to cause a loss-of-function (it is important that the mutation causes a frame-shift or early termination codon) 2) knowing the exact nature of the mutation is important for developing a genotyping protocol and reporting results. There are a few options for how to do this. The PCR product from identified carriers can be cloned and then sequenced. This gives an easy to read result but is slightly costly and time consuming. The other option is to directly sequence the PCR products without cloning. This is easier and more cost effective but requires some effort to determine the mutation.\n\nUnlike the results of injected embryos which potentially carry many different alleles, the F1 carriers should be wildtype or should be heterozygous with one wildtype and one mutant allele if they are carriers. If the sequence is clean throughout (or the trace file shows only, e.g., a naturally occurring SNP), then the fish is not a carrier. If the sequence starts clean but then turns into a series of double and sometimes single peaks, then the fish is likely a carrier of an indel mutation. Since the WT sequence is known, the sequence of the mutation can be read by “subtracting” the WT peaks (if at a given nucleotide position the WT sequence is expected to be A and there is a peak for A and T, then the mutant allele has a T at that position – if there is a single peak, then both the mutant and WT sequence has the same nucleotide at that position). See picture. Again, there are online tools to disentangle the WT and mutant allele sequences (https://tide.nki.nl/#about).\ninsert image here\n\nIt is likely that screening 1 or 2 clutches of F1 fish will produce multiple carriers of different mutations. At this point a decision must be made at which fish should be kept. It is advantageous to have multiple alleles of a mutation so that a phenotype can be confirmed. However, saving more than 2 alleles increases tank usage but doesn’t offer that much of an advantage. It is helpful when a male and a female carrier of the same allele are identified so that they can be bred to obtain a homozygous mutant without having to have an additional outcross generation."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#associated-papers",
+    "href": "05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.html#associated-papers",
+    "title": "81  CRISPR/Cas9 Technology",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n- Efficient genome editing in zebrafish using a CRISPR-Cas system. (Hwang et al., 2013)\n- Efficient multiplex biallelic zebrafish genome editing using a CRISPR nuclease system. (Jao et al., 2013). \n- crisPrscan: designing highly efficient sgrnAs for crisPr-cas9 targeting in vivo (Moreno-Mateos et al., 2015). \n- Maximizing mutagenesis with solubilized Crispr-Cas9 ribonucleoprotein complexes (Burger et al., 2017). \n- A simple and effective F0 knockout method for rapid screening of behavior and other complex phenotypes (Kroll et al., 2022)."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#introduction",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#introduction",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making 50 ml of 2x SSC, 0.2% Tween-20.\nProcedure Type: Recipe\nAuthor: Micah Woods\nDate Created: March 5, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#solutions",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#solutions",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Solutions",
+    "text": "Solutions\n\n20x SSC (5 ml)\n\nPurchase pre-made from Chem Stores.\n\nTween-20 (100 ul)\n\nLocated in the chemical cabinet on the “Oxidizers A-Z” shelf.\n\nNanopure water\n\nLocated in the Nalgene at the north sink."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#materials",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#materials",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Materials",
+    "text": "Materials\n\n50 ml Falcon tube\nPipettes\nPipette tips"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#procedure",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#procedure",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Procedure",
+    "text": "Procedure\n\nFill the 50 ml Falcon tube with 5 ml of 20x SSC.\nAdd 100 ul of Tween-20 to the tube\n\n\n\n\n\n\nNOTE\n\n\n\nTween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the tube.\n\n\nFill tube to 50 ml with nanopure water.\nMix the solution by gently inverting the tube a few times. Store at room temperature."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#associated-papers",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_0.2%_Tween_20.html#associated-papers",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nx\nx\nx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#introduction",
+    "href": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#introduction",
+    "title": "90  Blocking Buffer for in situ Hybridizations",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making 10 ml of blocking buffer for in situ hybridizations.\nProcedure Type: Recipe\nAuthor: Micah Woods\nDate Created: March 5, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#solutions",
+    "href": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#solutions",
+    "title": "90  Blocking Buffer for in situ Hybridizations",
+    "section": "Solutions",
+    "text": "Solutions\n\nGoat or sheep serum (200 ul)\n\nLocated in the “Pistol Frog Pond” freezer in 1.5 ml aliquots.\n\nBSA (0.02 g)\n\nLocated in the “Cruella Cooper” fridge in a white bottle with a red lid.\n\nPBT (10 ml)"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#materials",
+    "href": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#materials",
+    "title": "90  Blocking Buffer for in situ Hybridizations",
+    "section": "Materials",
+    "text": "Materials\n\n15 ml plastic Falcon tube\nPipettess\nPipette tips\nAnalytical balance\nWeigh paper"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#procedure",
+    "href": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#procedure",
+    "title": "90  Blocking Buffer for in situ Hybridizations",
+    "section": "Procedure",
+    "text": "Procedure\n\nWarm the goat or sheep serum to room temperature. Once melted and warmed to room temperature, flick the tube to mix and ensure the serum is homogenized.\nAdd 200 ul of the goat or sheep serum to the 15 ml Falcon tube.\nWeigh 0.02 g of BSA using the analytical balance. Add the 0.02 g of BSA to the tube.\nFill tube to 10 ml with PBT.\nMix the solution by gently inverting the tube a few times. Store in the fridge."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#associated-papers",
+    "href": "07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.html#associated-papers",
+    "title": "90  Blocking Buffer for in situ Hybridizations",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nx\nx\nx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#introduction",
+    "href": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#introduction",
+    "title": "91  Fake Hyb",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making 200 ml of Fake Hyb.\nProcedure Type: Recipe\nAuthor: Micah Woods\nDate Created: March 5, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#solutions",
+    "href": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#solutions",
+    "title": "91  Fake Hyb",
+    "section": "Solutions",
+    "text": "Solutions\n\n100% formamide (100 ml)\n\nLocated in the “Cruella Cooper” refrigerator.\n\n10x SSC (50 ml)\n\nPurchase pre-made from Chem Stores.\n\nTween-20 (400 ul)\n\nLocated in the chemical cabinet on the “Oxidizers A-Z” shelf.\n\n1M citric acid (35 g)\n\nLocated in the chemical cabinet on the “Acid and Base Incompatibles A-Z” shelf\n\nNanopure water\n\nLocated in the Nalgene at the north sink."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#materials",
+    "href": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#materials",
+    "title": "91  Fake Hyb",
+    "section": "Materials",
+    "text": "Materials\n\n200 ml glass Pyrex jar\n4 50 ml plastic Falcon tubes\nPipettess\nPipette tips\nFume hood\nScale\nWeigh paper"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#procedure",
+    "href": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#procedure",
+    "title": "91  Fake Hyb",
+    "section": "Procedure",
+    "text": "Procedure\n\n\n\n\n\n\nIMPORTANT\n\n\n\nFormamide can be harmful to your health, so this procedure should be performed under the fume hood.\n\n\n\nWarm the 100% formamide to room temperature.\nAdd 100 ml of 100% formamide to the 200 ml glass Pyrex jar.\nAdd 50 ml of 10x SSC to the jar.\nAdd 400 ul Tween-20 the the jar.\n\n\n\n\n\n\nNOTE\n\n\n\nTween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the jar. If pipetting 400 ul of Tween-20 is too difficult, you can instead make a 20% Tween-20 dilution with Tween-20 and nanopure water, and add 2 ml of the 20% Tween-20 to the jar.\n\n\nWeigh out 0.35 g of 1M citric acid, and add to the jar.\nFill jar to 200 ml with nanopure water.\nMix the solution by gently inverting the jar a few times.\nThis recipe makes 200 ml of Fake Hyb. Aliquot the Fake Hyb into 4 50 ml Falcon tubes and store at -20°C.\nWhen you are ready to use the Fake Hyb in the future, melt one of the 50 ml tubes in the water bath or by letting it sit at room temperature. Once melted, mix by inversion to ensure the solution is homogenized, and return it to the -20°C freezer once you are finished."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#associated-papers",
+    "href": "07_Recipes/Recipe_Molecular_Fake_Hyb.html#associated-papers",
+    "title": "91  Fake Hyb",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nx\nx\nx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#introduction",
+    "href": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#introduction",
+    "title": "92  NTMT Buffer",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making 25 ml of NTMT buffer.\nProcedure Type: Recipe\nAuthor: Micah Woods\nDate Created: March 5, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#solutions",
+    "href": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#solutions",
+    "title": "92  NTMT Buffer",
+    "section": "Solutions",
+    "text": "Solutions\n\n5 M NaCl (0.5 ml)\n\nPurchase pre-made from Chem Stores.\n\n1 M MgCl2 (1.25 ml)\n\nPurchase pre-made from Chem Stores.\n\n1 M TRIS pH 9.5 (2.5 ml)\n\nPurchase pre-made from Chem Stores.\n\n20% Tween-20 (62.5 ul)\n\nLocated in the chemical cabinet on the “Oxidizers A-Z” shelf.\n\nNanopure water\n\nLocated in the Nalgene at the north sink."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#materials",
+    "href": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#materials",
+    "title": "92  NTMT Buffer",
+    "section": "Materials",
+    "text": "Materials\n\n50 ml Falcon tube\nPipettes\nPipette tips"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#procedure",
+    "href": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#procedure",
+    "title": "92  NTMT Buffer",
+    "section": "Procedure",
+    "text": "Procedure\n\nAdd 0.5 ml of 5 M NaCl to the 25 ml Falcon tube.\nAdd 1.25 ml of 1 M MgCl2 to the tube.\nAdd 2.5 ml of 1 M TRIS pH 9.5 to the tube.\nAdd 62.5 ul of 20% Tween-20\n\n\n\n\n\n\nNOTE\n\n\n\nTween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the tube.\n\n\nFill tube to 25 ml with nanopure water.\nMix the solution by gently inverting the tube a few times. Store at room temperature."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#associated-papers",
+    "href": "07_Recipes/Recipe_Molecular_NTMT_Buffer.html#associated-papers",
+    "title": "92  NTMT Buffer",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nx\nx\nx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_PBT.html#introduction",
+    "href": "07_Recipes/Recipe_Molecular_PBT.html#introduction",
+    "title": "93  PBT",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making 500 ml of PBT.\nProcedure Type: Recipe\nAuthor: Micah Woods\nDate Created: March 5, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_PBT.html#solutions",
+    "href": "07_Recipes/Recipe_Molecular_PBT.html#solutions",
+    "title": "93  PBT",
+    "section": "Solutions",
+    "text": "Solutions\n\n10x PBS (50 ml)\n\nPurchase pre-made from Chem Stores.\n\nNanopure water (450 ml)\n\nLocated in the Nalgene at the north sink.\n\nTween-20 (1 ml)\n\nLocated in the chemical cabinet on the “Oxidizers A-Z” shelf."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_PBT.html#materials",
+    "href": "07_Recipes/Recipe_Molecular_PBT.html#materials",
+    "title": "93  PBT",
+    "section": "Materials",
+    "text": "Materials\n\n500 ml glass Pyrex jar\nPipettes\nPipette tips"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_PBT.html#procedure",
+    "href": "07_Recipes/Recipe_Molecular_PBT.html#procedure",
+    "title": "93  PBT",
+    "section": "Procedure",
+    "text": "Procedure\n\nFill the 500 ml glass Pyrex jar with 50 ml of 10x PBS.\nAdd 450 ml of nanopure water to the jar.\nAdd 1 ml of Tween-20 to the jar.\n\n\n\n\n\n\nNOTE\n\n\n\nTween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the jar.\n\n\nMix the solution by gently inverting the jar a few times. Store at room temperature."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_PBT.html#associated-papers",
+    "href": "07_Recipes/Recipe_Molecular_PBT.html#associated-papers",
+    "title": "93  PBT",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nx\nx\nx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#introduction",
+    "href": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#introduction",
+    "title": "94  TBE/TAE Buffer",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for diluting 10x TBE and 10x TAE to make buffers.\nProcedure Type: Recipe\nAuthor: Micah Woods\nDate Created: March 4, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#solutions",
+    "href": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#solutions",
+    "title": "94  TBE/TAE Buffer",
+    "section": "Solutions",
+    "text": "Solutions\n\nIf making TBE buffer dilution:\n\n10x TBE (located in the cabinet above the microwave; if none is available, obtain 2 liters of pre-made 10X TBE from Chem Stores)\n\nIf making TAE buffer dilution:\n\n10x TAE (located in the cabinet above the microwave; if none is available, obtain 2 liters of pre-made 10X TAE from Chem Stores)\n\nNanopure water (located in the Nalgene at the sink on the north end of the laboratory; if Nalgene is empty, refill using the Phillips Laboratory nanopure water dispenser located in Pacific 317)"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#materials",
+    "href": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#materials",
+    "title": "94  TBE/TAE Buffer",
+    "section": "Materials",
+    "text": "Materials\n\nVessel for holding diluted TBE or TAE buffer appropriate to desired volume after dilution.\n\n\n\n\n\n\nNOTE\n\n\n\nIf attempting to make 0.5x TBE buffer, use the 20 liter Nalgene located at the sink at the south end of the laboratory."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#procedure",
+    "href": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#procedure",
+    "title": "94  TBE/TAE Buffer",
+    "section": "Procedure",
+    "text": "Procedure\n\nIf you are specifically seeking to make 0.5x TBE buffer, follow the below instructions. If you are seeking to make another concentration of TBE buffer or a dilution of TAE buffer, skip to step 2 of the procedure.\n\nEnsure that the 20 liter Nalgene is fully empty.\nFill the Nalgene with 19 liters of nanopure water. The 19 liter mark is marked in Sharpie on the Nalgene.\nFill the Nalgene with 1 liter of 10x TBE. The 20 liter mark is marked in Sharpie on the Nalgene.\n\nCalculate the concentration of either TBE or TAE buffer you wish to make from the initial 10x concentration, depending on the desired final volume and concentration of buffer.\nPour the appropriate volume of 10x TBE or 10x TAE into your vessel, and then dispense the appropriate volume of nanopure water into the vessel to dilute the 10x TBE or 10x TAE buffer to your desired volume and concentration."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#associated-papers",
+    "href": "07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.html#associated-papers",
+    "title": "94  TBE/TAE Buffer",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nx\nx\nx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_Hanks.html#introduction",
+    "href": "07_Recipes/Recipe_Husbandry_Hanks.html#introduction",
+    "title": "101  Recipe - Hank’s solution",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for Dietricj=h’s fixative\n\nProcedure Type: recipe\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: March 07, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_Hanks.html#solutions",
+    "href": "07_Recipes/Recipe_Husbandry_Hanks.html#solutions",
+    "title": "101  Recipe - Hank’s solution",
+    "section": "Solutions",
+    "text": "Solutions\nHank’s (Final):\n9.9 ml Hank's Premix\n0.1 ml Stock #6\nHank’s Premix:\n  Combine the following in order:\n  10.0 ml Solution #1\n  1.0 ml Solution #2\n  1.0 ml Solution #4\n  86.0 ml ddH2O\n  1.0 ml Solution #5\n\nStore Hank’s Premix in the refrigerator along with the Hank’s solutions.\n\nHank’s Stock Solutions:\n  **Stock #1**\n  8.0 g NaCl \n  0.4 g KCl\n  in 100 ml dd H2O\n  \n  **Stock #2**\n  0.358 g Na2HPO4 Anhydrous \n  0.60 g KH2PO4 \n  in 100 ml ddH2O\n  \n  **Stock #4**\n  0.72 g CaCl2 \n  in 50 ml ddH2O\n  \n  **Stock #5**\n  1.23 g MgSO4x7H2O \n  in 50 ml dd H2O\n  \n  **Stock #6**\n  0.35 g NaHCO3\n  10.0 mls dd H2O"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_Hanks.html#associated-papers",
+    "href": "07_Recipes/Recipe_Husbandry_Hanks.html#associated-papers",
+    "title": "101  Recipe - Hank’s solution",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_holtfreiters.html#introduction",
+    "href": "07_Recipes/Recipe_Husbandry_holtfreiters.html#introduction",
+    "title": "102  Recipe - Holtfreiter’s solution",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for Holtfreiter’s solution\n\nProcedure Type: recipe\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: March 07, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_holtfreiters.html#solutions",
+    "href": "07_Recipes/Recipe_Husbandry_holtfreiters.html#solutions",
+    "title": "102  Recipe - Holtfreiter’s solution",
+    "section": "Solutions",
+    "text": "Solutions\nHoltfreiters Solution:\n\nMake stock of Holtfreiter’s Solution, add: Mix solids into 750ml of npH2O 3.5 gm NaCl 0.05 gm KCl 0.1 gm CaCl2 0.02 gm NaHCO3 1.0 ml Tris Bring to 1 liter with npH2O\n\n\nStore at 4C"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_holtfreiters.html#associated-papers",
+    "href": "07_Recipes/Recipe_Husbandry_holtfreiters.html#associated-papers",
+    "title": "102  Recipe - Holtfreiter’s solution",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_PFA.html#introduction",
+    "href": "07_Recipes/Recipe_Husbandry_PFA.html#introduction",
+    "title": "[88  Recipe - 8% Paraformaldehyde Stock Solution]{#sec-general_recipe_8%PFA .quarto-section-identifier}",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for 8% Paraformaldehyde (PFA) Stock Solution\n\nProcedure Type: recipe\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Mark Currey\nDate Created: February 29, 2024\n\n\nUse gloves and PPE when handling paraformaldehyde"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_PFA.html#materials",
+    "href": "07_Recipes/Recipe_Husbandry_PFA.html#materials",
+    "title": "[88  Recipe - 8% Paraformaldehyde Stock Solution]{#sec-general_recipe_8%PFA .quarto-section-identifier}",
+    "section": "Materials",
+    "text": "Materials\n-   paraformaldehyde\n\n\n\n\n\n\nNote\n\n\n\nParaformaldehyde can be found in the chemical cabinet.\n\n\n-   Distilled Water"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_PFA.html#solutions",
+    "href": "07_Recipes/Recipe_Husbandry_PFA.html#solutions",
+    "title": "[88  Recipe - 8% Paraformaldehyde Stock Solution]{#sec-general_recipe_8%PFA .quarto-section-identifier}",
+    "section": "Solutions",
+    "text": "Solutions\n-  10N NaOH\n-  20% HCl"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_PFA.html#procedure",
+    "href": "07_Recipes/Recipe_Husbandry_PFA.html#procedure",
+    "title": "[88  Recipe - 8% Paraformaldehyde Stock Solution]{#sec-general_recipe_8%PFA .quarto-section-identifier}",
+    "section": "Procedure",
+    "text": "Procedure\n\nUSE A FUME HOOD!\n\n\nAdd 40 g Paraformaldehyde to 450 ml distilled water (or scale for desired final volume).\nAdd 1 ul of 10 N NaOH per ml of water (i.e. 500 ul for 500 ml).\nApply medium heat while stirring at medium speed to dissolve - approx 15-20 min. Solution should not go above 60º C. Eventually, granules will fully dissolve and the solution will become translucent.\n\n\nDO NOT LET THE SOLUTION STIR BEYOND THIS POINT - it will form a fuzzy precipitate that reduces the solution strength after filtering.\n\n\nOnce the granules have dissolved and the solution clears, turn off the heat.\nEquilibrate to pH 7.4 with approx 1.5 ml of 20% HCl (or scale, depending on target volume). Bring volume to 500 ml (or scaled volume) with distilled water.\n\nFilter while still warm to 0.45 um (or 0.2 um).\n\nAliquot and store at -20º C."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Husbandry_PFA.html#associated-papers",
+    "href": "07_Recipes/Recipe_Husbandry_PFA.html#associated-papers",
+    "title": "[88  Recipe - 8% Paraformaldehyde Stock Solution]{#sec-general_recipe_8%PFA .quarto-section-identifier}",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nxxx\nxxx\nxxx\nxxx"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#introduction",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#introduction",
+    "title": "61  Whole Mount In situ",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: This procedure describes how to perform insitus on whole mount embryos.\nProcedure Type: Vert Experiment\nSpecies:\n\nThreespine stickleback, (Gasterosteus aculeatus)\nBay pipefish, (Syngnathus leptorhyncus)\nGulf pipefish (Syngnathus scovelli)\n\nAuthor: Susan Bassham\nDate Created: March 1, 2024\n\n\n\n\n\n\n\nChemical Warning\n\n\n\nWear PPE when handling PFA."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#materials",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#materials",
+    "title": "61  Whole Mount In situ",
+    "section": "Materials",
+    "text": "Materials\n\nice\ndistilled water\nprimary antibody (eg. mouse anti-fish)\nsecondary antibody (eg. goat anti-mouse)\ntertiary antibody (ie mouse PAP)"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#solutions",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#solutions",
+    "title": "61  Whole Mount In situ",
+    "section": "Solutions",
+    "text": "Solutions\n\n8% PFA {#sec-general_recipe_8%PFA}\nBT fix, 4% paraformaldehyde in PBS\n0.1 M sodium citrate buffer, pH 6.4\ncitrate buffer containing 0.1% sodium azide\nacetone\nblocking solution (2% normal goat serum in wash solution -- PBS containing 1% BSA, 1% DMSO, 0.2% triton-X 100)"
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#procedure",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#procedure",
+    "title": "61  Whole Mount In situ",
+    "section": "Procedure",
+    "text": "Procedure\n\nFixation\n\nFix embryos in BT Fix for 4 to 6 hours on ice or at 4°C (see notes below).\n\n\n\nModified Antigen-Retrieval\n\nWash in 0.1 M sodium citrate buffer, pH 6.4, 5 min.\nReplace with fresh citrate buffer containing 0.1% sodium azide.\nIncubate overnight in 35-40°C water bath. (see note below).\n\n\n\nAcetone Permeabilization\n\nWash in DW 5 min.\nFreeze in acetone at -20°C for 7 min. to permeabilize the tissue (see note below).\nWash in DW 5 min.\nWash in 0.1 M citrate buffer 5 min."
+  },
+  {
+    "objectID": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#immuno-histochemistry",
+    "href": "05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.html#immuno-histochemistry",
+    "title": "61  Whole Mount In situ",
+    "section": "Immuno-histochemistry",
+    "text": "Immuno-histochemistry\n\nTreat with blocking solution (2% normal goat serum in wash solution -- PBS containing 1% BSA, 1% DMSO, 0.2% triton-X 100) to block nonspecific binding sites for 30 min.\nTreat with primary antibody (eg. mouse anti-fish) diluted in blocking solution for 5 hours at RT or overnight at 4°C. A shaker may be used to facilitate process.\nWash for about 2 hours with frequent changes of wash solution.\nTreat with secondary antibody (eg. goat anti-mouse) diluted in wash solution overnight at 4°C or for 5 hours at RT.\nRepeat wash step.\nIf required, treat with tertiary antibody (ie mouse PAP) diluted in wash buffer overnight at 4°C or for 5 hours at RT.\nRepeat wash step.\nIf required, develop enzyme-mediated stain.\n\n\n\n\n\n\n\nComposition of fixative\n\n\n\nI simultaneously fixed fish in three different aldehyde fixatives: BT fix, 4% paraformaldehyde in PBS, or 4% paraformaldehyde in 0.1 M phosphate, pH 7.3. - Those fish fixed in 4% paraformaldehyde in phosphate buffer were poorly and incompletely stained. - Those fish fixed in BT fix or in 4% pf in PBS demonstrated robust staining throughout the head and trunk of the fish (the staining in the BT-fixed fish may have been slightly better). - I also tested the components in the BT fix. The 4% sucrose in this fix was required for high-quality staining. - In contrast, the quality of the staining in fish fixed in BT fixative without calcium was comparable to that of fish fixed in BT fix containing 0.15 mM calcium chloride.\n\n\n\n\n\n\n\n\nModified Antigen Retrieva\n\n\n\n\nFirst introduced in the early 1990s, antigen-retrieval methods have been widely adopted by the clinical community as a way to recover antigenicity in paraffin sections.\nSeveral authors have demonstrated that heat is one of the most important variables in antigen retrieval (Brain Res 632, 105-113, 1993; Pathol Int 44, 759-764, 1994; APMIS 102, 295-307, 1994). In my initial experiments,\nI performed overnight incubations in citrate buffer at one of 4 temperatures: 4C, room temperature, 37C or 44C.\nThe 5-day embryos incubated overnight at 4C or room temperature were poorly and incompletely stained, whereas those incubated at 37C and 44C were stained robustly throughout the head and trunk of the fish.\nHowever, the background staining in embryos incubated at 44C was quite high.\nThis background staining was not present in embryos incubated at 37C.\nSince these initial experiments, I have been using embryos incubated overnight at 4C as my negative control.\nThe quality of the staining in the negative control varies tremendously from experiment to experiment, whereas there is little or no experiment-to-experiment variation in the quality of staining in my positive controls using the above protocol.\n\n\n\n##Papers\n\nAntigen Retrieval Techniques: Immunohistochemistry and Molecular Morphology*, S-R Shi, J Gu and CR Taylor, Eds., Eaton Publishing, Natick, MA, 2000."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#introduction",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#introduction",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Introduction",
+    "text": "Introduction\n\nPurpose: Recipe for making 50 ml of 2x SSC, 0.2% Tween-20.\nProcedure Type: Recipe\nAuthor: Micah Woods\nDate Created: March 5, 2024"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#solutions",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#solutions",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Solutions",
+    "text": "Solutions\n\n20x SSC (5 ml)\n\nPurchase pre-made from Chem Stores.\n\nTween-20 (100 ul)\n\nLocated in the chemical cabinet on the “Oxidizers A-Z” shelf.\n\nNanopure water\n\nLocated in the Nalgene at the north sink."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#materials",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#materials",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Materials",
+    "text": "Materials\n\n50 ml Falcon tube\nPipettes\nPipette tips"
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#procedure",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#procedure",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Procedure",
+    "text": "Procedure\n\nFill the 50 ml Falcon tube with 5 ml of 20x SSC.\nAdd 100 ul of Tween-20 to the tube\n\n\n\n\n\n\nNOTE\n\n\n\nTween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the tube.\n\n\nFill tube to 50 ml with nanopure water.\nMix the solution by gently inverting the tube a few times. Store at room temperature."
+  },
+  {
+    "objectID": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#associated-papers",
+    "href": "07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.html#associated-papers",
+    "title": "89  2x SSC, 0.2% Tween-20",
+    "section": "Associated Papers",
+    "text": "Associated Papers\n\nx\nx\nx"
   }
 ]

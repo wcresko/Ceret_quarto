@@ -1,0 +1,43 @@
+# PBT
+
+## Introduction
+
+-   **Purpose**: Recipe for making 500 ml of PBT.
+-   **Procedure Type**: Recipe
+-   **Author**: Micah Woods
+-   **Date Created**: March 5, 2024
+
+## Solutions
+
+-   10x PBS (50 ml)
+    -   Purchase pre-made from Chem Stores.
+-   Nanopure water (450 ml)
+    -   Located in the Nalgene at the north sink.
+-   Tween-20 (1 ml)
+    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf.
+
+## Materials
+
+-   500 ml glass Pyrex jar
+-   Pipettes
+-   Pipette tips
+
+## Procedure
+
+1.  Fill the 500 ml glass Pyrex jar with 50 ml of 10x PBS.
+
+2.  Add 450 ml of nanopure water to the jar.
+
+3.  Add 1 ml of Tween-20 to the jar.
+
+    ::: {.callout-important title="NOTE"}
+    Tween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the jar.
+    :::
+
+4.  Mix the solution by gently inverting the jar a few times. Store at room temperature.
+
+## Associated Papers
+
+-   x
+-   x
+-   x

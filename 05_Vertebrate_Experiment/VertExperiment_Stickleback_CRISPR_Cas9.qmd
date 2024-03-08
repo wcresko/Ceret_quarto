@@ -1,0 +1,291 @@
+# CRISPR/Cas9 Technology {#sec-Vert_Exp_CRISPR}
+
+## Introduction
+
+-   **Purpose**: This procedure describes CRISPR/Cas9 Technologies used in Threespine Stickleback.
+-   **Procedure Type**: Vert Experiment
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Sam Peterson and John H. Postlethwait, 2014, Modified by Susie 2/29/2024 
+-   **Date Created**: 2014
+
+
+::: {.callout-note title="CRISPR/Cas9 Technology"}
+This guide describes using the CRISPR/Cas9 system to induce small indels or larger deletions in fish genomes. It includes descriptions of target selection tools, generation and preparation of reagents, and mutation screening approaches. Background information can be found in the publications at the end of this protocol. 
+
+Introducing Cas9 enzyme and a guide RNA is used to cause double-stranded breaks at a desired target locus in the genome. DNA repair machinery of the cell seals the break, leaving a small insertion/deletion (indel) in its place. In a coding region, this indel might result in a frame shift that causes the remaining part of the mRNA to be translated incorrectly, such as by generating an early stop codon, and this breaks the function of the protein.  
+
+There are two ways to get Cas9 protein into cells. mRNA encoding Cas9 (particularly a version that has been codon adjusted to be translated well in fish) can be injected. In that case, the cell’s own translation machinery uses this RNA to make Cas9 protein. It is economical to generate large amounts of Cas9 RNA in vitro by using a plasmid carrying the Cas9 gene driven by an RNA polymerase promoter (like the T3 promoter). The mRNA is then cleaned, quantified, aliquoted, and stored at -80C until use. (This process is described below). 
+
+Alternatively, commercially purified Cas9 protein can be purchased in lyophilized form and reconstituted into a liquid, aliquoted, and stored at -80C until use. We have been using protein from PNA Bio Inc. (CP01-200 200 µg, that comes in four 50 µg aliquots). It arrives lyophilized along with HEPES, KCl and sucrose so that adding 50 µl of water to one of these aliquots reconstitutes the buffer at 1x and the Cas9 at 1 mg/ml. Because we also sometimes co-inject guide RNAs with plasmid knock-in constructs, we have adopted reconstituting in 50 µl of 1 mM DTT instead of pure water, to help prevent needle clogging. 1 µl aliquots are frozen at -80C. For knock-in experiments, Cas9 protein should be preferred over Cas9 mRNA, as it is believed maternal homologous recombination machinery has a short window of opportunity, during the one-cell stage (in other words, a delay due to Cas9 mRNA needing to be translated can be avoided). 
+:::
+
+
+## Materials
+
+-   Injection rig
+-   Needle puller
+-   
+-   xxx
+
+## Solutions
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx
+
+## Procedure
+
+ 
+- **Generation of Cas9 mRNA (if not using Cas9 protein)** 
+
+::: {.callout-note title="Note"}
+There are different plasmids available that can be used to transcribe the Cas9 RNA. The one described in the Jao et al. publication works well. It is available from addgene: Plasmid 46757: pT3TS-nCas9n. Cas9 mRNA can be made by following the protocol outlined in their paper. The plasmid is linearized with XbaI and used as a template after the reaction is purified. mRNA is then synthesized with the T3 mMESSAGE kit (Invitrogen) and cleaned with column purification. 
+
+Note: we should have aliquots frozen in strip tubes in the -80C, so it is likely you will not need to make this yourself. 
+:::
+
+    1.	Grow 5ml of bacterial culture containing the pT3TS-nCas9n plasmid (stock located in -80° freezer box “CRISPR Reagents” in ampicillin overnight at 37°.  
+    
+    2.	Extract plasmid DNA with the QIAprep Spin Miniprep Kit following manufacturer’s instructions. Measure concentration with the Qubit. 
+    
+    3.	Linearize ~ 10 µg of plasmid with XbaI: 
+                    43 µl of plasmid DNA and water 
+                    5 µl NEB 10x buffer 
+                    2 µl XbaI 
+                              
+                    Incubate overnight at 37C 
+
+    4. Clean the restriction reaction with Zymogen DNA Clean and Concentrator 5. At this point you can check the concentration with the Qubit and confirm complete linearization by running a small amount on a 1% agarose gel. There should be a single band at around 7 kb (7,330 bp). 
+    
+    5. Make capped Cas9 mRNA with the mMESSAGE mMACHINE® T3 Transcription Kit following manufacturer’s instructions. Use about 1 µg of linearized plasmid DNA.  Note: unlike the original CRISPR/Cas9 zebrafish paper, the mRNA is not poly-adenylated with a separate step. Let the reaction go for 2 hours at 37° followed by the 15 minute optional DNAse step. 
+    
+    6. Clean the reaction with Zymogen RNA Clean and Concentrator 25 and elute in 15-20 µl of nuclease free water. Check the size with 1µl on an agarose gel and measure the concentration with the nanodrop or with Qubit Broad Range RNA kit. 
+    
+    7. Based on the measured concentration, dilute the remaining product to 200 ng/µl and store 3-4 µl aliquots at -80°C in the box labeled CRISPR reagents.  
+
+ 
+
+**Identify Target Sequence** 
+
+::: {.callout-note title="Note"}
+The CRISPR/Cas9 system uses the injection of a guide RNA (gRNA) in conjunction with Cas9 mRNA to create double-strand DNA breaks. Repair of these dsDNA breaks with non-homologous end joining can result in indel mutations or larger deletions spanning two simultaneously targeted sites. The recognition sequence is specified by the gRNA and can be any 20 base pairs that are upstream from NGG. Efficient transcription using a T7 promoter requires the transcript start with GG. This limits the possible recognition sites to GG-(N)18-NGG. This can be relaxed to G-(N)19-NGG if necessary and transcription of these are usually not problematic. The orientation of the target sequence relative to a target gene is not important so sense and anti-sense strands can be searched. Please note that the NGG at the end of the recognition sequence is not considered part of the target site and will not be incorporated into the transcribed gRNA.  
+
+Online tools for designing CRISPR targets come and go. Their criteria for scoring prospective targets differ and the different platforms will often identify non-overlapping sets of targets, or they may rank the same sites very differently. Some tools are able to take into account potential off-target sites in the stickleback genome.  
+
+ These two sites support many species including stickleback (i.e., includes a search of off-target sites). CCtop: https://cctop.cos.uni-heidelberg.de/species.html and ChopChop: http://chopchop.cbu.uib.no 
+
+CrisprScan currently supports zebrafish, medaka and killifish but not stickleback, however its algorithm is based on significant empirical testing and appears to perform well: https://www.crisprscan.org/sequence/ 
+:::
+
+
+    1. To use these tools, paste in a DNA sequence that you want to search for potential target sites (e.g., an early exon or flanking region).   
+    
+    2. Select the T7 promoter to identify target sequences starting with GG. Select the stickleback genome (this is used to check for off-target regions), or in CrisprScan select “No search” (because otherwise the default is zebrafish). 
+    
+    Tools like CrisprScan will also select targets that might start with GN or NG, in which case it will suggest changing the N to a G. This mismatch will be OK for targeting, and will allow better guide synthesis using T7 RNA polymerase. When generating annotations of your chosen targets in your reference sequence file of the genomic region, it is helpful to designate the orientation of the annotated target (either + or -). 
+    
+    3. Using target sequences with multiple alignments to the genome or close matches may result in unwanted off-target effects. Use BLAT at https://genome.ucsc.edu/cgi-bin/hgBlat to compare your selected 20 base pair target sequence/s to the stickleback genome to confirm it matches only a single time and BLAT to the human genome to check that there are no matches (relevant to biosafety concerns). If the design tool recommended changing one of the start nucleotides to a G, BLAT the sequence that includes that change in addition to the original genomic target sequence.  
+    
+    4. If you are using an Oregon stickleback source population, you can and should blast and compare the region of interest against an Oregon reference genome (like Cushman Slough) to confirm there are no polymorphisms in the targets you have selected, as these can reduce obliterate their efficacy. Alternatively, you could amplify the region of interest in the line /source population you are using and Sanger sequence it to ensure your designed target is identical. 
+
+
+::: {.callout-note title="Important Consideration"}
+Important consideration: even when single guide RNAs work well, a functional protein might still be produced. For example, if an indel generated is a multiple of 3 bp, it could delete or add a small number of codons (and therefore amino acids) while not disrupting the reading frame for the rest of the coding region. Such mutations might not abolish or possibly even affect the function of the protein. In order to help circumvent this and also to make it easier to screen indels by size on an electrophoresis gel, design a pair of target sequences that can be injected at the same time to create a larger deletion. Successfully deleted alleles will be easily resolved when PCR products flanking the region are run on a gel. On the other hand, indels produced by a single gRNA might not be discernable from wild type on a gel. Indels will be created around the site of the double-strand break, which will occur three base pairs before the NGG; so, if only a single guide will be used for some reason, you can try to design a single target sequence that would disrupt a restriction enzyme recognition sequence when an indel is created in the expected location. In that case, screening is a two-step process: amplify a fragment around the predicted indel, then try to digest the fragment with the restriction enzyme. Wildtype fragments will be cut, fragments with the indel will not be cut. And, if you’ve designed the positions of your primers well, you can resolve all three fragment sizes on a gel. Alternatively, PCR products can be Sanger sequenced – an expensive way to screen large numbers of prospective CRISPR mutants. 
+:::
+
+**Create gRNA DNA template** 
+
+::: {.callout-note title="Notes"}
+There are multiple methods described for producing gRNA templates. The standard method described in initial publications involves annealing two small oligos and ligating them into a cut vector which is then cloned. I prefer a simpler method which is adapted from one published in Cell Reports (Bassett et al., 2013). It involves using two long oligos in a template-free PCR reaction. The two oligos will partially anneal to each other and the polymerase will fill in the rest yielding a short double-stranded template with a T7 recognition site. One oligo is generic in that it is used in every template production reaction. The other is sequence specific to the target sequence. It should provide essentially the same template as if you were to use the cloning method described in Jao et al., 2013 with the addgene plasmid 46759: pT7-gRNA (the last few nucleotides on the 3 prime end may be different, but these do not seem to matter). This is then used as a template for in vitro transcription. Once the base components are obtained, the only additional thing that needs to be ordered for new targets is the gene specific oligo.  
+:::
+
+    1. Obtain gRNA scaffold oligo (PAGE purified). IDT provides this service for their Ultramer DNA Oligos. A single order should provide enough for at least 100 template synthesis reactions.  
+
+::: {.callout-note title="Notes"}
+We have a lab stock of this oligo and you should not need to order it.  
+:::
+
+5`-gatccgcaccgactcggtgccactttttcaagttgataacggactagccttattttaacttgctatttctagctctaaaac-3` 
+
+ 
+
+    2. Order gene-specific oligo. In our hands, this oligo does not need to be PAGE purified. The sequence should be [T7 promoter]-[Target Sequence]-[start of gRNA sequence]. Note: CrisprScan provides a version of this sequence, though it is shorter by a few nucleotides at either end – it probably also works, but the Cresko lab uses the slightly extended sequence below. 
+
+5`- aattaatacgactcactata-[20 nt Target Sequence]-gttttagagctagaaatagc-3` 
+
+::: {.callout-note title="Notes"}
+Note: do not include the NGG (the PAM sequence). 
+
+Note: if your target is on the minus strand, make sure to reverse complement the target sequence before plugging into this sequence above. In other words, the end facing the NGG should be to the right. 
+
+Note: If you haven’t selected a target that already starts with GG, the design software will probably have suggested that targets starting with NG or GN should be changed to GG. Don’t forget to include this suggested change, supporting better T7 transcription.  
+:::
+
+    3. Perform PCR. The two oligos serves both as primers and template. Phusion polymerase is recommended but other polymerases should work as well. 
+    
+            - 4µl 5x Buffer 
+            - 0.4µl dNTPs (10 mM) 
+            - 1 µl of gene specific oligo (10 µM) 
+            - 1 µl of gRNA scaffold oligo (10 µM) 
+            - 0.2 µl Phusion 
+            - 13.4 µl Water 
+            
+             98° 30 seconds 
+             
+             40 cycles of:  
+             98° 10 seconds 
+             60° 10 seconds 
+             72° 15 seconds 
+             72° 10 mins 
+    
+     
+    
+    4. Clean the PCR reaction with column-based method (e.g., Zymo DNA Clean and Concentrator kit) or at least 2.5x volume of Omega beads (SB). At this point, the concentration can be checked and the product can be analyzed on a gel. It should be a single 125 bp band. [Susie adds: With Zymo columns, eluting in 20 µl, this reaction yields about 25 ng/µl. For short templates, the Megascript kit recommends using 100-200 ng per reaction. So for a half reaction, you would use 2-4 µl of the PCR product]. 
+    
+    5. Use as template for in vitro transcription with either, MAXIscript® T7 Kit or MEGAscript® T7 Kit, both by Invitrogen. Perform the optional DNAse step and clean with column based method. Both kits should produce enough RNA. However, the MEGAscript T7 Kit will produce much more. I prefer using 4 µl of the template in a half reaction of the MEGAscript T7 Kit. The reaction can be extended for several hours or overnight to increase yield if necessary. After column based purification, it usually provides around 1 µg/µl in a 25µl elution but this can be quite variable. The RNA can be checked on a gel, but the results can be difficult to interpret due to heavy secondary structure. It usually looks like one or two bands around 100 and 200 bp. 
+    
+     
+
+**Inject Cas9 mRNA and gRNA into one-celled embryos**
+
+
+::: {.callout-note title="Notes"}
+Embryos should be injected at the one cell stage according to standard protocols. Briefly, as soon as feasible, separate and clean fertilized embryos and, in filter sterilized embryo medium, load them into the grooves milled into a plastic insert fitting in a square plastic dish. They need to be held securely but do not necessarily have to be pushed to the bottom of the groove. Eggs from different clutches can differ in diameter; choose the width of the milled groove and depth of embryos within the groove to hold them without applying too much compression. The blastomere should be oriented up or slightly tilted toward the direction of the injection needle. A high concentration of Cas9 mRNA (2nl of 300 ng/µl as suggested in early papers) can cause mortality (reported by JHP lab). Lower concentrations (100 ng/µl or lower) seem to be just as effective and cause less developmental defects and death. The gRNA concentration does not seem to matter as much (reported concentrations range greatly, from 1 ng/µl to almost 100 ng/µl). Higher concentrations of gRNA do not seem to cause any additional defects or mortality. I recommend starting at 100 ng/µl Cas9 with 50 ng/µl gRNA. If mutagenesis is not detected with these concentrations than check the RNA prep or consider that there may be a problem with the target location. Some target sites do not work as well as others. Additionally, it is useful to sequence the target region in the fish being used for injections to confirm that the reference genome sequence is accurate. If mutagenesis rates are successful, then the injection concentrations can be changed based on mortality/deformity percentages and mutation efficiency. The gRNA concentration can likely be lowered significantly without affecting efficiency. Checking potential off-targets is advised as well and might influence the ideal injection concentrations. If a positive control is desired, the fh (second target site) gRNA described in Hwang et al. works at a high level of efficiency. 
+::: 
+
+**Inject embryos**
+
+ 
+*If using Cas9 mRNA* 
+
+    1. On ice, prepare injection mixture in water with 1/10 volume phenol red*: 
+      
+      100 ng/µl Cas9 mRNA (range 50 to 100 ng/µl) 
+      50 ng/µl gRNA (use 50 ng/µl of each gRNA if targeting multiple sites) 
+
+
+**If using Cas9 protein** 
+
+    2. To preload protein, mix in these final concentrations (according the PNA Bio recommendations for zebrafish**): 
+      
+      500 ng/µl Cas9 protein (range: about 200-800 ng/µl) 
+      250 ng/µl gRNA (range: about 100-400 ng/µl) 
+      Incubate for 5’ at 37C then put on ice. 
+      Add 1/10 volume phenol red* 
+
+ 
+::: {.callout-note title="Notes"}
+*Note: before thawing your other reagents, thaw and vortex the phenol red stock. Centrifuge the tube at max speed for 10 minutes to pellet any needle-clogging precipitate before adding some to your other injection reagents. 
+
+**Note: the reason for these ranges is that different targets work with different efficiencies. Also, you might be constrained in final concentrations if, for example, you want to use more than one guide in combination, as the volume of each reagent you add dilutes the constituents.  
+::: 
+
+    3. Inject into the cell at the one-cell stage (1-2 nl). 
+
+ 
+**Screen Embryos for Mutations**
+
+::: {.callout-note title="Notes"}
+Large deletions induced by using multiple gRNAs can be screened for with PCR. Mutagenesis in the form of induced indels can be detected with either the Restriction Fragment Length Polymorphism (RFLP) assay, or by Sanger sequencing of amplicons. The RFLP assay detects changes in a restriction enzyme recognition sequence. Sanger sequencing amplicons from injected embryos can detect mosaicism at the target site. Screening 48 hpf embryos that appear to be developmentally normally provides a good measure of whether or not mutations were induced and to what degree. Later stages that are developing abnormally and would not survive anyway can also be euthanized and screened. Uninjected siblings should always be used as negative controls.  
+ ::: 
+ 
+**Lysis-based DNA prep (this provides DNA that is not clean but accessible enough for PCR)**
+
+      1. Collect and euthanize embryos according to standard protocols (individuals or in groups of up to 5). If they are still in chorions, they should be crushed with a blue plastic pestle or chorions can be poked or crushed with sharp foreceps. 
+      
+      2. Remove water and lyse embryos with HotShot method (Meeker et al. 2007) 
+      
+      3. Add 100 µl of 50mM NaOH (50 µl for an individual embryo) 
+      
+      4. Heat at 95° for 20 mins 
+      
+      5. Chill on ice and neutralize with 10ul of 1 M Tris-HCl, pH 8.0 (5 µl for an individual embryo) 
+
+ 
+**RFLP Assay** 
+
+::: {.callout-note title="Notes"}
+This assay only works if there is a unique restriction enzyme recognition sequence located around the 3` end of the target sequence. If the recognition sequence is altered by successful mutagenesis, the restriction enzyme will no longer be able to cut the PCR product.  
+ :::  
+
+    1. Perform PCR (look to amplify a 300-600 bp amplicon surrounding expected mutation site), preferably with the indel location positioned off-center with respect to the expected amplicon so that two different fragment lengths will be produced after cutting 
+    
+    2. Run 2 µl of reaction on a gel to confirm a single band at the proper length 
+    
+    3. Clean the PCR reaction with preferred method and cut with the appropriate restriction enzyme. For many restriction enzymes, purification of the reaction is not necessary. 
+    
+    4. Run the reaction on a gel to determine if the restriction enzyme recognition site was altered. Results from uninjected embryos should show a completely digested product. Successful mutagenesis can be qualitatively estimated by looking at the intensity of the undigested PCR product. 
+
+
+**Sanger Sequencing** 
+
+
+    1. Perform PCR (look to amplify a 300-600 bp amplicon surrounding expected mutation site). Run some of the reaction on a gel to confirm a correct sized product was amplified. 
+    
+    2. Clean the rest of the reaction with preferred reaction clean-up method, elute in 50 µl, and send the reaction out for Sanger sequencing. The concentration can be measured at this point (although usually 1 µl is sufficient for Sanger sequencing).     
+    
+    3. Send the PCR products to Genewiz according to their recommendations. 
+    
+    4. Analyze results to estimate mutagenesis efficiency. It is not very useful to look at the actual sequence that is returned. It is much more informative to look at the trace file with the actual peaks. 
+    
+    5. Results from uninjected embryos should be very clean with a single peak at each nucleotide position. Occasionally there will be two peaks for one nucleotide when the individual carried a polymorphism. It is also recommended to confirm that the fish do not carry polymorphisms in the target sequence region as this could drastically lower or abolish mutagenesis efficiency. 
+    
+    6. Sequencing results from injected embryos should show nice clean peaks until near the target region where the quality should dramatically drop off (see attached trace image). 
+    
+    7. There are online tools (e.g., https://tide.nki.nl/#about) to try to algorithmically disentangle the alleles present and their predicted frequencies in the mosaic fish from this kind of  sequence trace file (also called a chromatogram). 
+
+ 
+
+ ~~Insert image if sequence here~~
+
+- Sequence from successful mutagenesis attempt 
+
+ 
+**F1 Screening** 
+
+::: {.callout-note title="Notes"}
+The goal of using CRISPR/Cas9 is to obtain a stable mutant line. Injected fish should be considered potential mosaic carriers of mutations at the target region. Some cells will contain the unmutated wild-type sequence while other cells will carry mutations. Also to be noted is that different cells will contain different mutations. By outcrossing potential carriers, stable heterozygous mutant carriers can be obtained and identified. 
+
+The process of obtaining F1 carriers can be split into a few steps. Below lists the key steps followed by a brief explanation of options and thoughts on how to minimize the time to obtain mutants, cost of screening, number of tanks used and effort required.
+ ::: 
+ 
+    1. Outcross injected fish to wildtype background. 
+    
+    2. Screen outcrossed clutches to estimate efficiency of mutation inheritance.  
+    
+    3. Raise clutch that has decent inheritance efficiency. 
+    
+    4. Fin clip potential F1 carriers and identify carriers. 
+    
+    5. Sequence mutation carriers to determine exact molecular nature of mutation. 
+    
+    6. Select fish who carry a desirable mutation. 
+
+ 
+::: {.callout-note title="Notes"}
+1. Usually, 25 injected fish are put into the fry rack and raised to adulthood. Sometimes the injections cause developmental delays or issues that impact initial survival. In these cases, more than 25 fish can be put into the nursery. However, there isn’t a significant advantage raising more than 1 tank of injected fish. Injected fish should carry mutations at reasonable rates. If 25 fish are screened and none of them pass on a mutation the problem is better resolved by re-injecting at a higher concentration or using a different target site. When the fish reach a breedable age, 3 or 4 fish should be pairwise mated with wildtype stocks. These clutches should be kept separate so inheritance efficiency can be measured. 
+
+2. Out-crossed fish will be raised to adulthood before they are IDd and the exact molecular nature of the mutation is determined. This takes several months and takes up tank space. Screening clutches to estimate inheritance efficiency is recommended to avoid 2 things: 1)  the need to raise several tanks of different clutches to insure that a mutant carrier is obtained 2) wasting several months waiting for fish to grow to find out that none of them carry a mutation. 
+
+3. Raise 25 fish from 1 or 2 clutches of F1 fish to adulthood. These should be selected based on the initial clutch screening. The F0 fish should be maintained until a stable line is obtained. Inheritance efficiency of individual clutches can be estimated by testing siblings by PCR (to detect a large deletion or via RFLP if there is an appropriate restriction enzyme site. Fish that are not carriers of mutations will give a PCR product that is completely digested by the restriction enzyme while those that carry a mutation will show a prominent undigested band.  
+
+5. Sanger sequencing of amplicons from carriers is used to determine the exact nature of the mutation. This is important for several reasons 1) not all mutations are predicted to cause a loss-of-function (it is important that the mutation causes a frame-shift or early termination codon) 2) knowing the exact nature of the mutation is important for developing a genotyping protocol and reporting results. There are a few options for how to do this. The PCR product from identified carriers can be cloned and then sequenced. This gives an easy to read result but is slightly costly and time consuming. The other option is to directly sequence the PCR products without cloning. This is easier and more cost effective but requires some effort to determine the mutation.  
+
+Unlike the results of injected embryos which potentially carry many different alleles, the F1 carriers should be wildtype or should be heterozygous with one wildtype and one mutant allele if they are carriers. If the sequence is clean throughout (or the trace file shows only, e.g., a naturally occurring SNP), then the fish is not a carrier. If the sequence starts clean but then turns into a series of double and sometimes single peaks, then the fish is likely a carrier of an indel mutation. Since the WT sequence is known, the sequence of the mutation can be read by “subtracting” the WT peaks (if at a given nucleotide position the WT sequence is expected to be A and there is a peak for A and T, then the mutant allele has a T at that position – if there is a single peak, then both the mutant and WT sequence has the same nucleotide at that position). See picture. Again, there are online tools to disentangle the WT and mutant allele sequences (https://tide.nki.nl/#about).  
+
+
+ ~~insert image here~~
+
+6. It is likely that screening 1 or 2 clutches of F1 fish will produce multiple carriers of different mutations. At this point a decision must be made at which fish should be kept. It is advantageous to have multiple alleles of a mutation so that a phenotype can be confirmed. However, saving more than 2 alleles increases tank usage but doesn’t offer that much of an advantage. It is helpful when a male and a female carrier of the same allele are identified so that they can be bred to obtain a homozygous mutant without having to have an additional outcross generation. 
+:::
+ 
+
+## Associated Papers
+
+    - Efficient genome editing in zebrafish using a CRISPR-Cas system. (Hwang et al., 2013)
+    - Efficient multiplex biallelic zebrafish genome editing using a CRISPR nuclease system. (Jao et al., 2013). 
+    - crisPrscan: designing highly efficient sgrnAs for crisPr-cas9 targeting in vivo (Moreno-Mateos et al., 2015). 
+    - Maximizing mutagenesis with solubilized Crispr-Cas9 ribonucleoprotein complexes (Burger et al., 2017). 
+    - A simple and effective F0 knockout method for rapid screening of behavior and other complex phenotypes (Kroll et al., 2022). 

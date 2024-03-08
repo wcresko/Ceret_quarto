@@ -1,0 +1,68 @@
+# Recipe - Hank's solution {#sec-general_recipe_hanks}
+
+## Introduction
+
+-   **Purpose**: Recipe for Dietricj=h's fixative   
+-   **Procedure Type**: recipe
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Bay pipefish, (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Mark Currey
+-   **Date Created**: March 07, 2024
+
+
+
+## Solutions
+
+**Hank's (Final):**
+
+    9.9 ml Hank's Premix
+    0.1 ml Stock #6
+
+
+**Hank's Premix:** 
+
+      Combine the following in order:
+      10.0 ml Solution #1
+      1.0 ml Solution #2
+      1.0 ml Solution #4
+      86.0 ml ddH2O
+      1.0 ml Solution #5
+
+::: {.callout-Note title="NOTE"}
+Store Hank's Premix in the refrigerator along with the Hank's solutions.
+:::
+
+**Hank's Stock Solutions:**
+
+      **Stock #1**
+      8.0 g NaCl 
+      0.4 g KCl
+      in 100 ml dd H2O
+      
+      **Stock #2**
+      0.358 g Na2HPO4 Anhydrous 
+      0.60 g KH2PO4 
+      in 100 ml ddH2O
+      
+      **Stock #4**
+      0.72 g CaCl2 
+      in 50 ml ddH2O
+      
+      **Stock #5**
+      1.23 g MgSO4x7H2O 
+      in 50 ml dd H2O
+      
+      **Stock #6**
+      0.35 g NaHCO3
+      10.0 mls dd H2O
+
+
+
+## Associated Papers
+
+- xxx
+- xxx
+- xxx
+- xxx

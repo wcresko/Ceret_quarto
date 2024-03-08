@@ -1,0 +1,58 @@
+# Cleaning/concentrating DNA with magnetic beads {#sec-xxx-xxx}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to concentrate DNA or to clean DNA using magnetic beads. You might use this to elute the DNA from a larger volume to a smaller one, or to remove oligo DNA such as primers, remove very short fragments of DNA, remove salts and other soluble impurities, or to change the buffer type the DNA is dissolved in (e.g., TE, AE, or EB).
+-   **Procedure Type**: Molecular
+-   **Species**:
+-   **Author**: Susan Bassham
+-   **Date Created**: November 27, 2023
+-   **Date Updated**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+
+## Materials
+
+-   DNAse-free tubes, such as microcentrifuge tubes, PCR strip tubes, or plates
+-   Magnet (for 1.5 ml tubes, use Invitrogen DynaMag-Spin Magnetic Particle Concentrator; for PCR plate or strip tubes, use DynaMag-96 Slide magnet or Catalyst 96 Slotted Ring Magnet Plate)
+
+    ::: {.callout-important title="This is important"}
+    do not use magnets if you have a pacemaker. Do not use these powerful magnets near electronic devices like laptops or cell phones.
+    :::
+
+-   Pipettes
+-   Pipette tips
+
+## Solutions
+
+-   DNA in solution
+-   Omega Tech paramagnetic beads (we buy through GC3F, our sequencing Core facility)
+-   80% ethanol
+-   Elution buffer of choice for re-elution
+
+## Procedure
+
+1.  Determine the volume of beads you need to add based on starting volume of DNA.
+    a.  For genomic and higher molecular weight DNA, calculate 60% of the starting volume of DNA; this is the volume of beads that will be added to each tube (e.g., if the starting volume of DNA in buffer is 100 uL, then 60 uL of beads will be added to that sample in step 4). For purifying lower molecular weight DNA, you might need a higher proportion of beads. Consult the attached figure provided by UO GC3F or consult manufacturer's instructions (Omega Tech; Total Pure NGS beads).
+2.  Make up 80% ethanol solution.
+3.  Bring beads to **room temperature. Fully homogenize beads** via vortexing.
+4.  Add appropriate volume of homogenized room temperature beads calculated in step 1 to each DNA sample. Mix by aspiration using a pipette set at a volume at least double the volume of beads added to allow for adequate mixing.
+5.  Cover the plate or close the tubes and let samples incubate for 10 minutes at room temperature.
+6.  Put samples on magnet. Wait until mix clears and beads condense to the magnet.
+7.  Pull off supernatant, careful not to disturb the beads. Discard supernatant.
+8.  Wash the beads with **200 ul 80% ethanol two times (3 minutes/wash)**. During each wash, let the beads condense to the magnet before removing the supernatant. Dispersing the beads with each wash isn't necessary.
+9.  Discard the supernatant, trying to get as much as you can. You might want to first use a larger tip size and then switch to a smaller tip size to collect all of the ethanol.
+10. Allow the beads to dry for 5 minutes. If you weren't able to get all the visible liquid out after the second wash, you might have to go longer. You should not see any liquid after drying but do not let the beads dry completely (if they are starting to get lighter in color around the edges, that is long enough; if the middle of the bead pellet is turning light or if the pellet is starting to crack, that is too long for high molecular weight DNA, which has a harder time going back into solution after being dried).
+11. Remove plate or tubes from magnet and add desired volume of elution buffer of choice to each sample. Make sure there are no beads out of the solution. Pipet the buffer onto the beads to wash them down.
+12. Incubate at room temperature for 10 minutes.
+13. Put the samples back on the magnet and let the beads condense.
+14. **Transfer the supernatant with your DNA** to a fresh plate or tubes.
+
+![DNA Molecular Weight to Bead Proportion, UO GC3F](images/GC3F Bead Image for Molecular_Cleaning_Concentrating_DNA_with_Magnetic_Beads_SOP-02.png)
+
+## Associated Papers
+
+-   

@@ -1,0 +1,34 @@
+# Insert Screen of Clones {#sec-xxx-xxx}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to do a insert screen of clones using PCR.
+-   **Procedure Type**: xxx
+-   **Species**:
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Bay pipefish, (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+    -   Zebrafish, (*Danio rerio*)
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+1.  10 ul 2X Turbo
+2.  0.1 ul T7
+3.  0.1 ul M13R
+4.  0.1 ul Taq
+5.  7.7 ul npH20
+
+## Procedure
+
+-   94-5min
+-   94-1:15
+-   55-1:15
+-   72-2:30
+-   cycle 2 for 36x
+-   72-10min

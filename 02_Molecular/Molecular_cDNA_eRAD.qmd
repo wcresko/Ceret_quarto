@@ -1,0 +1,66 @@
+# cDNA for eRAD {#sec-xxx-xxx}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to synthesis cDNA for use with eRAD.
+-   **Procedure Type**: Molecular
+-   **Species**:
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+-   2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)\*
+-   0.8 µl 10 mM dNTP mix
+-   X µl up to 0.5 µg mRNA
+-   Water (if necessary)
+-   4 µl 5x First-Strand Buffer (Invitrogen)
+-   1 µl 0.1 mM DTT -- Invitrogen
+-   1 µl RNase inhibitor -- e.g., RNAseOUT (Invitrogen)
+-   1 µl Superscript III reverse transcriptase (200 u/µl -- Invitrogen)
+-   15 µl 10x Second-Strand Synthesis Reaction Buffer (B6117S, NEB)
+-   3 µl 10 mM dNTPs
+-   1 µl E. coli ligase (10 u/µl)
+-   4 µl E. coli DNA Polymerase I (10 u/µl)
+-   0.4 µl E. coli RNase H (5 u/µl)
+-   3.3 µl (10 u) T4 DNA polymerase (3 u/µl, NEB).
+-   10 µl 0.5 M EDTA
+-   Zymo DNA column
+
+## Procedure
+
+### First strand synthesis {#first-strand-synthesis .subhead}
+
+Combine:
+
+-   2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)\*
+-   0.8 µl 10 mM dNTP mix
+-   X µl up to 0.5 µg mRNA
+-   Water (if necessary) to bring total to 12 µl
+
+Heat to 65˚C for 5 min., then ice
+
+Collect contents at bottom of tube by brief centrifugation.
+
+Add:
+
+-   4 µl 5x First-Strand Buffer (Invitrogen)
+-   1 µl 0.1 mM DTT -- Invitrogen
+-   1 µl RNase inhibitor -- e.g., RNAseOUT (Invitrogen)
+-   1 µl Superscript III reverse transcriptase (200 u/µl -- Invitrogen)
+
+Mix by gentle aspiration
+
+-   25°C for 10 min.
+
+::: {.callout-warning title="NOTES"}
+Reaction can be scaled up to accommodate more starting RNA
+:::
+
+*Synthesis:* Incubate at 50°C for 50 min.
+
+*Inactivation:* 85°C for 5 min. Chill on ice, collect contents to bottom by short spin.

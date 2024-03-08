@@ -1,0 +1,39 @@
+# TBE/TAE Buffer 
+
+## Introduction
+
+-   **Purpose**: Recipe for diluting 10x TBE and 10x TAE to make buffers.
+-   **Procedure Type**: Recipe
+-   **Author**: Micah Woods
+-   **Date Created**: March 4, 2024
+
+## Solutions
+
+-   If making TBE buffer dilution:
+    -   10x TBE (located in the cabinet above the microwave; if none is available, obtain 2 liters of pre-made 10X TBE from Chem Stores)
+-   If making TAE buffer dilution:
+    -   10x TAE (located in the cabinet above the microwave; if none is available, obtain 2 liters of pre-made 10X TAE from Chem Stores)
+-   Nanopure water (located in the Nalgene at the sink on the north end of the laboratory; if Nalgene is empty, refill using the Phillips Laboratory nanopure water dispenser located in Pacific 317)
+
+## Materials
+
+-   Vessel for holding diluted TBE or TAE buffer appropriate to desired volume after dilution.
+
+    ::: {.callout-important title="NOTE"}
+    If attempting to make 0.5x TBE buffer, use the 20 liter Nalgene located at the sink at the south end of the laboratory.
+    :::
+
+## Procedure
+
+1.  If you are specifically seeking to make 0.5x TBE buffer, follow the below instructions. If you are seeking to make another concentration of TBE buffer or a dilution of TAE buffer, skip to step 2 of the procedure.
+    a.  Ensure that the 20 liter Nalgene is fully empty.
+    b.  Fill the Nalgene with 19 liters of nanopure water. The 19 liter mark is marked in Sharpie on the Nalgene.
+    c.  Fill the Nalgene with 1 liter of 10x TBE. The 20 liter mark is marked in Sharpie on the Nalgene.
+2.  Calculate the concentration of either TBE or TAE buffer you wish to make from the initial 10x concentration, depending on the desired final volume and concentration of buffer.
+3.  Pour the appropriate volume of 10x TBE or 10x TAE into your vessel, and then dispense the appropriate volume of nanopure water into the vessel to dilute the 10x TBE or 10x TAE buffer to your desired volume and concentration.
+
+## Associated Papers
+
+-   x
+-   x
+-   x
