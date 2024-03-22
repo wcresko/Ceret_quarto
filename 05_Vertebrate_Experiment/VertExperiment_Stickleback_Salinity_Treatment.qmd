@@ -1,4 +1,4 @@
-# Stickleback Salinity Treatment {#sec-vert_exp_salinity_exp_SB}
+# Stickleback Salinity Treatment {#sec-vert_exp-salinity_exp_SB}
 
 ## Introduction
 
@@ -8,7 +8,6 @@
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: xxx
 -   **Date Created**: xxx
-
 
 ## Materials
 
@@ -21,32 +20,28 @@
 -   MS-222 Euthanasia solution {#sec-husb-adutl_sb_euthanasia}
 
 ::: {.callout-notes title="NOTES"}
-Different concentrations of Instant Ocean will be used. 
+Different concentrations of Instant Ocean will be used.
 :::
 
 -   Instant Ocean saltwater mix at concentrations of:
-  -   2 ppt "Freshwater" environment (40g Instant Ocean/ 20L Nanopure H20)
-  -   15 ppt "Brackish" environment (300g Instant Ocean/ 20L Nanopure H20)
-  -   30 ppt "Ocean" environment (600g Instant Ocean/ 20L Nanopure H20)
-
+-   2 ppt "Freshwater" environment (40g Instant Ocean/ 20L Nanopure H20)
+-   15 ppt "Brackish" environment (300g Instant Ocean/ 20L Nanopure H20)
+-   30 ppt "Ocean" environment (600g Instant Ocean/ 20L Nanopure H20)
 
 ## Procedure
 
-1.	Follow stickleback crossing and rearing SOP {#sec-husbandry_stickleback_crossing} to generate 100-200 fertilized embryos.
-2.	Raise fish in incubator until hatching as in {#sec-vert_husbandry_incubator_use}. 
-3. 	At hatching move 20 larval fish to a 10.5 L static tank containing the appropriate salinity water as listed above.
-4.	On 9 dpf feed enough artemia so that it is consumed by the juveniles within 15-30 minutes.
-5.	Feed and change water every other day. Check on fish at least twice EVERY DAY, and use the care checklist to denote daily health check, feeding, and water change. Look for sick or stressed fish (low rate of opercular fluttering, bad color, floating upside down, etc.) 6.	Check water quality on two random tanks in each treatment once every two days before water has been changed. If ammonia and/or nitrite are detected then change water more frequently, check water quality daily, and denote this on checklist. Ideal ammonia and nitrite levels are 0 ppm. 
-7. At designated time of interest up to 40 days post-fertilization euthanize fish with MS222. 
-8.	Fix appropriately in liquid nitrogen, 4%PFA, or Bouin’s.
+1.  Follow stickleback crossing and rearing SOP {#sec-husbandry_stickleback_crossing} to generate 100-200 fertilized embryos.
+2.  Raise fish in incubator until hatching as in {#sec-vert_husbandry_incubator_use}.
+3.  At hatching move 20 larval fish to a 10.5 L static tank containing the appropriate salinity water as listed above.
+4.  On 9 dpf feed enough artemia so that it is consumed by the juveniles within 15-30 minutes.
+5.  Feed and change water every other day. Check on fish at least twice EVERY DAY, and use the care checklist to denote daily health check, feeding, and water change. Look for sick or stressed fish (low rate of opercular fluttering, bad color, floating upside down, etc.) 6. Check water quality on two random tanks in each treatment once every two days before water has been changed. If ammonia and/or nitrite are detected then change water more frequently, check water quality daily, and denote this on checklist. Ideal ammonia and nitrite levels are 0 ppm.
+6.  At designated time of interest up to 40 days post-fertilization euthanize fish with MS222.
+7.  Fix appropriately in liquid nitrogen, 4%PFA, or Bouin’s.
 
 ::: {.callout-notes title="Anesthesia, N2 freezing, and fixation in RNAlater"}
 1.  Anesthetize using above concentration of MS-222 and allow fish to lay motionless with only slight opercle movement. This should take approximatley 10 minutes.
 2.  Place fish in liquid N2 for 2 minutes. This instantaneously freezes the fish.
 3.  Thaw into RNAlater-ICE.
 
-Note: If downstream application requires instantaneous, non stressed measurement of gene transcription, remove fish from water, rapidly blot, and sacrifice directly into liquid nitrogen or RNAlater.  
+Note: If downstream application requires instantaneous, non stressed measurement of gene transcription, remove fish from water, rapidly blot, and sacrifice directly into liquid nitrogen or RNAlater.
 :::
-
-
-

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.22)  1 MAR 2024 16:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.22)  22 MAR 2024 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -343,86 +343,114 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/x11nam.def
 File: x11nam.def 2022/06/12 v2.14 Predefined colors according to Unix/X11 (UK)
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-02-18 v3.0 Permit use of UTF-8 characters in soul (HO)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-02-18 v3.0 letterspacing/underlining (mf)
+\SOUL@word=\toks24
+\SOUL@lasttoken=\toks25
+\SOUL@syllable=\toks26
+\SOUL@cmds=\toks27
+\SOUL@buffer=\toks28
+\SOUL@token=\toks29
+\SOUL@syllgoal=\dimen154
+\SOUL@syllwidth=\dimen155
+\SOUL@charkern=\dimen156
+\SOUL@hyphkern=\dimen157
+\SOUL@dimen=\dimen158
+\SOUL@dimeni=\dimen159
+\SOUL@minus=\count290
+\SOUL@comma=\count291
+\SOUL@apo=\count292
+\SOUL@grave=\count293
+\SOUL@spaceskip=\skip68
+\SOUL@ttwidth=\dimen160
+\SOUL@uldp=\dimen161
+\SOUL@ulht=\dimen162
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2023/01/19 4.5a verbatim text (tvz,hv)
-\FV@CodeLineNo=\count290
+\FV@CodeLineNo=\count294
 \FV@InFile=\read2
 \FV@TabBox=\box57
-\c@FancyVerbLine=\count291
-\FV@StepNumber=\count292
+\c@FancyVerbLine=\count295
+\FV@StepNumber=\count296
 \FV@OutFile=\write3
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip68
-\fb@frw=\dimen154
-\fb@frh=\dimen155
-\FrameRule=\dimen156
-\FrameSep=\dimen157
+\OuterFrameSep=\skip69
+\fb@frw=\dimen163
+\fb@frh=\dimen164
+\FrameRule=\dimen165
+\FrameSep=\dimen166
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip69
-\LTright=\skip70
-\LTpre=\skip71
-\LTpost=\skip72
-\LTchunksize=\count293
-\LTcapwidth=\dimen158
+\LTleft=\skip70
+\LTright=\skip71
+\LTpre=\skip72
+\LTpost=\skip73
+\LTchunksize=\count297
+\LTcapwidth=\dimen167
 \LT@head=\box58
 \LT@firsthead=\box59
 \LT@foot=\box60
 \LT@lastfoot=\box61
 \LT@gbox=\box62
-\LT@cols=\count294
-\LT@rows=\count295
-\c@LT@tables=\count296
-\c@LT@chunks=\count297
-\LT@p@ftn=\toks24
+\LT@cols=\count298
+\LT@rows=\count299
+\c@LT@tables=\count300
+\c@LT@chunks=\count301
+\LT@p@ftn=\toks30
 )
-Class scrreprt Info: longtable captions redefined on input line 98.
+Class scrreprt Info: longtable captions redefined on input line 99.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen159
-\lightrulewidth=\dimen160
-\cmidrulewidth=\dimen161
-\belowrulesep=\dimen162
-\belowbottomsep=\dimen163
-\aboverulesep=\dimen164
-\abovetopsep=\dimen165
-\cmidrulesep=\dimen166
-\cmidrulekern=\dimen167
-\defaultaddspace=\dimen168
-\@cmidla=\count298
-\@cmidlb=\count299
-\@aboverulesep=\dimen169
-\@belowrulesep=\dimen170
-\@thisruleclass=\count300
-\@lastruleclass=\count301
-\@thisrulewidth=\dimen171
+\heavyrulewidth=\dimen168
+\lightrulewidth=\dimen169
+\cmidrulewidth=\dimen170
+\belowrulesep=\dimen171
+\belowbottomsep=\dimen172
+\aboverulesep=\dimen173
+\abovetopsep=\dimen174
+\cmidrulesep=\dimen175
+\cmidrulekern=\dimen176
+\defaultaddspace=\dimen177
+\@cmidla=\count302
+\@cmidlb=\count303
+\@aboverulesep=\dimen178
+\@belowrulesep=\dimen179
+\@thisruleclass=\count304
+\@lastruleclass=\count305
+\@thisrulewidth=\dimen180
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen172
+\col@sep=\dimen181
 \ar@mcellbox=\box63
-\extrarowheight=\dimen173
-\NC@list=\toks25
-\extratabsurround=\skip73
-\backup@length=\skip74
+\extrarowheight=\dimen182
+\NC@list=\toks31
+\extratabsurround=\skip74
+\backup@length=\skip75
 \ar@cellbox=\box64
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count302
-\calc@Bcount=\count303
-\calc@Adimen=\dimen174
-\calc@Bdimen=\dimen175
-\calc@Askip=\skip75
-\calc@Bskip=\skip76
+\calc@Acount=\count306
+\calc@Bcount=\count307
+\calc@Adimen=\dimen183
+\calc@Bdimen=\dimen184
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count304
-\calc@Cskip=\skip77
+\calc@Ccount=\count308
+\calc@Cskip=\skip78
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/footnotehyper/footnotehyper.sty
 Package: footnotehyper 2021/08/13 v1.1e hyperref aware footnote.sty (JFB)
 \FNH@notes=\box65
-\FNH@width=\dimen176
-\FNH@toks=\toks26
+\FNH@width=\dimen185
+\FNH@toks=\toks32
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
@@ -434,12 +462,12 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
 )
-\Gin@req@height=\dimen177
-\Gin@req@width=\dimen178
+\Gin@req@height=\dimen186
+\Gin@req@width=\dimen187
 )
-\cslhangindent=\skip78
-\csllabelwidth=\skip79
-\cslentryspacingunit=\skip80
+\cslhangindent=\skip79
+\csllabelwidth=\skip80
+\cslentryspacingunit=\skip81
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
@@ -453,9 +481,9 @@ Package: tcolorbox 2023/02/12 version 6.0.1 text color boxes
 l/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen179
-\pgfutil@tempdimb=\dimen180
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen188
+\pgfutil@tempdimb=\dimen189
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box66
@@ -469,33 +497,33 @@ local/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
 tered.code.tex
-\pgfkeys@tmptoks=\toks30
+\pgfkeys@tmptoks=\toks36
 ))
-\pgf@x=\dimen181
-\pgf@y=\dimen182
-\pgf@xa=\dimen183
-\pgf@ya=\dimen184
-\pgf@xb=\dimen185
-\pgf@yb=\dimen186
-\pgf@xc=\dimen187
-\pgf@yc=\dimen188
-\pgf@xd=\dimen189
-\pgf@yd=\dimen190
+\pgf@x=\dimen190
+\pgf@y=\dimen191
+\pgf@xa=\dimen192
+\pgf@ya=\dimen193
+\pgf@xb=\dimen194
+\pgf@yb=\dimen195
+\pgf@xc=\dimen196
+\pgf@yc=\dimen197
+\pgf@xd=\dimen198
+\pgf@yd=\dimen199
 \w@pgf@writea=\write5
 \r@pgf@reada=\read3
-\c@pgf@counta=\count305
-\c@pgf@countb=\count306
-\c@pgf@countc=\count307
-\c@pgf@countd=\count308
-\t@pgf@toka=\toks31
-\t@pgf@tokb=\toks32
-\t@pgf@tokc=\toks33
-\pgf@sys@id@count=\count309
+\c@pgf@counta=\count309
+\c@pgf@countb=\count310
+\c@pgf@countc=\count311
+\c@pgf@countd=\count312
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count313
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -513,13 +541,13 @@ File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
 df.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )
-\pgfsys@objnum=\count310
+\pgfsys@objnum=\count314
 )))
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count311
-\pgfsyssoftpath@bigbuffer@items=\count312
+\pgfsyssoftpath@smallbuffer@items=\count315
+\pgfsyssoftpath@bigbuffer@items=\count316
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -530,12 +558,12 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr
 /local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen191
-\pgfmath@count=\count313
+\pgfmath@dimen=\dimen256
+\pgfmath@count=\count317
 \pgfmath@box=\box67
-\pgfmath@toks=\toks34
-\pgfmath@stack@operand=\toks35
-\pgfmath@stack@operation=\toks36
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex)
@@ -557,37 +585,37 @@ code.tex)
 erarithmetics.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/mat
 h/pgfmathcalc.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/mat
 h/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count314
+\c@pgfmathroundto@lastzeros=\count318
 )) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen192
-\pgf@picmaxx=\dimen193
-\pgf@picminy=\dimen194
-\pgf@picmaxy=\dimen195
-\pgf@pathminx=\dimen196
-\pgf@pathmaxx=\dimen197
-\pgf@pathminy=\dimen198
-\pgf@pathmaxy=\dimen199
-\pgf@xx=\dimen256
-\pgf@xy=\dimen257
-\pgf@yx=\dimen258
-\pgf@yy=\dimen259
-\pgf@zx=\dimen260
-\pgf@zy=\dimen261
+\pgf@picminx=\dimen257
+\pgf@picmaxx=\dimen258
+\pgf@picminy=\dimen259
+\pgf@picmaxy=\dimen260
+\pgf@pathminx=\dimen261
+\pgf@pathmaxx=\dimen262
+\pgf@pathminy=\dimen263
+\pgf@pathmaxy=\dimen264
+\pgf@xx=\dimen265
+\pgf@xy=\dimen266
+\pgf@yx=\dimen267
+\pgf@yy=\dimen268
+\pgf@zx=\dimen269
+\pgf@zy=\dimen270
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen262
-\pgf@path@lasty=\dimen263
+\pgf@path@lastx=\dimen271
+\pgf@path@lasty=\dimen272
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen264
-\pgf@shorten@start@additional=\dimen265
+\pgf@shorten@end@additional=\dimen273
+\pgf@shorten@start@additional=\dimen274
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -595,19 +623,19 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box68
 \pgf@hbox=\box69
 \pgf@layerbox@main=\box70
-\pgf@picture@serial@count=\count315
+\pgf@picture@serial@count=\count319
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen266
+\pgflinewidth=\dimen275
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen267
-\pgf@pt@y=\dimen268
-\pgf@pt@temp=\dimen269
+\pgf@pt@x=\dimen276
+\pgf@pt@y=\dimen277
+\pgf@pt@temp=\dimen278
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -624,14 +652,14 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen270
+\pgfarrowsep=\dimen279
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen271
-\pgf@sys@shading@range@num=\count316
-\pgf@shadingcount=\count317
+\pgf@max=\dimen280
+\pgf@sys@shading@range@num=\count320
+\pgf@shadingcount=\count321
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -670,16 +698,16 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen272
-\pgf@nodesepend=\dimen273
+\pgf@nodesepstart=\dimen281
+\pgf@nodesepend=\dimen282
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks37
-\verbatim@line=\toks38
+\every@verbatim=\toks43
+\verbatim@line=\toks44
 \verbatim@in@stream=\read4
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
@@ -690,9 +718,9 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@upperbox=\box74
 \tcb@lowerbox=\box75
 \tcb@phantombox=\box76
-\c@tcbbreakpart=\count318
-\c@tcblayer=\count319
-\c@tcolorbox@number=\count320
+\c@tcbbreakpart=\count322
+\c@tcblayer=\count323
+\c@tcolorbox@number=\count324
 \tcb@temp=\box77
 \tcb@temp=\box78
 \tcb@temp=\box79
@@ -707,10 +735,10 @@ xlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2
 dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2023/texmf-dis
 t/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen274
-\pgffor@skip=\dimen275
-\pgffor@stack=\toks39
-\pgffor@toks=\toks40
+\pgffor@iter=\dimen283
+\pgffor@skip=\dimen284
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
 ))
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -719,34 +747,34 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count321
-\pgfplotmarksize=\dimen276
+\pgf@plot@mark@count=\count325
+\pgfplotmarksize=\dimen285
 )
-\tikz@lastx=\dimen277
-\tikz@lasty=\dimen278
-\tikz@lastxsaved=\dimen279
-\tikz@lastysaved=\dimen280
-\tikz@lastmovetox=\dimen281
-\tikz@lastmovetoy=\dimen282
-\tikzleveldistance=\dimen283
-\tikzsiblingdistance=\dimen284
+\tikz@lastx=\dimen286
+\tikz@lasty=\dimen287
+\tikz@lastxsaved=\dimen288
+\tikz@lastysaved=\dimen289
+\tikz@lastmovetox=\dimen290
+\tikz@lastmovetoy=\dimen291
+\tikzleveldistance=\dimen292
+\tikzsiblingdistance=\dimen293
 \tikz@figbox=\box81
 \tikz@figbox@bg=\box82
 \tikz@tempbox=\box83
 \tikz@tempbox@bg=\box84
-\tikztreelevel=\count322
-\tikznumberofchildren=\count323
-\tikznumberofcurrentchild=\count324
-\tikz@fig@count=\count325
+\tikztreelevel=\count326
+\tikznumberofchildren=\count327
+\tikznumberofcurrentchild=\count328
+\tikz@fig@count=\count329
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count326
-\pgfmatrixcurrentcolumn=\count327
-\pgf@matrix@numberofcolumns=\count328
+\pgfmatrixcurrentrow=\count330
+\pgfmatrixcurrentcolumn=\count331
+\pgf@matrix@numberofcolumns=\count332
 )
-\tikz@expandcount=\count329
+\tikz@expandcount=\count333
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -770,8 +798,6 @@ Library (tcolorbox): 'tcbbreakable.code.tex' version '6.0.1'
 Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdfcol Info: Interface disabled because of missing PDF mode of pdfTeX.
 )
@@ -828,19 +854,17 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count330
+\c@section@level=\count334
 )
-\@linkdim=\dimen285
-\Hy@linkcounter=\count331
-\Hy@pagecounter=\count332
+\@linkdim=\dimen294
+\Hy@linkcounter=\count335
+\Hy@pagecounter=\count336
 (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count333
+\Hy@SavedSpaceFactor=\count337
 (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 )
@@ -852,22 +876,22 @@ Package hyperref Info: Plain pages OFF on input line 4192.
 Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count334
+\c@Hy@tempcnt=\count338
 (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen286
+\XeTeXLinkMargin=\dimen295
 (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count335
-\Field@Width=\dimen287
-\Fld@charsize=\dimen288
+\Fld@menulength=\count339
+\Field@Width=\dimen296
+\Fld@charsize=\dimen297
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -879,9 +903,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count336
-\c@Item=\count337
-\c@Hfootnote=\count338
+\Hy@abspage=\count340
+\c@Item=\count341
+\c@Hfootnote=\count342
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hxetex.def
@@ -891,10 +915,10 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \pdfm@box=\box89
-\c@Hy@AnnotLevel=\count339
-\HyField@AnnotCount=\count340
-\Fld@listcount=\count341
-\c@bookmark@seq@number=\count342
+\c@Hy@AnnotLevel=\count343
+\HyField@AnnotCount=\count344
+\Fld@listcount=\count345
+\c@bookmark@seq@number=\count346
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -909,105 +933,105 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip81
+\Hy@SectionHShift=\skip82
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
 File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
-\BKM@id=\count343
+\BKM@id=\count347
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
-\caption@tempdima=\dimen289
-\captionmargin=\dimen290
-\caption@leftmargin=\dimen291
-\caption@rightmargin=\dimen292
-\caption@width=\dimen293
-\caption@indent=\dimen294
-\caption@parindent=\dimen295
-\caption@hangindent=\dimen296
+\caption@tempdima=\dimen298
+\captionmargin=\dimen299
+\caption@leftmargin=\dimen300
+\caption@rightmargin=\dimen301
+\caption@width=\dimen302
+\caption@indent=\dimen303
+\caption@parindent=\dimen304
+\caption@hangindent=\dimen305
 Package caption Info: KOMA-Script document class detected.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption-koma.sto
 File: caption-koma.sto 2022/12/27 v2.0c Adaption of the caption package to the 
 KOMA-Script document classes (AR)
 ))
-\c@caption@flags=\count344
-\c@continuedfloat=\count345
+\c@caption@flags=\count348
+\c@continuedfloat=\count349
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: KOMA-Script scrextend package detected.
-\caption@addmargin@hsize=\dimen297
-\caption@addmargin@linewidth=\dimen298
+\caption@addmargin@hsize=\dimen306
+\caption@addmargin@linewidth=\dimen307
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count346
-\float@exts=\toks41
+\c@float@type=\count350
+\float@exts=\toks47
 \float@box=\box90
-\@float@everytoks=\toks42
+\@float@everytoks=\toks48
 \@floatcapt=\box91
 )
-\@float@every@codelisting=\toks43
-\c@codelisting=\count347
+\@float@every@codelisting=\toks49
+\c@codelisting=\count351
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 239.
-\c@subfigure=\count348
+\c@subfigure=\count352
 Package caption Info: New subtype `subtable' on input line 239.
-\c@subtable=\count349
+\c@subtable=\count353
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 231.
+Package hyperref Info: Option `colorlinks' set `true' on input line 232.
 No file index.aux.
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 237.
-LaTeX Font Info:    ... okay on input line 237.
-Package scrbase Info: activating english \abstractname on input line 237.
-Package scrbase Info: activating english \partname on input line 237.
-Package scrbase Info: activating english \chaptername on input line 237.
-Package scrbase Info: activating english \appendixname on input line 237.
-Package scrbase Info: activating english \figurename on input line 237.
-Package scrbase Info: activating english \tablename on input line 237.
-Package scrbase Info: activating english \contentsname on input line 237.
-Package scrbase Info: activating english \listfigurename on input line 237.
-Package scrbase Info: activating english \listtablename on input line 237.
-Package scrbase Info: activating english \bibname on input line 237.
-Package scrbase Info: activating english \indexname on input line 237.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+Package scrbase Info: activating english \abstractname on input line 238.
+Package scrbase Info: activating english \partname on input line 238.
+Package scrbase Info: activating english \chaptername on input line 238.
+Package scrbase Info: activating english \appendixname on input line 238.
+Package scrbase Info: activating english \figurename on input line 238.
+Package scrbase Info: activating english \tablename on input line 238.
+Package scrbase Info: activating english \contentsname on input line 238.
+Package scrbase Info: activating english \listfigurename on input line 238.
+Package scrbase Info: activating english \listtablename on input line 238.
+Package scrbase Info: activating english \bibname on input line 238.
+Package scrbase Info: activating english \indexname on input line 238.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 237.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 238.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 237.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 238.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 237.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 238.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 237.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 238.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 237.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 238.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 237.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 238.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 237.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 238.
 
 Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
@@ -1036,7 +1060,7 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 237.
+(Font)              scaled to size 10.95pt on input line 238.
 
 Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
@@ -1075,18 +1099,18 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 237.
+(Font)              scaled to size 10.95pt on input line 238.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 237.
+(Font)              `operators' in the math version `normal' on input line 238.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 237.
+ line 238.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 237.
+(Font)              `operators' in the math version `bold' on input line 238.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 237.
+t line 238.
 
 Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
@@ -1173,15 +1197,15 @@ t=math;language=dflt;"
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 237.
+(Font)              `symbols' in the math version `normal' on input line 238.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 237.
+t line 238.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 237.
+(Font)              `symbols' in the math version `bold' on input line 238.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 237.
+t line 238.
 
 Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
@@ -1251,22 +1275,22 @@ pt=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 2
-37.
+38.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 237.
+t line 238.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 237
+(Font)              `largesymbols' in the math version `bold' on input line 238
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 237.
-LaTeX Info: Redefining \microtypecontext on input line 237.
-Package microtype Info: Applying patch `item' on input line 237.
-Package microtype Info: Applying patch `toc' on input line 237.
-Package microtype Info: Applying patch `eqnum' on input line 237.
-Package microtype Info: Applying patch `footnote' on input line 237.
-Package microtype Info: Applying patch `verbatim' on input line 237.
+t line 238.
+LaTeX Info: Redefining \microtypecontext on input line 238.
+Package microtype Info: Applying patch `item' on input line 238.
+Package microtype Info: Applying patch `toc' on input line 238.
+Package microtype Info: Applying patch `eqnum' on input line 238.
+Package microtype Info: Applying patch `footnote' on input line 238.
+Package microtype Info: Applying patch `verbatim' on input line 238.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -1277,7 +1301,7 @@ Package microtype Info: No adjustment of kerning.
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-Package hyperref Info: Link coloring ON on input line 237.
+Package hyperref Info: Link coloring ON on input line 238.
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
@@ -1289,36 +1313,36 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 239.
+(Font)              scaled to size 14.4pt on input line 240.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 239.
+(Font)              scaled to size 10.0pt on input line 240.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 239.
+(Font)              scaled to size 7.0pt on input line 240.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-39.
+40.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 14.4013pt on input line 239.
+(Font)              scaled to size 14.4013pt on input line 240.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 239.
+(Font)              scaled to size 10.00092pt on input line 240.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 239.
+(Font)              scaled to size 7.00064pt on input line 240.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 239.
+(Font)              scaled to size 14.39845pt on input line 240.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 239.
+(Font)              scaled to size 9.99893pt on input line 240.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 239.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 239
+(Font)              scaled to size 6.99925pt on input line 240.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 240
 .
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 239
+LaTeX Font Info:    Trying to load font information for U+msb on input line 240
 .
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1330,7 +1354,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 ]
 Package tocbasic Info: character protrusion at toc deactivated on input line 24
-5.
+6.
 No file index.toc.
 \tf@toc=\write6
 \openout6 = `index.toc'.
@@ -1339,28 +1363,28 @@ No file index.toc.
 
 ]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 282.
+(Font)              scaled to size 7.665pt on input line 283.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 282.
+(Font)              scaled to size 5.475pt on input line 283.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 282.
+(Font)              scaled to size 10.95099pt on input line 283.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 282.
+(Font)              scaled to size 7.66568pt on input line 283.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 282.
+(Font)              scaled to size 5.4755pt on input line 283.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 282.
+(Font)              scaled to size 10.94882pt on input line 283.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 282.
+(Font)              scaled to size 7.66417pt on input line 283.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 282.
+(Font)              scaled to size 5.47441pt on input line 283.
 [3
 
 ]
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 284.
+(scrkbase)              on input line 285.
 [4
 
 ] [5]
@@ -1382,594 +1406,178 @@ Class scrreprt Warning: \float@addtolists detected!
 
 
 Package longtable Warning: Column widths have changed
-(longtable)                in table 1.1 on input line 302.
+(longtable)                in table 1.1 on input line 303.
 
 [6
 
 ]
+chapter 2.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
+File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonsta
+ndard glyph set (RS)
+) [7
+
+]
+Underfull \hbox (badness 1024) in paragraph at lines 376--379
+[]\TU/lmr/m/n/10.95 Organics (e.g. phenol/chloroform, Trizol, DNAzol, formaldeh
+yde, formamide,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--419
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 455--457
+
+ []
+
+[9]
+chapter 3.
+[10
+
+]
+chapter 4.
+[11
+
+] [12]
+chapter 5.
+[13
+
+]
+Underfull \hbox (badness 1742) in paragraph at lines 698--701
+[]\TU/lmr/m/n/10.95 Pick up: Every two weeks a lab assistant will assess if com
+mon collec-
+ []
+
+[14]
+chapter 6.
+
+Overfull \hbox (611.00974pt too wide) in paragraph at lines 799--799
+[]  \TU/lmtt/m/n/10.95 1.    Pour approximately 10-15 mL of 30% bleach solution
+ into each tube containing bacterial waste. (More bleach solution is acceptable
+ if there is a large amount of bacterial waste)[] 
+ []
+
+[15
+
+]
+Overfull \hbox (87.8736pt too wide) in paragraph at lines 800--800
+[]  \TU/lmtt/m/n/10.95 2.    Let the bleach solution sit for 3-5 hours, or unti
+l the solution becomes clear again.[] 
+ []
+
+
+Overfull \hbox (243.08981pt too wide) in paragraph at lines 801--801
+[]  \TU/lmtt/m/n/10.95 3.    Pour the bleach and bacterial waste into the large
+ carboy labeled ‘Bacterial Waste’ next to the North side sink.[] 
+ []
+
+
+Overfull \hbox (145.36108pt too wide) in paragraph at lines 802--802
+[]  \TU/lmtt/m/n/10.95 4.    Rinse the tubes with DI water and place them on th
+e shelving units below the kitchen water bath[] 
+ []
+
+[16]
+chapter 7.
+[17
+
+] [18]
+chapter 8.
+[19
+
+] [20]
+chapter 9.
+[21
+
+] [22]
+chapter 10.
+[23
+
+] [24]
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 304.
-[7
+(scrkbase)              on input line 1212.
+[25
 
-] [8]
-chapter 2.
-[9
+] [26]
+chapter 11.
+[27
 
-] (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
-File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonsta
-ndard glyph set (RS)
-) [10] [11]
-chapter 3.
-[12
+] [28] [29]
+chapter 12.
+[30
 
-] [13]
-chapter 4.
-[14
+] [31]
+chapter 13.
+[32
 
-] [15]
-chapter 5.
-[16
+] [33] [34]
+chapter 14.
+[35
 
-] [17]
-chapter 6.
-[18
+] [36] [37]
+chapter 15.
+[38
 
-] [19] [20]
-chapter 7.
-[21
+] [39]
+chapter 16.
+[40
 
-] [22] [23] [24] [25]
-Overfull \hbox (54.93602pt too wide) in paragraph at lines 1290--1292
+] [41]
+chapter 17.
+[42
+
+] [43] [44]
+chapter 18.
+[45
+
+] [46] [47] [48] [49] [50] [51] [52] [53] [54]
+Overfull \hbox (54.93602pt too wide) in paragraph at lines 2847--2849
 []\TU/lmr/m/n/10.95 Gel electrophoresis. Scitable by Nature Education. https://
 www.nature.com/scitable/definition/gel-
  []
 
 
-Overfull \hbox (161.4247pt too wide) in paragraph at lines 1290--1292
+Overfull \hbox (161.4247pt too wide) in paragraph at lines 2847--2849
 \TU/lmr/m/n/10.95 electrophoresis-286/#:~:text=Gel%20electrophoresis%20is%20a%2
 0laboratory,gel%20that%20contains%20small%20pores. 
  []
 
-[26]
-part III.
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 1294.
-[27
-
-] [28]
-chapter 8.
-[29
-
-]
-part IV.
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 1313.
-[30
-
-] [31]
-chapter 9.
-[32
-
-] [33]
-chapter 10.
-[34
-
-]
-Overfull \hbox (46.97537pt too wide) in paragraph at lines 1529--1533
-[]\TU/lmr/m/n/10.95 Place in 10% bleach solution for 15-30 minutes. Please see 
-{#sec-Plastic_Glassware_cleaning-
- []
-
-[35] [36]
-chapter 11.
-[37
-
-] [38] [39]
-chapter 12.
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-[40
-
-] [41] [42]
-chapter 13.
-[43
-
-] [44]
-chapter 14.
-[45
-
-]
-Overfull \hbox (51.61154pt too wide) in paragraph at lines 2172--2175
-[]\TU/lmr/m/n/10.95 Source: Pet Mountain, www.petmountain.com, That Pet Place: 
-http://www.thatpetplace.com 
- []
-
-[46] [47]
-chapter 15.
-[48
-
-] [49]
-chapter 16.
-[50
-
-] [51]
-chapter 17.
-[52
-
-] [53]
-chapter 18.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2693--2695
-
- []
-
-[54
-
-] [55]
+[55]
 chapter 19.
 [56
 
-] [57]
+] [57] [58]
 chapter 20.
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-[58
+[59
 
-] [59] [60]
+] [60]
 chapter 21.
-
-Overfull \hbox (1343.4287pt too wide) in paragraph at lines 3187--3187
-[]\TU/lmtt/m/n/10.95 Tricaine must be pharmaceutical-grade. We use tricaine pur
-chased from Pentair, manufactured by Western Chemical and FDA approved. Tricain
-e (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes 
-in a powdered form. Purchase the smallest amount possible because tricaine expi
-res quickly.[] 
- []
-
 [61
 
 ] [62]
-chapter 22.
 
-Overfull \hbox (1360.67494pt too wide) in paragraph at lines 3321--3321
-[]    \TU/lmtt/m/n/10.95 Tricaine must be pharmaceutical-grade. We use tricaine
- purchased from Pentair, manufactured by Western Chemical and FDA approved. Tri
-caine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) co
-mes in a powdered form. Purchase the smallest amount possible because tricaine 
-expires quickly[] 
- []
-
-
-Underfull \hbox (badness 1137) in paragraph at lines 3335--3336
-[]\TU/lmr/bx/n/10.95 Mesab Stock Solution (4g/L, From Zebrafish Book 4th editio
-n) (tris
- []
-
-[63
-
-]
-Overfull \hbox (26.96523pt too wide) in paragraph at lines 3394--3394
-[]\TU/lmtt/m/n/10.95 This step is necessary as a startle response is not obviou
-s in unhatched fish.[] 
- []
-
-[64] [65]
-chapter 23.
-[66
-
-]
-Underfull \hbox (badness 3803) in paragraph at lines 3555--3558
-[]\TU/lmr/m/n/10.95 Should the program ever need to be cancelled mid-cycle, pre
-ssing the
- []
-
-[67] [68]
-chapter 24.
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3652--3655
-
- []
-
-[69
-
-] [70]
-chapter 25.
-[71
-
-]
-Overfull \hbox (164.12936pt too wide) in paragraph at lines 3795--3803
-[]\TU/lmr/m/n/10.95 Embryos will develop at approximately 2.5 times zebrafish t
-ime [see http://zfin.org/zf_info/zfbook/stages/index.html],
- []
-
-[72]
-chapter 26.
-[73
-
-] [74] [75]
-chapter 27.
-[76
-
-] [77]
-chapter 28.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4097--4099
-
- []
-
-
-Overfull \hbox (1343.4287pt too wide) in paragraph at lines 4123--4123
-[]\TU/lmtt/m/n/10.95 Tricaine must be pharmaceutical-grade. We use tricaine pur
-chased from Pentair, manufactured by Western Chemical and FDA approved. Tricain
-e (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes 
-in a powdered form. Purchase the smallest amount possible because tricaine expi
-res quickly.[] 
- []
-
-
-Overfull \hbox (82.12485pt too wide) in paragraph at lines 4135--4135
-[]\TU/lmtt/m/n/10.95 -   Aliquot in 50ml tubes, label with MESAB Stock Solution
- 4g/L, and store in a -20 freezer.[] 
- []
-
-[78
-
-]
-Overfull \hbox (13.13986pt too wide) in paragraph at lines 4151--4151
-[]\TU/lmtt/m/n/10.95 1.  Place fish into 168 mg/l MS-222 solution and wait for 
-the fish to slow down.[] 
- []
-
-
-Overfull \hbox (386.80853pt too wide) in paragraph at lines 4152--4152
-[]\TU/lmtt/m/n/10.95 2.  Image or do other experiments quickly to minimize fish
- exposure to MS-222. Pay attention to opercular movement to be sure that fish i
-s alive.[] 
- []
-
-
-Overfull \hbox (139.61234pt too wide) in paragraph at lines 4153--4153
-[]\TU/lmtt/m/n/10.95 3.  Revive by placing in fish water and moving fish gently
- through the water to pass water over gills.[] 
- []
-
-[79]
-chapter 29.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4195--4197
-
- []
-
-[80
-
-] [81]
-chapter 30.
-[82
-
-] [83] [84] [85]
-chapter 31.
-[86
-
-] [87]
-chapter 32.
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-[88
-
-] [89]
-chapter 33.
-[90
-
-] [91]
-chapter 34.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4953--4955
-
- []
-
-
-Overfull \hbox (185.60231pt too wide) in paragraph at lines 4985--4985
-[]  \TU/lmtt/m/n/10.95 1.  Raise embryos according to standard crossing and rea
-ring protocols {#sec-husbandry_stickleback_crossing}[] 
- []
-
-
-Overfull \hbox (599.51224pt too wide) in paragraph at lines 4986--4986
-[]  \TU/lmtt/m/n/10.95 2.  At 48-60 hours post-fertilization (@ 20C - at this p
-oint most organogenesis is complete) remove embryo medium from petri dishes and
- rinse embryos once with fresh embryo medium.[] 
- []
-
-
-Overfull \hbox (674.24597pt too wide) in paragraph at lines 4987--4987
-[]  \TU/lmtt/m/n/10.95 3.  Fill petri dish with working stock solution of bleac
-h. Swirl and let sit for 1.5 min. Do not bleach embryos for longer as chorions 
-can thicken and it becomes difficult for embryos to hatch.[] 
- []
-
-
-Overfull \hbox (237.34106pt too wide) in paragraph at lines 4988--4988
-[]  \TU/lmtt/m/n/10.95 4.  Drain bleach solution from embryos, and wash them th
-ree times with fresh embryo medium. This is really important.[] 
- []
-
-
-Overfull \hbox (1967.71445pt too wide) in paragraph at lines 4989--4989
-[]  \TU/lmtt/m/n/10.95 5.  Replace embryo medium daily. If crosses are done in 
-the field, the embryos can be shipped from day 3 to day 6 post-fertilization. T
-o ship embryos, rinse once with embryo medium, place embryos into a 50ml conica
-l tube (~100 embryos/tube) and fill with fresh embryo medium. Place tubes in a 
-shipping container with wet ice. Separate the tubes from the ice with bubble-wr
-ap and newspapers. Ship the embryos overnight.[] 
- []
-
-
-Overfull \hbox (1105.40213pt too wide) in paragraph at lines 4990--4990
-[]  \TU/lmtt/m/n/10.95 6.  When the embryos arrive at the lab, rinse the outsid
-e of the containers well before moving into the lab. Allow them to equilibrate 
-to room temp (~20C). Place the embryos into petri dishes, rinse once, and add n
-ew embryo medium. Rear according to standard protocol.[] 
- []
-
-[92
-
-] [93]
-chapter 35.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5031--5033
-
- []
-
-[94
-
-]
-Overfull \hbox (122.36609pt too wide) in paragraph at lines 5084--5084
-[]\TU/lmtt/m/n/10.95 3.  If fish is to be used for experiments, proceed with fi
-xation or preparation for the experiment.[] 
- []
-
-
-Overfull \hbox (197.09982pt too wide) in paragraph at lines 5085--5085
-[]\TU/lmtt/m/n/10.95 4.  If the fish are to be disposed of, place embryo in 95%
- ETOH for 5 minutes and then into morgue for disposal.[] 
- []
-
-
-Overfull \hbox (76.3761pt too wide) in paragraph at lines 5102--5102
-[]\TU/lmtt/m/n/10.95 5.   If there is no response move to fixing for post morte
-m experiments or place in morgue.[] 
- []
-
-[95]
-chapter 36.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5142--5144
-
- []
-
-[96
-
-] [97]
-chapter 37.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5218--5220
-
- []
-
-[98
-
-] [99]
-chapter 38.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5294--5296
-
- []
-
-[100
-
-] [101] [102]
-chapter 39.
-[103
-
-] [104]
-chapter 40.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5648--5650
-
- []
-
-[105
-
-] [106]
-chapter 41.
-
-Overfull \hbox (1343.4287pt too wide) in paragraph at lines 5800--5800
-[]\TU/lmtt/m/n/10.95 Tricaine must be pharmaceutical-grade. We use tricaine pur
-chased from Pentair, manufactured by Western Chemical and FDA approved. Tricain
-e (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes 
-in a powdered form. Purchase the smallest amount possible because tricaine expi
-res quickly.[] 
- []
-
-
-Overfull \hbox (82.12485pt too wide) in paragraph at lines 5818--5818
-[]\TU/lmtt/m/n/10.95 -   Aliquot in 50ml tubes, label with MESAB Stock Solution
- 4g/L, and store in a -20 freezer.[] 
- []
-
-[107
-
-]
-Overfull \hbox (13.13986pt too wide) in paragraph at lines 5834--5834
-[]\TU/lmtt/m/n/10.95 1.  Place fish into 168 mg/l MS-222 solution and wait for 
-the fish to slow down.[] 
- []
-
-
-Overfull \hbox (386.80853pt too wide) in paragraph at lines 5835--5835
-[]\TU/lmtt/m/n/10.95 2.  Image or do other experiments quickly to minimize fish
- exposure to MS-222. Pay attention to opercular movement to be sure that fish i
-s alive.[] 
- []
-
-
-Overfull \hbox (139.61234pt too wide) in paragraph at lines 5836--5836
-[]\TU/lmtt/m/n/10.95 3.  Revive by placing in fish water and moving fish gently
- through the water to pass water over gills.[] 
- []
-
-[108]
-part V.
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 5854.
-[109
-
-] [110]
-chapter 42.
-LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <12> not available
-(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 5865
+LaTeX Warning: File `02_Molecular/images/GC3F Bead Image for Molecular_Cleaning
+_Concentrating_DNA_with_Magnetic_Beads_SOP-02.png' not found on input line 3307
 .
-[111
 
-] [112]
-chapter 43.
-[113
-
-] [114]
-chapter 44.
-
-Underfull \hbox (badness 10000) in paragraph at lines 6124--6126
-
- []
-
-[115
-
-] [116]
-chapter 45.
-[117
-
-] [118]
-chapter 46.
-[119
-
-] [120] [121]
-chapter 47.
-[122
-
-] [123] [124]
-chapter 48.
-[125
-
-] [126]
-chapter 49.
-[127
-
-]
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-[128]
-chapter 50.
-[129
-
-]
-chapter 51.
-LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <20.74> not available
-(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 6980
-.
-[130
-
-] [131] [132]
-chapter 52.
-[133
-
-] [134]
-chapter 53.
-
-Overfull \hbox (40.63536pt too wide) in paragraph at lines 7356--7359
-[]\TU/lmr/m/n/10.95 Use microinjector to draw 20% of cytoplasm from donor egg {
-#sec-vert_exp_embryo_injections}. 
- []
-
-
-Overfull \hbox (38.96217pt too wide) in paragraph at lines 7362--7365
-[]\TU/lmr/m/n/10.95 Rear animals until 10 days post fertilization, euthanize {#
-sec-vert_husb-euthanasia_syngnathid}
- []
-
-[135
-
-] [136]
-chapter 54.
-
-Underfull \hbox (badness 10000) in paragraph at lines 7405--7407
-
- []
-
-[137
-
-] [138]
-chapter 55.
-[139
-
-] [140] [141]
-chapter 56.
-[142
-
-] [143]
-chapter 57.
-[144
-
-] [145]
-chapter 58.
-
-Underfull \hbox (badness 10000) in paragraph at lines 8021--8023
-
- []
-
-[146
-
-] [147]
-chapter 59.
-[148
-
-] [149]
-chapter 60.
-[150
-
-] [151]
-chapter 61.
-[152
-
-] [153]
-chapter 62.
-
-LaTeX Warning: File `05_Vertebrate_Experiment/./images/sd_image1.png' not found
- on input line 8470.
-
-! Unable to load picture or PDF file '05_Vertebrate_Experiment/./images/sd_imag
-e1.png'.
+! Unable to load picture or PDF file '"02_Molecular/images/GC3F Bead Image for 
+Molecular_Cleaning_Concentrating_DNA_with_Magnetic_Beads_SOP-02.png"'.
 <to be read again> 
                    }
-l.8470 ...brate_Experiment/./images/sd_image1.png}
+l.3307 ...ting_DNA_with_Magnetic_Beads_SOP-02.png}
                                                    
 Here is how much of TeX's memory you used:
- 39820 strings out of 476683
- 813335 string characters out of 5804046
- 1868018 words of memory out of 5000000
- 59455 multiletter control sequences out of 15000+600000
- 518766 words of font info for 88 fonts, out of 8000000 for 9000
+ 39740 strings out of 476683
+ 817071 string characters out of 5804046
+ 1867018 words of memory out of 5000000
+ 59371 multiletter control sequences out of 15000+600000
+ 519063 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,9n,121p,10600b,1069s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,9n,121p,10600b,1115s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on index.pdf (153 pages).
+Output written on index.pdf (62 pages).

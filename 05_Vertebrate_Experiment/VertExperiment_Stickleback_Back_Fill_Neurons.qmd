@@ -1,4 +1,4 @@
-# Stickleback Backfilling of Hindbrain Neurons {#sec-Vert_Exp_hindbrain_backfill}
+# Stickleback Backfilling of Hindbrain Neurons {#sec-vert_exp-hindbrain_backfill}
 
 ## Introduction
 
@@ -13,7 +13,6 @@
 
 -   Obsidian
 -   Rhodamine
-
 
 ## Solutions
 

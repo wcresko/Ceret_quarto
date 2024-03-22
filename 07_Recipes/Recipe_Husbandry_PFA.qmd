@@ -1,8 +1,8 @@
-# Recipe - 8% Paraformaldehyde Stock Solution {#sec-general_recipe_8%PFA}
+# Recipe - 8% Paraformaldehyde Stock Solution {#sec-recipe-PFA}
 
 ## Introduction
 
--   **Purpose**: Recipe for 8% Paraformaldehyde (PFA) Stock Solution   
+-   **Purpose**: Recipe for 8% Paraformaldehyde (PFA) Stock Solution\
 -   **Procedure Type**: recipe
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -11,26 +11,30 @@
 -   **Author**: Mark Currey
 -   **Date Created**: February 29, 2024
 
-
-
 ::: {.callout-Warning title="warning"}
-Use gloves and PPE when handling paraformaldehyde 
+Use gloves and PPE when handling paraformaldehyde
 :::
 
 ## Materials
 
-    -   paraformaldehyde
-    
-::: {.callout-note title="Note"}
-Paraformaldehyde can be found in the chemical cabinet. 
-:::   
-    -   Distilled Water
+```         
+-   paraformaldehyde
+```
 
+::: {.callout-note title="Note"}
+Paraformaldehyde can be found in the chemical cabinet.
+:::
+
+```         
+-   Distilled Water
+```
 
 ## Solutions
 
-    -  10N NaOH
-    -  20% HCl
+```         
+-  10N NaOH
+-  20% HCl
+```
 
 ## Procedure
 
@@ -38,24 +42,22 @@ Paraformaldehyde can be found in the chemical cabinet.
 USE A FUME HOOD!
 :::
 
-
-1. Add 40 g Paraformaldehyde to 450 ml distilled water (or scale for desired final volume).
-2. Add 1 ul of 10 N NaOH per ml of water (i.e. 500 ul for 500 ml).
-3. Apply medium heat while stirring at medium speed to dissolve - approx 15-20 min.  Solution should not go above 60º C.  Eventually, granules will fully dissolve and the solution will become translucent.  
+1.  Add 40 g Paraformaldehyde to 450 ml distilled water (or scale for desired final volume).
+2.  Add 1 ul of 10 N NaOH per ml of water (i.e. 500 ul for 500 ml).
+3.  Apply medium heat while stirring at medium speed to dissolve - approx 15-20 min. Solution should not go above 60º C. Eventually, granules will fully dissolve and the solution will become translucent.
 
 ::: {.callout-Warning title="warning"}
 DO NOT LET THE SOLUTION STIR BEYOND THIS POINT - it will form a fuzzy precipitate that reduces the solution strength after filtering.
 :::
- 
-4. Once the granules have dissolved and the solution clears, turn off the heat. 
-5. Equilibrate to pH 7.4 with approx 1.5 ml of 20% HCl (or scale, depending on target volume).  Bring volume to 500 ml (or scaled volume) with distilled water.  
-6. Filter while still warm to 0.45 um (or 0.2 um).  
-7. Aliquot and store at -20º C.  
 
+4.  Once the granules have dissolved and the solution clears, turn off the heat.
+5.  Equilibrate to pH 7.4 with approx 1.5 ml of 20% HCl (or scale, depending on target volume). Bring volume to 500 ml (or scaled volume) with distilled water.\
+6.  Filter while still warm to 0.45 um (or 0.2 um).\
+7.  Aliquot and store at -20º C.
 
 ## Associated Papers
 
-- xxx
-- xxx
-- xxx
-- xxx
+-   xxx
+-   xxx
+-   xxx
+-   xxx

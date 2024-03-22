@@ -1,0 +1,48 @@
+# Cleaning Loading Boats {#sec-general-clean_load_boats}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to clean loading boats.
+
+-   **Procedure Type**: General Lab Maintanence
+
+-   **Species**:
+
+-   **Author**: Mark Currey
+
+-   **Date Created**: March 8, 2024
+
+-   **Date Updated**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+-   Aluminum Foil
+-   Autoclave Tape
+
+## Solutions
+
+-   xxx
+-   xxx
+-   xxx
+
+## Procedure
+
+1.  Rinse dirty loading boats with tap water and DI water and let dry
+
+::: {.callout-note title="NOTE"}
+If extremely dirty, you may rinse the loading boats in a 10% bleach solution
+:::
+
+2.  Cover the large (\~2 in x 5 in) boat with aluminum foil and use the autoclave tape to attach the foil to the loading boat.
+3.  Autoclave foil-wrapped loading boats using the 25-minute Gravity program
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

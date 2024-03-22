@@ -1,4 +1,4 @@
-# Alcian and Alizarin double stain - No Acid No Pain Double Stain {#sec-vertexp_doublestain}
+# Alcian and Alizarin double stain - No Acid No Pain Double Stain {#sec-vert_exp-doublestain}
 
 ## Introduction
 
@@ -9,9 +9,9 @@
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
     -   Zebrafish, (*Danio rerio*)
-    - and others
+    -   and others
 -   **Author**: Macie B. Walker (Adapted by Mark Currey 7/9/13)
--   **Date Created**: 
+-   **Date Created**:
 
 ::: {.callout-warning title="NOTES"}
 xxxx
@@ -50,94 +50,100 @@ For a brief discussion of stain theory describing use of pH and salt to control 
 
 ### Solutions for embryos
 
-- **2% PFA/1X PBS pH 7.5**
+-   **2% PFA/1X PBS pH 7.5**
 
-  *For 1 ml, add:*
+    *For 1 ml, add:*
+
     -   250ul 8% PFA
     -   100ul 10X PBS
     -   650ul water
     -   100mM Tris pH 7.5/10mM MgCl~2~
-    
-- **0.2% alcian blue/90%ETOH**
+
+-   **0.2% alcian blue/90%ETOH**
 
 ::: {.callout-Note title="NOTES"}
-Alcian blue will not readily dissolve in 90%ETOH. To make 100 mls add 0.2g alcian blue 8GX powder to 11.2ml 50%ETOH. Warm and occasionally swirl. When all is dissolved add 95% ETOH to 100 ml. Check clarity of solution under a microcope to make sure there are no precipitates. 
+Alcian blue will not readily dissolve in 90%ETOH. To make 100 mls add 0.2g alcian blue 8GX powder to 11.2ml 50%ETOH. Warm and occasionally swirl. When all is dissolved add 95% ETOH to 100 ml. Check clarity of solution under a microcope to make sure there are no precipitates.
 :::
- 
- 
- - **0.04% Alcian/10mM MgCl2 Stain pH 7.5** 
-       *Final concentrations:*
-      -   0.04% alcian blue
-      -   80 % ETOH
-      -   100mM Tris pH 7.5
-      -   10mM MgCl~2~
 
-      *To make 50 mls, add:*
-      -   10ml 0.2% alcian blue in 90% ETOH
-      -   5ml 1M Tris pH 7.5
-      -   0.5ml 1M MgCl~2~
-      -   32.6ml 95% ETOH
-      -   1.9ml water
+-   **0.04% Alcian/10mM MgCl2 Stain pH 7.5** *Final concentrations:*
 
-**For Ethanol rehydrations**
-    *To make 50 mls of each:*
+    -   0.04% alcian blue
+    -   80 % ETOH
+    -   100mM Tris pH 7.5
+    -   10mM MgCl~2~
 
-       **80% ETOH/10mM MgCl~2~**
-      -   42.1ml 95% ETOH
-      -   5ml 1M Tris pH 7.5
-      -   0.5ml 1M MgCl~2~
-      -   2.4ml water
-      
-      **50% ETOH:**
-      -   26.3ml 95% ETOH
-      -   5ml 1M Tris pH 7.5
-      -   18.7ml water
-      
-      **25% ETOH:**
-      -   13.2ml 95% ETOH
-      -   5ml 1M Tris pH 7.5
-      -   31.8ml water
+    *To make 50 mls, add:*
 
-- **0.5% alizarin red S*
+    -   10ml 0.2% alcian blue in 90% ETOH
+    -   5ml 1M Tris pH 7.5
+    -   0.5ml 1M MgCl~2~
+    -   32.6ml 95% ETOH
+    -   1.9ml water
 
-      *To make 50 mls, add:*
-      - 0.25g alizarin red S powder 
-      - 50 ml water.
+**For Ethanol rehydrations** *To make 50 mls of each:*
 
+```         
+   **80% ETOH/10mM MgCl~2~**
+  -   42.1ml 95% ETOH
+  -   5ml 1M Tris pH 7.5
+  -   0.5ml 1M MgCl~2~
+  -   2.4ml water
+  
+  **50% ETOH:**
+  -   26.3ml 95% ETOH
+  -   5ml 1M Tris pH 7.5
+  -   18.7ml water
+  
+  **25% ETOH:**
+  -   13.2ml 95% ETOH
+  -   5ml 1M Tris pH 7.5
+  -   31.8ml water
+```
 
-- *3% H~2~0~2~/0.5% KOH:*
+-   \*\*0.5% alizarin red S\*
 
-      - Mix just before using: 0.5ml 6% H~2~0~2~ & 0.5ml 1% KOH (or adjust to desired final volume)
-      
-- *50% Isopropanol*
-      *To make 50 mls, add:*
-          - 25 ml H20
-          - 25 ml Isopropanol.
+    ```         
+    *To make 50 mls, add:*
+    - 0.25g alizarin red S powder 
+    - 50 ml water.
+    ```
+
+-   *3% H~2~0~2~/0.5% KOH:*
+
+    ```         
+    - Mix just before using: 0.5ml 6% H~2~0~2~ & 0.5ml 1% KOH (or adjust to desired final volume)
+    ```
+
+-   *50% Isopropanol* *To make 50 mls, add:* - 25 ml H20 - 25 ml Isopropanol.
 
 ## Procedure
 
-      1.	Fix 2% PFA/1XPBS 1 hr.
-      
+```         
+  1.    Fix 2% PFA/1XPBS 1 hr.
+  
+```
+
 ::: {.callout-Note title="NOTES"}
 Fixing times can vary depending on the size of the specimen. We have found that for 5-10 mm stickleback and pipefish a fix of 2-3 hours is sufficient.
-:::      
-    
-      2.	Rinse 50% ETOH/water 10 mins.
-      3.	Double stain: Add 0.04% Alcian Blue/ 0.01% Alizarin Red S/10mM MgCl2/80% ETOH. Add Alizarin Red just before use. (add 20ul 0.5% alizarin red / 1ml of 0.04% alcian)
+:::
+
+```         
+  2.    Rinse 50% ETOH/water 10 mins.
+  3.    Double stain: Add 0.04% Alcian Blue/ 0.01% Alizarin Red S/10mM MgCl2/80% ETOH. Add Alizarin Red just before use. (add 20ul 0.5% alizarin red / 1ml of 0.04% alcian)
+```
 
 ::: {.callout-Note title="NOTES"}
-With very small specimens it’s very easy to over stain. Check amount of staining every 30 minutes until the desired level of staining has been achieved. 
-Important: Store stock as 0.04% Alcian Blue/10mM MgCl2/80% ETOH.
-:::       
-    
-      4.	Rinse 80% ETOH/10mM MgCl2/water 10 mins to overnight.  Cleaner Alcian background with longer rinses.
-      5.	Rinse 50% ETOH/water 5 mins.
-      6.  Rinse 25% ETOH/water 5 mins.(Can fudge here, just rehydrating)
-      7.	Bleach 3% H202/0.5% KOH 10 mins, lids open.
-      8.  Rinse with water
-      9.  Rinse with 50% Isopropanol
-      10.	Store in 50% Isopropanol
+With very small specimens it’s very easy to over stain. Check amount of staining every 30 minutes until the desired level of staining has been achieved. Important: Store stock as 0.04% Alcian Blue/10mM MgCl2/80% ETOH.
+:::
 
+```         
+  4.    Rinse 80% ETOH/10mM MgCl2/water 10 mins to overnight.  Cleaner Alcian background with longer rinses.
+  5.    Rinse 50% ETOH/water 5 mins.
+  6.  Rinse 25% ETOH/water 5 mins.(Can fudge here, just rehydrating)
+  7.    Bleach 3% H202/0.5% KOH 10 mins, lids open.
+  8.  Rinse with water
+  9.  Rinse with 50% Isopropanol
+  10.   Store in 50% Isopropanol
+```
 
-##Papers
-(Walker, M., Kimmel, C., 2007. A Two-Color Acid-Free Cartilage and Bone Stain For Zebrafish Larvae. Biotechnic & Histochemistry. Vol. 82, No. 1, Pages 23-28.)
+##Papers (Walker, M., Kimmel, C., 2007. A Two-Color Acid-Free Cartilage and Bone Stain For Zebrafish Larvae. Biotechnic & Histochemistry. Vol. 82, No. 1, Pages 23-28.)

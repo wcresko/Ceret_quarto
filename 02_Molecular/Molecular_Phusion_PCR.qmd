@@ -1,4 +1,4 @@
-# PCR with Phusion {#sec-molec-Phusion_PCR}
+# PCR with Phusion {#sec-molecular-Phusion_PCR}
 
 ## Introduction
 
@@ -31,7 +31,7 @@ NONE
 ### Prepare PCR reactions
 
 |     | Component            | 20ul Reaction | 50ul Reaction | Final Concentration  |
-|-----|----------------------|---------------|---------------|----------------------|
+|--------------|----------------|--------------|--------------|----------------|
 | 1   | npH20                | to 20 ul      | to 50 ul      |                      |
 | 2   | 5x Phusion Buffer    | 4 ul          | 10 ul         | 1X                   |
 | 3   | 10mM dNTPs           | 0.4ul         | 1.0 ul        | 200 uM               |
@@ -55,7 +55,7 @@ Mix together reagents in a 1500 ul tube for the number of reactions needed, but 
 ### PCR Conditions
 
 |     | Step                 | Temperature        | Duration         | Number cycles |
-|-----|----------------------|--------------------|------------------|---------------|
+|--------------|----------------|--------------|--------------|--------------|
 | 1   | Initial Denaturation | 98 C               | 30 seconds       | 1 cycle       |
 | 2   |                      | 98 C               | 30 seconds       |               |
 | 3   | Amplification        | Primer Anneal Temp | 30 seconds       | 25-30 cycles  |

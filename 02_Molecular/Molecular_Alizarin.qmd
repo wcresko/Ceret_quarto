@@ -1,4 +1,4 @@
-# Alizarin Staining {#sec-molec_aliz}
+# Alizarin Staining {#sec-molecular_alizarin}
 
 ## Introduction
 
@@ -8,10 +8,8 @@
     -   Threespine stickleback, *Gasterosteus aculeatus*
     -   Gulf pipefish (*Syngnathus scovelli*)
     -   and others
--   **Author**: 
--   **Date Created**: 
-
-
+-   **Author**:
+-   **Date Created**:
 
 ## Materials:
 
@@ -36,45 +34,46 @@
     -   1.6% NaCl
     -   0.04% KCl
     -   0.04 M PO4 pH 7.0- 7.3
--  **Isopropanol**
+-   **Isopropanol**
 
 ::: {.callout-warning title="Chemical Warning"}
-Please use appropriate PPE when handling chemicals. 
+Please use appropriate PPE when handling chemicals.
 :::
 
 ## Procedure:
 
-   1. Fix in 4% PFA 2h to overnight depending on the size of the fish. 
+1.  Fix in 4% PFA 2h to overnight depending on the size of the fish.
 
 ::: {.callout-note title="Note"}
 We've found that adult fish should be fixed overnight.
 :::
 
-   2. Wash with 1% KoH 1 hour or longe on shaker. 
- 
-::: {.callout-note title="Note"}
-If found that a longer KoH wash results in better staining. 
-:::  
-   
-   3. Bleach with 3% H202 : 1% KoH solution for 1-4 hours until the eyes and skin lose most of the pigment. 
-   
-::: {.callout-note title="Warning"}
-This step produces a gas. Do not put lids on containers while bleaching. 
-:::  
+2.  Wash with 1% KoH 1 hour or longe on shaker.
 
-   4. Wash with 1% KoH 2 hour on shaker. 
-   
-   5. Stain with 0.025% Alizarin Red solution for 2 h or longer. 
-   
 ::: {.callout-note title="Note"}
-Check for the strenght of staining often. I prefer to slightly over stain as slight non-specific (muscles and etc) will clear in the following steps.
-::  
-   
-   6. Wash with 1% KoH 2 hour or longer on shaker depending on clearing of non-specific tissues. 
-   
-   7. Store in 50% Isopropanol. 
-   
+If found that a longer KoH wash results in better staining.
+:::
+
+3.  Bleach with 3% H202 : 1% KoH solution for 1-4 hours until the eyes and skin lose most of the pigment.
+
+::: {.callout-note title="Warning"}
+This step produces a gas. Do not put lids on containers while bleaching.
+:::
+
+4.  Wash with 1% KoH 2 hour on shaker.
+
+5.  Stain with 0.025% Alizarin Red solution for 2 h or longer.
+
+::: {.callout-note title="Note"} Check for the strenght of staining often. I prefer to slightly over stain as slight non-specific (muscles and etc) will clear in the following steps. ::
+
+6.  Wash with 1% KoH 2 hour or longer on shaker depending on clearing of non-specific tissues.
+
+7.  Store in 50% Isopropanol.
+
 ## Papers:
-    -   xxx
-    -   xxx
-    -   xxx
+
+```         
+-   xxx
+-   xxx
+-   xxx
+```

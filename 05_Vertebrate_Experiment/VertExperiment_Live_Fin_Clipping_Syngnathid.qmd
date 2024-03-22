@@ -1,4 +1,4 @@
-# Fin clipping {#sec-vert-fin_clip_syn}
+# Fin clipping {#sec-vert_exp-fin_clip_syn}
 
 ### *Syngnathid fishes*
 

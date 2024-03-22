@@ -1,58 +1,51 @@
-# Storage of stickleback eggs {#sec-vertexp_egg_storage_SB}
+# Storage of stickleback eggs {#sec-vert_exp-egg_storage_SB}
 
 ## Introduction
 
--   **Purpose**: Storage of eggs for fertilization up to 24 hours post stripping. 
+-   **Purpose**: Storage of eggs for fertilization up to 24 hours post stripping.
 -   **Procedure Type**: Vertabrate Experimental
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
-
 -   **Author**: Mark Currey
 -   **Date Created**: xxx
 -   **Date Updated**: xxx
 
 ::: {.callout-Notes title="Note"}
-This is a general procedure for making infertile sperm that can still activate eggs for production of haploid, early pressure (EP) or heat shock (HS) embryos. 
+This is a general procedure for making infertile sperm that can still activate eggs for production of haploid, early pressure (EP) or heat shock (HS) embryos.
 :::
 
 ## Materials
 
-- Streptomycin & Penicillin  Solution (PenStrep) from Sigma (P-0906) Stock – 100%
-- 50ml sterile polypropylene conical tubes
-- 90mm petri dish
+-   Streptomycin & Penicillin Solution (PenStrep) from Sigma (P-0906) Stock – 100%
+-   50ml sterile polypropylene conical tubes
+-   90mm petri dish
 
 ## Solutions
 
-- Holtfrieter's Solution {#sec-general_recipe_holtfrieters}
-- embryo medium  {#sec-general_recipe_embryo_medium}
-- xxx
-- xxx
+-   Holtfrieter's Solution {#sec-general_recipe_holtfrieters}
+-   embryo medium {#sec-general_recipe_embryo_medium}
+-   xxx
+-   xxx
 
 ## Procedure
 
-**egg storage solution**
-1.  Add PenStrep to Holtfreiter's for a final concentration of 1% (10ml into 1 liter)
+**egg storage solution** 1. Add PenStrep to Holtfreiter's for a final concentration of 1% (10ml into 1 liter)
 
-  
-	
-2.  Strip eggs from ripe female into a conical tube with 25ml cold egg storage solution. 
+2.  Strip eggs from ripe female into a conical tube with 25ml cold egg storage solution.
 
 ::: {.callout-note title="Note"}
 Eggs can be transported on ice and fertilized up to 24 hours later (maybe longer)
-::: 
+:::
 
 3.  To fertilize, move eggs to 90mm petri dish and allow temperature to equilibrate to 20C
 
 4.  Remove egg storage solution, and rinse eggs once with embryo medium (important to make sure that salt concentration is low enough for sperm to be optimally activated).
 
-6.  Add macerated testis prep as usual, then cover eggs with embryo medium.
-
-
-
+5.  Add macerated testis prep as usual, then cover eggs with embryo medium.
 
 ## Associated Papers
 
-- xxx
-- xxx
-- xxx
-- xxx
+-   xxx
+-   xxx
+-   xxx
+-   xxx

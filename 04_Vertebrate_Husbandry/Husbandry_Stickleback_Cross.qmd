@@ -25,7 +25,7 @@
 -   Testes Solution {#sec-recipes_testes_solution}
 -   MS222 Tricaine Methanesulfonate {#sec-recipes_Mesab}
 -   95% ethanol
--   Embryo medium {#sec-recipes_embryo_medium_solution}
+-   Embryo medium @sec-general-em
 
 ## Procedures
 

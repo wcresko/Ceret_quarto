@@ -7,7 +7,7 @@
 -   **Species**:
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
--   **Author**: Mark Currey   
+-   **Author**: Mark Currey\
 -   **Date Created**: February 29, 2024
 
 ## Materials
@@ -36,10 +36,9 @@ Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, m
 -   **Euthanasia Solution (300 mg/L)**:
 
     -   Make a solution of tris buffered **Stock Solution** as described above. (Or obtain an aliquot from the freezer)
-    -   Make a solution of 3.0 ppt Instant Ocean by adding 0.3 grams of Instant Ocean to 100 ml of DD water. 
+    -   Make a solution of 3.0 ppt Instant Ocean by adding 0.3 grams of Instant Ocean to 100 ml of DD water.
     -   Combine 7.5ml of stock solution into 100 ml of 3 ppt Instant Ocean.
     -   Store solution in an amber bottle to protect it from light and add mixed and expiration dates (6 months after being mixed) to the bottle.
-  
 
 ## Procedure
 

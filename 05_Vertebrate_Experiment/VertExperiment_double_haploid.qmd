@@ -1,72 +1,75 @@
-# Production of Haploid Embryos in Stickleback {#sec-vertexp_haploid_SB}
+# Production of Haploid Embryos in Stickleback {#sec-vert_exp-haploid_SB}
 
 ## Introduction
 
--   **Purpose**: This method allows the production of homozygous haploid embryos for the purpose of screening for recessive mutations. Haploid embryos develop fairly normally for the first few days, but eventually develop bent tails and vacuolated body cavities. They are inviable. 
+-   **Purpose**: This method allows the production of homozygous haploid embryos for the purpose of screening for recessive mutations. Haploid embryos develop fairly normally for the first few days, but eventually develop bent tails and vacuolated body cavities. They are inviable.
 -   **Procedure Type**: Vertabrate Experimental
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
-
 -   **Author**: Mark Currey
 -   **Date Created**: xxx
 -   **Date Updated**: xxx
 
 ::: {.callout-Notes title="Note"}
-This is a general procedure for making infertile sperm that can still activate eggs for production of haploid, early pressure (EP) or heat shock (HS) embryos. 
+This is a general procedure for making infertile sperm that can still activate eggs for production of haploid, early pressure (EP) or heat shock (HS) embryos.
 :::
 
 ## Materials
 
--	Watchglass 
--	Large glass Petri dish 
--	Ice 
--	Two Pasteur pipettes 
--	Pipette bulb 
--	Stopwatch 
--	UV Stratalinker® 1800 by Stratagene  
--	Latex kitchen gloves 
--	Safety glasses 
--	Small test tube with cork marked for UV sperm 
-
+-   Watchglass
+-   Large glass Petri dish
+-   Ice
+-   Two Pasteur pipettes
+-   Pipette bulb
+-   Stopwatch
+-   UV Stratalinker® 1800 by Stratagene\
+-   Latex kitchen gloves
+-   Safety glasses
+-   Small test tube with cork marked for UV sperm
 
 ## Solutions
 
-- Hank's solution {#sec-general_recipe_hanks}
-- xxx
-- xxx
-- xxx
+-   Hank's solution {#sec-general_recipe_hanks}
+-   xxx
+-   xxx
+-   xxx
 
 ## Procedure
 
-      1. Fill the bottom of the glass Petri dish with ice. 
-      
-      2. Put watchglass on top of the ice in the dish. 
-      
-      3. Using a Pasteur pipette, transfer the sperm from the test tube onto the watchglass. Be sure to get as much of the sperm into the pipette as possible without taking up any bubbles of air with it. Also, do not bubble the sperm in the watchglass as you are expelling them from the pipette. Expel sperm in a thin, even layer on watch glass.  
-      
-::: {.callout-warning title="Warning"}
-DISCARD THIS PIPETTE. 
-:::      
-      4. Cover the sperm with the top of the Petri dish. 
-      
-      5. Put on the Latex gloves and safety glasses. 
-      
-      6. Place the covered Petri dish under the UV lamp. 
-      
-      7. Remove the cover of the Petri dish and start the stopwatch. 
-      
-      8. Gently move the dish under the lamp in a swirling motion for two minutes. 
-      
-      9. After exposing the sperm to UV light for two minutes, replace the cover on the Petri dish and remove the dish from under the lamp. 
-      
-      10. Using the CLEAN pipette, remove the sperm from the watchglass and transfer them to the small test tube marked for UV sperm. 
-      
-      11. Put the UV sperm test tube into the ice to be used later for fertilizing eggs.
+```         
+  1. Fill the bottom of the glass Petri dish with ice. 
+  
+  2. Put watchglass on top of the ice in the dish. 
+  
+  3. Using a Pasteur pipette, transfer the sperm from the test tube onto the watchglass. Be sure to get as much of the sperm into the pipette as possible without taking up any bubbles of air with it. Also, do not bubble the sperm in the watchglass as you are expelling them from the pipette. Expel sperm in a thin, even layer on watch glass.  
+  
+```
 
+::: {.callout-warning title="Warning"}
+DISCARD THIS PIPETTE.
+:::
+
+```         
+  4. Cover the sperm with the top of the Petri dish. 
+  
+  5. Put on the Latex gloves and safety glasses. 
+  
+  6. Place the covered Petri dish under the UV lamp. 
+  
+  7. Remove the cover of the Petri dish and start the stopwatch. 
+  
+  8. Gently move the dish under the lamp in a swirling motion for two minutes. 
+  
+  9. After exposing the sperm to UV light for two minutes, replace the cover on the Petri dish and remove the dish from under the lamp. 
+  
+  10. Using the CLEAN pipette, remove the sperm from the watchglass and transfer them to the small test tube marked for UV sperm. 
+  
+  11. Put the UV sperm test tube into the ice to be used later for fertilizing eggs.
+```
 
 ## Associated Papers
 
-- xxx
-- xxx
-- xxx
-- xxx
+-   xxx
+-   xxx
+-   xxx
+-   xxx

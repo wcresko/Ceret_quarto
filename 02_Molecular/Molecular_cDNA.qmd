@@ -1,4 +1,4 @@
-# cDNA basic {#sec-molec-cDNA}
+# cDNA basic {#sec-molecular-cDNA}
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Ginzberg's Ringer Solution {#sec-general_recipe_ginzbergs_ringers}
+# Ginzberg's Ringer Solution {#sec-recipe-ginzbergs_ringers}
 
 ## Introduction
 

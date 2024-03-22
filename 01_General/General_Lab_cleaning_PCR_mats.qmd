@@ -1,0 +1,31 @@
+# Cleaning PCR Mats {#sec-general-PCRmats}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to clean PCR mats.
+-   **Procedure Type**: General Lab
+-   **Author**: N. Earp
+-   **Date Created**:
+
+## Materials
+
+-   PCR mats to clean
+
+## Solutions
+
+-   5% bleach solution
+-   Tap water
+-   DI water
+
+## Procedure
+
+1.  Cover used PCR mats in 5% bleach solution.
+2.  Let sit in 5% bleach solution for 15 minutes.
+3.  Rinse PCR mats with tap water, then DI water.
+4.  Lay PCR mats to dry.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx

@@ -1,4 +1,4 @@
-# Sequenced RAD Tags {#sec-xxx-xxx}
+# Sequenced RAD Tags {#sec-molecular-RADseq}
 
 ## Introduction
 
@@ -34,11 +34,14 @@ xxxx
 
 ::: {.callout-warning title="NOTES"}
 P1 top:
-```
+
+```         
 5´- AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCTxxxxx -3
 ```
+
 P1 bottom:
-```
+
+```         
 5´- P-AATTxxxxxAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT -3
 ```
 :::
@@ -82,11 +85,14 @@ P1 bottom:
 
 ::: {.callout-warning title="NOTES"}
 P2 top:
-```
+
+```         
 5´- P-CTCAGGCATCACTCGATTCCTCCGAGAACAA -3
 ```
+
 P2 bottom:
-```
+
+```         
 5´- CAAGCAGAAGACGGCATACGACGGAGGAATCGAGTGATGCCTGAG\*T -3
 ```
 :::

@@ -1,0 +1,35 @@
+# Cleaning Pestles {#sec-general-cleaning_pestles}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to clean pestles.
+-   **Procedure Type**: General Lab
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+## Materials
+
+-   Large beaker (or similar vessel in which to soak pestles)
+-   Aluminum foil
+-   Autoclave tape
+-   Autocalve
+
+## Solutions
+
+-   10% bleach solution
+-   xxx
+-   xxx
+
+## Procedure
+
+1.  Rinse dirty pestles with tap water.
+2.  Place pestles into a large beaker and fill the beaker with 10% bleach solution. Let the pestles sit for 10 minutes.
+3.  Drain the bleach solution and rinse the pestles with DI water.
+4.  Section the pestles into 5-10 pestle bunches, wrap each bunch in tin foil, and use a section of autoclave tape to close foil.
+5.  Autoclave foil-wrapped pestles using the 25 minute Gravity program
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx

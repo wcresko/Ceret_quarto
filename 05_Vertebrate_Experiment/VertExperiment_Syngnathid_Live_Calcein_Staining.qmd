@@ -1,4 +1,4 @@
-# Live syngnathid calcein staining {#sec-vert_exp_live_calcein_syngnathid}
+# Live syngnathid calcein staining {#sec-vert_exp-live_calcein_syngnathid}
 
 ## Introduction
 

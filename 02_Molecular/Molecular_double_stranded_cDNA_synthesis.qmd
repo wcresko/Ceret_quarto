@@ -1,0 +1,104 @@
+# Double Stranded cDNA Synthesis {#sec-molecular-dbl_strand_cDNA}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to synthesize double stranded cDNA.
+
+-   **Procedure Type**: Molecular
+
+-   **Author**: Susie Bassham
+
+-   **Date Created**: July, 2011
+
+## Materials
+
+-   Thermomixer or incubator
+-   Ice
+-   Centrifuge
+-   Zymo DNA column
+
+## Solutions
+
+-   Random Primer Mix
+-   10 mM dNTP mix
+-   mRNA
+-   Water
+-   5x First-Strand Buffer (Invitrogen)
+-   0.1 mM DTT (Invitrogen)
+-   1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)
+-   1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)
+-   15 µl 10x Second-Strand Synthesis Reaction Buffer (B6117S, NEB)
+-   1 µl E. coli ligase (10 u/µl)
+-   4 µl E. coli DNA Polymerase I (10 u/µl)
+-   0.4 µl E. coli RNase H (5 u/µl)
+-   T4 DNA polymerase
+-   0.5 M EDTA
+
+## Procedure
+
+1.  **First strand synthesis**
+
+    1.  Combine:
+
+        1.  2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)\*
+        2.  0.8 µl 10 mM dNTP mix
+        3.  X µl up to 0.5 µg mRNA
+        4.  Water (if necessary) to bring total to 12 µl
+
+        ::: {.callout-important title="NOTE"}
+        \*Random Primer Mix should do a better job of covering 5’ and 3’ ends than Oligo d(T) or random hexamer primers alone.
+        :::
+
+    2.  Heat to 65˚C for 5 min., then ice
+
+    3.  Collect contents at bottom of tube by brief centrifugation.
+
+    4.  Add:
+
+        1.  4 µl 5x First-Strand Buffer (Invitrogen)
+        2.  1 µl 0.1 mM DTT (Invitrogen)
+        3.  1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)
+        4.  1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)
+
+        ::: {.callout-important title="NOTE"}
+        Reaction can be scaled up to accommodate more starting RNA
+        :::
+
+    5.  Mix by gentle aspiration
+
+    6.  25˚C for 10 min.
+
+    7.  *Synthesis*: Incubate at 50˚C for 50 min.
+
+    8.  *Inactivation*: 85˚C for 5 min. Chill on ice, collect contents to bottom by short spin.
+
+2.  **Second strand synthesis**:
+
+    1.  On ice, add:
+
+        1.  106.6 µl water
+        2.  15 µl 10x Second-Strand Synthesis Reaction Buffer (B6117S, NEB)
+        3.  3 µl 10 mM dNTPs
+        4.  1 µl E. coli ligase (10 u/µl)
+        5.  4 µl E. coli DNA Polymerase I (10 u/µl)
+        6.  0.4 µl E. coli RNase H (5 u/µl)
+
+    2.  Mix by aspiration on ice.
+
+    3.  *Synthesis*: incubate at 16˚C for 2 hours (do not allow to warm above 16˚C).
+
+3.  Optional (for cloning cDNAs, have to blunt ends):
+
+    1.  Add 3.3 µl (10 u) T4 DNA polymerase (3 u/µl, NEB). Incubate 5 min. at 16˚C.\]
+    2.  Add 10 µl 0.5 M EDTA to stop reaction.
+
+4.  Purify with Zymo DNA column, e.g.:
+
+    1.  Elute two times with 50 µl EB and proceed to shearing and adaptor ligation for EST building or expression profiling via Illumina sequencing, OR,
+    2.  Elute two times with 20 µl EB and proceed to restriction digestion for eRAD.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx

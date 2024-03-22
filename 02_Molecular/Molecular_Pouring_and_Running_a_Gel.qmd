@@ -1,4 +1,4 @@
-# Pouring and Running a Gel
+# Pouring and Running a Gel {#sec-molecular-gel}
 
 ## Introduction
 

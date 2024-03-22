@@ -1,4 +1,4 @@
-# Dechorionating Zebrafish Embryos {#sec-vertexp-zfish_dechorinate}
+# Dechorionating Zebrafish Embryos {#sec-vert_exp--zfish_dechorinate}
 
 ## Introduction
 

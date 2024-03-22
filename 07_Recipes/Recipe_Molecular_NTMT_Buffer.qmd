@@ -1,4 +1,4 @@
-# NTMT Buffer
+# NTMT Buffer {#sec-recipe-NTMT}
 
 ## Introduction
 
@@ -16,9 +16,9 @@
 -   1 M TRIS pH 9.5 (2.5 ml)
     -   Purchase pre-made from Chem Stores.
 -   20% Tween-20 (62.5 ul)
-    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf. 
+    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf.
 -   Nanopure water
-    -   Located in the Nalgene at the north sink. 
+    -   Located in the Nalgene at the north sink.
 
 ## Materials
 

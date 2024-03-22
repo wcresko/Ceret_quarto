@@ -1,4 +1,4 @@
-# Cleaning/concentrating DNA with magnetic beads {#sec-xxx-xxx}
+# Cleaning/concentrating DNA with magnetic beads {#sec-molecular-bead_extraction_dup}
 
 ## Introduction
 
@@ -13,10 +13,10 @@
 xxxx
 :::
 
-
 ## Materials
 
 -   DNAse-free tubes, such as microcentrifuge tubes, PCR strip tubes, or plates
+
 -   Magnet (for 1.5 ml tubes, use Invitrogen DynaMag-Spin Magnetic Particle Concentrator; for PCR plate or strip tubes, use DynaMag-96 Slide magnet or Catalyst 96 Slotted Ring Magnet Plate)
 
     ::: {.callout-important title="This is important"}
@@ -24,6 +24,7 @@ xxxx
     :::
 
 -   Pipettes
+
 -   Pipette tips
 
 ## Solutions
@@ -51,7 +52,7 @@ xxxx
 13. Put the samples back on the magnet and let the beads condense.
 14. **Transfer the supernatant with your DNA** to a fresh plate or tubes.
 
-![DNA Molecular Weight to Bead Proportion, UO GC3F](images/GC3F Bead Image for Molecular_Cleaning_Concentrating_DNA_with_Magnetic_Beads_SOP-02.png)
+![DNA Molecular Weight to Bead Proportion, UO GC3F](images/GC3F%20Bead%20Image%20for%20Molecular_Cleaning_Concentrating_DNA_with_Magnetic_Beads_SOP-02.png)
 
 ## Associated Papers
 

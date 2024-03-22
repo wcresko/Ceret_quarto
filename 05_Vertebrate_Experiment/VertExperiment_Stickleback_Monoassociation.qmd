@@ -1,4 +1,4 @@
-# Stickleback Bacterial Monoassociation {#sec-vert_exp_mono_ass_SB}
+# Stickleback Bacterial Monoassociation {#sec-vert_exp-mono_ass_SB}
 
 ## Introduction
 
@@ -8,8 +8,6 @@
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: xxx
 -   **Date Created**: xxx
-
-
 
 ## Materials
 
@@ -24,7 +22,7 @@
 ## Procedure
 
 ::: {.callout-notes title="NOTES"}
-The bacterial inoculums should be determined empirically for each species used.  For many bacteria 104 Colony Forming Units (CFUs) per milliliter of stickleback medium will suffice for full colonization of the intestine and minimal toxicity to the fish. Dead larvae in the flask will be removed as this will often result in increased bacterial growth that can ultimately be fatal to the remaining larvae.  The method below is used for several proteobacteria strains.  
+The bacterial inoculums should be determined empirically for each species used. For many bacteria 104 Colony Forming Units (CFUs) per milliliter of stickleback medium will suffice for full colonization of the intestine and minimal toxicity to the fish. Dead larvae in the flask will be removed as this will often result in increased bacterial growth that can ultimately be fatal to the remaining larvae. The method below is used for several proteobacteria strains.
 :::
 
 1.  Raise fish in a germ-free environment as described here: {#sec-vert_exp_gremfree_SB}

@@ -1,4 +1,4 @@
-# Live stickleback DASPEI staining {#sec-vert_exp_live_daspei_SB}
+# Live stickleback DASPEI staining {#sec-vert_exp-live_daspei_SB}
 
 ## Introduction
 

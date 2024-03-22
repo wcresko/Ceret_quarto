@@ -1,0 +1,41 @@
+# Refilling Nanopure Water {#sec-general-npH2O}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to refill the 20L Nalgene jug with nanopure water.
+-   **Procedure Type**: General Lab
+-   **Author**: Micah Woods
+-   **Date Created**: March 11, 2024
+
+## Materials
+
+-   20L Nalgene Jug
+-   Barnstead NANOpure infinity machine
+
+## Solutions
+
+-   xxx
+-   xxx
+-   xxx
+
+## Procedure
+
+1.  Take 20L Carboy to Pac 314.
+
+2.  Using the Barnstead NANOpure infinity machine, turn the top dial to "On."
+
+3.  Press "Standby" and then press "Start/Stop" button.
+
+4.  Ensure that the water is continually running into the Nalgene, and wait approximately 20 minutes for it to fill with water.
+
+5.  When Nalgene is full, press "Start/Stop" button.
+
+6.  Push "Standby" button."
+
+7.  Turn top dial to "Off."
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx

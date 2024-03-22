@@ -1,4 +1,4 @@
-# Mesab Stock (EM) {#sec-general_recipe_mesab}
+# Mesab Stock (EM) {#sec-recipe-mesab}
 
 ## Introduction
 

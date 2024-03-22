@@ -23,11 +23,22 @@ book:
     - part: Part1_General.qmd
       chapters:
         - 01_General/General_Contact.qmd
+        - 01_General/General_Lab_Cresko_lab_safety_basics.qmd
+        - 01_General/General_Lab_cleaning_PCR_mats.qmd
+        - 01_General/General_Lab_cleaning_pestles.qmd
+        - 01_General/General_Lab_disposing_of_hazardous waste.qmd
+        - 01_General/General_Lab_maint_bacterial_cleaning.qmd
+        - 01_General/General_Lab_maint_clean_loading_boat.qmd
+        - 01_General/General_Lab_maint_spill_paper.qmd
+        - 01_General/General_Lab_refilling_nanopure_water.qmd
+        - 01_General/General_Lab_refilling_pipette_tips.qmd
         
     - part: Part2_Molecular.qmd
       chapters:
         - 02_Molecular/Molecular_Phusion_PCR.qmd
         - 02_Molecular/Molecular_cDNA.qmd
+        - 02_Molecular/Molecular_cDNA_synthesis_for_PCR.qmd
+        - 02_Molecular/Molecular_double_stranded_cDNA_synthesis.qmd
         - 02_Molecular/Molecular_2xTurbo.qmd
         - 02_Molecular/Molecular_Para.qmd
         - 02_Molecular/Molecular_Alizarin.qmd
@@ -41,6 +52,7 @@ book:
         - 02_Molecular/Molecular_Seq_RAD.qmd
         - 02_Molecular/Molecular_T_overhang.qmd
         - 02_Molecular/Molecular_Topo_Clone.qmd
+        - 02_Molecular/Molecular_TopoClone_with_PCR4_vector.qmd
 
     - part: Part3_Microbiology.qmd
       chapters:
@@ -69,6 +81,7 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Anesthesia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Density_Standards.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Cross.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Dry_Food_Mix.qmd

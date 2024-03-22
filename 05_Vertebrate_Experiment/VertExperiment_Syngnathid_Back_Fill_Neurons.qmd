@@ -1,8 +1,8 @@
-# Pipefish backfill labeling if hindbrain neurons {#sec-vert_exp-syngnathid}
+# Pipefish backfill labeling if hindbrain neurons {#sec-vert_exp-syngnathid_neuron}
 
 ## Introduction
 
--   **Purpose**: This procedure descibes how to backfill nerons of pipefish. 
+-   **Purpose**: This procedure descibes how to backfill nerons of pipefish.
 -   **Procedure Type**: Experimental
 -   **Species**:
     -   Bay pipefish, (*Syngnathus leptorhyncus*)

@@ -1,0 +1,81 @@
+# Cresko Lab Safety Highlights {#sec-general-lab_safety}
+
+## Introduction
+
+-   **Purpose**: This procedure describes important rules to heed in the lab for your safety and for the safety of others.
+
+-   **Procedure Type**: General Lab
+
+-   **Author**: xxx
+
+-   **Date Created**: xxx
+
+## Materials
+
+-   xxx
+
+-   xxx
+
+-   xxx
+
+## Solutions
+
+-   xxx
+-   xxx
+-   xxx
+
+## Procedure
+
+::: {.callout-important title="IMPORTANT"}
+EMERGENCY CONTACT: dial 911 first, AND 6-2919 (EHS). Mark Cell 541-505-0006
+:::
+
+1.  **Safety Shower, Eyewash, Fire Extinguishers.**
+
+    Eyewashes must be flushed weekly. *Undergraduate research assistants are responsible for flushing the safety showers each week. Each lab member is responsible for knowing the locations of safety showers and fire extinguishers in the lab.* Safety showers and fire extinguishers are tested annually by EHS.
+
+2.  **Wear a lab coat and closed-toed shoes when working with the following chemicals**:
+
+    1.  Organics (e.g. phenol/chloroform, Trizol, DNAzol, formaldehyde, formamide, methanol)
+    2.  Strong acids and bases
+
+3.  **Wear eye protection when working with**:
+
+    1.  UV light (UV opaque glasses/face shield).
+    2.  Phenol/chloroform, strong acids/bases, and any splash hazard with anything hazardous in it.
+
+4.  **Wear safety gloves when working with ANY of the reagents above**.
+
+    Heed the “one glove rule”: remove one glove when moving between rooms to avoid touching doorknobs with a contaminated glove. Note that glove materials differ in their permeability to different reagents. Standard nitrile gloves are adequate for our lab’s standard procedures. However, if you are planning experiments that involve more dangerous reagents, consult with Luke Sitts at EHS to select appropriate gloves.
+
+5.  **Disposal of common hazardous reagents (EHS DISPOSAL: 6-3192)**
+
+    1.  E. coli plates and recombinant materials: autoclave buckets or EHS biohazard incineration boxes.
+    2.  E. coli flasks/liquids: bleach, rinse, drain.
+    3.  Used alcohols, formaldehyde, and kit waste: waste containers under the thermocyclers.\
+    4.  Organic solvents: waste bottles in hood.
+
+6.  **Storage of Hazardous Liquids**
+
+    1.  Store flammables and strong acids in a latched METAL SAFETY CABINET UNDER THE HOOD.
+
+7.  **Heating Liquids in the Microwave Oven**
+
+    Triple check that the cap is very loose or (better) remove it entirely. Re-melting of gels with DNA binding dyes is forbidden.
+
+8.  **Bunsen Burners**
+
+    1.  Triple check that the gas is shut completely off before you leave the bench/hood.
+    2.  Keep burners far away from any flammable liquids.
+
+9.  **Liquid Nitrogen and Dry Ice**
+
+    1.  Use only in well ventilated spaces to avoid asphyxiation.\
+    2.  Never store in sealed containers to avoid explosions.
+    3.  Wear lab coat, gloves, goggles. In case of frostbite or burn, soak affected part in tepid water, seek medical attention.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx

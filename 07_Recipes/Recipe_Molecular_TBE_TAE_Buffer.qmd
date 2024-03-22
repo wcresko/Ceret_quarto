@@ -1,4 +1,4 @@
-# TBE/TAE Buffer 
+# TBE/TAE Buffer {#sec-recipe-TBE_TAE}
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Fish Blood Collection {#sec-VertExperiment_blood_collection}
+# Fish Blood Collection {#sec-vert_exp-blood_collection}
 
 ## Introduction
 
@@ -37,14 +37,12 @@
 
 -   Euthanisia MS-222 (tricaine-methanosulfanate) {#sec-husb-adutl_sb_euthanasia}
 
-
 ## Procedure
 
-1.	Place fish in beaker containing MS-222 euthanasia dose (300 mg/L). 
-2.	Wait for fish to slow and become unresponsive to taps on the container to ensure it is fully euthanized
-3.	Sever the caudal peduncle with a scalpel blade or sharp knife
-4.	Fill a heparnized hematocrit tube/capillary tube with the blood as it flows from the caudal vein. Plug one end of the hematocrit tube with critoseal. Spin on microhematocrit centrifuge to separate plasma from red blood cells. Measure hematocrit volume %, Use a pipette or break the capillary to extract the plasma or packed cells as needed.
-5.	Alternatively, collect a 25μL drop of blood at the tail and allow it to drop onto Whatman specimen collection filter paper for some endocrinological downstream applications. Blood spotted filter paper must be dried for 4 hours on the bench away from heat and light, and then may be stored at -20C in a sealed bag with desiccant packs.
-6.	Dispose of fish soma and tail in fish morgue.
-7.	Clean and disinfect area where blood was collected.
-
+1.  Place fish in beaker containing MS-222 euthanasia dose (300 mg/L).
+2.  Wait for fish to slow and become unresponsive to taps on the container to ensure it is fully euthanized
+3.  Sever the caudal peduncle with a scalpel blade or sharp knife
+4.  Fill a heparnized hematocrit tube/capillary tube with the blood as it flows from the caudal vein. Plug one end of the hematocrit tube with critoseal. Spin on microhematocrit centrifuge to separate plasma from red blood cells. Measure hematocrit volume %, Use a pipette or break the capillary to extract the plasma or packed cells as needed.
+5.  Alternatively, collect a 25μL drop of blood at the tail and allow it to drop onto Whatman specimen collection filter paper for some endocrinological downstream applications. Blood spotted filter paper must be dried for 4 hours on the bench away from heat and light, and then may be stored at -20C in a sealed bag with desiccant packs.
+6.  Dispose of fish soma and tail in fish morgue.
+7.  Clean and disinfect area where blood was collected.

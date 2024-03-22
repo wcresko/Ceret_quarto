@@ -1,4 +1,4 @@
-# Topo Cloning
+# Topo Cloning {#sec-molecular-TopoClone}
 
 ## Introduction
 
@@ -47,14 +47,14 @@ xxxx
 2.  Into 50 μl LB-Amp in round bottom plates, 37°C for one hour
 3.  Use 2 μl as template for PCR reaction, put plate back at 37°C
 
-  ------ ------ ------------ -------- -----
-  Step 1   \-     94°C   \-     5 min                 
-  Step 2   \-     94°C   \-     45 sec   
-  Step 3   \-     56°C   \-     45 sec   
-  Step 4   \-     72°C   \-     1 min    37X for steps 2-4
-  Step 5   \-     72°C   \-     5 min                 
-  Step 6   \-     12°C   \-     indef            
-  ------ ------ ------------ -------- -----
+|        |     |        |        |                   |
+|--------|:---:|:------:|-------:|-------------------|
+| Step 1 | \-  | 94°C - |  5 min |                   |
+| Step 2 | \-  | 94°C - | 45 sec |                   |
+| Step 3 | \-  | 56°C - | 45 sec |                   |
+| Step 4 | \-  | 72°C - |  1 min | 37X for steps 2-4 |
+| Step 5 | \-  | 72°C - |  5 min |                   |
+| Step 6 | \-  | 12°C - |  indef |                   |
 
 ### Overnight: {#overnight .subhead}
 

@@ -1,4 +1,4 @@
-# Stickleback Embryo Injections {#sec-vert_exp_embryo_injections}
+# Stickleback Embryo Injections {#sec-vert_exp-embryo_injections}
 
 ## Introduction
 
@@ -6,7 +6,7 @@
 -   **Procedure Type**: Vert Experimental
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
--   **Author**: Mark Currey   
+-   **Author**: Mark Currey\
 -   **Date Created**: January 01, 2024
 
 ## Materials
@@ -21,9 +21,9 @@
 ## Procedure:
 
 ::: {.callout-note title="background"}
-(from: Zebrafish Book 4th addition chp 5)
-This is an easy method for holding embryos while injecting CRISPR elements, DNA, lineage tracer dyes, etc., without removing their chorions. The embryos are held in wedged-shaped troughs. Each trough can hold approximately 35 embryos (with chorions). Embryos can be aligned by gently tamping them down with forceps. As the pipette penetrates the chorion, the embryo is forced against the rear vertical wall of the trough. The exact positioning of the pipette tip within the embryo is achieved by slight movement of the pipette with a micromanipulator or by movement of the stage. If the pipette tip is thin and long enough, it can be withdrawn from the chorion without dragging the embryo out of the trough. A problem with thin pipettes, however, is that they lack the tensile strength to penetrate the chorion and bend when forced onto the chorion surface. Thicker pipettes do not easily slip out of the chorion, although the embryo can be held with forceps as the pipette is slowly withdrawn.
+(from: Zebrafish Book 4th addition chp 5) This is an easy method for holding embryos while injecting CRISPR elements, DNA, lineage tracer dyes, etc., without removing their chorions. The embryos are held in wedged-shaped troughs. Each trough can hold approximately 35 embryos (with chorions). Embryos can be aligned by gently tamping them down with forceps. As the pipette penetrates the chorion, the embryo is forced against the rear vertical wall of the trough. The exact positioning of the pipette tip within the embryo is achieved by slight movement of the pipette with a micromanipulator or by movement of the stage. If the pipette tip is thin and long enough, it can be withdrawn from the chorion without dragging the embryo out of the trough. A problem with thin pipettes, however, is that they lack the tensile strength to penetrate the chorion and bend when forced onto the chorion surface. Thicker pipettes do not easily slip out of the chorion, although the embryo can be held with forceps as the pipette is slowly withdrawn.
 :::
+
 -   
 
 1.  Injecting:

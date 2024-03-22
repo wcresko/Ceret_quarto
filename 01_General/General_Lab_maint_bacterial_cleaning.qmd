@@ -1,0 +1,51 @@
+# Bacterial Waste Cleaning and Disposal {#sec-general-bact_waste}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to clean and dispose of bacterial waste.
+
+-   **Procedure Type**: General Lab Maintanence
+
+-   **Species**:
+
+-   **Author**: Mark Currey
+
+-   **Date Created**: March 8, 2024
+
+-   **Date Updated**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx
+
+## Solutions
+
+-   30% Bleach solution
+-   xxx
+-   xxx
+-   xxx
+
+## Procedure
+
+```         
+  1.    Pour approximately 10-15 mL of 30% bleach solution into each tube containing bacterial waste. (More bleach solution is acceptable if there is a large amount of bacterial waste)
+  2.    Let the bleach solution sit for 3-5 hours, or until the solution becomes clear again.
+  3.    Pour the bleach and bacterial waste into the large carboy labeled ‘Bacterial Waste’ next to the North side sink.
+  4.    Rinse the tubes with DI water and place them on the shelving units below the kitchen water bath
+```
+
+**Note - we should add how to deal with the bacterial carboy to this protocol.**
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

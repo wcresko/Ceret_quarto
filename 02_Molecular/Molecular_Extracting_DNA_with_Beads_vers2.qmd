@@ -1,4 +1,4 @@
-# Cleaning/concentrating DNA with magnetic beads
+# Cleaning/concentrating DNA with magnetic beads {#sec-molecular-bead_extraction}
 
 ## Introduction
 

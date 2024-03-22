@@ -1,4 +1,4 @@
-# Stock Number Assignment {#sec-Husbandry-Stickleback_database_use}
+# Stock Number Assignment {#sec-husbandry-stickleback_database_use}
 
 ## Introduction
 

@@ -1,0 +1,58 @@
+# Refilling Pipette Tips {#sec-general-pipette_tips}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to refill pipette tips.
+-   **Procedure Type**: General Lab
+-   **Author**: xxx
+-   **Date Created**: xxx
+
+## Materials
+
+-   Used pipette tip boxes
+-   Autoclave
+-   Autoclave tape
+-   Pipette tip refills
+
+## Solutions
+
+-   xxx
+-   xxx
+-   xxx
+
+## Procedure
+
+1.  Remove all tape from used pipette tip box and recycle inner cartridge (200 µL will only have a thin removable portion).
+
+2.  Refill non-filtered tip boxes prior to autoclave, for directions see following steps, and tape down lids with autoclave tape (only tape the front side for 20 µL and 1000 µL boxes, but tape front and back side of the 200 µL boxes.)
+
+3.  Take all used boxes to the autoclave in room PAC 306D and run Gravity for 25 minutes (for use, 1=OK and 4=back).
+
+    ::: {.callout-important title="IMPORTANT"}
+    DO NOT place filter tips in the autoclave.
+    :::
+
+4.  Let the boxes cool until there is no visible condensation, then replace tips.
+
+5.  Replace tips
+
+    -   Replacing 20 µL and 1000 µL tips:
+
+        1.  Place blackened autoclave tape on top of lid and label “filter”, then remove lid.
+        2.  Remove paper bottom of new tips and place on top of clean tip box.
+        3.  Slightly push inward on the new tips (to make sure tabs fit inside filter tip box) and push down on one side of tips.
+        4.  Once this side is in, repeat this for the other side.
+        5.  Remove plastic covering and place the lid back on the box.
+
+    -   Replacing 200 µL tips:
+
+        1.  Place blackened autoclave tape on top of lid and label “filter”, then remove lid.
+        2.  Remove paper bottom of new tips and place on top of clean tip box.
+        3.  Push down.
+        4.  Remove plastic covering and place the lid back on the box.
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx

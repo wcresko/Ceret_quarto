@@ -1,4 +1,4 @@
-# Stickleback Embryo Medium (EM) {#sec-general_recipe_embryo_medium}
+# Stickleback Embryo Medium (EM) {#sec-recipe-em}
 
 ## Introduction
 

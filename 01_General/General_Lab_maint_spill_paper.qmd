@@ -1,0 +1,45 @@
+# Changing Spill Paper {#sec-general-spill_paper}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to change spill paper in common areas.
+
+-   **Procedure Type**: General Lab Maintanence
+
+-   **Species**:
+
+-   **Author**: Mark Currey
+
+-   **Date Created**: March 8, 2024
+
+-   **Date Updated**: xxx
+
+::: {.callout-warning title="NOTES"}
+xxxx
+:::
+
+## Materials
+
+-   Tape
+-   Spill Paper
+-   Scissors
+
+## Solutions
+
+-   xxx
+-   xxx
+-   xxx
+
+## Procedure
+
+1.  Remove old spill paper and place in trash (bring to solid waste if contaminated)
+2.  Wipe where the spill paper used to be if there is any remaining residue and dispose of any contaminated substances
+3.  Cut out appropriate-sized spill paper and set it flat on surface with the plastic surface of the spill paper facing down
+4.  Tape the edges of the spill paper to the surface it lies on (try to keep the spill paper flat)
+
+## Associated Papers
+
+-   xxx
+-   xxx
+-   xxx
+-   xxx

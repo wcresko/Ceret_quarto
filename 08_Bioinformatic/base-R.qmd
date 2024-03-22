@@ -1,5 +1,4 @@
-# A field guide to base R {#sec-base-r}
-
+# A field guide to base R {#sec-bioinfor-base_r}
 
 ## Introduction
 
@@ -73,8 +72,6 @@ There are five main types of things that you can subset a vector with, i.e., tha
     As with subsetting with positive integers, you can use a character vector to duplicate individual entries.
 
 5.  **Nothing**. The final type of subsetting is nothing, `x[]`, which returns the complete `x`. This is not useful for subsetting vectors, but as we'll see shortly, it is useful when subsetting 2d structures like tibbles.
-
-
 
 ## Summary
 

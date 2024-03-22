@@ -1,4 +1,4 @@
-# Fake Hyb
+# Fake Hyb {#sec-recipe-fake_hyb}
 
 ## Introduction
 
@@ -10,15 +10,15 @@
 ## Solutions
 
 -   100% formamide (100 ml)
-    -   Located in the "Cruella Cooper" refrigerator. 
+    -   Located in the "Cruella Cooper" refrigerator.
 -   10x SSC (50 ml)
-    -   Purchase pre-made from Chem Stores. 
+    -   Purchase pre-made from Chem Stores.
 -   Tween-20 (400 ul)
     -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf.
 -   1M citric acid (35 g)
-    -   Located in the chemical cabinet on the "Acid and Base Incompatibles A-Z" shelf 
+    -   Located in the chemical cabinet on the "Acid and Base Incompatibles A-Z" shelf
 -   Nanopure water
-    -   Located in the Nalgene at the north sink. 
+    -   Located in the Nalgene at the north sink.
 
 ## Materials
 

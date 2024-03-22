@@ -1,12 +1,12 @@
-# Pipefish Water System Maintenance {#sec-general_pipefish_tank_maint}
+# Pipefish Water System Maintenance {#sec-husbandry_pipefish_tank_maint}
 
 ## Introduction
 
--   **Purpose**: This procedure describes maintenance of the pipefish recirculating system. The pipefish system is a ~ 500 gallon recirculating salt water system. Water parameters: 25C, 25ppt salinity, no ammonia, no nitrites, and nitrates below 40 ppm.
+-   **Purpose**: This procedure describes maintenance of the pipefish recirculating system. The pipefish system is a \~ 500 gallon recirculating salt water system. Water parameters: 25C, 25ppt salinity, no ammonia, no nitrites, and nitrates below 40 ppm.
 -   **Procedure Type**: Husbandry
 -   **Species**:
     -   Gulf pipefish (*Syngnathus scovelli*)
--   **Author**: Mark Currey   
+-   **Author**: Mark Currey\
 -   **Date Created**: February 29, 2024
 
 ## Materials
@@ -15,7 +15,6 @@
 -   Clean tank hardware
 -   Plastic plants
 -   Gravel vacuum
-
 
 ## Procedure
 
@@ -55,7 +54,7 @@ Fry are generally large enough to be transferred to clean 10L tanks at 2 months 
 
 1.  Set up new 10.5 L tanks band place a clean small plastic plant in the tank for enrichment.
 2.  Uneaten food will build up quickly. Use a turkey baster and muck bucket to spot clean 2x per week or as needed.
-3.  Replace the back 850 screen baffle in tanks when they appear clogged. 
+3.  Replace the back 850 screen baffle in tanks when they appear clogged.
 
 **Changing water in the system**
 
@@ -63,12 +62,11 @@ Fry are generally large enough to be transferred to clean 10L tanks at 2 months 
 10-20% of the system water should be changed every week.
 :::
 
-1.  Drain system water by attaching a hose to one of the 20 gallon tanks supply placing the other end of the hose in the corner room drain. Turn on valve and allow water to drain until the water level is 3-5 inches above the basket that supplies the system pump (located left side of largest sump under 20 gallon rack). 
+1.  Drain system water by attaching a hose to one of the 20 gallon tanks supply placing the other end of the hose in the corner room drain. Turn on valve and allow water to drain until the water level is 3-5 inches above the basket that supplies the system pump (located left side of largest sump under 20 gallon rack).
 2.  The makeup water vat should be full. Check makeup water salinity with a refractometer. Target salinity is \~25 ppt. Adjust salinity by adding salt or RO water if necessary. Put the end of the makeup water hose into the small sump.
 3.  Turn makeup water pump on until makeup water drops to the drain line marked on the outside of the makeup water vat, then turn off. Lift the makeup water hose out of the sump and rest on the rim of the makeup water vat.
-4.  To reset the makeup water vat, use the RO located in the northeast corner of the room to fill the vat up to the fill line. This take about 15 minutes. 
+4.  To reset the makeup water vat, use the RO located in the northeast corner of the room to fill the vat up to the fill line. This take about 15 minutes.
 5.  Use a 5 L beaker to measure 2.5 L of instant ocean and pour into makeup water vat. Recheck salinity after several minutes and adjust as necessary.
-
 
 ## Associated Papers
 

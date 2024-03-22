@@ -1,4 +1,4 @@
-# Live stickleback calcein staining {#sec-vert_exp_live_calcein_SB}
+# Live stickleback calcein staining {#sec-vert_exp-live_calcein_SB}
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# cDNA for eRAD {#sec-xxx-xxx}
+# cDNA for eRAD {#sec-molecular-eRAD}
 
 ## Introduction
 

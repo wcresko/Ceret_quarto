@@ -1,4 +1,4 @@
-# Testes Storage Solution {#sec-general_recipe_testes_solution}
+# Testes Storage Solution {#sec-recipe-testes_solution}
 
 ## Introduction
 

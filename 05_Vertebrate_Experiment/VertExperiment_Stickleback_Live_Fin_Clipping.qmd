@@ -1,4 +1,4 @@
-# Live fin clipping in Stickleback and Pipefish {#sec-vert_exp_live_fin_clipping}
+# Live fin clipping in Stickleback and Pipefish {#sec-vert_exp-live_fin_clipping}
 
 ## Introduction
 

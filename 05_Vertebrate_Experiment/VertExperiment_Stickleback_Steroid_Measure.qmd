@@ -1,4 +1,4 @@
-# Steroid Measurement {#sec-vert_exp_steroid_measure}
+# Steroid Measurement {#sec-vert_exp-steroid_measure}
 
 ## Introduction
 
@@ -12,19 +12,17 @@
 -   **Author**: xxx
 -   **Date Created**: xxx
 
-
 ## Materials: {#materials .head}
 
 -   150 ml glass beaker
 -   C18 solid phase extraction (SPE) cartridges containing octadecylsilane (Sep-pak Plus, Waters Ltd., Watford, UK)
 
-## Solutions 
+## Solutions
 
 -   5 ml of distilled water
 -   5 ml ethyl acetate
 -   1 ml of RIA buffer (0.5 M phosphate buffer containing 0.2% bovine serum albumen, 0.8% sodium chloride, 0.03% EDTA and 0.01% sodium azide)
 -   ^3^H-labeled steroids for 11-KT are purchased directly from Amersham Biosciences, UK (Scott et al., 2005)
-
 
 ## Procedure
 

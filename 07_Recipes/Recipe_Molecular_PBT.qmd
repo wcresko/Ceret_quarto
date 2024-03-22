@@ -1,4 +1,4 @@
-# PBT
+# PBT {#sec-recipe-pbt}
 
 ## Introduction
 

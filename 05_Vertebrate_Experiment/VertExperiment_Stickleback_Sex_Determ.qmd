@@ -1,4 +1,4 @@
-# Stickleback Sex Determination with PCR {#sec-vert_exp_SB_sex_PCR}
+# Stickleback Sex Determination with PCR {#sec-vert_exp-SB_sex_PCR}
 
 ## Introduction
 
@@ -30,15 +30,15 @@ This procedure also works with GA2 and IDH primers although PCR parameters may b
 
 ### PCR recipe (1X)
 
-| Reagent       | Concentration |  Volume  |
-|---------------|---------------|:--------:|
-| 2X turbo mix  |               |   10µl   |
-| GA1 F primer  | 10µM          |  .25µl   |
-| GA1 R primer  | 10µM          |  .25µl   |
-| Taq           |               |  .25µl   |
-| npH~2~O       |               |  7.25µl  |
-| DNA           |               |  2.0µl   |
-| **TOTAL**     |               | **20µl** |
+| Reagent      | Concentration |  Volume  |
+|--------------|---------------|:--------:|
+| 2X turbo mix |               |   10µl   |
+| GA1 F primer | 10µM          |  .25µl   |
+| GA1 R primer | 10µM          |  .25µl   |
+| Taq          |               |  .25µl   |
+| npH~2~O      |               |  7.25µl  |
+| DNA          |               |  2.0µl   |
+| **TOTAL**    |               | **20µl** |
 
 -   After all ingredients are added to a PCR tube put a 10µl drop of mineral oil on top.
 
