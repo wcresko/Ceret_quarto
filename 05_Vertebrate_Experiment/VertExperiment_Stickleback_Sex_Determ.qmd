@@ -8,6 +8,8 @@
     -   Threespine stickleback, (*Gasterosteus aculeatus*),
 -   **Author**: xxx
 -   **Date Created**: xxx
+-   **IACUC Approved**: Not applicable
+-   **IBC Approved**: Not applicable
 
 ## Materials
 
@@ -21,10 +23,6 @@
 ::: {.callout-notes title="NOTES"}
 This procedure also works with GA2 and IDH primers although PCR parameters may be different.
 :::
-
-## Procedure
-
-![Image #1 - will be inserted later](./images/sd_image1.png)
 
 -   Extract DNA into 250µl final volume
 
@@ -52,4 +50,10 @@ This procedure also works with GA2 and IDH primers although PCR parameters may b
 
 ### Run PCR products on a 2% gel
 
-![Image #2 - will be inserted later](./images/sd_image2.png)
+::: {.callout-notes title="Banding patterns for males and femals on the gel"} 
+The GA1F/R primer pair amplify a 371 bp band only in males, and they amplify a second, non-sex-linked 600 bp band in every fish. This second band acts as an internal control to help distinguish a female genotype from a failed PCR, when a 371 bp band is absent. Because of amplification efficiency differences, the 600 bp band will usually be significantly dimmer than the 371 bp band. 
+:::
+
+![Illustration of gel with female and male specific banding patterns](../images/Sex_determ_gel_stickle.png) 
+
+## Background and associated papers
