@@ -20,7 +20,7 @@
 -   npH~2~O
 -   DNA
 
-::: {.callout-notes title="NOTES"}
+::: {.callout-note title="Other primer pairs that can be used"}
 This procedure also works with GA2 and IDH primers although PCR parameters may be different.
 :::
 
@@ -42,18 +42,18 @@ This procedure also works with GA2 and IDH primers although PCR parameters may b
 
 ### PCR reaction protocol
 
--   94˙C -- 5 minutes
--   94˙C -- 50 seconds
--   44˙C -- 50 seconds (44 cycles)
--   72˙C -- 1:20 minutes
--   72˙C -- 10 minutes
+-   94C -- 5 minutes
+-   94C -- 50 seconds
+-   44C -- 50 seconds (44 cycles)
+-   72C -- 1:20 minutes
+-   72C -- 10 minutes
 
 ### Run PCR products on a 2% gel
 
-::: {.callout-notes title="Banding patterns for males and femals on the gel"} 
-The GA1F/R primer pair amplify a 371 bp band only in males, and they amplify a second, non-sex-linked 600 bp band in every fish. This second band acts as an internal control to help distinguish a female genotype from a failed PCR, when a 371 bp band is absent. Because of amplification efficiency differences, the 600 bp band will usually be significantly dimmer than the 371 bp band. 
+::: {.callout-tip title="Banding patterns for males and femals on the gel"}
+The GA1F/R primer pair amplify a 371 bp band only in males, and they amplify a second, non-sex-linked 600 bp band in every fish. This second band acts as an internal control to help distinguish a female genotype from a failed PCR, when a 371 bp band is absent. Because of amplification efficiency differences, the 600 bp band will usually be significantly dimmer than the 371 bp band.
 :::
 
-![Illustration of gel with female and male specific banding patterns](../images/Sex_determ_gel_stickle.png) 
+![Illustration of gel with female and male specific banding patterns](../images/Sex_determ_gel_stickle.png)
 
 ## Background and associated papers
